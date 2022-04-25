@@ -1,2 +1,1 @@
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/165186719-f7d5a76c-ec31-49dd-b85f-4e53a96dc12a.gif" width="100%" height="100%" id = "WebRTStart"></div> 
-
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/165189589-25ff8c3b-7530-4f29-af2d-7fcd0b801d0e.gif" width="100%" height="100%" id = "WebRTStart"></div> 
