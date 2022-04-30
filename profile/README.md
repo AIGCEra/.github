@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166107987-bae8af29-9e7e-440a-b6f2-c2fc5726bbde.gif" width="180%" height="180%" id = "WebRTStart"></div> 
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166125879-90417bad-7260-4ab5-938e-91e34708d6ee.gif" width="180%" height="180%" id = "WindowNucleus"></div> 
 
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/166125446-96df8dde-b516-4e5f-b887-6f983d7e94f7.gif" width="180%" height="180%" id = "NucleatedWindow"></div> 
 
