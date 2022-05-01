@@ -3,7 +3,7 @@
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/166134722-548b00e8-e76c-446b-a4b4-fa6e141959ec.gif" width="180%" height="180%" id = "WindowNucleus"></div> 
 <hr />
 
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166134690-bc2f9e33-00f8-4e96-994f-152dfb9d2882.gif" width="180%" height="180%" id = "NucleatedWindow"></div> 
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166142202-a2330dbd-a0e2-42b1-860f-c1e89c113f3c.gif" width="180%" height="180%" id = "NucleatedWindow"></div> 
 <hr />
 
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/166136736-5f704ddd-79a8-4db8-8dc3-c5e9cda18355.gif" width="180%" height="180%" id = "WebRTNew"></div> 
