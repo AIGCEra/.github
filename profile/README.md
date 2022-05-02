@@ -11,7 +11,10 @@
 </div> 
 <hr />
 
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166136736-5f704ddd-79a8-4db8-8dc3-c5e9cda18355.gif" width="180%" height="180%" id = "WebRTNew"></div> 
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166136736-5f704ddd-79a8-4db8-8dc3-c5e9cda18355.gif" width="180%" height="180%" id = "WebRTNew">
+
+## [Detail information for Web Runtime](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
+</div> 
 <hr />
 
 # [Basic Concept: WindowNucleus](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
