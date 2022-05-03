@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/26355688/166138235-b83025d4-c42d-475f-9e58-b51bff43bdad.png)
 <hr />
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166173460-39b9010a-6c80-405b-8724-91fdd4e1bd89.gif" width="180%" height="180%" id = "WindowNucleus">
-  
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166584183-5102a49b-532c-4cb6-947e-e8eae38826a9.gif" width="180%" height="180%" id = "WindowNucleus">
+
 ## [Detail information for Window Nucleus](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
 </div> 
 <hr />
