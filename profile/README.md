@@ -1,17 +1,17 @@
 ![image](https://user-images.githubusercontent.com/26355688/166138235-b83025d4-c42d-475f-9e58-b51bff43bdad.png)
 <hr />
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166586591-819e3abc-ffda-4b62-b5b1-cfc5e118d4a8.gif" width="180%" height="180%" id = "WindowNucleus">
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166590538-d47b6fab-ad7e-4911-9519-65cb8d927872.gif" width="100%" height="100%" id = "WindowNucleus">
 
 ## [Detail information for Window Nucleus](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
 </div> 
 <hr />
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166142202-a2330dbd-a0e2-42b1-860f-c1e89c113f3c.gif" width="180%" height="180%" id = "NucleatedWindow">
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166588534-235e9398-130f-4a8f-a05c-a1796ee5e361.gif" width="100%" height="100%" id = "NucleatedWindow">
   
 ## [Detail information for Nucleated Window](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
 </div> 
 <hr />
 
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/166136736-5f704ddd-79a8-4db8-8dc3-c5e9cda18355.gif" width="180%" height="180%" id = "WebRTNew">
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166136736-5f704ddd-79a8-4db8-8dc3-c5e9cda18355.gif" width="100%" height="100%" id = "WebRTNew">
 
 ## [Detail information for Web Runtime](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
 </div> 
