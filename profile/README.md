@@ -5,5 +5,3 @@
   
 ## [Detail information for Window Nucleus](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
 </div> 
-<hr />
-
