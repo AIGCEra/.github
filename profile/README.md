@@ -8,6 +8,6 @@
 <div align=center>
 
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
-<img src="https://user-images.githubusercontent.com/26355688/167585528-3eb8cd8c-fef6-4857-8ee3-021962803df1.gif" width="100%" id = "WindowNucleus2">
+<img src="https://user-images.githubusercontent.com/26355688/167596557-7865c7b3-604e-4052-a100-40130559454c.gif" width="100%" id = "WindowNucleus2">
 </div>
 <hr />
