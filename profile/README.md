@@ -15,7 +15,7 @@
 
 # Dynamic Window Description Driven Technology
 
-<div align=center id="built_in_browser"><img src="https://media3.giphy.com/media/JNBVo2OYNPUzVrEHtL/giphy.gif?cid=790b7611d0b508643c11532aad62fe7fe13c542cb73a89f7&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
+<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167734603-89f9ee92-16c6-45c9-9d86-9d2eaf839cb3.gif" width="100%" height="100%"/></div>
 
 
 # Built-in Web Browser Support
