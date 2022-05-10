@@ -2,7 +2,7 @@
   
 # [Detail information for Window Nucleus and Web Runtime](https://github.com/TangramDev/WebRuntimeSrc/blob/WebRT/src/Document/WindowNucleus/WindowNucleus.md) 
 
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/167505767-8b9f3390-0673-4762-86d1-1886662e4eb6.png" width="67%" id = "WindowNucleus2">
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/167527427-1edfe40c-bbc7-44d7-a497-12c06c2cc57b.png" width="100%" id = "WindowNucleus2">
 </div>
 
 <div align=center>
