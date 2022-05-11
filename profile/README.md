@@ -31,4 +31,4 @@
 
 # MFC SubSystem for Application
 
-![target](https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif)
+<div align=center id="MfcSubSys"><img src="https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif" width="100%" /></div>
