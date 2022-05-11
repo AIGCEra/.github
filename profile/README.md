@@ -7,8 +7,7 @@
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
 <img src="https://user-images.githubusercontent.com/26355688/167854962-c85e791f-0212-4b58-932e-ee4540a8c5ae.gif" width="100%" id = "WindowNucleus2">
 </div>
-
-![aboutWebRT]()
+]()
 
 <div align=right>
   
