@@ -20,10 +20,9 @@
 # Built-in Web Browser Support
 
 Provide built-in modern Internet Browser Support for **Win32 applications**
-
+ 
 <div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167775667-bffe6bad-0e50-4137-b154-994205c56da8.gif" width="100%" /></div>
-<div align=center id="built_in_browser"><img src="https://media2.giphy.com/media/qx7AoojTzB8ONGyy0x/giphy.gif" width="100%" height="100%"/></div>
 
-Provide Tabbed Browser Child Window Support for **Win32 Application**
+### Provide Tabbed Browser Child Window Support for **Win32 Application**
 
 <div align=center id="built_in_Subbrowser"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
