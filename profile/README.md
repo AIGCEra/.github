@@ -21,7 +21,7 @@
 
 Provide built-in modern Internet Browser Support for **Win32 applications**
 
-<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167762068-4abc2e7c-159e-4dbf-8b6c-6f7f17ba9169.gif" width="100%" /></div>
+<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167775667-bffe6bad-0e50-4137-b154-994205c56da8.gif" width="100%" /></div>
 <div align=center id="built_in_browser"><img src="https://media2.giphy.com/media/qx7AoojTzB8ONGyy0x/giphy.gif" width="100%" height="100%"/></div>
 
 Provide Tabbed Browser Child Window Support for **Win32 Application**
