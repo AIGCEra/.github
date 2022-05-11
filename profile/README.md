@@ -29,7 +29,7 @@
 
 ![webpage61](https://user-images.githubusercontent.com/26355688/167787195-95382b02-385e-428a-bf9a-8668ffcc77de.png)
 
-# MFC SubSystem for Application
+# C++/MFC SubSystem for Application
 
 <div align=center id="MfcSubSys"><img src="https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif" width="100%" /></div>
 
