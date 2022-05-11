@@ -7,7 +7,6 @@
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
 <img src="https://user-images.githubusercontent.com/26355688/167854962-c85e791f-0212-4b58-932e-ee4540a8c5ae.gif" width="100%" id = "WindowNucleus2">
 </div>
-]()
 
 <div align=right>
   
@@ -19,12 +18,14 @@
 <div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167756389-57ad8751-9519-4543-9cbe-c088be6c4613.gif" width="100%" height="100%"/></div>
 
 # Web Browser SubSystem for Application
- 
-<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167775667-bffe6bad-0e50-4137-b154-994205c56da8.gif" width="100%" /></div>
+
+<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="100%" /></div>
 
 ### Provide Tabbed Browser Child Window Support for **Win32 Application**
 
 <div align=center id="built_in_Subbrowser"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
+
+![image](https://user-images.githubusercontent.com/26355688/167888971-8772aed2-c74b-4316-aa10-aa64d6496299.png)
 
 # DotNet SubSystem for Application
 
