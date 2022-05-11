@@ -17,12 +17,18 @@
 
 <div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167756389-57ad8751-9519-4543-9cbe-c088be6c4613.gif" width="100%" height="100%"/></div>
 
-# Built-in Web Browser Support
-
-Provide built-in modern Internet Browser Support for **Win32 applications**
+# Web Browser SubSystem for Application
  
 <div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167775667-bffe6bad-0e50-4137-b154-994205c56da8.gif" width="100%" /></div>
 
 ### Provide Tabbed Browser Child Window Support for **Win32 Application**
 
 <div align=center id="built_in_Subbrowser"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
+
+# DotNet SubSystem for Application
+
+![webpage61](https://user-images.githubusercontent.com/26355688/167787195-95382b02-385e-428a-bf9a-8668ffcc77de.png)
+
+# MFC SubSystem for Application
+
+![target](https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif)
