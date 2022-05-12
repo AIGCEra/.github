@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://user-images.githubusercontent.com/26355688/167817235-0b2bedd2-59b3-4c6f-ad25-308848c5befc.gif" width="100%" id = "WindowNucleus2">
+<img src="https://user-images.githubusercontent.com/26355688/167973680-e1e8274c-70a3-4cab-8ea7-b94cda6638d9.gif" width="100%" id = "WindowNucleus2">
 </div>
 
 <div align=center>
