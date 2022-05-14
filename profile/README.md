@@ -6,7 +6,7 @@
 
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
 
- <img src="https://user-images.githubusercontent.com/26355688/168429601-ae63e30d-940a-4555-91be-378299be393e.gif" width="100%" id = "manifold">
+ <img src="https://user-images.githubusercontent.com/26355688/168439314-1d7a9fd6-eade-4579-bce6-b3c5588487b0.gif" width="100%" id = "manifold">
 </div>
 
 <img src="https://user-images.githubusercontent.com/26355688/167854962-c85e791f-0212-4b58-932e-ee4540a8c5ae.gif" width="100%" id = "WindowNucleus2">
