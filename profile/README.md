@@ -5,8 +5,9 @@
 <div align=center>
 
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
- 
- <img src="https://user-images.githubusercontent.com/26355688/168475978-3c355b08-f098-4883-91e7-3350da4c5575.gif" width="100%" id = "manifold">
+
+
+ <img src="https://user-images.githubusercontent.com/26355688/168479475-172c50ad-b9f5-42c2-8c8a-19eba7b4bcff.gif" width="100%" id = "manifold">
 
  <img src="https://user-images.githubusercontent.com/26355688/168439314-1d7a9fd6-eade-4579-bce6-b3c5588487b0.gif" width="100%" id = "manifold">
 </div>
