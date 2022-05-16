@@ -6,10 +6,9 @@
 
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
 
+<img src="https://user-images.githubusercontent.com/26355688/168513748-551bd4e5-4c56-4862-9fff-e1b8be29907f.gif" width="100%" id = "NewStart3">
 
- <img src="https://user-images.githubusercontent.com/26355688/168479475-172c50ad-b9f5-42c2-8c8a-19eba7b4bcff.gif" width="100%" id = "manifold">
-
- <img src="https://user-images.githubusercontent.com/26355688/168439314-1d7a9fd6-eade-4579-bce6-b3c5588487b0.gif" width="100%" id = "manifold">
+<img src="https://user-images.githubusercontent.com/26355688/168439314-1d7a9fd6-eade-4579-bce6-b3c5588487b0.gif" width="100%" id = "manifold">
 </div>
 
 <img src="https://user-images.githubusercontent.com/26355688/167854962-c85e791f-0212-4b58-932e-ee4540a8c5ae.gif" width="100%" id = "WindowNucleus2">
