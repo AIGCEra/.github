@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/26355688/168513748-551bd4e5-4c56-4862-9fff-e1b8be29907f.gif" width="100%" id = "NewStart3">
 
-<img src="https://user-images.githubusercontent.com/26355688/168515503-f083f62a-28f7-434f-a418-2fe023545808.gif" width="100%" id = "NewStart31">
+<img src="https://user-images.githubusercontent.com/26355688/168521758-51989654-783c-45d0-bac2-81959ff3beec.gif" width="100%" id = "NewStart31">
 
 <img src="https://user-images.githubusercontent.com/26355688/168439314-1d7a9fd6-eade-4579-bce6-b3c5588487b0.gif" width="100%" id = "manifold">
 </div>
