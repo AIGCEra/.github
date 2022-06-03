@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/26355688/171822058-bee4a036-030b-4f56-83d5-23b3e9b0e4ff.png)
 
-![image](https://user-images.githubusercontent.com/26355688/171818184-b75610ea-c516-488b-8f7a-65d46cbe8ac8.png)
+![image](https://user-images.githubusercontent.com/26355688/171858935-006debc0-17e1-4d30-a58a-34881d023f6a.png)
 
 <img src="https://user-images.githubusercontent.com/26355688/168427445-d85e9b5f-856e-4d5e-afa3-127d847847e5.gif" width="100%" id = "NewStart2">
 <img src="https://github.com/TangramDev/.github/releases/download/res/manifold31.gif" width="100%" id = "manifold31">
