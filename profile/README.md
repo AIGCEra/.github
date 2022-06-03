@@ -6,6 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/26355688/171763297-e94bceb9-55b2-4f7e-8c1e-956f6687f0db.png)
 
+![image](https://user-images.githubusercontent.com/26355688/171768716-f01e952b-6057-4c24-824a-7f1fd57a105d.png)
+
 <img src="https://user-images.githubusercontent.com/26355688/168427445-d85e9b5f-856e-4d5e-afa3-127d847847e5.gif" width="100%" id = "NewStart2">
 <img src="https://github.com/TangramDev/.github/releases/download/res/manifold31.gif" width="100%" id = "manifold31">
 </div>
