@@ -12,10 +12,19 @@
 
 ![image](https://user-images.githubusercontent.com/26355688/171966962-beb8d046-569b-44a9-a1ce-f6c343587799.png)
 
+ <hr /?
+     
+![image](https://user-images.githubusercontent.com/26355688/171970656-0a7f90e3-a34f-4fa2-915b-197a3f3038d1.png)
+
+![image](https://user-images.githubusercontent.com/26355688/171971074-bce58e9b-e12a-4132-97c7-c1a35752e661.png)
+     
+![image](https://user-images.githubusercontent.com/26355688/171970693-47fb26ed-0e92-4315-baee-09f8780b6bbb.png)
+
+
 <img src="https://user-images.githubusercontent.com/26355688/168427445-d85e9b5f-856e-4d5e-afa3-127d847847e5.gif" width="100%" id = "NewStart2">
 <img src="https://github.com/TangramDev/.github/releases/download/res/manifold31.gif" width="100%" id = "manifold31">
 </div>
-
+<hr />
 
 <div align=center>
 
