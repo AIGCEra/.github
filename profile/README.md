@@ -4,7 +4,7 @@
  
  <hr />
 
-![image](https://user-images.githubusercontent.com/26355688/172041850-20a54f19-ee06-4c6c-9a05-e714231262e9.png)
+![image](https://user-images.githubusercontent.com/20161884/172050319-d0eda04d-bc22-4e85-ba94-83fd1403e7fc.png)
  
  <hr />
  
