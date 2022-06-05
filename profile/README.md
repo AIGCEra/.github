@@ -1,10 +1,16 @@
 <div align=center>
 
 ![image](https://user-images.githubusercontent.com/26355688/172039001-60b4b2db-a8c3-492f-8f5e-21dc14155cfb.png)
+ 
+ <hr />
 
 ![image](https://user-images.githubusercontent.com/26355688/172041850-20a54f19-ee06-4c6c-9a05-e714231262e9.png)
  
+ <hr />
+ 
 ![image](https://user-images.githubusercontent.com/26355688/172043223-7db9f374-a274-4322-9279-01f060aba789.png)
+ 
+ <hr />
 
 ![image](https://user-images.githubusercontent.com/26355688/172026360-8f10069e-7398-48c8-9c0a-ebc470c0bc9d.png)
 
