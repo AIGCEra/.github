@@ -12,7 +12,7 @@
 
  <hr />
 
-![image](https://user-images.githubusercontent.com/26355688/172072709-71aff96c-bf5b-487c-bff1-225a2d2daa8f.png)
+![image](https://user-images.githubusercontent.com/26355688/172076086-765da183-65cd-424d-95be-77a2b9f0236f.png)
 
 ![image](https://user-images.githubusercontent.com/26355688/172073417-5aad7deb-a2fe-4559-952d-07830e27aa50.png)
 
