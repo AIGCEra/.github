@@ -24,7 +24,7 @@
 
  <hr />
  
-![In the Golden Age of Classical Physics](https://user-images.githubusercontent.com/26355688/172047866-1aeb4a0e-046a-4fec-8d21-2a784610ddca.png)
+![In the Golden Age of Classical Physics](https://user-images.githubusercontent.com/26355688/172124609-0617c71f-0bee-42df-bfae-a7ada4aa79f6.png)
 
 ![Breakthrough](https://user-images.githubusercontent.com/26355688/171995736-cbfc8fe4-010d-42f2-8ffd-8186e05f79fb.png)
 
