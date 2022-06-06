@@ -8,7 +8,7 @@
  
  <hr />
  
-![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172074465-14d38304-dd17-4454-b012-0fdc112be682.png)
+![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172180497-296a57aa-7ea9-48d4-ad9a-ac2bd5c3a729.png)
 
  <hr />
 
