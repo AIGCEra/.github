@@ -4,11 +4,11 @@
  
  <hr />
 
-![image](https://user-images.githubusercontent.com/26355688/172173704-39294187-aaea-4dfe-b058-4500f77bb4cb.png)
- 
+![image](https://user-images.githubusercontent.com/26355688/172267586-7ecf6d37-1ded-4464-badf-518df0ccb8cc.png)
+
  <hr />
- 
-![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172180497-296a57aa-7ea9-48d4-ad9a-ac2bd5c3a729.png)
+
+![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172267923-0bcd821a-6eb5-4001-81a2-6fe73bcbd06f.png)
 
  <hr />
 
