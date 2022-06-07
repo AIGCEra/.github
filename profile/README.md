@@ -4,15 +4,14 @@
  
  <hr />
 
-![image](https://user-images.githubusercontent.com/26355688/172279041-f90de148-d227-42ee-abc7-6e51515bd655.png)
+![image](https://user-images.githubusercontent.com/26355688/172317462-24e3e1e8-6fae-45fc-b855-4262162b759b.png)
  
 ![manifold32](https://user-images.githubusercontent.com/26355688/172283293-7bd2c90b-64cf-45d1-9f9f-1c9cead1f48d.gif)
  
 ![image](https://user-images.githubusercontent.com/26355688/172285419-a6a4f7ac-e454-407c-869e-963c362eb2a6.png)
  <hr />
 
-![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172275865-d2363c11-6ef7-4424-95ca-67bfc23c5c99.png)
-
+![image](https://user-images.githubusercontent.com/26355688/172317719-26152c2a-bbe4-4eb0-b7e7-fb0c86587f34.png)
  <hr />
 
 ![image](https://user-images.githubusercontent.com/26355688/172280335-5b78a738-c713-4325-8a48-d44e275f07e9.png)
