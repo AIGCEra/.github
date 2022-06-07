@@ -5,14 +5,13 @@
  <hr />
 
 ![image](https://user-images.githubusercontent.com/26355688/172279041-f90de148-d227-42ee-abc7-6e51515bd655.png)
-
- <hr />
-
-![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172275865-d2363c11-6ef7-4424-95ca-67bfc23c5c99.png)
  
 ![manifold32](https://user-images.githubusercontent.com/26355688/172283293-7bd2c90b-64cf-45d1-9f9f-1c9cead1f48d.gif)
  
 ![image](https://user-images.githubusercontent.com/26355688/172285419-a6a4f7ac-e454-407c-869e-963c362eb2a6.png)
+ <hr />
+
+![Our inborn intuition is that we live](https://user-images.githubusercontent.com/26355688/172275865-d2363c11-6ef7-4424-95ca-67bfc23c5c99.png)
 
  <hr />
 
