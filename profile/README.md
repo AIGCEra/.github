@@ -11,14 +11,12 @@
  
  <hr />
 <div align=center id="Start41"><img src="https://user-images.githubusercontent.com/26355688/172485119-6bc1d141-6527-4ddc-a321-cdf3f645dfd6.gif" width="100%" /></div>
-
-![image](https://user-images.githubusercontent.com/26355688/172120607-385db9de-a5eb-4574-bc21-2a2a21fcfe33.png)
-
-![image](https://user-images.githubusercontent.com/26355688/172184082-08641897-8451-456a-9456-025531cd1b5e.png)
-
- <hr />
  
-![In the Golden Age of Classical Physics](https://user-images.githubusercontent.com/26355688/172124609-0617c71f-0bee-42df-bfae-a7ada4aa79f6.png)
+<hr />
+ 
+<div align=center id="Start42"><img src="https://user-images.githubusercontent.com/26355688/172489527-d4a8c913-a771-46d5-8628-3940ab0f3018.gif" width="100%" /></div>
+
+<hr />
 
 ![Breakthrough](https://user-images.githubusercontent.com/26355688/171995736-cbfc8fe4-010d-42f2-8ffd-8186e05f79fb.png)
 
