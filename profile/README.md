@@ -4,8 +4,14 @@
  
  <hr />
  
-<div align=center id="Start4"><img src="https://user-images.githubusercontent.com/26355688/172499971-579feaba-8864-4799-a840-e6a253df4ea5.gif" width="100%" /></div>
+![image](https://user-images.githubusercontent.com/26355688/172610928-8ae00cbf-f90a-4d5c-b3fb-550aa4fc414f.png)
+ 
+<div align=center id="WndNucleus3_5"><img src="https://user-images.githubusercontent.com/26355688/172611374-7da4c0bc-3fe6-4686-a52f-c8054afd2c8a.gif" width="100%" /></div>
 
+<div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/172612387-d706aa7c-8050-4149-9828-0e70d80e1fb9.gif" width="100%" /></div>
+
+<div align=center id="WndNucleusScript7_8"><img src="https://user-images.githubusercontent.com/26355688/172612936-38628918-64cb-4379-9368-af5877e7d54d.gif" width="100%" /></div>
+ 
  <div align=center id="manifold32"><img src="https://user-images.githubusercontent.com/26355688/172283293-7bd2c90b-64cf-45d1-9f9f-1c9cead1f48d.gif" width="100%" /></div>
 
 ![image](https://user-images.githubusercontent.com/26355688/172285419-a6a4f7ac-e454-407c-869e-963c362eb2a6.png)
