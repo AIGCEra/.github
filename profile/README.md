@@ -12,11 +12,9 @@
 
 <div align=center id="WndNucleusScript7_8"><img src="https://user-images.githubusercontent.com/26355688/172614347-ce2f19df-da65-4700-a3d0-ff0965fa2cce.gif" width="100%" /></div>
  
- <hr />
+ <hr />)
 
-![image](https://user-images.githubusercontent.com/26355688/172637456-a1b58842-7aca-41d1-9506-94942428566c.png)
-
-<div align=center id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/172634659-41f928bb-20ef-4e81-92e7-f17529ec887e.gif" width="100%" /></div>
+<div align=center id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/172644134-301d246f-0c4e-4ad5-a940-a53b6b436d8f.gif" width="100%" /></div>
  
 <div align=center id="Start41"><img src="https://user-images.githubusercontent.com/26355688/172485119-6bc1d141-6527-4ddc-a321-cdf3f645dfd6.gif" width="100%" /></div>
  
