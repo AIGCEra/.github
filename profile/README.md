@@ -14,7 +14,6 @@
 <div align=center id="Start41"><img src="https://user-images.githubusercontent.com/26355688/172485119-6bc1d141-6527-4ddc-a321-cdf3f645dfd6.gif" width="100%" /></div>
  
 <hr />
- 
 <div align=center id="Start42"><img src="https://user-images.githubusercontent.com/26355688/172489527-d4a8c913-a771-46d5-8628-3940ab0f3018.gif" width="100%" /></div>
 
 <hr />
