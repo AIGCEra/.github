@@ -11,7 +11,6 @@
  <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/172614143-1a8d6487-ba3a-49be-8913-c551247923ec.gif" width="100%" /></div>
 
  <div align=center id="WndNucleusScript7_8"><img src="https://user-images.githubusercontent.com/26355688/172614347-ce2f19df-da65-4700-a3d0-ff0965fa2cce.gif" width="100%" /></div>
-![image](https://user-images.githubusercontent.com/26355688/172285419-a6a4f7ac-e454-407c-869e-963c362eb2a6.png)
  
  <hr />
 <div align=center id="Start41"><img src="https://user-images.githubusercontent.com/26355688/172485119-6bc1d141-6527-4ddc-a321-cdf3f645dfd6.gif" width="100%" /></div>
