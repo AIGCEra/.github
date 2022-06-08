@@ -6,7 +6,7 @@
  
 ![image](https://user-images.githubusercontent.com/26355688/172613711-446775e7-8041-4e4e-9a44-5d8092ef3838.png)
 
-<div align=center id="WndNucleus3_5"><img src="https://user-images.githubusercontent.com/26355688/172613904-0a0bf051-a442-4935-be0d-6a415b6546d9.gif" width="100%" /></div>
+<div align=center id="WndNucleus3_6"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleus3_6.gif" width="100%" /></div>
 
  
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/172614143-1a8d6487-ba3a-49be-8913-c551247923ec.gif" width="100%" /></div>
