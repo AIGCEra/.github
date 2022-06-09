@@ -22,7 +22,7 @@
  <hr />
 
 <div align=center id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172029857-129011ae-6cd8-4073-bf84-a6cbc170fb51.png" width="67%" /></div>
- 
+
 <div align=left id="WndNucleusScript"> 
   
 **In fact, for most independent windows, there is basically at least one Window Nucleus at the center. The existence of one Window Nucleus is equivalent to the existence of any number of Window Nuclei. In particular, the surrounding windows around each Window Nucleus can still be Window Nuclei, which is very similar to the star hierarchy in a huge galaxy: hundreds of billions of stars surround the Galactic Nuclei, each star has its own accretion disk, in which there may be Giant Planets, and each Giant Planet will have its own surrounding structure (satellites, halos, etc.)**  
