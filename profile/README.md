@@ -94,7 +94,7 @@
 
 # Web Runtime
 
- <div align=right id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/172746477-5e9cd09d-2652-4c74-b93c-3e100610a7b2.png" width="75%" /></div>
+ <div align=center id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/172746477-5e9cd09d-2652-4c74-b93c-3e100610a7b2.png" width="100%" /></div>
  
  <div align=center id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/167854962-c85e791f-0212-4b58-932e-ee4540a8c5ae.gif" width="100%" /></div>
  
