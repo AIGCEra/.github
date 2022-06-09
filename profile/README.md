@@ -47,15 +47,15 @@
   
  </div> 
  
-<div align=right id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="67%" /></div>
+<div align=right id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="75%" /></div>
  
 <div align=left id="AppSubSystem"> 
  
 **MFC Sub-System and .NET Sub-System**  
  
  </div>  
- 
-<div align=left id="MfcSubSys"><img src="https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif" width="67%" /></div>
+
+<div align=left id="WndNucleusMFC"><img src="https://user-images.githubusercontent.com/26355688/172948356-4101c380-83bb-4f9d-aff9-73b51530eb1c.gif" width="75%" /></div>
 <div align=left id="WndNucleusScript"> 
 
 <div align=center id="WndNucleusWinForm"><img src="https://user-images.githubusercontent.com/26355688/172947150-4f83437e-0a2f-45fa-b7da-8a493493c65e.gif" width="75%" /></div>
