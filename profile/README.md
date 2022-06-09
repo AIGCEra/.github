@@ -43,8 +43,16 @@
   
  </div> 
  
-<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="100%" /></div>
-
+<div align=right id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="67%" /></div>
+<div align=left id="MfcSubSys"><img src="https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif" width="67%" /></div>
+<div align=left id="WndNucleusScript"> 
+  
+**The web browser subsystem means that each desktop application can contain all the functions of a modern Internet browser, so any number of browser windows or browser sub windows can be created in its runtime instance. The MFC subsystem means that any number of MFC windows can be created in each desktop application. Similar to office VBA, for each desktop application, we place the .NET framework in the position of VBA, which means that each application system can contain any number of WinForm forms.**  
+  
+ </div> 
+ 
+ <hr />
+ 
 ### Provide Tabbed Browser Child Window Support for **Win32 Application**
 
 <div align=left id="WndNucleus3"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="75%" /></div>
