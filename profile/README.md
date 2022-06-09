@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png)
 
-![image](https://user-images.githubusercontent.com/26355688/172757778-e130a728-182c-440f-9911-3b4e2eb5f816.png)
+![image](https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png)
 
 # X Object SubSystem for Desktop Application
 
