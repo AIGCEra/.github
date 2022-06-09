@@ -16,12 +16,11 @@
 **No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
   
  </div> 
- 
-<div align=center id="WndNucleus3_6"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleus3_6.gif" width="100%" /></div>
 
-![image](https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png)
+<div align=center id="WndNucleus3_6"><img src="https://user-images.githubusercontent.com/26355688/172781459-affc1f29-64a9-4a5a-9352-ee9075f1c953.gif" width="100%" /></div>
 
-![image](https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png)
+<div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="75%" /></div>
+<div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="75%" /></div>
 
 # X Object SubSystem for Desktop Application
 
