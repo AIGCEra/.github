@@ -109,22 +109,13 @@
 
 ![Breakthrough](https://user-images.githubusercontent.com/26355688/171995736-cbfc8fe4-010d-42f2-8ffd-8186e05f79fb.png)
 
-![Window Nucleus](https://user-images.githubusercontent.com/26355688/171971433-83997921-6930-4e17-bcf8-94fc420eb29f.png)
-
 <div align=center id="Start43"><img src="https://user-images.githubusercontent.com/26355688/172499126-a946a3d3-4ade-47f8-98de-683f367079f8.gif" width="100%" /></div>    
 <hr />
-
-![image](https://user-images.githubusercontent.com/26355688/172028125-34575b63-53ee-45b4-b627-f2d1d6fe86c1.png)
-
-![image](https://user-images.githubusercontent.com/26355688/172029857-129011ae-6cd8-4073-bf84-a6cbc170fb51.png)
 
 ![image](https://user-images.githubusercontent.com/26355688/172031224-960d11c1-cf02-454c-bbf9-c42d8cb05f7a.png)
 
 <hr />
 
-![Software Manifold](https://user-images.githubusercontent.com/26355688/172032779-645796f6-a9eb-4cad-9c8a-f0d5752ac241.png)
- 
-<hr />
 <img src="https://user-images.githubusercontent.com/26355688/168427445-d85e9b5f-856e-4d5e-afa3-127d847847e5.gif" width="100%" id = "NewStart2">
 <img src="https://github.com/TangramDev/.github/releases/download/res/manifold31.gif" width="100%" id = "manifold31">
 </div>
