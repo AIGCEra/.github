@@ -17,7 +17,7 @@
   
  </div> 
 
-<div align=center id="WndNucleus3_6"><img src="https://user-images.githubusercontent.com/26355688/172781459-affc1f29-64a9-4a5a-9352-ee9075f1c953.gif" width="100%" /></div>
+<div align=center id="WndNucleus3_6"><img src="https://user-images.githubusercontent.com/26355688/172875458-dd567527-c589-4b76-8e9f-263a38115403.gif" width="100%" /></div>
 
  <hr />
 
