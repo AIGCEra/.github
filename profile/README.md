@@ -20,8 +20,8 @@
 <div align=center id="WndNucleus3_6"><img src="https://user-images.githubusercontent.com/26355688/172781459-affc1f29-64a9-4a5a-9352-ee9075f1c953.gif" width="100%" /></div>
 
  <hr />
- 
-![image](https://user-images.githubusercontent.com/26355688/172029857-129011ae-6cd8-4073-bf84-a6cbc170fb51.png)
+
+<div align=center id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172029857-129011ae-6cd8-4073-bf84-a6cbc170fb51.png" width="67%" /></div>
  
 <div align=left id="WndNucleusScript"> 
   
