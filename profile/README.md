@@ -18,10 +18,23 @@
  </div> 
 
 <div align=center id="WndNucleus3_6"><img src="https://user-images.githubusercontent.com/26355688/172781459-affc1f29-64a9-4a5a-9352-ee9075f1c953.gif" width="100%" /></div>
-
+ 
+<div align=left id="WndNucleusScript"> 
+  
+**In fact, for the vast majority of independent windows, there is basically at least one Window Nucleus at the center. The existence of one Window Nucleus is equivalent to the existence of any number of Window Nuclei. In particular, the surrounding windows around each Window Nucleus can still be Window Nuclei, which is very similar to the star hierarchy in a huge galaxy: hundreds of billions of stars surround the Galactic Nuclei, each star has its own accretion disk, in which there may be Giant Planets, and each Giant Planet will have its own surrounding structure (satellites, halos, etc.)**  
+  
+ </div> 
+ 
 <div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="75%" /></div>
 <div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="75%" /></div>
 
+ <div align=left id="WndNucleusScript"> 
+  
+**If we regard a Window Nucleus as a galactic nucleus, the basic structure of desktop software is equivalent to another type of universe formed by the combination of countless Giant Galaxies. The application structure reflected by a limited number of window objects we see now is only a "Small Corner" of this "universe".**  
+  
+ </div> 
+  <hr />
+ 
 # X Object SubSystem for Desktop Application
 
 <div align=left id="WndNucleusScript"> 
