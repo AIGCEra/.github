@@ -66,18 +66,6 @@
  
  <hr />
  
-### Provide Tabbed Browser Child Window Support for **Win32 Application**
-
-<div align=left id="WndNucleus3"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="75%" /></div>
-<div align=right id="WndNucleus4"><img src="https://user-images.githubusercontent.com/26355688/167888971-8772aed2-c74b-4316-aa10-aa64d6496299.png" width="75%" /></div> 
-<hr />
-
-## DotNet SubSystem for Application
-
-![webpage61](https://user-images.githubusercontent.com/26355688/167787195-95382b02-385e-428a-bf9a-8668ffcc77de.png) 
- 
-<hr />
- 
  # Breaking through the boundary of thinking, we see a new Software Structure
   
 <div align=center id="WndNucleusScript"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleusScript.gif" width="100%" /></div>
