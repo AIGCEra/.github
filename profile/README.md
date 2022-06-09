@@ -21,7 +21,7 @@
 
  <hr />
 
-<div align=center id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172029857-129011ae-6cd8-4073-bf84-a6cbc170fb51.png" width="67%" /></div>
+<div align=center id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="75%" /></div>
 
 <div align=left id="WndNucleusScript"> 
   
