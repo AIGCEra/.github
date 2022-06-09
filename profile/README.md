@@ -1,5 +1,7 @@
 <div align=center>
 
+# [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
+
 ![image](https://user-images.githubusercontent.com/26355688/172122698-46ac4156-d7a5-4e6f-a837-4b567f2aef1d.png)
  
  <hr />
@@ -94,11 +96,6 @@
 </div>
 <hr />
 
-<div align=center>
-
-# [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
-
-</div>
 
 </div>
 
