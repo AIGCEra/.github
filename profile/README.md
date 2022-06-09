@@ -58,7 +58,7 @@
 <div align=left id="WndNucleusMFC"><img src="https://user-images.githubusercontent.com/26355688/172948356-4101c380-83bb-4f9d-aff9-73b51530eb1c.gif" width="75%" /></div>
 <div align=left id="WndNucleusScript"> 
 
-<div align=center id="WndNucleusWinForm"><img src="https://user-images.githubusercontent.com/26355688/172947150-4f83437e-0a2f-45fa-b7da-8a493493c65e.gif" width="75%" /></div>
+<div align=right id="WndNucleusWinForm"><img src="https://user-images.githubusercontent.com/26355688/172947150-4f83437e-0a2f-45fa-b7da-8a493493c65e.gif" width="75%" /></div>
  
 **The web browser subsystem means that each desktop application can contain all the functions of a modern Internet browser, so any number of browser windows or browser sub windows can be created in its runtime instance. The MFC subsystem means that any number of MFC windows can be created in each desktop application. Similar to office VBA, for each desktop application, we place the .NET framework in the position of VBA, which means that each application system can contain any number of WinForm forms.**  
   
