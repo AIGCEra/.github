@@ -38,11 +38,11 @@
 
 ![webpage61](https://user-images.githubusercontent.com/26355688/167787195-95382b02-385e-428a-bf9a-8668ffcc77de.png) 
  
-
+<hr />
+ 
  # Breaking through the boundary of thinking, we see a new Software Structure
   
 <div align=center id="WndNucleusScript"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleusScript.gif" width="100%" /></div>
-<hr />
  
 <div align=center id="WndNucleusScript7_8"><img src="https://user-images.githubusercontent.com/20161884/172648826-cb543710-9725-4290-bb21-4f0d6f47ad2d.gif" width="100%" /></div>
  
