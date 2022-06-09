@@ -14,11 +14,29 @@
 **No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
   
  </div> 
-
  
 <div align=center id="WndNucleus3_6"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleus3_6.gif" width="100%" /></div>
 
+
+# X Object SubSystem for Desktop Application
+
+<div align=left id="WndNucleusScript"> 
+  
+**For each type of Window Nucleus X developed through a certain development framework, we will give the concept of “X subsystem”, so that X-objects naturally become a part of the window nucleus surrounding space. The WebBrowser subsystem is a basic case. If the desktop software contains an invisible universe structure, the browser subsystem is a part of it. In the era when the Hubble telescope did not appear, our understanding of the universe was relatively narrow, when we have Hubble like devices, a large number of new celestial bodies appear in our field of vision. Similarly, the runtime process of a desktop software contains many things that we have not activated at present. Various types of subsystems are just like various types of celestial bodies in our universe today ......**  
+  
+ </div> 
  
+<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="100%" /></div>
+
+### Provide Tabbed Browser Child Window Support for **Win32 Application**
+
+<div align=center id="built_in_Subbrowser"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
+
+![image](https://user-images.githubusercontent.com/26355688/167888971-8772aed2-c74b-4316-aa10-aa64d6496299.png)
+
+# DotNet SubSystem for Application
+
+![webpage61](https://user-images.githubusercontent.com/26355688/167787195-95382b02-385e-428a-bf9a-8668ffcc77de.png) 
 <div align=center id="WndNucleusScript"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleusScript.gif" width="100%" /></div>
 
 <div align=center id="WndNucleusScript7_8"><img src="https://user-images.githubusercontent.com/20161884/172648826-cb543710-9725-4290-bb21-4f0d6f47ad2d.gif" width="100%" /></div>
@@ -82,19 +100,6 @@
 
 <div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167756389-57ad8751-9519-4543-9cbe-c088be6c4613.gif" width="100%" height="100%"/></div>
 
-# Web Browser SubSystem for Application
-
-<div align=center id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="100%" /></div>
-
-### Provide Tabbed Browser Child Window Support for **Win32 Application**
-
-<div align=center id="built_in_Subbrowser"><img src="https://media3.giphy.com/media/kOo8BNnRv2X5QmaNu4/giphy.gif?cid=790b761192040ee7595643f671693442055336d1426b9526&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
-
-![image](https://user-images.githubusercontent.com/26355688/167888971-8772aed2-c74b-4316-aa10-aa64d6496299.png)
-
-# DotNet SubSystem for Application
-
-![webpage61](https://user-images.githubusercontent.com/26355688/167787195-95382b02-385e-428a-bf9a-8668ffcc77de.png)
 
 # C++/MFC SubSystem for Application
 
