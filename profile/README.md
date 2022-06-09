@@ -19,6 +19,7 @@
  
 <div align=center id="WndNucleus3_6"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleus3_6.gif" width="100%" /></div>
 
+![image](https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png)
 
 # X Object SubSystem for Desktop Application
 
