@@ -44,6 +44,13 @@
  </div> 
  
 <div align=right id="built_in_browser"><img src="https://user-images.githubusercontent.com/26355688/167893192-3d72fa61-dc69-4bfe-8b16-287f434e9291.gif" width="67%" /></div>
+ 
+<div align=left id="AppSubSystem"> 
+ 
+**MFC Sub-System and .NET Sub-System**  
+ 
+ </div>  
+ 
 <div align=left id="MfcSubSys"><img src="https://user-images.githubusercontent.com/26355688/167788571-dbf4ea2f-25a4-438e-a91d-d74d928d423e.gif" width="67%" /></div>
 <div align=left id="WndNucleusScript"> 
   
