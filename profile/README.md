@@ -18,6 +18,8 @@
  </div> 
 
 <div align=center id="WndNucleus3_6"><img src="https://user-images.githubusercontent.com/26355688/172949479-b398d4d0-e572-4eee-81c6-7645f8b7bd95.gif" width="100%" /></div>
+  
+<div align=center id="WndNucleusScript"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleusScript.gif" width="100%" /></div>
 
  <hr />
 
@@ -68,8 +70,6 @@
  <hr />
  
  # Breaking through the boundary of thinking, we see a new Software Structure
-  
-<div align=center id="WndNucleusScript"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleusScript.gif" width="100%" /></div>
  
 <div align=center id="WndNucleusScript7_8"><img src="https://user-images.githubusercontent.com/20161884/172648826-cb543710-9725-4290-bb21-4f0d6f47ad2d.gif" width="100%" /></div>
  
