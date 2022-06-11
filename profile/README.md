@@ -29,6 +29,8 @@
 </div>
 
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173169305-e05cdc8d-a362-4631-b55e-0308d2f20489.png" width="100%" /></div>
+
+<div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173180681-cc7dde0c-6c1a-439a-b1ec-839f86f8e0dc.png" width="100%" /></div>
  
  <hr />
   
