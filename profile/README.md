@@ -97,8 +97,7 @@
  
 ![image](https://user-images.githubusercontent.com/26355688/172737620-2364260d-756e-4592-bb1d-236a68b525cd.png)
  
-![image](https://user-images.githubusercontent.com/26355688/172737687-9e2c5b4a-d42f-460d-aaf9-fb75cd5a0dec.png)
-
+<div align=center id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/173189096-59a72ee8-263b-4192-83c6-948b8edb22d6.png" width="100%" /></div>
  
 <div align=center id="LocalWebSpace"><img src="https://user-images.githubusercontent.com/26355688/172644134-301d246f-0c4e-4ad5-a940-a53b6b436d8f.gif" width="100%" /></div>
  
