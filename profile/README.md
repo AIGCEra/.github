@@ -22,7 +22,11 @@
   
  </div> 
 
-<div align=center id="WndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/172949479-b398d4d0-e572-4eee-81c6-7645f8b7bd95.gif" width="100%" /></div>
+<div align=center id="WndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/172949479-b398d4d0-e572-4eee-81c6-7645f8b7bd95.gif" width="100%" />
+ 
+  **(If the animation demonstration does not start, please click the picture to view the following content...)**
+ 
+</div>
 
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173169305-e05cdc8d-a362-4631-b55e-0308d2f20489.png" width="100%" /></div>
  
