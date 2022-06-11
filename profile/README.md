@@ -5,8 +5,6 @@
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/173068002-34ef11c6-58ec-4cdb-81eb-4448195d98b2.gif" width="100%" /></div>  
  
 <div align=center id="PreFace"><img src="https://user-images.githubusercontent.com/26355688/173166177-39c12ddd-c25d-40de-afc2-db489b714f0e.gif" width="100%" /></div> 
-![PreFace]()
-
 <hr />
 
 ![image](https://user-images.githubusercontent.com/26355688/172613711-446775e7-8041-4e4e-9a44-5d8092ef3838.png)
