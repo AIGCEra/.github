@@ -3,6 +3,8 @@
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
 
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/173068002-34ef11c6-58ec-4cdb-81eb-4448195d98b2.gif" width="100%" /></div>  
+ 
+<div align=center id="PreFace"><img src="https://user-images.githubusercontent.com/26355688/173164277-d43001e8-b6f2-482f-8933-5f770d0573e0.gif" width="100%" /></div>  
 <hr />
  
 ![image](https://user-images.githubusercontent.com/26355688/172613711-446775e7-8041-4e4e-9a44-5d8092ef3838.png)
