@@ -12,7 +12,7 @@
  
 <hr />
 
-![image](https://user-images.githubusercontent.com/26355688/172613711-446775e7-8041-4e4e-9a44-5d8092ef3838.png)
+<div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/20161884/173190637-89116eef-d638-4a7e-a656-04e6d90e3823.png" width="100%" />
 
  # About Window Nucleus
 
