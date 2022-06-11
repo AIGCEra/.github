@@ -55,6 +55,9 @@
 **If we regard a Window Nucleus as a galactic nucleus, the basic structure of desktop software is equivalent to another type of universe formed by the combination of countless Giant Galaxies. The application structure reflected by a limited number of window objects we see now is only a "Small Corner" of this "universe".**  
   
  </div> 
+ 
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/166391159-5d969ac9-0555-48a3-b3b6-87da3bb497ed.gif" width="100%" id = "WindowNucleusVeryImportant"></div> 
+ 
   <hr />
  
 # X Object SubSystem for Desktop Application
