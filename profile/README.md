@@ -12,6 +12,8 @@
  
 <hr />
 
+ ![sr1](https://user-images.githubusercontent.com/26355688/173207725-67a9d5e3-c2a1-4b55-9199-753ead31cfc5.gif)
+
 <div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/20161884/173190637-89116eef-d638-4a7e-a656-04e6d90e3823.png" width="100%" />
 
  # About Window Nucleus
