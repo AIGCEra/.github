@@ -8,7 +8,7 @@
  
  **(If the animation demonstration does not start, please click the picture to view the following content...)**
  
- </div> 
+</div> 
  
 <hr />
 
