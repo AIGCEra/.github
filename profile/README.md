@@ -35,6 +35,11 @@
 <div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/173224508-4e6c13e3-0656-4160-8250-6bd3c6b88377.png" width="90%" /></div>
 
  <hr />
+
+<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/173229039-9d46293f-aaed-403c-95f4-d271bf6d55ca.png" width="100%" /></div>
+
+<div align=center id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173229076-7edaa117-b282-4401-92b8-ccd8c306118e.png" width="100%" /></div>
+ <hr />
  
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="67%" /></div>
 <div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="67%" /></div>
