@@ -31,6 +31,11 @@
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173169305-e05cdc8d-a362-4631-b55e-0308d2f20489.png" width="100%" /></div>
 <hr />
 
+<div align=left id="topic1"><img src="https://user-images.githubusercontent.com/26355688/173224670-169586a5-3e9c-449a-9ae9-e3c41ca0cb3a.png" width="75%" /></div>
+<div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/173224508-4e6c13e3-0656-4160-8250-6bd3c6b88377.png" width="90%" /></div>
+
+ <hr />
+ 
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="67%" /></div>
 <div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="67%" /></div>
 
