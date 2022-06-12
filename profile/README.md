@@ -31,7 +31,7 @@
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173169305-e05cdc8d-a362-4631-b55e-0308d2f20489.png" width="100%" /></div>
 <hr />
 
-<div align=left id="topic1"><img src="https://user-images.githubusercontent.com/26355688/173224670-169586a5-3e9c-449a-9ae9-e3c41ca0cb3a.png" width="75%" /></div>
+<div align=left id="topic1"><img src="https://user-images.githubusercontent.com/26355688/173224670-169586a5-3e9c-449a-9ae9-e3c41ca0cb3a.png" width="90%" /></div>
 <div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/173224508-4e6c13e3-0656-4160-8250-6bd3c6b88377.png" width="90%" /></div>
 
  <hr />
@@ -42,8 +42,8 @@
 <div align=right id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173234678-126c0727-942b-4099-98b2-4a771045787c.png" width="85%" /></div>
  <hr />
 
-<div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="67%" /></div>
-<div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="67%" /></div>
+<div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="75%" /></div>
+<div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="75%" /></div>
 
 <div align=left id="WndNucleusScript"> 
   
@@ -51,8 +51,8 @@
   
  </div> 
  
-<div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="67%" /></div>
-<div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="67%" /></div>
+<div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="80%" /></div>
+<div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="80%" /></div>
 
  <div align=left id="WndNucleusScript"> 
   
