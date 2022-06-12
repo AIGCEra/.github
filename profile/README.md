@@ -38,7 +38,7 @@
 
 <div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/173229213-a0520deb-eb33-4dad-ba40-09c8e4667ba9.png" width="100%" /></div>
 
-<div align=center id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173229076-7edaa117-b282-4401-92b8-ccd8c306118e.png" width="100%" /></div>
+<div align=center id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173229331-04ff1032-8226-4269-bf1c-af54fc524a67.png" width="100%" /></div>
  <hr />
  
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="67%" /></div>
