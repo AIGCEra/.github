@@ -28,21 +28,8 @@
   
  </div> 
 
-<div align=center id="WndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/172949479-b398d4d0-e572-4eee-81c6-7645f8b7bd95.gif" width="100%" />
- 
-  **(If the animation demonstration does not start, please click the picture to view the following content...)**
- 
-</div>
-
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173169305-e05cdc8d-a362-4631-b55e-0308d2f20489.png" width="100%" /></div>
-
-<div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173180681-cc7dde0c-6c1a-439a-b1ec-839f86f8e0dc.png" width="100%" /></div>
- 
- <hr />
-  
-<div align=center id="WndNucleusScript"><img src="https://github.com/TangramDev/.github/releases/download/res/WndNucleusScript.gif" width="100%" /></div>
-
- <hr />
+<hr />
 
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="67%" /></div>
 <div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="67%" /></div>
