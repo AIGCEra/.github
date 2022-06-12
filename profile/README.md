@@ -17,7 +17,13 @@
  # About Window Nucleus
 
  <div align=left id="WndNucleusScript"> 
-  
+ 
+<div align=center id="Gravitation"><img src="https://user-images.githubusercontent.com/26355688/173211168-d7e925c4-e231-4499-be71-0ae160fd58a1.png" width="100%" /></div> 
+<div align=center id="Gravitation2"><img src="https://user-images.githubusercontent.com/26355688/173210566-285bd69e-5166-4e02-8c86-d4bd13598c34.png" width="100%" /></div>  
+<hr />  
+<div align=center id="Gravitation3"><img src="https://user-images.githubusercontent.com/26355688/173211264-78ef7fe7-892f-4085-bb53-65c1eab8a0cf.png" width="100%" /></div>
+<div align=center id="Excel"><img src="https://user-images.githubusercontent.com/26355688/173211420-c2095af1-239e-4c91-af0d-2d4b95a04361.gif" width="100%" /></div>  
+ 
 **No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
   
  </div> 
