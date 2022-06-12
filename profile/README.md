@@ -21,7 +21,7 @@
 <div align=center id="Gravitation"><img src="https://user-images.githubusercontent.com/26355688/173211168-d7e925c4-e231-4499-be71-0ae160fd58a1.png" width="100%" /></div> 
 <div align=center id="Gravitation2"><img src="https://user-images.githubusercontent.com/26355688/173210566-285bd69e-5166-4e02-8c86-d4bd13598c34.png" width="100%" /></div>  
 <hr />  
-<div align=left id="Gravitation3"><img src="https://user-images.githubusercontent.com/26355688/173211629-e7e15060-00de-4e5e-b2a6-e4c37a477568.png" width="75%" /></div>
+<div align=left id="Gravitation3"><img src="https://user-images.githubusercontent.com/26355688/173211629-e7e15060-00de-4e5e-b2a6-e4c37a477568.png" width="67%" /></div>
 <div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173221151-f6ca0039-7cc2-4580-9dca-c4fb16b7aceb.gif" width="90%" /></div>  
 
 **No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
