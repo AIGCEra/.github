@@ -7,7 +7,7 @@
 
 <div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173378397-8576f754-aec8-48ba-84ff-43532f2e4055.png" width="75%" /></div> 
 
-<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173311190-6ef3e78d-5172-4986-8853-77c2e11f2ac7.png" width="90%" /></div> 
+<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173380549-afe7f668-4f44-48ec-aea3-6fad5a057b52.png" width="90%" /></div> 
 <div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173309708-942b01a0-1a6f-4f1c-8b4e-3ff4721d6d17.png" width="90%" /></div>  
 <hr />
  
