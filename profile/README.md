@@ -7,9 +7,13 @@
  
 <div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173262781-42189107-4081-4c5d-a70c-4fd9c4f5ff4f.png" width="100%" /></div> 
  
-<div align=center id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173267495-d234eaec-ffe9-4b21-82c4-b2101bb18aae.png" width="100%" /></div> 
-
-<div align=center id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173267634-0637c356-d52b-416a-8b35-3a0aa99f37c3.png" width="100%" /></div>  
+<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173267495-d234eaec-ffe9-4b21-82c4-b2101bb18aae.png" width="75%" /></div> 
+<div align=right id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173267634-0637c356-d52b-416a-8b35-3a0aa99f37c3.png" width="75%" /></div>  
+<hr />
+ 
+<div align=center id="breakthrough"><img src="https://user-images.githubusercontent.com/26355688/173268075-50927a2a-ae1c-487c-81b4-0ce9a1fe42da.png" width="100%" /></div> 
+ <hr />
+ 
 <div align=center id="PreFace"><img src="https://user-images.githubusercontent.com/26355688/173166177-39c12ddd-c25d-40de-afc2-db489b714f0e.gif" width="100%" /></div> 
  
  **(If the animation demonstration does not start, please click the picture to view the following content...)**
