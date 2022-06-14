@@ -25,6 +25,11 @@
  
 <div align=center id="Gravitation"><img src="https://user-images.githubusercontent.com/26355688/173211168-d7e925c4-e231-4499-be71-0ae160fd58a1.png" width="100%" /></div> 
 <div align=center id="Gravitation2"><img src="https://user-images.githubusercontent.com/26355688/173210566-285bd69e-5166-4e02-8c86-d4bd13598c34.png" width="100%" /></div>  
+
+   
+<div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="80%" /></div>
+<div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="80%" /></div>  
+  
 <hr />  
 <div align=left id="Gravitation3"><img src="https://user-images.githubusercontent.com/26355688/173211629-e7e15060-00de-4e5e-b2a6-e4c37a477568.png" width="67%" /></div>
 <div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>  
@@ -51,6 +56,12 @@
 
 
 <div align=center id=" Webpageization"><img src="https://user-images.githubusercontent.com/26355688/173519910-826e1d65-308f-4564-9ee5-4c092a280f8e.png" width="100%" /></div>
+
+<div align=left id="WndNucleusScript"> 
+  
+## Unlike the familiar WebView which renders the content of the web page within its window rectangle, "Web pageization of Win32 Window" creates related window elements around the window nucleus according to certain layout rules.
+  
+ </div>  
  
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="75%" /></div>
 <div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="75%" /></div>
@@ -60,9 +71,7 @@
 **In fact, for most independent windows, there is basically at least one Window Nucleus at the center. The existence of one Window Nucleus is equivalent to the existence of any number of Window Nuclei. In particular, the surrounding windows around each Window Nucleus can still be Window Nuclei, which is very similar to the star hierarchy in a huge galaxy: hundreds of billions of stars surround the Galactic Nuclei, each star has its own accretion disk, in which there may be Giant Planets, and each Giant Planet will have its own surrounding structure (satellites, halos, etc.)**  
   
  </div> 
- 
-<div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="80%" /></div>
-<div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="80%" /></div>
+
 
  <div align=left id="WndNucleusScript"> 
   
