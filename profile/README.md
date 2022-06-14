@@ -49,6 +49,9 @@
 <div align=right id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173234678-126c0727-942b-4099-98b2-4a771045787c.png" width="85%" /></div>
  <hr />
 
+
+<div align=center id=" Webpageization"><img src="https://user-images.githubusercontent.com/26355688/173517977-9f3b726f-f776-4067-baaa-4434072643e8.png" width="100%" /></div>
+ 
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="75%" /></div>
 <div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="75%" /></div>
 
