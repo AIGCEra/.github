@@ -50,7 +50,7 @@
  <hr />
 
 
-<div align=center id=" Webpageization"><img src="https://user-images.githubusercontent.com/26355688/173517977-9f3b726f-f776-4067-baaa-4434072643e8.png" width="100%" /></div>
+<div align=center id=" Webpageization"><img src="https://user-images.githubusercontent.com/26355688/173519910-826e1d65-308f-4564-9ee5-4c092a280f8e.png" width="100%" /></div>
  
 <div align=left id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="75%" /></div>
 <div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="75%" /></div>
