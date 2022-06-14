@@ -17,8 +17,8 @@
  
 <div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/20161884/173190637-89116eef-d638-4a7e-a656-04e6d90e3823.png" width="100%" />
  
- <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/173273613-56d8f205-a344-46b7-bd9e-bf616d9c0949.png" width="75%" /></div> 
- 
+ <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/173480978-1048a177-a827-4111-ae7b-86f332f63980.png" width="75%" /></div> 
+
  # About Window Nucleus
 
  <div align=left id="WndNucleusScript"> 
