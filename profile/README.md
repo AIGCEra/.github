@@ -23,7 +23,8 @@
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173804983-607e6590-7bbd-4cee-ba1a-61b93747293a.png" width="100%" /></div> 
  
- <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173805383-dbe8fb6e-044f-41e0-bd3d-8ff77e8920b0.png" width="100%" /></div>
+ <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173810867-a0cbecc3-9ceb-4bb0-8498-9dc143213136.png" width="100%" /></div>
+
 
 <div align=left id="WebBrowingStd"><img src="https://user-images.githubusercontent.com/26355688/173726681-19c35f1b-60f8-4151-911c-c4f24300cc6d.png" width="100%" /></div> 
  
