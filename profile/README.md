@@ -5,7 +5,7 @@
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/173456471-e93a5df8-104d-4a11-85ee-741dbd2f9b03.gif" width="100%" /></div> 
 <hr />
 
-<div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173722403-3510931e-17ed-42f9-b07e-39697531b6b3.png" width="100%" /></div> 
+<div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173729708-eadd66d9-096e-49f3-a3d9-76ad404e4678.png" width="100%" /></div> 
 
 <div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173716979-26f9dc6d-f614-4d8c-8d02-3d64f7162fde.png" width="100%" /></div> 
 <div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173718153-60f870f0-016d-4b6a-94aa-bc73a68b973a.png" width="100%" /></div>  
