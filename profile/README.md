@@ -23,13 +23,11 @@
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173822472-8958d758-53c2-4b86-9f8e-11bc3103055a.png" width="100%" /></div> 
 
- <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173836574-7a355c48-d012-4385-b200-93cb7ebbc5e9.png" width="100%" /></div>
- 
- <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173931906-9413d27a-6fd5-4dc8-a659-7805aca89953.png" width="100%" /></div>
+<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173836574-7a355c48-d012-4385-b200-93cb7ebbc5e9.png" width="100%" /></div>
 <hr />  
-<div align=left id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173211629-e7e15060-00de-4e5e-b2a6-e4c37a477568.png" width="67%" /></div>
+<div align=left id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="67%" /></div>
 <div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>   
- 
+<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173931906-9413d27a-6fd5-4dc8-a659-7805aca89953.png" width="100%" /></div>
  
  
  
