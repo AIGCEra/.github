@@ -5,12 +5,12 @@
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/173456471-e93a5df8-104d-4a11-85ee-741dbd2f9b03.gif" width="100%" /></div> 
 <hr />
 
-<div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173378397-8576f754-aec8-48ba-84ff-43532f2e4055.png" width="75%" /></div> 
+<div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173378397-8576f754-aec8-48ba-84ff-43532f2e4055.png" width="90%" /></div> 
 
 <div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173716979-26f9dc6d-f614-4d8c-8d02-3d64f7162fde.png" width="100%" /></div> 
-<div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173717610-02de378e-4561-41dc-9de8-f9c7526d87ce.png" width="100%" /></div>  
+<div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173718153-60f870f0-016d-4b6a-94aa-bc73a68b973a.png" width="100%" /></div>  
 <hr />
- 
+
 <div align=center id="breakthrough"><img src="https://user-images.githubusercontent.com/26355688/173268075-50927a2a-ae1c-487c-81b4-0ce9a1fe42da.png" width="100%" /></div> 
 
  <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/173272096-ef09c15f-6810-46fc-8b3d-e6d0cea61d97.png" width="80%" /></div> 
