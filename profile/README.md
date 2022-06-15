@@ -21,7 +21,7 @@
 
  # About Window Nucleus
 
-<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173804983-607e6590-7bbd-4cee-ba1a-61b93747293a.png" width="100%" /></div> 
+<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173822472-8958d758-53c2-4b86-9f8e-11bc3103055a.png" width="100%" /></div> 
  
  <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173821765-c987edff-bce3-48f5-b56f-9989ffe05808.png" width="100%" /></div>
 
