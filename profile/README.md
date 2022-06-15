@@ -7,8 +7,8 @@
 
 <div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173378397-8576f754-aec8-48ba-84ff-43532f2e4055.png" width="75%" /></div> 
 
-<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173380549-afe7f668-4f44-48ec-aea3-6fad5a057b52.png" width="90%" /></div> 
-<div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173309708-942b01a0-1a6f-4f1c-8b4e-3ff4721d6d17.png" width="90%" /></div>  
+<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173716979-26f9dc6d-f614-4d8c-8d02-3d64f7162fde.png" width="100%" /></div> 
+<div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/173717610-02de378e-4561-41dc-9de8-f9c7526d87ce.png" width="100%" /></div>  
 <hr />
  
 <div align=center id="breakthrough"><img src="https://user-images.githubusercontent.com/26355688/173268075-50927a2a-ae1c-487c-81b4-0ce9a1fe42da.png" width="100%" /></div> 
