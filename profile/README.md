@@ -13,14 +13,18 @@
 
 <div align=center id="breakthrough"><img src="https://user-images.githubusercontent.com/26355688/173268075-50927a2a-ae1c-487c-81b4-0ce9a1fe42da.png" width="100%" /></div> 
 
- <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/173272096-ef09c15f-6810-46fc-8b3d-e6d0cea61d97.png" width="80%" /></div> 
+ <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/173272096-ef09c15f-6810-46fc-8b3d-e6d0cea61d97.png" width="100%" /></div> 
  
 <div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/20161884/173190637-89116eef-d638-4a7e-a656-04e6d90e3823.png" width="100%" />
  
  <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/173480978-1048a177-a827-4111-ae7b-86f332f63980.png" width="80%" /></div> 
 
  # About Window Nucleus
-
+ 
+<div align=left id="WebBrowingStd"><img src="https://user-images.githubusercontent.com/26355688/173726681-19c35f1b-60f8-4151-911c-c4f24300cc6d.png" width="100%" /></div> 
+ 
+<div align=left id="WebBrowingEx"><img src="https://user-images.githubusercontent.com/26355688/173728729-95062ad4-1ab2-4b53-8bc5-3742604c3637.png" width="100%" /></div>  
+ 
  <div align=left id="WndNucleusScript"> 
  
 <div align=center id="Gravitation"><img src="https://user-images.githubusercontent.com/26355688/173211168-d7e925c4-e231-4499-be71-0ae160fd58a1.png" width="100%" /></div> 
