@@ -22,10 +22,17 @@
  # About Window Nucleus
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173822472-8958d758-53c2-4b86-9f8e-11bc3103055a.png" width="100%" /></div> 
- 
-![image](https://user-images.githubusercontent.com/26355688/173836574-7a355c48-d012-4385-b200-93cb7ebbc5e9.png)
 
- <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173821765-c987edff-bce3-48f5-b56f-9989ffe05808.png" width="100%" /></div>
+ <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173836574-7a355c48-d012-4385-b200-93cb7ebbc5e9.png" width="100%" /></div>
+ 
+ <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173931906-9413d27a-6fd5-4dc8-a659-7805aca89953.png" width="100%" /></div>
+<hr />  
+<div align=left id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173211629-e7e15060-00de-4e5e-b2a6-e4c37a477568.png" width="67%" /></div>
+<div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>   
+ 
+ 
+ 
+ 
 
 <div align=left id="WebBrowingStd"><img src="https://user-images.githubusercontent.com/26355688/173726681-19c35f1b-60f8-4151-911c-c4f24300cc6d.png" width="100%" /></div> 
  
@@ -40,9 +47,7 @@
 <div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="80%" /></div>
 <div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="80%" /></div>  
   
-<hr />  
-<div align=left id="Gravitation3"><img src="https://user-images.githubusercontent.com/26355688/173211629-e7e15060-00de-4e5e-b2a6-e4c37a477568.png" width="67%" /></div>
-<div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>  
+
 
 **No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
   
