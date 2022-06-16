@@ -34,9 +34,8 @@
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173931906-9413d27a-6fd5-4dc8-a659-7805aca89953.png" width="100%" /></div>
  
-<div align=center id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173973676-b0ac353e-aecb-4756-8502-f7a1d35c5ee4.png" width="100%" /></div>  
+<div align=center id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/174038654-5dce8170-41ee-4e3e-a84a-416dd19a5a87.png" width="100%" /></div>  
 
- 
  
  
 
