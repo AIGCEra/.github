@@ -27,7 +27,7 @@
 <hr />  
 <div align=left id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="67%" /></div>
 <div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div> 
-<div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="67%" /></div> 
+<div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173931906-9413d27a-6fd5-4dc8-a659-7805aca89953.png" width="100%" /></div>
  
