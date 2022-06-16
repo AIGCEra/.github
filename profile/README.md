@@ -34,15 +34,15 @@
 <div align=center id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173969436-3566b858-ef52-4d07-b4da-b65e7757a3a9.png" width="90%" /></div>  
  
  
+ 
+ 
+ 
 
 <div align=left id="WebBrowingStd"><img src="https://user-images.githubusercontent.com/26355688/173726681-19c35f1b-60f8-4151-911c-c4f24300cc6d.png" width="100%" /></div> 
  
 <div align=left id="WebBrowingEx"><img src="https://user-images.githubusercontent.com/26355688/173729212-80268690-9b4c-4fe5-8619-34ffb25fb4ad.png" width="100%" /></div>  
  
- <div align=left id="WndNucleusScript"> 
- 
-<div align=center id="Gravitation"><img src="https://user-images.githubusercontent.com/26355688/173211168-d7e925c4-e231-4499-be71-0ae160fd58a1.png" width="100%" /></div> 
-<div align=center id="Gravitation2"><img src="https://user-images.githubusercontent.com/26355688/173210566-285bd69e-5166-4e02-8c86-d4bd13598c34.png" width="100%" /></div>  
+ <div align=left id="WndNucleusScript">  
 
    
 <div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="80%" /></div>
