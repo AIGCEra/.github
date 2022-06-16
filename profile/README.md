@@ -61,8 +61,7 @@
 <hr />
 
 <div align=left id="topic1"><img src="https://user-images.githubusercontent.com/26355688/173224670-169586a5-3e9c-449a-9ae9-e3c41ca0cb3a.png" width="90%" /></div>
-<div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/173224508-4e6c13e3-0656-4160-8250-6bd3c6b88377.png" width="90%" /></div>
-
+<div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/174062273-10ceff56-bb5d-4c00-9db7-c8e6fe1fbbd5.png" width="90%" /></div>
  <hr />
  
 <div align=left id="goal0"><img src="https://user-images.githubusercontent.com/26355688/173234883-0a08d319-9f01-437a-828e-d63ae3f72c91.png" width="100%" /></div>
