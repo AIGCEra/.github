@@ -12,7 +12,10 @@
  
 <div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173730167-8b2d0e8a-22c0-4b8e-9855-12f0d0701e07.png" width="100%" /></div> 
 
-<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/173716979-26f9dc6d-f614-4d8c-8d02-3d64f7162fde.png" width="100%" /></div> 
+<div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/174206775-b6967169-d3ca-48d8-92c4-0d58a3f66186.png" width="100%" /></div> 
+<div align=center id="problem1_giveup"><img src="https://user-images.githubusercontent.com/26355688/174206934-91463709-901e-4857-9a47-0ff4f974b87c.png" width="80%" /></div> 
+
+
 <div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/174202760-072c45da-aaed-4a64-9b61-88cd59db876b.png" width="100%" /></div>  
 <hr />
 
