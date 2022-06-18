@@ -22,7 +22,7 @@
 
 <div align=center id="breakthrough"><img src="https://user-images.githubusercontent.com/26355688/173268075-50927a2a-ae1c-487c-81b4-0ce9a1fe42da.png" width="100%" /></div> 
 
- <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/173272096-ef09c15f-6810-46fc-8b3d-e6d0cea61d97.png" width="100%" /></div> 
+ <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/174429233-812a80cf-df1b-451a-9f34-160b2e3735f7.png" width="100%" /></div> 
  
 <div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/20161884/173190637-89116eef-d638-4a7e-a656-04e6d90e3823.png" width="100%" />
  
