@@ -4,8 +4,7 @@
 
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/174408562-f874bed4-e224-4c33-bf07-d16976acd249.gif" width="100%" /></div> 
 <hr />
-
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174427905-1d47f99e-18f0-44e6-89dc-607ff2f31a65.png" width="90%" /></div> 
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174428376-b1c69722-89d4-41d5-9c3f-f1200d7cb120.png" width="95%" /></div> 
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174426970-1c052f3c-4fb0-4731-bcc2-b8b134b560ad.png" width="100%" /></div> 
 
