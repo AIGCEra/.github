@@ -22,10 +22,14 @@
 
 <div align=center id="breakthrough"><img src="https://user-images.githubusercontent.com/26355688/173268075-50927a2a-ae1c-487c-81b4-0ce9a1fe42da.png" width="100%" /></div> 
 
- <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/174457065-f062196c-d662-42a6-aaf0-cd1384d59419.png" width="100%" /></div> 
+<div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/174458146-1a7c72ec-0a60-415f-aca1-af1d94aa769a.png" width="100%" /></div> 
 
 <div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/26355688/174443306-9bc62af2-562d-4202-953f-62abf6d24d1f.png" width="100%" />
 <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174457471-655f779a-8f47-4c78-aa8c-80334e9cf627.png" width="80%" /></div> 
+<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174459406-a3311ebe-0a22-4328-9dbe-ef6521ed4326.png" width="83%" /></div> 
+ 
+ 
+ 
 
  # About Window Nucleus
 
