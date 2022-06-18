@@ -24,7 +24,7 @@
 
  <div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/174429233-812a80cf-df1b-451a-9f34-160b2e3735f7.png" width="100%" /></div> 
 
-<div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/26355688/174442507-2a11e5d6-d92e-4c3a-a1d7-b765ab165fed.png" width="100%" />
+<div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/26355688/174443306-9bc62af2-562d-4202-953f-62abf6d24d1f.png" width="100%" />
  
  <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/173480978-1048a177-a827-4111-ae7b-86f332f63980.png" width="80%" /></div> 
 
