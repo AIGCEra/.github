@@ -77,7 +77,12 @@
 <div align=right id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174062273-10ceff56-bb5d-4c00-9db7-c8e6fe1fbbd5.png" width="100%" /></div>
  <hr />
 
+<div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418234-3f7cb099-aa60-4aad-a7fe-d4a6205372af.png" width="80%" /></div> 
 
+ <div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418515-15cd596e-e1ed-44f8-b37c-7aea36cb4611.png" width="100%" /></div> 
+
+<div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418255-c2ebf8d5-a960-45b2-8034-6851895055b5.png" width="100%" /></div> 
+ 
 <div align=left id="WndNucleusScript"> 
   
 ## Unlike the familiar WebView which renders the content of the web page within its window rectangle, "Web pageization of Win32 Window" creates related window elements around the window nucleus according to certain layout rules.
