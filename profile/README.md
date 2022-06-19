@@ -56,9 +56,10 @@
 <div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="100%" /></div> 
 <div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
 
-<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173931906-9413d27a-6fd5-4dc8-a659-7805aca89953.png" width="100%" /></div>
+<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/174473986-0b56ab80-e56f-41cc-a7e5-b37e318d1c64.png" width="100%" /></div>
  
 <div align=center id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/174038654-5dce8170-41ee-4e3e-a84a-416dd19a5a87.png" width="100%" /></div>  
+
 
  
  
