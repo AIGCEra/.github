@@ -7,10 +7,6 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174503370-5ff2d1e0-6b86-42e9-a12d-b780dd46b670.png" width="95%" /></div> 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174503455-9951cb46-c074-4698-8653-52b7de245098.png" width="95%" /></div> 
 
-
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174426970-1c052f3c-4fb0-4731-bcc2-b8b134b560ad.png" width="100%" /></div> 
-
-<div align=center id="overview2"><img src="https://user-images.githubusercontent.com/26355688/174427224-4a681209-2fd1-4462-9ea0-f86e66a999f4.png" width="100%" /></div> 
 <hr />
 
 <div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173730167-8b2d0e8a-22c0-4b8e-9855-12f0d0701e07.png" width="100%" /></div> 
