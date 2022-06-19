@@ -36,7 +36,7 @@
 <div align=center id="WndCore"><img src="https://user-images.githubusercontent.com/26355688/174443306-9bc62af2-562d-4202-953f-62abf6d24d1f.png" width="100%" />
 <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174460734-f93ca79d-4e4a-4450-a523-8b26b46fd39b.png" width="80%" /></div> 
 <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174461022-39e7aae6-9050-4f50-a6e5-f938385f63a4.png" width="100%" /></div> 
-
+<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174468928-60afa60d-029e-4a66-86ee-55e4e73efb6d.png" width="100%" /></div> 
 
  
 
