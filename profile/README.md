@@ -40,7 +40,7 @@
 <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174471096-2ed5ee02-4e27-464d-a2bb-d1a55cce0ece.png" width="80%" /></div> 
  
 <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174471562-99dc08a8-f593-4b2a-b421-d209722f635d.png" width="100%" /></div> 
-<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174472437-2686708b-8c7c-44fc-b330-b7005aa11398.png" width="100%" /></div> 
+<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174472836-d8aab1f6-7ef4-4268-a6ae-b50ffdcc2015.png" width="100%" /></div> 
 
  
  
