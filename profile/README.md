@@ -10,12 +10,12 @@
 <hr />
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174551437-88ea5905-3ae4-4b91-b1c3-a6e1a554a1d8.png" width="95%" /></div>
 <hr /> 
- 
+
 
 <div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/174589891-30e85e22-f110-4d7f-8cb8-d129510ed79e.png" width="95%" /></div> 
 <div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div>  
 <div align=center id="basiclayout2"><img src="https://user-images.githubusercontent.com/26355688/174681546-7a6716d2-854e-4964-89ba-77bc2d3dddf2.png" width="95%" /></div> 
-<div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174681769-32f8dd49-7650-4d51-8bfe-1b8eb9d072a2.png" width="95%" /></div>
+<div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174685157-24614f4f-508f-4a80-8323-d4134404e28b.png" width="95%" /></div>
  <hr />
 
 
