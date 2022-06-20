@@ -12,8 +12,11 @@
  
  
 <div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/174589891-30e85e22-f110-4d7f-8cb8-d129510ed79e.png" width="100%" /></div> 
-<div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="100%" /></div>  
- 
+<div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div>  
+<div align=center id="basiclayout2"><img src="https://user-images.githubusercontent.com/26355688/174620620-225d8d89-d692-4125-9128-f974f766d427.png" width="100%" /></div> 
+<div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174622362-f2e2d049-c442-47f1-a717-d9b72167030a.png" width="100%" /></div>
+ <hr />
+
 
 <div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/174461968-a4fd1e8e-3f7c-459c-85ca-7b69ec0bd848.png" width="100%" /></div> 
 <div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/174461490-93cf2011-c207-406f-a7a9-60f310a40573.png" width="100%" /></div> 
