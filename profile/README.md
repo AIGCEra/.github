@@ -7,8 +7,12 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174552789-7078a3e4-f574-4f7f-abb9-1b5c620300d2.png" width="95%" /></div> 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/174551437-88ea5905-3ae4-4b91-b1c3-a6e1a554a1d8.png" width="95%" /></div>
 <hr />
-
-<div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/173730167-8b2d0e8a-22c0-4b8e-9855-12f0d0701e07.png" width="100%" /></div> 
+<div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/174555778-53f010b5-4dcc-4710-970d-542914965d72.png" width="100%" /></div> 
+<hr /> 
+ 
+ 
+<div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/174589891-30e85e22-f110-4d7f-8cb8-d129510ed79e.png" width="100%" /></div> 
+<div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="100%" /></div>  
  
 
 <div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/174461968-a4fd1e8e-3f7c-459c-85ca-7b69ec0bd848.png" width="100%" /></div> 
