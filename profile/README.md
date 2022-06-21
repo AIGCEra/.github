@@ -17,8 +17,9 @@
 <div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div>  
 <div align=center id="basiclayout2"><img src="https://user-images.githubusercontent.com/26355688/174681546-7a6716d2-854e-4964-89ba-77bc2d3dddf2.png" width="95%" /></div> 
 <div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174685157-24614f4f-508f-4a80-8323-d4134404e28b.png" width="95%" /></div>
+<div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174692184-57c8c286-e0e8-4480-8a71-dca345b28e4c.png" width="85%" /></div>
 <div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174688285-d9cffd1e-139f-441e-9dfb-b00fde9f69bc.png" width="95%" /></div>
- <hr />
+<hr />
 
 
 <div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/174461968-a4fd1e8e-3f7c-459c-85ca-7b69ec0bd848.png" width="100%" /></div> 
