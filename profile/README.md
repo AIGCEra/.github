@@ -36,9 +36,6 @@
  <img src="https://user-images.githubusercontent.com/26355688/174987820-0977c876-6f56-4872-b206-eceb35b0cbe8.png" width="100%" />
  </div>
 
- ![image](https://)
- 
-![image](https://)
 
 
 
