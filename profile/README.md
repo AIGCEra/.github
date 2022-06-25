@@ -29,13 +29,9 @@
 <div align=center id="basiclayout4">
  <img src="https://user-images.githubusercontent.com/26355688/174752608-804b99d8-8d30-4265-aa85-a76c5845f585.png" width="100%" />
  <img src="https://user-images.githubusercontent.com/26355688/174748456-894cd2f5-c330-4979-a899-8be569bfc30f.png" width="75%" />
- <img src="https://user-images.githubusercontent.com/26355688/175237643-6ad6961a-3849-418f-acfc-aab3d41da17a.png" width="100%" />
- <img src="https://user-images.githubusercontent.com/26355688/175240322-80872200-554e-4f92-84cb-ffaffd815b42.png" width="100%" />
- <img src="https://user-images.githubusercontent.com/26355688/175251930-933b3166-9577-492c-bdf3-1aa4ba761461.png" width="100%" />
- <img src="https://user-images.githubusercontent.com/26355688/175406722-94da1d94-e782-46cb-903d-9f03f8c85695.png" width="100%" />
- <img src="https://user-images.githubusercontent.com/26355688/175406831-1af20b24-25db-41fe-a057-21b7d479dcbc.png" width="100%" />
+ <img src="https://user-images.githubusercontent.com/26355688/175752071-e812c469-fab7-4904-9d55-e5df27daa5f5.png" width="100%" />
+ <img src="https://user-images.githubusercontent.com/26355688/175752278-0ed5539a-0481-4b8b-a9c6-6842636eda48.png" width="100%" />
  </div>
-
 
 
 
