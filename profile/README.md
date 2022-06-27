@@ -18,7 +18,10 @@
 <hr /> 
 
 <div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/175165194-9e126433-160c-40bb-8b9a-88edc00c4962.png" width="95%" /></div> 
-<div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div>  
+<div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div> 
+ 
+# **Using WEB/XML technology to describe and control the content world around the Window Nucleus is the core value of Web Runtime.**
+ 
 <div align=center id="basiclayout2"><img src="https://user-images.githubusercontent.com/26355688/174701266-1b74f371-b3ea-48d9-9bc5-c456fc79eb31.png" width="95%" /></div> 
 <hr />
 <div align=center id="problem"><img src="https://user-images.githubusercontent.com/26355688/175795702-3d7eb410-4726-445c-9435-910a4e8e664e.png" width="100%" /></div> 
