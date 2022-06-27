@@ -18,7 +18,10 @@
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/175891895-f40e5ba7-a0f7-4b89-bbe8-cd54ae8349e7.png" width="100%" /></div>
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/175925282-50384279-fa17-4e3a-9cda-e1c82b9ad138.png" width="100%" /></div>
-<hr /> 
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176055779-09e0ade2-64ac-4268-b3fe-84fb7c484e11.gif" width="80%" /></div>
+<div align=center id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="67%" /></div>
+<div align=center id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="80%" /></div>
+ <hr /> 
 
 <div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/175875784-5c9909ac-fda1-4337-b20d-a9357da94f79.png" width="95%" /></div> 
 <div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div> 
@@ -109,8 +112,7 @@
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173836574-7a355c48-d012-4385-b200-93cb7ebbc5e9.png" width="100%" /></div>
 <hr />  
-<div align=left id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="67%" /></div>
-<div align=right id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="100%" /></div> 
+ 
 <div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/174473986-0b56ab80-e56f-41cc-a7e5-b37e318d1c64.png" width="100%" /></div>
