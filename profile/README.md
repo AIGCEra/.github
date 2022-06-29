@@ -12,7 +12,7 @@
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176335991-f59f8d5b-4fb3-4064-a4ba-68d4efc8ecd3.png" width="100%" /></div> 
 <hr />
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/175815666-1390ca96-7e92-440c-8743-2888ca834a20.png" width="95%" /></div>
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176384641-34caa75c-c1a3-4315-a206-cf5806f80b71.png" width="95%" /></div>
 <hr /> 
 
 <div align=center id="Nucleus Sample"><img src="https://user-images.githubusercontent.com/26355688/176344399-bb923fb7-c5b4-421e-8ee1-6742d7567cc1.png" width="100%" /></div>
