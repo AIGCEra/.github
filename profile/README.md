@@ -13,16 +13,18 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176335991-f59f8d5b-4fb3-4064-a4ba-68d4efc8ecd3.png" width="100%" /></div> 
 <hr />
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/175815666-1390ca96-7e92-440c-8743-2888ca834a20.png" width="95%" /></div>
+<hr /> 
 
 <div align=center id="Nucleus Sample"><img src="https://user-images.githubusercontent.com/26355688/176344399-bb923fb7-c5b4-421e-8ee1-6742d7567cc1.png" width="100%" /></div>
+
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176055779-09e0ade2-64ac-4268-b3fe-84fb7c484e11.gif" width="90%" /></div>
+<div align=center id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="80%" /></div>
+<div align=center id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>
 <hr /> 
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176331098-7d59e45c-62c7-40b0-a2b8-350f50948247.png" width="100%" /></div>
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176332643-ab42052c-fd7f-49c2-afe0-7b60ec0ee869.png" width="100%" /></div>
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176055779-09e0ade2-64ac-4268-b3fe-84fb7c484e11.gif" width="90%" /></div>
-<div align=center id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="80%" /></div>
-<div align=center id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>
  <hr /> 
 
 <div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/175875784-5c9909ac-fda1-4337-b20d-a9357da94f79.png" width="95%" /></div> 
