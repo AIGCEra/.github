@@ -13,6 +13,9 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176335991-f59f8d5b-4fb3-4064-a4ba-68d4efc8ecd3.png" width="100%" /></div> 
 <hr />
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/175815666-1390ca96-7e92-440c-8743-2888ca834a20.png" width="95%" /></div>
+
+
+<div align=center id="Nucleus Sample"><img src="https://user-images.githubusercontent.com/26355688/176342186-e5dc99c2-1ad1-4942-85c7-805d9832f9af.png" width="100%" /></div>
 <hr /> 
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176331098-7d59e45c-62c7-40b0-a2b8-350f50948247.png" width="100%" /></div>
