@@ -60,8 +60,7 @@
 
 
 <div align=center id="basiclayout4">
- <img src="https://user-images.githubusercontent.com/26355688/174752608-804b99d8-8d30-4265-aa85-a76c5845f585.png" width="100%" />
- <img src="https://user-images.githubusercontent.com/26355688/176439885-69e0f3c4-c1ae-47fe-85f9-f548ee230c9e.png" width="100%" />
+ <img src="https://user-images.githubusercontent.com/26355688/176443061-ea892554-6c06-481c-a361-946275ce5da2.png" width="100%" />
  
 <div align=center id="overview" width="70%">
 
