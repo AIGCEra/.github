@@ -19,7 +19,8 @@
 ## **If we see the positions of atomic nuclei, cell nuclei and galactic nuclei in the corresponding scientific theories, the importance of the spatial structure surrounding each kind of "nucleus" will be highlighted. WebView is a kind of window nucleus. In the desktop software world, there are many kinds of window nuclei. From this perspective, we seem to find a "common character": around each window nucleus, there will be almost the same web structure, the difference lies in its central nucleus. We believe that the desktop software world is formed by the gluing of these local web structures around the local center, similar to the universe we observe today.**
 
 </div>
-<div align=center id="Nucleus Sample"><img src="https://user-images.githubusercontent.com/26355688/176344399-bb923fb7-c5b4-421e-8ee1-6742d7567cc1.png" width="100%" /></div>
+
+<div align=center id="nucleusscript Sample"><img src="https://user-images.githubusercontent.com/26355688/176777854-be39258c-aa19-43c7-bf12-aac52a47d70d.jpg" width="100%" /></div>
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176055779-09e0ade2-64ac-4268-b3fe-84fb7c484e11.gif" width="90%" /></div>
 <div align=center id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="80%" /></div>
