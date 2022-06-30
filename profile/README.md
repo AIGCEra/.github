@@ -12,15 +12,13 @@
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176628514-8ee5dc59-7122-4fe3-84a4-c2f6af986187.jpg" width="100%" /></div> 
 <hr />
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176384641-34caa75c-c1a3-4315-a206-cf5806f80b71.png" width="95%" /></div>
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
 <hr /> 
 <div align=left id="overview">
 
 ## **If we see the positions of atomic nuclei, cell nuclei and galactic nuclei in the corresponding scientific theories, the importance of the spatial structure surrounding each kind of "nucleus" will be highlighted. WebView is a kind of window nucleus. In the desktop software world, there are many kinds of window nuclei. From this perspective, we seem to find a "common character": around each window nucleus, there will be almost the same web structure, the difference lies in its central nucleus. We believe that the desktop software world is formed by the gluing of these local web structures around the local center, similar to the universe we observe today.**
 
 </div>
-
-<div align=center id="nucleusscript Sample"><img src="https://user-images.githubusercontent.com/26355688/176777854-be39258c-aa19-43c7-bf12-aac52a47d70d.jpg" width="100%" /></div>
 
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176055779-09e0ade2-64ac-4268-b3fe-84fb7c484e11.gif" width="90%" /></div>
 <div align=center id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="80%" /></div>
@@ -36,8 +34,7 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176455196-d97993cf-1ec8-4f07-b532-ecaea38bdf4b.png" width="100%" /></div>
  <hr /> 
 
-<div align=center id="basiclayout"><img src="https://user-images.githubusercontent.com/26355688/175875784-5c9909ac-fda1-4337-b20d-a9357da94f79.png" width="95%" /></div> 
-<div align=center id="basiclayout1"><img src="https://user-images.githubusercontent.com/26355688/174590146-affbabad-4cd8-4992-9b80-06b9b27048ea.png" width="75%" /></div> 
+<div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="95%" /></div> 
  
 # **Using WEB/XML technology to describe and control the content world around the Window Nucleus is the core value of Web Runtime.**
  
