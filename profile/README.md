@@ -34,7 +34,7 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176455196-d97993cf-1ec8-4f07-b532-ecaea38bdf4b.png" width="100%" /></div>
  <hr /> 
 
-<div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="95%" /></div> 
+<div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
  
 # **Using WEB/XML technology to describe and control the content world around the Window Nucleus is the core value of Web Runtime.**
  
