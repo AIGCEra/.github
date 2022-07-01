@@ -124,13 +124,13 @@
 
 
  
- 
+
 
  # About Window Nucleus
 
 <div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173822472-8958d758-53c2-4b86-9f8e-11bc3103055a.png" width="100%" /></div> 
 
-<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173836574-7a355c48-d012-4385-b200-93cb7ebbc5e9.png" width="100%" /></div>
+<div align=center id="aboutWndNucleusX"><img src="https://user-images.githubusercontent.com/26355688/176810369-838bdde2-55b8-4897-88e3-00845ce2cfcb.jpg" width="100%" /></div>
 <hr />  
  
 <div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
