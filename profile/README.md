@@ -177,7 +177,7 @@
 
 <div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418234-3f7cb099-aa60-4aad-a7fe-d4a6205372af.png" width="80%" /></div> 
 
- <div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418515-15cd596e-e1ed-44f8-b37c-7aea36cb4611.png" width="100%" /></div> 
+ <div align=center id="basicstartpoint"><img src="https://user-images.githubusercontent.com/26355688/176915451-7e6608c6-09f8-49a5-a812-cc70e161f118.jpg" width="100%" /></div> 
 
 <div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418255-c2ebf8d5-a960-45b2-8034-6851895055b5.png" width="100%" /></div> 
  
