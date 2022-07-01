@@ -19,7 +19,7 @@
  
 <hr /> 
 
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176455196-d97993cf-1ec8-4f07-b532-ecaea38bdf4b.png" width="100%" /></div>
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176801590-17b4648b-b73c-4e44-b90c-d36c97ba62aa.jpg" width="100%" /></div>
  <hr /> 
  
 <div align=left id="overview">
