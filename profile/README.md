@@ -134,8 +134,7 @@
 <hr />  
  
 <div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
-
-<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/174473986-0b56ab80-e56f-41cc-a7e5-b37e318d1c64.png" width="100%" /></div>
+<div align=center id="NucleusMore"><img src="https://user-images.githubusercontent.com/26355688/176856719-17773ca6-127a-4b13-8d09-78b3317d465c.jpg" width="100%" /></div>
  
 <div align=center id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/174038654-5dce8170-41ee-4e3e-a84a-416dd19a5a87.png" width="100%" /></div>  
 
@@ -150,9 +149,9 @@
  <div align=left id="WndNucleusScript">  
 
    
-<div align=left id="WndNucleus1"><img src="https://user-images.githubusercontent.com/26355688/172756787-07f8f0dc-63c3-41b8-8e4b-3b1a92e1e0ee.png" width="80%" /></div>
-<div align=right id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/172758364-b702523a-960d-467e-9b43-c777ba9a731e.png" width="80%" /></div>  
-  
+<div align=left id="NucleusDOM"><img src="https://user-images.githubusercontent.com/26355688/176857843-4f28c436-8307-4709-90c6-eabea928393d.jpg" width="80%" /></div>
+<div align=right id="NucleusDOM2"><img src="https://user-images.githubusercontent.com/26355688/176858296-dda07890-9a4f-4ac3-9dd3-894012ba0ee1.jpg" width="80%" /></div>  
+ 
 
 
 **No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
