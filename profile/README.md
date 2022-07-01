@@ -88,7 +88,7 @@
  
  
 <hr />
- <div align=center id="basiclayout2"><img src="https://user-images.githubusercontent.com/26355688/174681546-7a6716d2-854e-4964-89ba-77bc2d3dddf2.png" width="95%" /></div> 
+ <div align=center id="outsideworld"><img src="https://user-images.githubusercontent.com/26355688/176912615-3cc77df1-9837-4b7d-b05a-1faa611740b1.jpg" width="95%" /></div> 
 <div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174685157-24614f4f-508f-4a80-8323-d4134404e28b.png" width="95%" /></div>
 
 <div align=center id="WebRTWebWorld2"><img src="https://user-images.githubusercontent.com/26355688/176788885-2363a87d-0f4b-4e76-866d-4ecd7156fefc.jpg" width="85%" /></div>
