@@ -137,8 +137,8 @@
  
 <div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
 <div align=center id="NucleusMore"><img src="https://user-images.githubusercontent.com/26355688/176856719-17773ca6-127a-4b13-8d09-78b3317d465c.jpg" width="100%" /></div>
- 
-<div align=center id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/174038654-5dce8170-41ee-4e3e-a84a-416dd19a5a87.png" width="100%" /></div>  
+
+<div align=center id="controllable"><img src="https://user-images.githubusercontent.com/26355688/176914411-a20fed4e-9300-4bf2-874c-005ef9799822.jpg" width="100%" /></div>  
 
 
  
