@@ -172,7 +172,7 @@
 <div align=right id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173234678-126c0727-942b-4099-98b2-4a771045787c.png" width="85%" /></div>
  <hr />
 
-<div align=right id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174062273-10ceff56-bb5d-4c00-9db7-c8e6fe1fbbd5.png" width="100%" /></div>
+<div align=right id="WebPageization1"><img src="https://user-images.githubusercontent.com/26355688/176862118-933ad396-b4bb-42a3-96fa-ae86e1c231e9.jpg" width="100%" /></div>
  <hr />
 
 <div align=center id="Webpageization"><img src="https://user-images.githubusercontent.com/26355688/174418234-3f7cb099-aa60-4aad-a7fe-d4a6205372af.png" width="80%" /></div> 
