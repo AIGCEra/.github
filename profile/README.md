@@ -165,11 +165,9 @@
 
 <div align=left id="topic1"><img src="https://user-images.githubusercontent.com/26355688/173224670-169586a5-3e9c-449a-9ae9-e3c41ca0cb3a.png" width="90%" /></div>
 <div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/173224508-4e6c13e3-0656-4160-8250-6bd3c6b88377.png" width="90%" /></div>
- 
-<div align=left id="goal0"><img src="https://user-images.githubusercontent.com/26355688/173234883-0a08d319-9f01-437a-828e-d63ae3f72c91.png" width="100%" /></div>
 
-<div align=right id="goal"><img src="https://user-images.githubusercontent.com/26355688/173235139-3d3b1f1a-48f5-4043-a82d-e7255951a443.png" width="85%" /></div>
-<div align=right id="goal1"><img src="https://user-images.githubusercontent.com/26355688/173234678-126c0727-942b-4099-98b2-4a771045787c.png" width="85%" /></div>
+<div align=left id="goal0"><img src="https://user-images.githubusercontent.com/26355688/176865762-093ecd47-be58-4a7d-8ab6-0b5210185d48.jpg" width="100%" /></div>
+
  <hr />
 
 <div align=right id="WebPageization1"><img src="https://user-images.githubusercontent.com/26355688/176862118-933ad396-b4bb-42a3-96fa-ae86e1c231e9.jpg" width="100%" /></div>
