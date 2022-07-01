@@ -118,9 +118,9 @@
 
 <div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174471096-2ed5ee02-4e27-464d-a2bb-d1a55cce0ece.png" width="80%" /></div> 
 
-<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174472836-d8aab1f6-7ef4-4268-a6ae-b50ffdcc2015.png" width="100%" /></div> 
- 
-<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174481335-bed8f5b1-3f6e-45d0-b465-c35e7d8870f4.png" width="100%" /></div> 
+<div align=center id="ReplaceWebView"><img src="https://user-images.githubusercontent.com/26355688/176809170-364c70dc-aefc-460f-9d8b-d5e54b9acdbc.jpg" width="100%" /></div> 
+
+<div align=center id="UniqueDesign"><img src="https://user-images.githubusercontent.com/26355688/176809467-0cb11200-5777-44cf-8da2-c54c5da98d42.jpg" width="100%" /></div> 
 
 
  
