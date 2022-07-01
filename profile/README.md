@@ -98,7 +98,7 @@
 <div align=center id="basiclayout3"><img src="https://user-images.githubusercontent.com/26355688/174705361-dd67c469-dc0b-458e-88bc-525aa30d5bd5.png" width="75%" /></div>
  <hr />
 
-<div align=left id="problem2"><img src="https://user-images.githubusercontent.com/26355688/174461968-a4fd1e8e-3f7c-459c-85ca-7b69ec0bd848.png" width="100%" /></div> 
+<div align=left id="extwebscope"><img src="https://user-images.githubusercontent.com/26355688/176917448-66ef7e6f-de9a-4b8c-8331-81a910780fd1.jpg" width="100%" /></div> 
 <div align=left id="problem1"><img src="https://user-images.githubusercontent.com/26355688/174461490-93cf2011-c207-406f-a7a9-60f310a40573.png" width="100%" /></div> 
 
 <div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
