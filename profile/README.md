@@ -11,10 +11,8 @@
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/176808586-02951f19-8e4c-4651-b94a-12704caf2528.jpg" width="95%" /></div> 
 
 <hr />
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176980184-114bfe52-f0ae-40c6-8cf2-78e3c7724427.gif" width="100%" /></div> 
 
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176628514-8ee5dc59-7122-4fe3-84a4-c2f6af986187.jpg" width="100%" /></div> 
-
-<div align=center id="NucleusType"><img src="https://user-images.githubusercontent.com/26355688/172863622-7357a23f-3be4-4d28-8d52-4c5d48bdc539.gif" width="100%" /></div>
 <hr />
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
 
