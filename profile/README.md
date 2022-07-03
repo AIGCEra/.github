@@ -12,7 +12,7 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
 
 <div align=center id="contentworld"><img src="https://user-images.githubusercontent.com/26355688/177030089-f85b2d8c-53ce-423f-814f-7fe22b137770.jpg" width="90%" /></div>
-<div align=right>
+<div align=center>
 
 ## [MFC Application Development](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm Application Development](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
 
