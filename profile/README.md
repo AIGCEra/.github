@@ -17,7 +17,11 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
 
 <div align=center id="content"><img src="https://user-images.githubusercontent.com/26355688/176801872-9014c47c-0706-41ec-99a9-e08987de2b84.jpg" width="100%" /></div>
- 
+<div align=right>
+
+## [Mor Information ......](document/NucleusPeriphery.md.md)
+
+</div>  
 <hr /> 
  
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176805124-c2abcf85-3ca9-4849-bd86-a9380ae54ed8.jpg" width="100%" /></div>
