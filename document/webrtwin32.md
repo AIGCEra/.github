@@ -1,10 +1,5 @@
 
 <div align=center id="WebRTMeanWin32"><img src="https://user-images.githubusercontent.com/26355688/176974094-97af2029-e555-4a66-b8e3-1ae59ffa24db.jpg" width="100%" /></div>
-<div align=right>
-
-# [Mor Information ......](https://github.com/TangramDev/WebRuntimeSrc) 
-
-</div> 
 
 <div align=center id="WebRTMeanWin321"><img src="https://user-images.githubusercontent.com/26355688/176974371-24dbc1e9-4097-4d4d-bd03-2300d804d577.jpg" width="100%" /></div> 
 <div align=center id="WebRTMeanWin322"><img src="https://user-images.githubusercontent.com/26355688/176974521-cce9c8f7-a3b4-46ed-86d8-39d72338565b.jpg" width="100%" /></div> 
