@@ -48,34 +48,6 @@
 
  
  
-
-
-<div align=center id="breakthrough1"><img src="https://user-images.githubusercontent.com/26355688/174480082-99491911-7920-41cb-b3f3-ff63c97537fa.png" width="100%" /></div> 
-
- 
- 
- 
-<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174460734-f93ca79d-4e4a-4450-a523-8b26b46fd39b.png" width="80%" /></div> 
-<div align=center id="WndCore1"><img src="https://user-images.githubusercontent.com/26355688/174461022-39e7aae6-9050-4f50-a6e5-f938385f63a4.png" width="100%" /></div> 
-
-<div align=center id="MFCMDIChrome"><img src="https://user-images.githubusercontent.com/26355688/176908092-71360b92-9b32-4264-8b32-3310ecf81940.jpg" width="80%" /></div> 
-
-<div align=center id="ReplaceWebView"><img src="https://user-images.githubusercontent.com/26355688/176809170-364c70dc-aefc-460f-9d8b-d5e54b9acdbc.jpg" width="100%" /></div> 
-
-<div align=center id="UniqueDesign"><img src="https://user-images.githubusercontent.com/26355688/176809467-0cb11200-5777-44cf-8da2-c54c5da98d42.jpg" width="100%" /></div> 
-
-
- 
-
- 
-<div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173272490-20780b0f-b07d-42a2-be89-15250091ec51.png" width="67%" /></div>
- 
-<div align=center id="WndNucleusScript2"><img src="https://user-images.githubusercontent.com/26355688/173169305-e05cdc8d-a362-4631-b55e-0308d2f20489.png" width="100%" /></div>
-<hr />
-
-<div align=left id="topic1"><img src="https://user-images.githubusercontent.com/26355688/173224670-169586a5-3e9c-449a-9ae9-e3c41ca0cb3a.png" width="90%" /></div>
-<div align=right id="topic12"><img src="https://user-images.githubusercontent.com/26355688/173224508-4e6c13e3-0656-4160-8250-6bd3c6b88377.png" width="90%" /></div>
-
 <div align=left id="goal0"><img src="https://user-images.githubusercontent.com/26355688/176865762-093ecd47-be58-4a7d-8ab6-0b5210185d48.jpg" width="100%" /></div>
 
  <hr />
