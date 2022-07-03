@@ -58,8 +58,7 @@
 ## [Mor Information ......](document/WebPageization.md)
 
 </div>  
- 
-<div align=right id="NucleusCLRType"><img src="https://user-images.githubusercontent.com/26355688/172950809-9760db07-7056-4c5f-8c9e-b291f0e89c48.gif" width="75%" /></div>
+
 
 <div align=left id="WndNucleusScript"> 
   
