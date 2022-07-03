@@ -67,38 +67,6 @@
 
  
 
-
- # About Window Nucleus
-
-<div align=center id="aboutWndNucleus"><img src="https://user-images.githubusercontent.com/26355688/173822472-8958d758-53c2-4b86-9f8e-11bc3103055a.png" width="100%" /></div> 
-
-<div align=center id="aboutWndNucleusX"><img src="https://user-images.githubusercontent.com/26355688/176810369-838bdde2-55b8-4897-88e3-00845ce2cfcb.jpg" width="100%" /></div>
-<hr />  
- 
-<div align=left id="aboutWndNucleus3"><img src="https://user-images.githubusercontent.com/26355688/173963608-0639f60c-2865-408e-a0f7-d3e0acdc75c1.png" width="75%" /></div> 
-<div align=center id="NucleusMore"><img src="https://user-images.githubusercontent.com/26355688/176856719-17773ca6-127a-4b13-8d09-78b3317d465c.jpg" width="100%" /></div>
-
-<div align=center id="controllable"><img src="https://user-images.githubusercontent.com/26355688/176914411-a20fed4e-9300-4bf2-874c-005ef9799822.jpg" width="100%" /></div>  
-
-
- 
- 
-
-<div align=left id="WebBrowingStd"><img src="https://user-images.githubusercontent.com/26355688/173726681-19c35f1b-60f8-4151-911c-c4f24300cc6d.png" width="100%" /></div> 
- 
-<div align=left id="WebBrowingEx"><img src="https://user-images.githubusercontent.com/26355688/173729212-80268690-9b4c-4fe5-8619-34ffb25fb4ad.png" width="100%" /></div>  
- 
- <div align=left id="WndNucleusScript">  
-
-   
-<div align=left id="NucleusDOM"><img src="https://user-images.githubusercontent.com/26355688/176857843-4f28c436-8307-4709-90c6-eabea928393d.jpg" width="80%" /></div>
-<div align=right id="NucleusDOM2"><img src="https://user-images.githubusercontent.com/26355688/176858296-dda07890-9a4f-4ac3-9dd3-894012ba0ee1.jpg" width="80%" /></div>  
- 
-
-
-**No one wants to isolate himself from his surroundings. The object isolated from his surroundings is an isolated object. The appearance of the window nucleus enables us to naturally connect the window object with his surroundings. We will see that the window nucleus is surrounded by a rich and all inclusive world. With the window nucleus as the center, we can form a "local center" of desktop software**  
-  
- </div> 
  
 <div align=center id="WndNucleusScript"><img src="https://user-images.githubusercontent.com/26355688/173272490-20780b0f-b07d-42a2-be89-15250091ec51.png" width="67%" /></div>
  
