@@ -19,7 +19,7 @@
 <div align=center id="content"><img src="https://user-images.githubusercontent.com/26355688/176801872-9014c47c-0706-41ec-99a9-e08987de2b84.jpg" width="100%" /></div>
 <div align=right>
 
-## [Mor Information ......](document/NucleusPeriphery.md.md)
+## [Mor Information ......](document/NucleusPeriphery.md)
 
 </div>  
 
