@@ -34,7 +34,7 @@
 <div align=center id="content"><img src="https://user-images.githubusercontent.com/26355688/176801872-9014c47c-0706-41ec-99a9-e08987de2b84.jpg" width="100%" /></div>
 <div align=right>
 
-## [Mor Information ......](document/NucleusPeriphery.md)
+## [Mor Information ......](https://github.com/TangramDev/.github/blob/main/document/NucleusPeriphery.md)
 
 </div>  
 
@@ -45,7 +45,7 @@
 <div align=center id="WebRTMeanWin32"><img src="https://user-images.githubusercontent.com/26355688/176974094-97af2029-e555-4a66-b8e3-1ae59ffa24db.jpg" width="100%" /></div>
 <div align=right>
 
-## [Mor Information ......](document/webrtwin32.md)
+## [Mor Information ......](https://github.com/TangramDev/.github/blob/main/document/webrtwin32.md)
 
 </div> 
 
@@ -67,6 +67,6 @@
 <div align=right id="WebPageization1"><img src="https://user-images.githubusercontent.com/26355688/176862118-933ad396-b4bb-42a3-96fa-ae86e1c231e9.jpg" width="100%" /></div>
 <div align=right>
 
-## [Mor Information ......](document/WebPageization.md)
+## [Mor Information ......](https://github.com/TangramDev/.github/blob/main/document/WebPageization.md)
 
 </div>  
