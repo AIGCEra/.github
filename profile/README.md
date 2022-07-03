@@ -12,18 +12,18 @@
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
 
 <div align=center id="contentworld"><img src="https://user-images.githubusercontent.com/26355688/177030089-f85b2d8c-53ce-423f-814f-7fe22b137770.jpg" width="90%" /></div>
+<div align=right>
 
+## [MFC Application Development](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm Application Development](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
+
+</div> 
 <div align=center>
 
 ## A Specific Example of a Window Nucleus object from MS Excel,
 
 </div>
 <div align=center id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%" /></div>
-<div align=right>
 
-## [MFC Application Development](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm Application Development](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
-
-</div> 
 <hr />
 <div align=center id="Start243"><img src="https://user-images.githubusercontent.com/26355688/176982568-a047146a-66fd-445f-a8a3-f80bedc6208e.gif" width="100%" /></div>
 <hr />
