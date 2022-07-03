@@ -6,8 +6,6 @@
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/176808586-02951f19-8e4c-4651-b94a-12704caf2528.jpg" width="95%" /></div> 
-<hr />
-
 <div align=center>
 
 ## A Specific Example of a Window Nucleus object from MS Excel,
