@@ -22,34 +22,12 @@
 ## [Mor Information ......](document/NucleusPeriphery.md.md)
 
 </div>  
-<hr /> 
- 
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176805124-c2abcf85-3ca9-4849-bd86-a9380ae54ed8.jpg" width="100%" /></div>
 
- <hr /> 
 <div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
 <hr /> 
  
 <div align=left id="overview">
 <div align=center id="Start243"><img src="https://user-images.githubusercontent.com/26355688/176982568-a047146a-66fd-445f-a8a3-f80bedc6208e.gif" width="100%" /></div> 
-
-## **If we see the positions of atomic nuclei, cell nuclei and galactic nuclei in the corresponding scientific theories, the importance of the spatial structure surrounding each kind of "nucleus" will be highlighted. WebView is a kind of window nucleus. In the desktop software world, there are many kinds of window nuclei. From this perspective, we seem to find a "common character": around each window nucleus, there will be almost the same web structure, the difference lies in its central nucleus. We believe that the desktop software world is formed by the gluing of these local web structures around the local center, similar to the universe we observe today.**
-
-</div>
-
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176055779-09e0ade2-64ac-4268-b3fe-84fb7c484e11.gif" width="90%" /></div>
-<div align=center id="aboutWndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/173934928-815992f1-7a22-4eff-8502-7ca50afc6c6d.png" width="80%" /></div>
-<div align=center id="Excel3"><img src="https://user-images.githubusercontent.com/26355688/173466572-201e0ac1-daf4-4e11-bb88-6d2ba0b70846.gif" width="90%" /></div>
-
-## **Due to the illusion of human vision, we used to think that the stars we saw were static, so we named them “stellars”, and here we see a similar scene where we used to think that the most of individual desktop windows were static, what we're seeing here, however, is that the interior of the most of individual desktop windows is full of energy.**
-
-<hr /> 
-
-
- 
-# **Using WEB/XML technology to describe and control the content world around the Window Nucleus is the core value of Web Runtime.**
- 
-<div align=center id="aroundnucleus"><img src="https://user-images.githubusercontent.com/26355688/176909016-29048b2e-b716-4a5f-a7fa-9ea8a7875050.jpg" width="95%" /></div> 
 <hr />
 
 <div align=center id="WebRTMeanWin32"><img src="https://user-images.githubusercontent.com/26355688/176974094-97af2029-e555-4a66-b8e3-1ae59ffa24db.jpg" width="100%" /></div>
