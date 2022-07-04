@@ -15,9 +15,9 @@
 <div align=center>
 
 # [MFC](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md) Application Development
- 
+
  <div align=center id="MFCWinFormApp">
-<img src="https://user-images.githubusercontent.com/20161884/177070298-0648cb88-2b26-4caf-8de0-881fee223932.jpg" width="90%" /></div> 
+<img src="https://user-images.githubusercontent.com/20161884/177072791-a3e43880-b071-4a9a-bcc0-9927c38ebb2d.jpg" width="90%" /></div> 
 </div> 
  
  <hr />
