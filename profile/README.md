@@ -15,7 +15,8 @@
 <div align=center>
 
  <hr />
-<div align=center id="WebBrowserSystem"><img src="https://user-images.githubusercontent.com/26355688/177454130-8a84b659-9717-40d2-89eb-4e8adb9996e2.gif" width="100%" /></div>
+<div align=center id="WebBrowserSystem"><img src="https://user-images.githubusercontent.com/26355688/177499936-c39201ed-9f87-47a5-92f0-675ee40c8d02.gif" width="100%" /></div>
+
 <hr />
  <div align=center id="CLRSubsystem"><img src="https://user-images.githubusercontent.com/26355688/177458800-665db523-13bd-4177-bd6e-9db7b5039209.jpg" width="90%" /></div>
 <hr />
