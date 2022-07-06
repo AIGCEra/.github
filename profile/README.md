@@ -15,10 +15,6 @@
 
  <hr />
 
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176980184-114bfe52-f0ae-40c6-8cf2-78e3c7724427.gif" width="100%" /></div> 
-
-<hr />
-
 <div align=center id="WebBrowserSystem2"><img src="https://user-images.githubusercontent.com/26355688/177506845-dc874733-a9e7-413d-8994-1d565b8df84b.gif" width="100%" /></div>
 
 <hr />
