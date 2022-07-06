@@ -15,7 +15,7 @@
 <div align=center>
 
  <hr />
-<div align=center id="WebBrowserSystem2"><img src="https://user-images.githubusercontent.com/26355688/177503852-bf3ff181-1f7a-4cf2-89f8-41dc8e0e163a.gif" width="100%" /></div>
+<div align=center id="WebBrowserSystem2"><img src="https://user-images.githubusercontent.com/26355688/177506845-dc874733-a9e7-413d-8994-1d565b8df84b.gif" width="100%" /></div>
 
 <hr />
  
