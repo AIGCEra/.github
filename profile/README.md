@@ -15,7 +15,7 @@
 <div align=center>
 
  <hr />
-<div align=center id="WebBrowserSystem"><img src="https://user-images.githubusercontent.com/26355688/177454130-8a84b659-9717-40d2-89eb-4e8adb9996e2.gif" width="90%" /></div>
+<div align=center id="WebBrowserSystem"><img src="https://user-images.githubusercontent.com/26355688/177454130-8a84b659-9717-40d2-89eb-4e8adb9996e2.gif" width="100%" /></div>
  <hr />
  
 # [MFC](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md) Application Development
