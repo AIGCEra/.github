@@ -8,7 +8,11 @@
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/176808586-02951f19-8e4c-4651-b94a-12704caf2528.jpg" width="95%" /></div> 
 
 <hr />
+<div align=center id="Start243"><img src="https://user-images.githubusercontent.com/26355688/176982568-a047146a-66fd-445f-a8a3-f80bedc6208e.gif" width="100%" /></div>
+<hr />
+<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176980184-114bfe52-f0ae-40c6-8cf2-78e3c7724427.gif" width="100%" /></div> 
 
+<hr />
 <div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
 
 <div align=center id="contentworld"><img src="https://user-images.githubusercontent.com/26355688/177030089-f85b2d8c-53ce-423f-814f-7fe22b137770.jpg" width="90%" /></div>
@@ -30,11 +34,8 @@
 
 ## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
 
-<div align=center id="Start243"><img src="https://user-images.githubusercontent.com/26355688/176982568-a047146a-66fd-445f-a8a3-f80bedc6208e.gif" width="100%" /></div>
 <hr />
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176980184-114bfe52-f0ae-40c6-8cf2-78e3c7724427.gif" width="100%" /></div> 
 
-<hr />
 
 <div align=center id="content"><img src="https://user-images.githubusercontent.com/26355688/176801872-9014c47c-0706-41ec-99a9-e08987de2b84.jpg" width="100%" /></div>
 <div align=right>
