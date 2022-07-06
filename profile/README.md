@@ -15,10 +15,8 @@
 <div align=center>
 
  <hr />
-<div align=center id="WebBrowserSystem2"><img src="https://user-images.githubusercontent.com/26355688/177503152-43573cb9-10c0-4c00-9528-82d1cb5afd20.gif" width="100%" /></div>
+<div align=center id="WebBrowserSystem2"><img src="https://user-images.githubusercontent.com/26355688/177503852-bf3ff181-1f7a-4cf2-89f8-41dc8e0e163a.gif" width="100%" /></div>
 
-<hr />
- <div align=center id="CLRSubsystem"><img src="https://user-images.githubusercontent.com/26355688/177458800-665db523-13bd-4177-bd6e-9db7b5039209.jpg" width="90%" /></div>
 <hr />
  
 # [MFC](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md) Application Development
