@@ -18,12 +18,15 @@
 ## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
 
 <div align=center id="topic2"><img src="https://user-images.githubusercontent.com/26355688/177731505-5d31887e-fb4f-41b7-8d48-ca71c2906d65.jpg" width="90%" /></div>
-
 <div align=center>
-
-
 <hr />
- 
+<div align=left id="extwebscope"><img src="https://user-images.githubusercontent.com/26355688/176917448-66ef7e6f-de9a-4b8c-8331-81a910780fd1.jpg" width="100%" /></div> 
+<div align=left id="WebBrowserDo"><img src="https://user-images.githubusercontent.com/26355688/176975058-98cc6bb4-3d62-461a-8374-0b1ffd06d321.jpg" width="100%" /></div> 
+
+<div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
+<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="80%" /></div>   
+<hr />
+
 # [MFC](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md) Application Development
 
  <div align=center id="MFCWinFormApp">
@@ -50,11 +53,7 @@
 </div> 
 
 
-<div align=left id="extwebscope"><img src="https://user-images.githubusercontent.com/26355688/176917448-66ef7e6f-de9a-4b8c-8331-81a910780fd1.jpg" width="100%" /></div> 
-<div align=left id="WebBrowserDo"><img src="https://user-images.githubusercontent.com/26355688/176975058-98cc6bb4-3d62-461a-8374-0b1ffd06d321.jpg" width="100%" /></div> 
 
-<div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
-<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="80%" /></div>  
 <hr />
  
 <div align=left id="goal0"><img src="https://user-images.githubusercontent.com/26355688/176865762-093ecd47-be58-4a7d-8ab6-0b5210185d48.jpg" width="100%" /></div>
