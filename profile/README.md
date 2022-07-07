@@ -6,9 +6,8 @@
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177671112-6c82c7d2-7d24-4ac5-afc2-594f6da2a7b0.jpg" width="95%" /></div> 
-
 <hr />
-<div align=center id="overview"><img src="https://user-images.githubusercontent.com/26355688/176782147-f093400b-7b38-487e-abee-8e3fb9c4cd96.jpg" width="100%" /></div>
+<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177671881-ad3d9cf1-f603-4cd9-821b-34bf54ea4247.jpg" width="100%" /></div>
 
 <div align=center id="contentworld"><img src="https://user-images.githubusercontent.com/26355688/177030089-f85b2d8c-53ce-423f-814f-7fe22b137770.jpg" width="90%" /></div>
 <div align=center>
