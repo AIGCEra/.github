@@ -9,8 +9,12 @@
 <hr />
 
 <div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177671881-ad3d9cf1-f603-4cd9-821b-34bf54ea4247.jpg" width="100%" /></div>
-
+<hr />
 <div align=center id="topic1"><img src="https://user-images.githubusercontent.com/26355688/177731436-881f2090-b747-4bb9-b4a4-c4d8e0278fc5.jpg" width="90%" /></div>
+<div align=center>
+
+## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
+
 <div align=center id="topic2"><img src="https://user-images.githubusercontent.com/26355688/177731505-5d31887e-fb4f-41b7-8d48-ca71c2906d65.jpg" width="90%" /></div>
 
 <div align=center>
@@ -24,10 +28,7 @@
 <img src="https://user-images.githubusercontent.com/20161884/177072791-a3e43880-b071-4a9a-bcc0-9927c38ebb2d.jpg" width="90%" /></div> 
 </div> 
  
- <hr />
-<div align=center>
 
-## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
 
 <hr />
 
