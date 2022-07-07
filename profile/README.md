@@ -56,16 +56,5 @@
 <div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="80%" /></div>  
 <hr />
-
- 
  
 <div align=left id="goal0"><img src="https://user-images.githubusercontent.com/26355688/176865762-093ecd47-be58-4a7d-8ab6-0b5210185d48.jpg" width="100%" /></div>
-
- <hr />
-
-<div align=right id="WebPageization1"><img src="https://user-images.githubusercontent.com/26355688/176862118-933ad396-b4bb-42a3-96fa-ae86e1c231e9.jpg" width="100%" /></div>
-<div align=right>
-
-## [Mor Information ......](https://github.com/TangramDev/.github/blob/main/document/WebPageization.md)
-
-</div>  
