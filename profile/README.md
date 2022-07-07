@@ -31,8 +31,7 @@
 
 <hr />
 
-
-<div align=center id="content"><img src="https://user-images.githubusercontent.com/26355688/176801872-9014c47c-0706-41ec-99a9-e08987de2b84.jpg" width="100%" /></div>
+<div align=center id="content"><img src="https://user-images.githubusercontent.com/26355688/177672418-6c844430-6d88-40c9-bbce-6ff88fd66cc2.jpg" width="100%" /></div>
 <div align=right>
 
 ## [Mor Information ......](https://github.com/TangramDev/.github/blob/main/document/NucleusPeriphery.md)
