@@ -7,14 +7,14 @@
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177671112-6c82c7d2-7d24-4ac5-afc2-594f6da2a7b0.jpg" width="95%" /></div> 
 <hr />
+
 <div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177671881-ad3d9cf1-f603-4cd9-821b-34bf54ea4247.jpg" width="100%" /></div>
 
-<div align=center id="contentworld"><img src="https://user-images.githubusercontent.com/26355688/177030089-f85b2d8c-53ce-423f-814f-7fe22b137770.jpg" width="90%" /></div>
+<div align=center id="topic1"><img src="https://user-images.githubusercontent.com/26355688/177731436-881f2090-b747-4bb9-b4a4-c4d8e0278fc5.jpg" width="90%" /></div>
+<div align=center id="topic2"><img src="https://user-images.githubusercontent.com/26355688/177731505-5d31887e-fb4f-41b7-8d48-ca71c2906d65.jpg" width="90%" /></div>
+
 <div align=center>
 
- <hr />
-
-<div align=center id="WebBrowserSystem2"><img src="https://user-images.githubusercontent.com/26355688/177506845-dc874733-a9e7-413d-8994-1d565b8df84b.gif" width="100%" /></div>
 
 <hr />
  
