@@ -18,8 +18,7 @@
 ## [Mor Information ......](https://github.com/TangramDev/.github/blob/main/document/NucleusPeriphery.md)
 
 </div>  
-
-<div align=center id="topic1"><img src="https://user-images.githubusercontent.com/26355688/177731436-881f2090-b747-4bb9-b4a4-c4d8e0278fc5.jpg" width="90%" /></div>
+<div align=center id="topic1"><img src="https://user-images.githubusercontent.com/26355688/178014798-a67d6eff-7d8b-44da-be03-a30411295022.png" width="90%" /></div>
 <div align=center>
 
 ## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
