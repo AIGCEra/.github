@@ -5,7 +5,7 @@
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/177936825-36450771-e98e-4024-8305-3cecc735a5dd.gif" width="100%" /></div> 
 <hr />
 
-<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177671112-6c82c7d2-7d24-4ac5-afc2-594f6da2a7b0.jpg" width="95%" /></div> 
+<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177938295-01b86d36-245c-4b04-9abc-74ef3f1100f2.jpg" width="95%" /></div> 
 <hr />
 
 <div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177671881-ad3d9cf1-f603-4cd9-821b-34bf54ea4247.jpg" width="100%" /></div>
