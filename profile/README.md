@@ -5,10 +5,10 @@
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/177939629-6872576e-d821-44d2-9b4b-19cb39c798e2.gif" width="100%" /></div> 
 <hr />
 
-<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177938295-01b86d36-245c-4b04-9abc-74ef3f1100f2.jpg" width="95%" /></div> 
+<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
 <hr />
 
-<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177943383-5d3b4c53-a370-4a1a-b2de-bf1215a0aee2.jpg" width="100%" /></div>
+<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177946390-a36ac319-d712-42f0-8336-8c7ca2b00a39.jpg" width="100%" /></div>
 <hr />
 <div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
 
