@@ -13,7 +13,7 @@
 <div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
 
 <hr />
-<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178087164-86839f47-3b29-46a4-b654-2b6b06fc7a1f.jpg" width="100%" /></div>
+<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178087418-0f284bcc-e4a6-4ab4-ba46-29464bd20e55.jpg" width="100%" /></div>
 <div align=center>
 
 ## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
