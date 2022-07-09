@@ -31,7 +31,6 @@
 # [MFC Application](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm Application](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
 
 </div>
-<hr />
 
 <div align=center id="WebRTMeanWin32"><img src="https://user-images.githubusercontent.com/26355688/176974094-97af2029-e555-4a66-b8e3-1ae59ffa24db.jpg" width="100%" /></div>
 <div align=right>
