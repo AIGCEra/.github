@@ -1,8 +1,8 @@
 <div align=center>
 
-# [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc) 
+# [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc)
 
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178098118-65c68444-93d9-4e9c-a041-2670da84531e.gif" width="100%" /></div> 
+<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178110710-51f66911-2295-4039-b7f5-b4f531cf10c7.gif" width="100%" /></div> 
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
