@@ -30,11 +30,15 @@
 
 # [MFC](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md) Application Development
 
- <div align=center id="MFCWinFormApp">
+<div align=center id="MFCWinFormApp">
+<img src="https://user-images.githubusercontent.com/26355688/178109753-b02914d8-3364-47da-962a-423995d51671.jpg" width="100%" /></div> 
 <img src="https://user-images.githubusercontent.com/20161884/177072791-a3e43880-b071-4a9a-bcc0-9927c38ebb2d.jpg" width="100%" /></div> 
 </div> 
- 
-<hr />
+<div align=right>
+
+# [MFC Application](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md) and [WinForm Application](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
+
+</div> <hr />
 
 
 
