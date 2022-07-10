@@ -2,7 +2,7 @@
 
 # [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc)
 
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178135877-590783be-0b95-446c-a758-2c9118f4bb00.gif" width="100%" /></div> 
+<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178136474-47a685d6-767b-4857-9da8-37d8767b6988.gif" width="100%" /></div> 
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
