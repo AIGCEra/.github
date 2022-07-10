@@ -8,18 +8,18 @@
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
 <hr />
 
-<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177946390-a36ac319-d712-42f0-8336-8c7ca2b00a39.jpg" width="100%" /></div>
-<hr />
-<div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
-
 <div align=center>
 
 # Web Gene of Desktop Window
 
 </div>
 <div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178143113-d72bdecd-0123-4a20-a136-2f2471544abf.jpg" width="100%" /></div>
+<hr />
 
 <div align=center>
+<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/177946390-a36ac319-d712-42f0-8336-8c7ca2b00a39.jpg" width="100%" /></div>
+<hr />
+<div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
 
 # Desktop Internet begins with Window Nucleus
 
