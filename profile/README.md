@@ -17,7 +17,7 @@
 # Web Gene of Desktop Window
 
 </div>
-<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178130390-471f660f-df84-4fef-b234-6fd33b91099c.jpg" width="100%" /></div>
+<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178130458-38f61fb8-248c-4516-b6f5-6887b918a7a9.jpg" width="100%" /></div>
 
 <div align=center>
 
