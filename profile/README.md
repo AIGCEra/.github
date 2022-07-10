@@ -14,10 +14,10 @@
 
 <div align=center>
 
-# Web Characteristic of Desktop Window
+# Web Gene of Desktop Window
 
 </div>
-<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178123987-e53bfca3-b710-4cf4-883b-5edd710e7746.png" width="100%" /></div>
+<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178126974-1353bbdf-c45b-455a-88b5-c42fa542e900.jpg" width="100%" /></div>
 
 <div align=center>
 
