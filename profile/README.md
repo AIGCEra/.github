@@ -4,7 +4,7 @@
 
 <div align=center>
 
-## The innate Desktop Software Genes enable each Desktop Window to have powerful and flexible component organization capabilities, and various window objects can be aggregated around it. In a sense, each Desktop Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way-like galaxy is surrounded by hundreds of billions of stars, **WebRuntime** acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.
+## The innate Desktop Software Genes enable each Desktop Window to have powerful and flexible component organization capabilities, and various window objects can be aggregated around it. In a sense, each Desktop Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way like galaxy is surrounded by hundreds of billions of stars, **WebRuntime** acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.
 
 </div>
 
