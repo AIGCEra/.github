@@ -1,6 +1,6 @@
 <div align=center>
 
-# [Open Web Runtime Source Code](https://github.com/TangramDev/WebRuntimeSrc)
+# [Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
 
 <div align=center>
 
