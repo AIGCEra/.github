@@ -8,7 +8,11 @@
 
 </div>
 
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178264631-17346753-6743-4724-b562-d9512079ccf6.gif" width="100%" /></div> 
+<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178264631-17346753-6743-4724-b562-d9512079ccf6.gif" width="100%" />
+
+**(When the gene inside the window nucleus is awakened, it means that a local part of a desktop window is activated, and an infinite level of object structure means an infinite number of window nuclei, which means that desktop windows may have more expressive power than Web browser windows. If desktop windows can be compared to galactic nuclei under certain conditions, then desktop software itself is just an active universe.)**
+
+</div> 
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
