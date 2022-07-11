@@ -1,9 +1,5 @@
 # Developing MFC Desktop Application with Web Runtime
 
-<div align=center><img src="https://media2.giphy.com/media/CHPUfduSREVngSNxQO/giphy.gif?cid=790b761120443e248f1b4768cdf6c5675897020e1c4cda29&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
-
-## Developing MFC Desktop Application with Web Runtime: This step is a Common Part of MFC development
-
 <div align=center><img src="https://github.com/TangramDev/.github/releases/download/res/MFCAppDev.gif" width="100%" height="100%"/></div>
 
 ## Developing MFC Desktop Application with Web Runtime: Tabbed MDI Application
