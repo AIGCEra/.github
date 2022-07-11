@@ -8,7 +8,7 @@
 
 </div>
 
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178178923-001dfddc-eabc-4fe9-bd18-dbf483aac48a.gif" width="100%" /></div> 
+<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178246793-59764a39-fb35-48a9-b7c2-c831911dd974.gif" width="100%" /></div> 
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
