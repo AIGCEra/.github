@@ -4,7 +4,7 @@
 
 <div align=center>
 
-## The innate desktop software genes make each desktop window have a powerful and flexible component organization ability, which can aggregate various window objects around it. In a sense, each window object may become a galaxy nucleus similar to those huge galaxies in the universe. Every galaxy similar to the Milky Way is surrounded by hundreds of billions of stars. WebRuntime is like a Hubble telescope, allowing us to see, under certain conditions, each window object surrounded by a huge, Web-description-driven object structure.
+## The innate Desktop Software Genes enable each Desktop Window to have powerful and flexible component organization capabilities, and various window objects can be aggregated around it. In a sense, each Desktop Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way-like galaxy is surrounded by hundreds of billions of stars, **WebRuntime** acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.
 
 </div>
 
