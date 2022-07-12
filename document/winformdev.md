@@ -11,7 +11,12 @@
 
 <hr />
 
-# Prepare a C# WinForm Project (create a new Project, or open an existing Project). Here we preset the name of the project as "FirstApp". All WinForm projects need the following three steps to support Web Runtime.
+# Prepare a C# WinForm Project (create a new Project, or open an existing Project).
+<div>
+  
+  **Here we preset the name of the project as "FirstApp". All WinForm projects need the following three steps to support Web Runtime.**
+  
+</div>
 
 ## (1)This step is required for all types of WinForm desktop applications: Reference “cosmos.dll”, adjust manifest configuration
 
