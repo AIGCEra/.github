@@ -23,11 +23,12 @@
 
 ## Developing MFC Desktop Application with Web Runtime: FormView
 
-<div align=center id ="MFCAppDev_FormView"><img src="https://user-images.githubusercontent.com/26355688/178399050-efdd1089-8365-45ac-b883-3a71ca49be01.gif" width="100%" height="100%"/></div>
+<div align=center id ="MFCAppDev_FormView"><img src="https://user-images.githubusercontent.com/26355688/178399844-1678d591-160b-46ec-b2b8-c17711c88c4a.gif" width="100%" height="100%"/></div>
 
 ## Developing MFC Desktop Application with Web Runtime: Serialization
+![MFCAppDev_Serialization](https://)
 
-<div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399190-5b69f6d1-338a-4e77-b677-7e3f970a6451.gif" width="100%" height="100%"/></div>
+<div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399660-91de2238-936b-4ac6-bb44-c4f41f641cb6.gif" width="100%" height="100%"/></div>
 
 ## Developing MFC Desktop Application with Web Runtime: Tabbed MDI Application
 
