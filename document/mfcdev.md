@@ -34,15 +34,6 @@
 <div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399660-91de2238-936b-4ac6-bb44-c4f41f641cb6.gif" width="100%" height="100%"/></div>
 <hr />
 
-## Developing MFC Desktop Application with Web Runtime: Tabbed MDI Application
-
-<div align=center><img src="https://media0.giphy.com/media/KlTOayCylL7mEsOq6Y/giphy.gif?cid=790b7611762ee383eb2bc03fc159a547d4d8df5c7149419e&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
-<hr />
-
 ## Developing MFC Desktop Application with Web Runtime: Doalog Application
 
 <div align=center><img src="https://media1.giphy.com/media/UGd99qfyY5XjvHhAXZ/giphy.gif?cid=790b76114983d155a4cdbee5f9903e16261bce4fba81c188&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
-
-## Developing MFC Desktop Application with Web Runtime: CFormView Processing and Serialization Support
-
-<div align=center><img src="https://media0.giphy.com/media/NSxzNXNDYtcxIS4qAA/giphy.gif?cid=790b7611dff1c65e6c509faa85e11e16db518885b7650597&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
