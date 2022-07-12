@@ -2,7 +2,7 @@
 
 # Developing WinForm Desktop Application with Web Runtime
   
-<div align=center id="WinFormApp"><img src="https://media1.giphy.com/media/jOhyi23hSd5BbQHYU1/giphy.gif?cid=790b761102efaede016d08062a70f17fe61bdcec4b96797a&rid=giphy.gif&ct=g" width="75%" height="100%"/></div>
+<div align=center id="FormDemo"><img src="https://user-images.githubusercontent.com/26355688/178508943-38767355-0878-4104-85e7-2a12b50c4d61.gif" width="75%" height="100%"/></div>
 
 <div align=center>
 <hr />
