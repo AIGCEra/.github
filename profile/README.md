@@ -8,7 +8,7 @@
 
 </div>
 
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178264631-17346753-6743-4724-b562-d9512079ccf6.gif" width="100%" />
+<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/178388648-f56665c0-ec2b-4966-b9a2-210d7f3706d0.gif" width="100%" />
 
 **(Indeed, from the perspective of webruntime, a desktop software itself is a universe, and different desktop software can be regarded as different "parallel universes".)**
 
