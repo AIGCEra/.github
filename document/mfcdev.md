@@ -1,9 +1,3 @@
-<div align=center>
-
-#  Developing MFC Desktop Application with Web Runtime(loading may take a few seconds......)<div align=center><img src="https://github.com/TangramDev/.github/releases/download/res/MFCAppDev.gif" width="100%" height="100%"/></div>
-</div>
-<hr />
-
 ## Developing MFC Desktop Application with Web Runtime: Preparation
 
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/178397966-43d11cef-e82e-493f-8324-e82ec29503df.gif" width="100%" height="100%"/></div>
