@@ -4,6 +4,14 @@
 </div>
 
 
+## Developing MFC Desktop Application with Web Runtime: Preparation
+
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/178397966-43d11cef-e82e-493f-8324-e82ec29503df.gif" width="100%" height="100%"/></div>
+
+## Developing MFC Desktop Application with Web Runtime: AppBase
+
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/178398149-d6d33022-4b2e-428c-bb03-4cd720d7d8d5.gif" width="100%" height="100%"/></div>
+
 ## Developing MFC Desktop Application with Web Runtime: Tabbed MDI Application
 
 <div align=center><img src="https://media0.giphy.com/media/KlTOayCylL7mEsOq6Y/giphy.gif?cid=790b7611762ee383eb2bc03fc159a547d4d8df5c7149419e&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
