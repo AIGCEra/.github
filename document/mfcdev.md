@@ -21,6 +21,14 @@
 <div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178398709-cb8349d0-cc24-49e5-80d1-5bda0cd18397.gif" width="100%" height="100%"/></div>
 
 
+## Developing MFC Desktop Application with Web Runtime: FormView
+
+<div align=center id ="MFCAppDev_FormView"><img src="https://user-images.githubusercontent.com/26355688/178399050-efdd1089-8365-45ac-b883-3a71ca49be01.gif" width="100%" height="100%"/></div>
+
+## Developing MFC Desktop Application with Web Runtime: Serialization
+
+<div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399190-5b69f6d1-338a-4e77-b677-7e3f970a6451.gif" width="100%" height="100%"/></div>
+
 ## Developing MFC Desktop Application with Web Runtime: Tabbed MDI Application
 
 <div align=center><img src="https://media0.giphy.com/media/KlTOayCylL7mEsOq6Y/giphy.gif?cid=790b7611762ee383eb2bc03fc159a547d4d8df5c7149419e&rid=giphy.gif&ct=g" width="100%" height="100%"/></div>
