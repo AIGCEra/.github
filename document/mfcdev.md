@@ -10,11 +10,11 @@
 
 ## Developing MFC Desktop Application with Web Runtime: AppBase
 
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/178398149-d6d33022-4b2e-428c-bb03-4cd720d7d8d5.gif" width="100%" height="100%"/></div>
+<div align=center id ="MFCAppDev_AppBase"><img src="https://user-images.githubusercontent.com/26355688/178400361-d85ac3b6-bb4b-467a-90e6-fc022bde81ea.gif" width="100%" height="100%"/></div>
 
 ## Developing MFC Desktop Application with Web Runtime: MDIFrame
 
-<div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178398488-5e4ff065-ddb6-43ae-86d3-3a70f3287a24.gif" width="100%" height="100%"/></div>
+<div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178400585-11ad06fb-74b1-49dd-9ea1-4c10217bbfe7.gif" width="100%" height="100%"/></div>
 
 ## Developing MFC Desktop Application with Web Runtime: Message Loop
 
