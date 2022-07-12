@@ -9,17 +9,17 @@
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/178430601-581d57a3-652b-4781-8da5-d1256c4f89b9.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (2)AppBase: From CWinApp(Ex) to CWebRTApp(Ex)
+## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)
 
 <div align=center id ="MFCAppDev_AppBase"><img src="https://user-images.githubusercontent.com/26355688/178430698-1bd5c36b-3828-41b1-807d-5f441d6902f6.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (3)Tabbed MDI Application: From CMDIFrameWndEx to CWebRTMDIFrame
+## (3)Tabbed MDI Application: Replace CMDIFrameWndEx with CWebRTMDIFrame
 
 <div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (4)Tabbed MDI Application Message Loop: From CMDIFrameWndEx to CWebRTMDIFrame
+## (4)Tabbed MDI Application Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame
 
 <div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div>
 <hr />
