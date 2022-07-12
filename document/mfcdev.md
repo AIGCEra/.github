@@ -6,7 +6,7 @@
 
 <div align=center>
 
-## (1)Preparation
+## (1)Preparation: This step is required for all types of MFC Desktop Applications
 
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/178430601-581d57a3-652b-4781-8da5-d1256c4f89b9.gif" width="100%" height="100%"/></div>
 <hr />
