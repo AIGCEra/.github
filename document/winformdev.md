@@ -7,7 +7,7 @@
 <div align=center>
 <hr />
 
-## (1)This step is required for all types of MFC desktop applications: Reference “cosmos.dll”, adjust manifest configuration
+## (1)This step is required for all types of WinForm desktop applications: Reference “cosmos.dll”, adjust manifest configuration
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/178502519-b3f3344c-634e-437a-8d5b-e4851f5d24db.gif" width="100%" height="100%"/></div>
 <hr />
