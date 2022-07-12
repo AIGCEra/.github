@@ -18,8 +18,7 @@
 
 ## Developing MFC Desktop Application with Web Runtime: Message Loop
 
-<div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178398709-cb8349d0-cc24-49e5-80d1-5bda0cd18397.gif" width="100%" height="100%"/></div>
-
+<div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div>
 
 ## Developing MFC Desktop Application with Web Runtime: FormView
 
