@@ -44,13 +44,28 @@
 
 # [MFC Application Development](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md)
 
+<div align=left>
+<ol>
+<li>Reference cosmos.dll component library</li>
+<li>replace "Application.Run" with " Universe WebRT. Run"</li>
+<li>correctly process the "manifest configuration" of the NET project</li>
+<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+</ol>
+  
 </div>
 <div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
 <div align=center>
 
 # [WinForm Application Development](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
 
-**For a WinForm application, the developer needs reference "cosmos.dll" component and replace "Application.Run" with " Universe WebRT. Run". The developer needs to correctly process the "manifest configuration" of the NET project and needs to configure the compilation options correctly(WebRuntime only supports 64-bit applications).**
+<div align=left>
+<ol>
+<li>Reference cosmos.dll component library</li>
+<li>replace "Application.Run" with " Universe WebRT. Run"</li>
+<li>correctly process the "manifest configuration" of the NET project</li>
+<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+</ol>
+</div>
   
 </div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="80%" />
