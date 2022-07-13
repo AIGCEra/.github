@@ -4,6 +4,23 @@
   
 <div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="75%" height="100%"/></div>
 
+<div align=left>
+<ol>
+<li>correctly process the "manifest configuration" of the MFC project</li>
+<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+<li>AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)</li>
+<li>Tabbed MDI Application: Tabbed MDIFrame Window
+<ol>
+<li>The Base Class of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>The Message Map of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+</ol>
+</li>
+<li>FormView: Delete the Call to ResizeParentToFit()</li>
+<li>Serialization</li>
+<li>Dialog Application: the Function "InitInstance" of App Class should return true</li>
+</ol>  
+</div>
+  
 <div align=center>
 <hr />  
   
