@@ -17,17 +17,17 @@
 <div align=center id ="MFCAppDev_AppBase"><img src="https://user-images.githubusercontent.com/26355688/178430698-1bd5c36b-3828-41b1-807d-5f441d6902f6.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (3)Tabbed MDI Application: Replace CMDIFrameWndEx with CWebRTMDIFrame
+## (3)Tabbed MDI Frame Window: Replace Base Class CMDIFrameWndEx with CWebRTMDIFrame
 
 <div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (4)Tabbed MDI Application Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame
+## (4)Tabbed MDI Frame Wibndow Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame
 
 <div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (5)FormView: Delete the Call to ResizeParentToFit()
+## (5)CFormView: Delete the Call to ResizeParentToFit()
 
 <div align=center id ="MFCAppDev_FormView"><img src="https://user-images.githubusercontent.com/26355688/178399844-1678d591-160b-46ec-b2b8-c17711c88c4a.gif" width="100%" height="100%"/></div>
 <hr />
@@ -39,7 +39,7 @@
 
 <div align=center>
 
-# Dialog Application
+## (7)Dialog Application
 
 <div align=center>
 
