@@ -54,7 +54,7 @@
   
 <hr />
 
-## (4)CFormView: Delete the Call to ResizeParentToFit()
+## (4)CFormView: <br>Delete the Call to ResizeParentToFit()
 
 <div align=center id ="MFCAppDev_FormView"><img src="https://user-images.githubusercontent.com/26355688/178399844-1678d591-160b-46ec-b2b8-c17711c88c4a.gif" width="100%" height="100%"/></div>
 <hr />
