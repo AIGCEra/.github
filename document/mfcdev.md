@@ -45,7 +45,7 @@
   
 <div align=center>
   
-## (3)Tabbed MDI Frame Window: 
+## (3)Tabbed MDI Application: <br>_Tabbed Main Frame Window and its Message Map_ 
   
 | _Tabbed MDI Frame Window_       | _description_                                                                                                    |
 | -- | ---------------------------------------------------------------------------------------------------------------- |
