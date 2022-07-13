@@ -22,7 +22,7 @@
 <div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (4)Tabbed MDI Application Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame
+## (4)Tabbed MDI Application Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame
 
 <div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div>
 <hr />
