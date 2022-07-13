@@ -50,6 +50,8 @@
 
 # [WinForm Application Development](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
 
+**For a WinForm application, the developer needs reference "cosmos.dll" component and replace "Application.Run" with " Universe WebRT. Run". The developer needs to correctly process the "manifest configuration" of the NET project and needs to configure the compilation options correctly(WebRuntime only supports 64-bit applications).**
+  
 </div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="80%" />
 <hr />
