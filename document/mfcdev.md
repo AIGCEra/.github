@@ -39,18 +39,18 @@
  
 <div align=left>
   
-**After replacing the base class of the App class, you need to change the return value of the overloaded function "InitInstance" of the App class to true.**
+**Developer needs to change the return value of the overloaded function "InitInstance" of the App class to true, after replacing the base class of the App class, the C++ code part required by WebRuntime has been completed**
 </dv>
 <div align=center>
 
 <div align=center><img src="https://media1.giphy.com/media/UGd99qfyY5XjvHhAXZ/giphy.gif?cid=790b76114983d155a4cdbee5f9903e16261bce4fba81c188&rid=giphy.gif&ct=g" width="67%"/></div>
 <div align=center>  
   
-### If your MFC application is an SDI, MDT or standard MFC MDI style desktop application
+### If your MFC application is an SDI, MDT or standard MFC MDI style Desktop Application
 </div> 
 <div align=left>
   
-**If there is no FormView in your MFC application, as long as the replacement of the App class base class is completed, the C++ code part required by WebRuntime has been completed. If it contains CFormView or CFormView derived classes, please refer to the following CFormView section.**  
+**If there is no CFormView or CFormView derived classes in your MFC application, as long as the replacement of the App class base class is completed, the C++ code part required by WebRuntime has been completed. If it contains CFormView or CFormView derived classes, please refer to the following CFormView section. If the application supports the Doc/View architecture, the document serialization please refers to the following serialization section.**  
 
 </dv>  
 <hr />
