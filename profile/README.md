@@ -49,10 +49,10 @@
 <li>correctly process the "manifest configuration" of the MFC project</li>
 <li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
 <li>AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)</li>
-<li>Tabbed MDI Application
+<li>Tabbed MDI Application: Tabbed MDIFrame Window
 <ol>
 <li>The Base Class of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
-<li>Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>Message Map of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
 </ol>
 </li>
 <li>FormView: Delete the Call to ResizeParentToFit()</li>
