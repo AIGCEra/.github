@@ -42,13 +42,13 @@
 
 <div align=center>
 
-# [MFC Application](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md)
+# [MFC Application Development](https://github.com/TangramDev/.github/blob/main/document/mfcdev.md)
 
 </div>
 <div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
 <div align=center>
 
-# [WinForm Application](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
+# [WinForm Application Development](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
 
 </div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="80%" />
