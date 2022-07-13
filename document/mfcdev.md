@@ -57,8 +57,14 @@
   
 <div align=center>
   
-## (3)Tabbed MDI Frame Window: Replace Base Class CMDIFrameWndEx with CWebRTMDIFrame<div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>
-
+## (3)Tabbed MDI Frame Window: 
+  
+| _Tabbed MDI Frame Window_       | _description_                                                                                                    |
+| -- | ---------------------------------------------------------------------------------------------------------------- |
+| Replace Base Class CMDIFrameWndEx with CWebRTMDIFrame| <div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>                          |
+| Tabbed MDI Frame Wibndow Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame             |<div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div></div>                    |
+  
+  
 ## (4)Tabbed MDI Frame Wibndow Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame<div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div>
 </div
 <hr />
@@ -74,8 +80,7 @@
 <hr />
 
   
-| _prop_                  | _description_                                                                                        |
-| ----------------------- | ---------------------------------------------------------------------------------------------------- |
-| Replace Base Class CMDIFrameWndEx with CWebRTMDIFrame                  | <div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>                          |
-| Tabbed MDI Frame Wibndow Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame             |<div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div>
-  </div>                    |
+| _Tabbed MDI Frame Window_       | _description_                                                                                                    |
+| -- | ---------------------------------------------------------------------------------------------------------------- |
+| Replace Base Class CMDIFrameWndEx with CWebRTMDIFrame| <div align=center id ="MFCAppDev_MDIFrame"><img src="https://user-images.githubusercontent.com/26355688/178430840-f0145e7e-b7f1-418a-82f2-e7a3fe172dcd.gif" width="100%" height="100%"/></div>                          |
+| Tabbed MDI Frame Wibndow Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame             |<div align=center id ="MFCAppDev_MsgLoop"><img src="https://user-images.githubusercontent.com/26355688/178400063-e23e474d-0127-43fe-95b5-c1ce724b4ee8.gif" width="100%" height="100%"/></div></div>                    |
