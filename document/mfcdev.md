@@ -72,5 +72,4 @@
 
 <div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399660-91de2238-936b-4ac6-bb44-c4f41f641cb6.gif" width="100%" height="100%"/></div>
 <hr />
-
-<div align=center>
+  
