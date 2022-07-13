@@ -18,18 +18,18 @@
   
 </div>
 
-## (1)This step is required for all types of WinForm desktop applications: Reference “cosmos.dll”, adjust manifest configuration
+## (1)Reference “cosmos.dll”, adjust manifest configuration
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/178502519-b3f3344c-634e-437a-8d5b-e4851f5d24db.gif" width="100%" height="100%"/></div>
 <hr />
 
-## (2)This step is required for all types of WinForm Desktop Applications.: Adjust compilation configuration
+## (2)Adjust compilation configuration
 ![](https://)
 
 <div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/178502697-56718182-8cf0-43f6-944e-fad62db908aa.gif" width="100%" height="100%"/></div>
 <hr />
   
-## (3)This step is required for all types of WinForm Desktop Applications. Open "program.cs" file, Modify main function
+## (3)Open "program.cs" file, Modify main function
 
 <div align=center id="WinFormDev_main"><img src="https://user-images.githubusercontent.com/26355688/178502334-f3e819d3-6898-4d21-b0a4-9efbf805f4aa.gif" width="100%" height="100%"/></div>
 <hr />
