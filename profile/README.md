@@ -49,13 +49,16 @@
 <li>correctly process the "manifest configuration" of the MFC project</li>
 <li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
 <li>AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)</li>
-<li>Tabbed MDI Application: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
-<li>Tabbed MDI Application Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>Tabbed MDI Application
+<ol>
+<li>The Base Class of MDIFrame Wnd: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+</ol>
+</li>
 <li>FormView: Delete the Call to ResizeParentToFit()</li>
 <li>Serialization</li>
 <li>Dialog Application: the Function "InitInstance" of App Class should return true</li>
-</ol>
-  
+</ol>  
 </div>
 <div align=center id="MFCMDI"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="80%" /></div> 
 <div align=center>
