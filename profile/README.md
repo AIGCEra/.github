@@ -46,10 +46,14 @@
 
 <div align=left>
 <ol>
-<li>Reference cosmos.dll component library</li>
-<li>replace "Application.Run" with " Universe WebRT. Run"</li>
-<li>correctly process the "manifest configuration" of the NET project</li>
-<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+<li>correctly process the "manifest configuration" of the MFC project</li>
+ <li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+<li>AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)</li>
+<li>Tabbed MDI Application: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>Tabbed MDI Application Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>FormView: Delete the Call to ResizeParentToFit()</li>
+<li>Serialization)</li>
+<li>Doalog Application: the Function "OnInstance" of App Class should return true</li>
 </ol>
   
 </div>
@@ -62,7 +66,7 @@
 <ol>
 <li>Reference cosmos.dll component library</li>
 <li>replace "Application.Run" with " Universe WebRT. Run"</li>
-<li>correctly process the "manifest configuration" of the NET project</li>
+<li>correctly process the "manifest configuration" of the .NET project</li>
 <li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
 </ol>
 </div>
