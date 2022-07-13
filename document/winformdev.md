@@ -9,10 +9,21 @@
 
 <div align=center id="GridNode"><img src="https://user-images.githubusercontent.com/26355688/178513189-7108ee88-9bf4-4cca-bea4-ca2ee9a9a3a7.gif" width="80%" height="100%"/></div>
 
+<div align=left>
+<ol>
+<li>Reference cosmos.dll component library</li>
+<li>replace "Application.Run" with " Universe WebRT. Run"</li>
+<li>correctly process the "manifest configuration" of the .NET project</li>
+<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+</ol>
+</div>
+  
+</div>
 <hr />
 <div align=center>
   
 # Prepare a C# WinForm Project (create a new Project, or open an existing Project).
+</div>
 <div>
   
   **Here we preset the name of the project as "FirstApp". All WinForm projects need the following three steps to support Web Runtime.**
@@ -25,7 +36,6 @@
 <hr />
 
 ## (2)Adjust compilation configuration
-![](https://)
 
 <div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/178502697-56718182-8cf0-43f6-944e-fad62db908aa.gif" width="100%" height="100%"/></div>
 <hr />
