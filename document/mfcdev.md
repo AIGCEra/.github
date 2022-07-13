@@ -36,7 +36,7 @@
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), This step is required for all types of MFC Desktop Applications<div align=center id ="MFCAppDev_AppBase"><img src="https://user-images.githubusercontent.com/26355688/178430698-1bd5c36b-3828-41b1-807d-5f441d6902f6.gif" width="100%" height="100%"/></div>
   
 ### If your app is an MFC Dialog Type Application
-  
+
 <div align=left>
   
 **Developer needs to change the return value of the overloaded function "InitInstance" of the App class to true, after replacing the base class of the App class, the C++ code part required by WebRuntime has been completed**
