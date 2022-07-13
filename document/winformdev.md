@@ -10,7 +10,8 @@
 <div align=center id="GridNode"><img src="https://user-images.githubusercontent.com/26355688/178513189-7108ee88-9bf4-4cca-bea4-ca2ee9a9a3a7.gif" width="80%" height="100%"/></div>
 
 <hr />
-
+<div align=center>
+  
 # Prepare a C# WinForm Project (create a new Project, or open an existing Project).
 <div>
   
@@ -33,3 +34,4 @@
 
 <div align=center id="WinFormDev_main"><img src="https://user-images.githubusercontent.com/26355688/178502334-f3e819d3-6898-4d21-b0a4-9efbf805f4aa.gif" width="100%" height="100%"/></div>
 <hr />
+</div>
