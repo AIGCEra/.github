@@ -26,7 +26,7 @@
 <hr />
 <div align=center>
   
-# Prepare a C# WinForm Project (create a new Project, or open an existing Project).
+# Prepare a C# WinForm Project <br>(create a new Project, or open an existing Project).
 </div>
 <div>
   
