@@ -52,7 +52,7 @@
 <li>Tabbed MDI Application
 <ol>
 <li>The Base Class of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
-<li>Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
+<li>Message Map: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
 </ol>
 </li>
 <li>FormView: Delete the Call to ResizeParentToFit()</li>
