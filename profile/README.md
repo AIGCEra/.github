@@ -53,7 +53,7 @@
 <li>Tabbed MDI Application Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
 <li>FormView: Delete the Call to ResizeParentToFit()</li>
 <li>Serialization</li>
-<li>Doalog Application: the Function "OnInstance" of App Class should return true</li>
+<li>Doalog Application: the Function "InitInstance" of App Class should return true</li>
 </ol>
   
 </div>
