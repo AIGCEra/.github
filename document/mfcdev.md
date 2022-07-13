@@ -39,7 +39,7 @@
 
 <div align=center>
 
-# Doalog Application
+# Dialog Application
 
 <div align=center>
 
