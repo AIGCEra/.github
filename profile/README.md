@@ -47,12 +47,12 @@
 <div align=left>
 <ol>
 <li>correctly process the "manifest configuration" of the MFC project</li>
- <li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
+<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
 <li>AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)</li>
 <li>Tabbed MDI Application: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
 <li>Tabbed MDI Application Message Loop: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
 <li>FormView: Delete the Call to ResizeParentToFit()</li>
-<li>Serialization)</li>
+<li>Serialization</li>
 <li>Doalog Application: the Function "OnInstance" of App Class should return true</li>
 </ol>
   
