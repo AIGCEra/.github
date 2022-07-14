@@ -4,29 +4,6 @@
   
 <div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="75%" height="100%"/></div>
 <div align=center>
-
-## MFC Development of WebRuntime Applications <br>need to pay attention to the following aspects：
-  
-</div>
-<div align=left>
-<ol>
-<li>correctly process the "manifest configuration" of the MFC project</li>
-<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
-<li>AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)</li>
-<li>Tabbed MDI Application: Tabbed MDIFrame Window
-<ol>
-<li>The Base Class of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
-<li>The Message Map of Tabbed MDIFrame Window: Replace CMDIFrameWndEx with CWebRTMDIFrame</li>
-</ol>
-</li>
-<li>FormView: Delete the Call to ResizeParentToFit()</li>
-<li>Serialization</li>
-<li>Dialog Application: the Function "InitInstance" of App Class should return true</li>
-</ol>  
-</div>
-  
-<div align=center>
-<hr />  
   
 ## (1)Preparation: This step is required <br>_for all types of MFC Desktop Applications_
 
@@ -62,4 +39,3 @@
 ## (5)Serialization
 
 <div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399660-91de2238-936b-4ac6-bb44-c4f41f641cb6.gif" width="100%" height="100%"/></div>
-<hr />
