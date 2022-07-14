@@ -1,6 +1,6 @@
 <div align=center>
 
-# Developing MFC Desktop Application with Web Runtime
+# Developing MFC Desktop Application Main Process with Web Runtime
 
 <div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="75%" height="100%"/></div>
 <div align=center>
