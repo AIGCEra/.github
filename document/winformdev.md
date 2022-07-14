@@ -8,21 +8,7 @@
 <div align=center id="FirstApp"><img src="https://user-images.githubusercontent.com/26355688/178510020-57c78ddb-499c-4bb1-8388-c4d181477e76.gif" width="75%" height="100%"/></div>
 
 <div align=center id="GridNode"><img src="https://user-images.githubusercontent.com/26355688/178513189-7108ee88-9bf4-4cca-bea4-ca2ee9a9a3a7.gif" width="80%" height="100%"/></div>
-<div align=center>
 
-# .NET Development of WebRuntime Applications need to pay attention to the following aspects：
-  
-</div>
-<div align=left>
-<ol>
-<li>Reference cosmos.dll component library</li>
-<li>replace "Application.Run" with " Universe WebRT. Run"</li>
-<li>correctly process the "manifest configuration" of the .NET project</li>
-<li>configure the compilation options correctly(WebRuntime only supports 64-bit applications).</li>
-</ol>
-</div>
-  
-</div>
 <hr />
 <div align=center>
   
