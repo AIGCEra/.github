@@ -32,7 +32,7 @@
   
 | _DOM Layout Type_       | _description_                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| <div align=center>**The Web Runtime enables <br>developers to load a Layout <br>Layer Structure between the <br>Window Nucleus and its <br>Parent Window using Web <br>or XML DOM Technology at <br>any stage of the Software Runtime**</div>|<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/179017113-e8899c2d-04ff-4e36-b082-7a264910b7d7.gif" width="100%" /></div>|  
+| <div align=center>**The Web Runtime enables <br>developers to load a Layout <br>Layer Structure between the <br>Window Nucleus and its <br>Parent Window using Web <br>or XML DOM Technology at <br>any stage of the Software Runtime**</div>|<div align=center id="WebRuntime1"><img src="https://user-images.githubusercontent.com/26355688/179090018-a3589b2b-e243-4313-a3ad-03f70fa6e861.gif" width="100%" /></div>|  
 |  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/178992203-05cc6766-a713-42e7-bca6-3905bef2b156.gif" width="100%" /></div><hr /><div align=center id="tabgrid"><img src="https://user-images.githubusercontent.com/26355688/178992821-d18cbe30-f67d-4255-bfd2-928464b7e0b5.gif" width="100%" /></div>|
 
 
