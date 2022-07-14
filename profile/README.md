@@ -28,17 +28,20 @@
 <div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%" /></div>
 <hr />
 
-<div align=center>
-<div align=center id="domfeature"><img src="https://user-images.githubusercontent.com/26355688/176785136-b25978af-f362-44ab-aad1-cc2539db78dc.jpg" width="100%" /></div> 
+# Basic DOM Features of the Web Runtime
+  
+| _DOM Layout Type_       | _description_                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| <div align=center>**The Web Runtime enables developers <br>to load a Layout Layer Structure <br>between the Window Nucleus and its <br>Parent Window using Web or XML DOM <br>Technology at any stage of the Software Runtime**</div>|<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%" /></div>|  
+|  <div align=center>**The Web Runtime supports two basic <br>Layout Structures, one is the Grid <br>Structure of m rows and n columns, and <br>the other is the Tab-Structure of n tabs <br>(the developer >can customize the tab <br>style), it support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/178992203-05cc6766-a713-42e7-bca6-3905bef2b156.gif" width="100%" /></div><div align=center id="tabgrid"><img src="https://user-images.githubusercontent.com/26355688/178992821-d18cbe30-f67d-4255-bfd2-928464b7e0b5.gif" width="100%" /></div>|
+
+
+
 
 # Desktop Internet begins with Window Nucleus
 
 </div>
 <div align=center id="topic2"><img src="https://user-images.githubusercontent.com/26355688/178123731-a2a0101a-2c00-4a9d-bb8c-a8156f2a83f9.jpg" width="100%" /></div>
-
-<div align=center>
-
-## A Specific Example of a Window Nucleus object from MS Excel<img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="90%" />
 
 <div align=center>
 
