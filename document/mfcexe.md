@@ -1,13 +1,13 @@
 <div align=center>
 
 # Developing MFC Desktop Application with Web Runtime
-  
+
 <div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="75%" height="100%"/></div>
 <div align=center>
   
 ## (1)Preparation: This step is required <br>_for all types of MFC Desktop Applications_
 
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/178430601-581d57a3-652b-4781-8da5-d1256c4f89b9.gif" width="100%" height="100%"/></div>
+<div align=center id="MFCAppDev_Prepare"><img src="https://user-images.githubusercontent.com/26355688/178929103-5ef5b22a-4618-4e41-ae73-5bc1ff4ebc02.gif" width="100%" height="100%"/></div>
 <hr />
 
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>_This step is required for all types of MFC Desktop Applications_<div align=center id ="MFCAppDev_AppBase"><img src="https://user-images.githubusercontent.com/26355688/178430698-1bd5c36b-3828-41b1-807d-5f441d6902f6.gif" width="100%" height="100%"/></div>
@@ -15,7 +15,7 @@
   
 | _MFC Application Type_       | _description_                                                                                                    |
 | -- | ---------------------------------------------------------------------------------------------------------------- |
-|  <div align=center>**If your app is an MFC Dialog Type Application**</div> |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <div align=center><img src="https://media1.giphy.com/media/UGd99qfyY5XjvHhAXZ/giphy.gif?cid=790b76114983d155a4cdbee5f9903e16261bce4fba81c188&rid=giphy.gif&ct=g" width="100%"/></div>                           |
+|  <div align=center>**If your app is an MFC Dialog Type Application**</div> |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <div align=center id="MFCAppDev_dlg"><img src="https://user-images.githubusercontent.com/26355688/178935032-29f4b4f5-7b91-41b7-a0de-2943368bb3ce.gif" width="100%"/></div>                           |
 | <div align=center>**If your MFC application is an _SDI_, _MDT_ or _Standard MFC MDI_ style Desktop Application**</div>|<div align=center>_If there is no CFormView or CFormView derived classes in your MFC application, as long as the replacement of the App class base class is completed, the C++ code part required by WebRuntime has been completed. If it contains CFormView or CFormView derived classes, please refer to the following CFormView section. If the application supports the Doc/View architecture, the document serialization please refers to the following serialization section._</dv>|  
  
 <hr />
