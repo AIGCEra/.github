@@ -30,18 +30,20 @@
 
 # Basic DOM Features of the Web Runtime
 
+<div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="80%" /></div>
+
 **_The Web Runtime_ enables developers to load a Layout Layer Structure 
 <br>between _the Window Nucleus_ and _its Parent Window_ 
 <br>using Web or XML DOM Technology at any stage of the Software Runtime**
-  
+
 | _DOM Layout Type_       | _description_                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------- | 
 |  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|
 
 
 # Application Development
-</div>
-<div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="80%" /></div>
+
+__WebRuntime itself implements the dynamic link library version of the Chromium Project, which clarifies that the desktop application based on WebRuntime technology itself is essentially the browsing process of Chromium, that is to say, WebRuntime makes the developer's application project into the browsing process of Chromium. The specific development process is that the developer must first prepare (or create) a desktop software project. For MFC or WinForm developers, we give specific conversion steps.__
   
 | _Application Type_       | _description_                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
