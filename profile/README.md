@@ -30,13 +30,9 @@
 
 # Basic DOM Features of the Web Runtime
 
-**_The Web Runtime_ enables
-developers to load a Layout
-Layer Structure between _the
-Window Nucleus_ and _its
-Parent Window_ using Web
-or XML DOM Technology at
-any stage of the Software Runtime**
+**_The Web Runtime_ enables developers to load a Layout Layer Structure 
+<br>between _the Window Nucleus_ and _its Parent Window_ 
+<br>using Web or XML DOM Technology at any stage of the Software Runtime**
 
 
   
