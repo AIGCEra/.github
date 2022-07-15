@@ -36,7 +36,7 @@
   
 | _DOM Layout Type_       | _description_                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------- | 
-|  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179233475-2b89e2df-c25f-4eb8-a4c1-53d9c768b6f3.gif" width="100%" /></div>|
+|  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|
 
 
 # Application Development
