@@ -36,14 +36,10 @@
 |  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/178992203-05cc6766-a713-42e7-bca6-3905bef2b156.gif" width="100%" /></div><hr /><div align=center id="tabgrid"><img src="https://user-images.githubusercontent.com/26355688/178992821-d18cbe30-f67d-4255-bfd2-928464b7e0b5.gif" width="100%" /></div>|
 
 
-# Desktop Internet begins with Window Nucleus
+# Application Development
 
 </div>
-<div align=center id="topic2"><img src="https://user-images.githubusercontent.com/26355688/178123731-a2a0101a-2c00-4a9d-bb8c-a8156f2a83f9.jpg" width="100%" /></div>
-
-<div align=center>
-
-# Application Development
+<div align=center id="topic2"><img src="https://user-images.githubusercontent.com/26355688/178123731-a2a0101a-2c00-4a9d-bb8c-a8156f2a83f9.jpg" width="80%" /></div>
   
 | _Application Type_       | _description_                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
