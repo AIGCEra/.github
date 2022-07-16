@@ -29,22 +29,14 @@
 | _Core Features_       |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | -- | ---------------------------------------------------------------------------------------------------------------- |
 |  <div align=center>**Between any Window Nucleus <br>and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "excel"><br><img id="RuntimePos" src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%"/><br><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
-|  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|
+|  <div align=center>**The Web Runtime supports <br>two basic Layout Structures, <br>one is the Grid Structure <br>of m rows and n columns, <br>and the other is the <br>Tab-Structure of n tabs <br>(the developer can <br>customize the tab style), it <br>support any level composite <br>layout of these two basic structures.**</div> | <div align=center>**_The Web Runtime_ enables developers to load a Layout Layer Structure <br>between _the Window Nucleus_ and _its Parent Window_ <br>using Web or XML DOM Technology at any stage of the Software Runtime**</div><div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|
 | <div align=center>**Web Runtime implements the Dynamic Link Library Version of the Chromium Project.**</div> |<div align=center>__This Feature ensures that developers can use their familiar development techniques to construct a Browsing Process that suits their wishes. In a specific Desktop Application, other Processes of the Chromium project(such as rendering process, GPU process, etc.) are completely preserved.<hr/>The developer develops the Browsing Process with familiar development technology, which means that the First Created Window may not be the Web Browser Window, but the window that the developer needs(such as a WinForm form form or MFC Window, etc.), which seems to be significantly different from the standard browser.__</div>|  
   
 </div>
 <hr />
 
-# Basic DOM Features of the Web Runtime
-
+  # Application Development
 <div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="80%" /></div>
-
-**_The Web Runtime_ enables developers to load a Layout Layer Structure 
-<br>between _the Window Nucleus_ and _its Parent Window_ 
-<br>using Web or XML DOM Technology at any stage of the Software Runtime**
-
-
-# Application Development
   
 | _Application Type_       | _description_                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
