@@ -43,7 +43,7 @@
 
 # Application Development
 
-__WebRuntime itself implements _the Dynamic Link Library Version_ of the Chromium Project, which clarifies that the desktop application based on WebRuntime technology itself is essentially _the Browsing Process_ of Chromium, that is to say, WebRuntime makes the developer's application project into the browsing process of Chromium. The specific development process is that the developer must first prepare (or create) a desktop software project. For MFC or WinForm developers, we give specific conversion steps.__
+__Web Runtime itself implements _the Dynamic Link Library Version_ of the Chromium Project, which ensures that developers can use their familiar development techniques to construct a browsing process that suits their wishes. In specific applications, other processes of the Chromium project (such as rendering process, GPU process, etc.) are completely preserved. Developers only need to convert their existing or newly created application projects into browsing processes, and then the software Content boils down to a web-based organizational model. Of course, the Web Runtime ensures that mainstream components can be fully incorporated into the new Web DOM system.__
   
 | _Application Type_       | _description_                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
