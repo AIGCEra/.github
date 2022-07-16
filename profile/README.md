@@ -29,7 +29,7 @@
 | _Core Features_       |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | -- | ---------------------------------------------------------------------------------------------------------------- |
 |  <div align=center>**Between any Window Nucleus <br>and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "excel"><br><img id="RuntimePos" src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%"/><br><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
-| <div align=center>**Web Runtime implements the Dynamic Link Library Version of the Chromium Project.**</div> |<div align=center>__Web Runtime itself implements _the Dynamic Link Library Version_ of the Chromium Project, <br>which ensures that developers can use their familiar development techniques to construct a browsing process that suits their wishes. In specific applications, other processes of the Chromium project (such as rendering process, GPU process, etc.) are completely preserved.__</div>|  
+| <div align=center>**Web Runtime implements the Dynamic Link Library Version of the Chromium Project.**</div> |<div align=center>__This Feature ensures that developers can use their familiar development techniques to construct a browsing process that suits their wishes. In specific applications, other processes of the Chromium project (such as rendering process, GPU process, etc.) are completely preserved.__</div>|  
   
 </div>
 <hr />
@@ -48,10 +48,6 @@
 
 
 # Application Development
-
-__Web Runtime itself implements _the Dynamic Link Library Version_ of the Chromium Project, <br>which ensures that developers can use their familiar development techniques to construct <br>a browsing process that suits their wishes. In specific applications, other processes of <br>the Chromium project (such as rendering process, GPU process, etc.) are completely preserved.__
-
-<br>__Developers only need to convert their existing or newly created application projects into browsing processes, <br>and then the software Content boils down to a web-based organizational model. Of course, <br>the Web Runtime ensures that the mainstream components(such as .NET, COM and C++, etc.) <br>can be fully incorporated into the new Web DOM system.__
   
 | _Application Type_       | _description_                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
