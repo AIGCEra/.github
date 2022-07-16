@@ -43,7 +43,7 @@
 
 # Application Development
 
-__Web Runtime itself implements _the Dynamic Link Library Version_ of the Chromium Project, which ensures that developers can use their familiar development techniques to construct a browsing process that suits their wishes. In specific applications, other processes of the Chromium project (such as rendering process, GPU process, etc.) are completely preserved. Developers only need to convert their existing or newly created application projects into browsing processes, and then the software Content boils down to a web-based organizational model. Of course, the Web Runtime ensures that mainstream components can be fully incorporated into the new Web DOM system.__
+__Web Runtime itself implements _the Dynamic Link Library Version_ of the Chromium Project, <br>which ensures that developers can use their familiar development techniques to construct <br>a browsing process that suits their wishes. In specific applications, other processes of <br>the Chromium project (such as rendering process, GPU process, etc.) are completely preserved. <br>Developers only need to convert their existing or newly created application projects into browsing processes, <br>and then the software Content boils down to a web-based organizational model. Of course, <br>the Web Runtime ensures that mainstream components can be fully incorporated into the new Web DOM system.__
   
 | _Application Type_       | _description_                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------- |
