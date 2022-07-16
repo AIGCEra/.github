@@ -21,15 +21,15 @@
  
 <div align=center id="CoreConcept">
   
-# The Goal of Web Runtime is devoted to unify the Development of Desktop and Web Software, it is based on the following two core features:
+# The Goal of Web Runtime is devoted to unify <br>the Development of Desktop and Web Software, <br>it is based on the following two core features:
 </duv>
 <div align=center>
 
 
-| _Core Features_       |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                                                                 |
+| _Core Features_       |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | -- | ---------------------------------------------------------------------------------------------------------------- |
-|  <div align=center>**Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "excel"><br><img id="RuntimePos" src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%"/><br><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
-| <div align=center>**Web Runtime implements the Dynamic Link Library Version of the Chromium Project.**</div> |<div align=center>e component organization capabilities, and various window objects can be aggregated around it. In a sense, each Desktop Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way like galaxy is surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Descriis surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Descriis surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structu</div>|  
+|  <div align=center>**Between any Window Nucleus <br>and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "excel"><br><img id="RuntimePos" src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%"/><br><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
+| <div align=center>**Web Runtime implements the Dynamic Link Library Version of the Chromium Project.**</div> |<div align=center>__Web Runtime itself implements _the Dynamic Link Library Version_ of the Chromium Project, <br>which ensures that developers can use their familiar development techniques to construct a browsing process that suits their wishes. In specific applications, other processes of the Chromium project (such as rendering process, GPU process, etc.) are completely preserved.__</div>|  
   
 </div>
 <hr />
