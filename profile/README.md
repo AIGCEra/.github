@@ -16,32 +16,22 @@
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
-<hr/>
-<div align=center id="goal"><img src="https://user-images.githubusercontent.com/26355688/179355409-2efca821-bbcb-46e4-ba86-8f8feec97ed1.jpg" width="100%" /></div>
-
-<div align=center>
   
+<hr/>
+ 
+<div align=center id="CoreConcept">
+  
+# The Goal of Web Runtime is devoted to unify the Development of Desktop and Web Software, it is based on the following two core features:
+</duv>
+<div align=center>
+
+
 | _Core Features_       | _Description_                                                                                                    |
 | -- | ---------------------------------------------------------------------------------------------------------------- |
-|  <div align=center>**Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "excel"><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
+|  <div align=center>**Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "excel"><br><img id="RuntimePos" src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%"/><br><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
 | <div align=center>**Web Runtime implements the Dynamic Link Library Version of the Chromium Project.**</div> |<div align=center>_WebRuntime allows an executable file to have any number of "__Runtime Instance States__", which is significantly different from traditional development techniques. Each "Runtime Instance State" depends on a local folder, and within each such folder contains a configuration file, an initialization Web page and subfolders closely related to the __Runtime State__, data files, and a necessary component of the application system. Different Runtime States have completely different runtime structures, similar to a Second-Order Partial Differential Equation, we know that every Second-Order Partial Differential Equation with clear physical meaning (such as the famous wave equation), Its initial value conditions and boundary conditions determine the physical meaning of the solution of this equation. The description of each __Desktop Application Runtime Instance State__ may determine the structure of a software universe, and the differences between different states can be interpreted as Different Parallel Universes._</div>|  
   
 </div>
-
-
-
-
-
-
-
-<hr />
-
-<div align=center>
-
-# Web Gene of Desktop Window
-
-</div>
-<div align=center id="topic3"><img src="https://user-images.githubusercontent.com/26355688/178163763-0a524252-e6ee-4903-88bb-9f161bee8d8a.jpg" width="100%" /></div>
 <hr />
 
 # Basic DOM Features of the Web Runtime
