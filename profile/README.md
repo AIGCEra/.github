@@ -21,7 +21,7 @@
  
 <div align=center id="CoreConcept">
   
-# The Goal of Web Runtime is devoted to unify <br>the Development of Desktop and Web Software, <br>it is based on the following two core features:
+# The Goal of Web Runtime is devoted to unify <br>the Development of Desktop and Web Software, <br>it is based on the following core features:
 </duv>
 <div align=center>
 
