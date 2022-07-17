@@ -25,7 +25,6 @@
 # The Goal of Web Runtime is devoted to unify <br>the Development of Desktop and Web Software, <br>it is based on the following core features:
 
 <div align=center>
-![image](https://)
 
 |_Core Features_|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | ------ | ---------------------------------------------------------------------------------------------------------------- |
