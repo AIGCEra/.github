@@ -17,6 +17,20 @@
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
 <hr />
+
+<div align=center id="CoreConcept">
+  
+# Technical Strategy of Web Runtime
+
+<div align=center>
+
+<div align=left>How to activate the inherent genes of "Desktop Child Window" and make those components (.Net, COM, C++, Java, etc.) that meet industrial standards surround them according to the rules of modern web is the basic problem faced by Web Runtime. To this end, we need to implement the following technical strategies:</div><br>
+
+<div align=center>Allow developers to use their most familiar development languages (such as C#, MFC, etc.) <br>to develop the browsing process of chromium project. This strategy will eliminate <br>the boundary between Desktop Software and Web Browser, and make web technology <br>become a part of Desktop Software  Basic Technical Architecture.
+</div><br>
+
+<div align=left>Once developers can develop the browsing process of the Chromium Project according to their own wishes, the boundary of the Web DOM will be broken naturally, and the Peripheral Space of the Window Nucleus will become an extension of the scope of the Web DOM.</div>
+
 <div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="100%" /></div>  
 <hr/>
  
