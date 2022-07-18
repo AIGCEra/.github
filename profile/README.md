@@ -31,7 +31,7 @@
 
 <div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179627115-c58d33fe-0a96-4e00-aa14-a2af0851b98c.png" width="100%" /><br>
 
-**(When more and more similar phenomena are excavated in other application systems, <br>we realize that for a long time we have ignored the "commonality" <br>hidden behind the window nucleus, which is worth digging into)**
+**(When more and more similar phenomena are excavated <br>in other application systems, we realize that for a long time we have ignored the "commonality" <br>hidden behind the window nucleus, which is worth digging into)**
 
 <div align=center id="eclipseNucleus"><img src="https://user-images.githubusercontent.com/26355688/179629275-fdf1f991-77d7-4a0d-b479-78adff25b4b5.jpg" width="80%" />
 <div align=left>
