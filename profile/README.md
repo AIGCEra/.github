@@ -20,7 +20,7 @@
 
 <div align=center id="CoreConcept">
   
-# Technical Strategy of Web Runtime
+# Technical Strategy of Web Runtime will eliminate <br>the Boundary between Desktop Software and Web Browser
 
 <div align=center>
 
