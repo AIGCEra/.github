@@ -15,7 +15,7 @@
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
-
+<br>
 <div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179539682-2ced5887-b34e-4bde-8f27-f20ed0875703.jpg" width="90%" /><br>
 
 **(Around the window nucleus is a programmable world that developers have not touched so far.<br> It should be said that this peripheral world is a "blind spot")**</div>
