@@ -4,7 +4,7 @@
 </div>
 <div align=center>
 
-## The innate Desktop Software Genes enable each Desktop Child Window to have powerful </br>and flexible component organization capabilities, and various window objects can be </br>aggregated around it. Although this gene is innate, how and under what conditions it </br>can be activated are two key questions facing the desktop software. In a sense, each </br>Desktop Child Window could become something like "the galactic nuclei of those huge </br>galaxies in the universe". We know that every Milky Way like galaxy is surrounded by </br>hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us </br>to see under certain conditions each Window Object surrounded by a huge, Web </br>Description-Driven Object Structure.
+## The innate Desktop Software Genes enable each Desktop Child Window to have powerful and flexible component organization capabilities, and various window objects can be aggregated around it. Although this gene is innate, how and under what conditions it can be activated are two key questions facing the desktop software. In a sense, each Desktop Child Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way like galaxy is surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.
 </div>
 
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" />
