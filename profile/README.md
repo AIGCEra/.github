@@ -22,6 +22,17 @@
 **(Around the window nucleus is a programmable world that developers have not touched so far.<br> It should be said that this peripheral world is a "blind spot")**</div>
 
 **We may always think that the "internal WebView" of a browser window is relatively static, just as we think that the so-called "stellar" is always "static". In fact, the window nucleus is like a beating heart, which may affect its surrounding environment all the time. When we realize that every star has an accretion disk, and the scale around it is generally not less than 1 light-year, the unique position of our solar system will be shaken in our mind. The window nucleus reminds us of all this: those things that seem to be static are actually in violent motion, probably because they are "far away", and we can't feel it……**
+
+
+<div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179627115-c58d33fe-0a96-4e00-aa14-a2af0851b98c.png" width="100%" /><br>
+
+**(When more and more similar phenomena are excavated in other application systems, <br>we realize that for a long time we have ignored the "commonality" <br>hidden behind the window nucleus, which is worth digging into)**
+
+![eclipse](https://user-images.githubusercontent.com/26355688/179629275-fdf1f991-77d7-4a0d-b479-78adff25b4b5.jpg)
+
+<div align=left>
+**We believe that the decisive factor that makes the structure of desktop software change greatly is the "window nucleus", rather than the special design of a certain type of window object. That is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
+</div>
 <hr />
 <div align=center id="CoreConcept">
   
