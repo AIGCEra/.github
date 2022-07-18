@@ -44,16 +44,24 @@ different from Standard Web Browsers, the first visible window can be a Develope
  
 <div align=center id="CoreConcept">
   
-# The Goal of Web Runtime is devoted <br>to unify the Development of Desktop and Web Software
+# The Web Gene of Desktop Child Window
 </div>
 
-<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" /></div>
+<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" /><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/>
+</div>
+
+<hr />
 
 <div align=center>
 
+<div align=center id="CoreConcept">
+  
+# The Core Features of Web Runtime
+</div>
+
 |_Web Runtime Core Features_|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | ------ | ---------------------------------------------------------------------------------------------------------------- |
-|  <div align=center>**Between any Window Nucleus <br>and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "ChildWndGene2"><br><img id="WebGeneChildWnd" src="https://user-images.githubusercontent.com/26355688/179456149-1a007bee-ed02-4c52-bf8a-ddc55c715b21.jpg" width="100%"/><br><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/></div>|
+|  <div align=center>**Between any Window Nucleus <br>and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "ChildWndGene2"><br><img id="WebGeneChildWnd" src="https://user-images.githubusercontent.com/26355688/179456149-1a007bee-ed02-4c52-bf8a-ddc55c715b21.jpg" width="100%"/></div>|
 |<div align=center id="BasicLayout"><img src="https://user-images.githubusercontent.com/26355688/179394341-176ee7c1-0a9b-44c1-a435-1aa7123fc2dc.png" width="100%"/></div>| <div align=center>**_The Web Runtime_ enables developers to load a Layout Layer Structure <br>between _the Window Nucleus_ and _its Parent Window_ <br>using Web or XML DOM Technology at any stage of the Software Runtime**</div><div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|
 |<div align=center id="BasicLayout"><img src="https://user-images.githubusercontent.com/26355688/179395039-e1be757f-c499-4ba1-9ec8-21dcacccf469.png" width="100%"/></div>|<img id="BrowsingProcess" src="https://user-images.githubusercontent.com/26355688/179390066-6163f407-8424-4c68-9217-fffe300e062c.gif" width="100%"/></div>|  
 | <div align=center>__.NET Framework for Desktop Application__</div> |<div align=center>_Similar to __Microsoft Visual Basic for Application__, __Web Runtime__ supports <br>__.NET Framework for Desktop Application__, which means that both __WinForm__ and __Usercontrol__ <br>are  within the scope of "__Content-Oriented WebDOM__" of the application._</div><div align=center id="ClrForApp"><img src="https://user-images.githubusercontent.com/26355688/179387353-e9ad7cab-20ac-401d-89dd-ae0396e6e20b.jpg" width="100%"/></div><br><div align=center>__Developers can instantiate WinForm object instances in web pages, and use WinForm, <br>Usercontrol and standard DOM elements to synthesize new web pages. Developers can process .NET object events in the page. Web Runtime implements The two-way delegation mechanism makes Web and desktop elements (Win32 elements and WinForm, Usercontrol, etc.) friendly interoperability.__</div>|    
