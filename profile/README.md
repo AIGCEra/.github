@@ -35,7 +35,7 @@
 
 <div align=left>
 
-**Once developers can develop the browsing process of the Chromium Project according to their own wishes, the boundary of the Web DOM will be broken naturally, and the Peripheral Space of the Window Nucleus will become an extension of the scope of the Web DOM.**</div><br>
+**Once developers can develop the browsing process of the Chromium Project according to their own wishes, the boundary of the Web DOM will be broken naturally, and the Peripheral Space of the Window Nucleus will become an extension of the scope of the Web DOM.**</div>
 
 <div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="100%" /></div>  
 <hr/>
