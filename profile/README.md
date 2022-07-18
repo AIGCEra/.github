@@ -24,12 +24,18 @@
 
 <div align=center>
 
-<div align=left>How to activate the inherent genes of "Desktop Child Window" and make those components (.Net, COM, C++, Java, etc.) that meet industrial standards surround them according to the rules of modern web is the basic problem faced by Web Runtime. To this end, we need to implement the following technical strategies:</div><br>
+<div align=left>
 
-<div align=center>Allow developers to use their most familiar development languages (such as C#, MFC, etc.)<br>and the most familiar application structure (such as the application structure from the Visual Studio Wizard) <br>to develop the Browsing Process of Chromium Project. This strategy will eliminate <br>the Boundary between Desktop Software and Web Browser, and make Web Technology <br>become a part of Desktop Software  Basic Technical Architecture.
-</div><br>
+**How to activate the inherent genes of "Desktop Child Window" and make those components (.Net, COM, C++, Java, etc.) that meet industrial standards surround them according to the rules of modern web is the basic problem faced by Web Runtime. To this end, we need to implement the following technical strategies:**</div>
 
-<div align=left>Once developers can develop the browsing process of the Chromium Project according to their own wishes, the boundary of the Web DOM will be broken naturally, and the Peripheral Space of the Window Nucleus will become an extension of the scope of the Web DOM.</div><br>
+<div align=center>
+
+**Allow developers to use their most familiar development languages (such as C#, MFC, etc.)<br>and the most familiar application structure (such as the application structure from the Visual Studio Wizard) <br>to develop the Browsing Process of Chromium Project. This strategy will eliminate <br>the Boundary between Desktop Software and Web Browser, and make Web Technology <br>become a part of Desktop Software  Basic Technical Architecture.**
+</div>
+
+<div align=left>
+
+**Once developers can develop the browsing process of the Chromium Project according to their own wishes, the boundary of the Web DOM will be broken naturally, and the Peripheral Space of the Window Nucleus will become an extension of the scope of the Web DOM.**</div><br>
 
 <div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="100%" /></div>  
 <hr/>
