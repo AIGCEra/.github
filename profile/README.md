@@ -17,7 +17,14 @@
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
 <hr />
+<div align=center id="CoreConcept">
+  
+# The Web Gene of Desktop Child Window
+</div>
 
+<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" />
+</div>
+<hr /> 
 <div align=center id="CoreConcept">
   
 # The Technical Strategy of Web Runtime will _Eliminate_ <br>the Boundary between _Desktop Software_ and _Web Browser_
@@ -42,14 +49,7 @@ different from Standard Web Browsers, the first visible window can be a Develope
   
   **In a specific Desktop Application, other Processes of the Chromium Project(such as rendering process, GPU process, etc.)are completely preserved.**</div><hr/>
  
-<div align=center id="CoreConcept">
-  
-# The Web Gene of Desktop Child Window
-</div>
-
-<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" />
-</div>
-<hr />  
+ 
 <div align=center id="CoreConcept">
 
 # The Web Strategy of Web Runtime allows us <br>to build a Larger Web DOM <br>around the Peripheral Space of Window Nucleus
