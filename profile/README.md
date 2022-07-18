@@ -26,7 +26,7 @@
 
 **(Around the window nucleus is a programmable world that developers have not touched so far.<br> It should be said that this peripheral world is a "blind spot")**</div>
 
-**We may always think that the "internal WebView" of a browser window is relatively static, just as we think that the so-called "stellar" is always "static". In fact, the window nucleus is like a beating heart, which may affect its surrounding environment all the time. When we realize that every star has an accretion disk, and the scale around it is generally not less than 1 light-year, the unique position of our solar system will be shaken in our mind. The window nucleus reminds us of all this: those things that seem to be static are actually in violent motion, probably because they are "far away", and we can't feel it……**
+**When we realize that every star has an accretion disk, and the scale around it is generally not less than 1 light-year, the unique position of our solar system will be shaken in our mind. The window nucleus reminds us of all this: those things that seem to be static are actually in violent motion, probably because they are "far away", and we can't feel it……**
 
 
 <div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179627115-c58d33fe-0a96-4e00-aa14-a2af0851b98c.png" width="100%" /><br>
