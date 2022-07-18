@@ -35,8 +35,8 @@
 
 <div align=left>
 
-**Developers can develop the browsing process of the Chromium Project according to their own wishes, which means that completely
-different from standard browsers, the first visible window can be a Developer-Defined Window (such as WinForms or MFC windows, etc.):**</div>
+**Developers can develop the Browsing Process of the Chromium Project according to their own wishes, which means that completely
+different from Standard Web Browsers, the first visible window can be a Developer-Defined Window (such as WinForms or MFC windows, etc.):**</div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="45%" /><br>
   
   **(First Visible Window is a WinForm)**</div>
