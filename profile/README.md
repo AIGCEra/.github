@@ -35,9 +35,11 @@
 
 <div align=left>
 
-**Once developers can develop the browsing process of the Chromium Project according to their own wishes, the boundary of the Web DOM will be broken naturally, and the Peripheral Space of the Window Nucleus will become an extension of the scope of the Web DOM.**</div>
+**Developers can develop the browsing process of the Chromium Project according to their own wishes, which means that completely
+different from standard browsers, the first visible window can be a Developer-Defined Window (such as WinForms or MFC windows, etc.):**</div>
+<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="45%" /><br>(**First Visible Window is a WinForm**)</div>
 
-<div align=center id="PeripheralSpace"><img src="https://user-images.githubusercontent.com/26355688/179315596-9e163a5f-c7c3-4dd6-8817-3b9df85dc017.jpg" width="100%" /></div>  
+<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="45%" /><br>(**First Visible Window is a MFC MDI Frame Window**)</div>
 <hr/>
  
 <div align=center id="CoreConcept">
