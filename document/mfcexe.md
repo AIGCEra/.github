@@ -11,7 +11,7 @@
 <hr />
 
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>_This step is required for all types of MFC Desktop Applications_<div align=center id ="MFCAppDev_AppBase"><img src="https://user-images.githubusercontent.com/26355688/178430698-1bd5c36b-3828-41b1-807d-5f441d6902f6.gif" width="100%" height="100%"/></div>
-### More information:
+### More information after Replace CWinApp(Ex) with CWebRTApp(Ex):
   
 | _MFC Application Type_       | _description_                                                                                                    |
 | -- | ---------------------------------------------------------------------------------------------------------------- |
