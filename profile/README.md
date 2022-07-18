@@ -15,7 +15,12 @@
 <hr />
 
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="95%" /></div> 
-<br>
+<hr />
+
+<div align=center>
+  
+# Get to know the Window Nucleus
+</div>
 
 <div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179625971-8e16596d-8a07-4880-9653-1c46c33ec869.jpg" width="90%" /><br>
 
