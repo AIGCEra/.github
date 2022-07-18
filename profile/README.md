@@ -31,6 +31,7 @@
 ![eclipse](https://user-images.githubusercontent.com/26355688/179629275-fdf1f991-77d7-4a0d-b479-78adff25b4b5.jpg)
 
 <div align=left>
+  
 **We believe that the decisive factor that makes the structure of desktop software change greatly is the "window nucleus", rather than the special design of a certain type of window object. That is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
 </div>
 <hr />
