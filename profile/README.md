@@ -52,7 +52,7 @@ different from Standard Web Browsers, the first visible window can be a Develope
 <hr />  
 <div align=center id="CoreConcept">
 
-# The Web Strategy of Web Runtime allows us to build <br>a Larger Web DOM around the Peripheral Space of Window Nucleus
+# The Web Strategy of Web Runtime allows us <br>to build a Larger Web DOM <br>around the Peripheral Space of Window Nucleus
 
 **Every window nucleus can be comparable to the galactic nucleus of a huge galaxy, <br>and the world around it has an infinite level of hierarchy. Let's take excel as <br>an example to take a look at the dynamic world around the window nucleus, which <br>is a web driven world that developers have never touched. Once we regard the window <br>nucleus as a galactic nucleus, then every desktop software structure will show a <br>cosmic structure similar to that observed today......**
 </div>  
