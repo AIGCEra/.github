@@ -1,7 +1,7 @@
 <div align=center>
 
 # [Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
-
+</div>
 <div align=center>
 
 ## The innate Desktop Software Genes enable each Desktop Child Window to have powerful and flexible component organization capabilities, and various window objects can be aggregated around it. In a sense, each Desktop Child Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way like galaxy is surrounded by hundreds of billions of stars, **WebRuntime** acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.
@@ -21,12 +21,6 @@
 <div align=center id="CoreConcept">
   
 # Technical Strategy of Web Runtime will eliminate <br>the Boundary between Desktop Software and Web Browser
-
-<div align=center>
-
-<div align=left>
-
-**How to activate the inherent genes of "Desktop Child Window" and make those components (.Net, COM, C++, Java, etc.) that meet industrial standards surround them according to the rules of modern web is the basic problem faced by Web Runtime. To this end, we need to implement the following technical strategies:**</div>
 
 <div align=center>
 
@@ -50,7 +44,13 @@ different from Standard Web Browsers, the first visible window can be a Develope
  
 <div align=center id="CoreConcept">
   
-# The Goal of Web Runtime is devoted to unify <br>the Development of Desktop and Web Software, <br>it is based on the following core features:
+# The Goal of Web Runtime is devoted to unify <br>the Development of Desktop and Web Software
+<div align=center>
+
+**How to activate the inherent genes of "Desktop Child Window" and make those components (.Net, COM, C++, Java, etc.) that meet industrial standards surround them according to the rules of modern web is the basic problem faced by Web Runtime. Web Runtime ensure that :"Between any Window Nucleus
+and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it"**</div>
+
+</div>
 
 <div align=center>
 
