@@ -47,9 +47,15 @@ different from Standard Web Browsers, the first visible window can be a Develope
 # The Web Gene of Desktop Child Window
 </div>
 
-<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" /><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/>
+<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" />
 </div>
+<hr />  
+<div align=center id="CoreConcept">
 
+# The Peripheral Space of Window Nucleus
+</div>  
+<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="100%"/>
+</div>
 <hr />
 
 <div align=center>
