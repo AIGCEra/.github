@@ -21,7 +21,8 @@
   
 # Get to know the Window Nucleus
 </div>
-
+<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="80%" />
+</div>
 <div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179625971-8e16596d-8a07-4880-9653-1c46c33ec869.jpg" width="90%" /><br>
 
 **(Around the window nucleus is a programmable world that developers have not touched so far.<br> It should be said that this peripheral world is a "blind spot")**</div>
@@ -39,14 +40,7 @@
 **We believe that the decisive factor that makes the structure of desktop software change greatly is the "window nucleus", rather than the special design of a certain type of window object. That is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
 </div>
 <hr />
-<div align=center id="CoreConcept">
-  
-# The Web Gene of Desktop Child Window
-</div>
 
-<div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="100%" />
-</div>
-<hr /> 
 <div align=center id="CoreConcept">
   
 # The Technical Strategy of Web Runtime will _Eliminate_ <br>the Boundary between _Desktop Software_ and _Web Browser_
