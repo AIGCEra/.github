@@ -16,7 +16,7 @@
 </div> 
 <div align=center>
 
-# [Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
+# [Desktop Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
 </div>
 
 | _Application Type_   | _description_                                                                              |
