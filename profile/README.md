@@ -31,7 +31,7 @@
   
 ## [More Information for Application Development...](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
 </div>
- 
+ <hr />
 <div align=center>
   
 # [Get to know the _Window Nucleus_ <br>New Web, New Desktop Application World](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
