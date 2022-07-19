@@ -43,7 +43,7 @@
 <div align=center id="eclipseNucleus"><img src="https://user-images.githubusercontent.com/26355688/179629275-fdf1f991-77d7-4a0d-b479-78adff25b4b5.jpg" width="80%" />
 <div align=left>
   
-**When we envision the world around the window nucleus in terms of galactic nuclei or accretion disks around stars, we seem to be indicating that the world around the window nucleus is a huge world. We believe that the decisive factor that makes the structure of desktop software change greatly is the "window nucleus", rather than the special design of a certain type of window object. That is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
+**When we envision the world around the window nucleus in terms of galactic nuclei or accretion disks around stars, we seem to be indicating that the world around the window nucleus is a huge world. We believe that the decisive factor that makes the structure of desktop software change greatly is the "Window Nucleus", rather than the special design of a certain type of window object, that is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
 </div>
   
 <div align=center id="excel"><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="80%"/></div>
@@ -70,7 +70,7 @@
   **(First Visible Window is a MFC MDI Frame Window)**</div>
 <div align=left>
   
-  **In a specific Desktop Application, other Processes of the Chromium Project(such as renderer process, GPU process, etc.)are completely preserved. In fact, the difference between _a Desktop Web Browser_ and _a Desktop Application_ is just the difference in the First Web Page, the design principle of the Web Browser is that after the first Web page is opened, a Browser Window is generated. When developers have the ability to develop their own Browser Process, this principle changes when the Browser Process is started. Developers are fully capable of interpreting the First Web Page of the Browser Process as an object they want, in this sense, the Web Browser should be the Smallest Desktop Application System, the Browser Windows(and .NET WinForm Objects) should be a group of objects shared by all Desktop Software. Developers can write Web pages belonging to the application system for their own application systems, and each Web page can open a browser window, of course, can also open a more general window object(such as WinForm). We see that the meaning of a web page changes when the Browser Process can be redefined by the developer...**</div>
+  **In a specific Desktop Application, other Processes of the Chromium Project(such as renderer process, GPU process, etc.) are completely preserved. In fact, the difference between _a Desktop Web Browser_ and _a Desktop Application_ is just the difference in the First Web Page, the design principle of the Web Browser is that after the first Web page is opened, a Browser Window is generated. When developers have the ability to develop their own Browser Process, this principle changes when the Browser Process is started. Developers are fully capable of interpreting the First Web Page of the Browser Process as an object they want, in this sense, the Web Browser should be the Smallest Desktop Application System, the Browser Windows(and .NET WinForm Objects) should be a group of objects shared by all Desktop Software. Developers can write Web pages belonging to the application system for their own application systems, and each Web page can open a browser window, of course, can also open a more general window object(such as WinForm). We see that the meaning of a web page changes when the Browser Process can be redefined by the developer...**</div>
   
 <div align=center id="AppPage1"><img src="https://user-images.githubusercontent.com/26355688/179521064-8798c09c-5e1a-480d-ad80-a69b931f9684.jpg" width="80%" /><br>
   
@@ -81,7 +81,7 @@
 
 <div align=left>
   
-**When the developer can define the Browser process by himself, he is fully capable of mixing his Own Defined Window Object Queue with the Browser Window Queue, and then scheduling these window objects with the Web-based driving ability. In the vision of WebRuntime, The independent window objects (such as WinForm, MFC Frame, etc.) are parallel to the Browser Window, and each type of window can support the display of Web pages, which means that the privileged status of the Browser Window will disappear, The dynamic description technique will be fully embodied in the more general window object.**
+**When the developer can define the Browser Process by himself, he is fully capable of mixing his Own Defined Window Object Queue with the Browser Window Queue, and then scheduling these window objects with the Web-based driving ability. In the vision of WebRuntime, The independent window objects (such as WinForm, MFC Frame, etc.) are parallel to the Browser Window, and each type of window can support the display of Web pages, which means that the privileged status of the Browser Window will disappear, The dynamic description technique will be fully embodied in the more general window object.**
 </div>
 <hr/>
  
