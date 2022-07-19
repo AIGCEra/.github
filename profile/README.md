@@ -86,7 +86,7 @@
 </div>
 <div align=right>
   
-## [more Core Features......](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
+## [more core features......](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
 </div>
 <hr />
 
@@ -102,6 +102,6 @@
 
 <div align=right>
   
-## [more Application Development......](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
+## [More Information for Application Development......](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
 </div>
  
