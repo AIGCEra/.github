@@ -64,7 +64,7 @@
 
 **(Around the green window nucleus, we see another surrounding structure}**
 </div>
-
+<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179698094-40585138-11c7-46bb-863b-afec911129ea.gif" width="80%" />
 <hr />
 
 <div align=center>
@@ -86,8 +86,6 @@
 </div>
 
 # Application Development
-
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179698094-40585138-11c7-46bb-863b-afec911129ea.gif" width="95%" />
 
 | _Application Type_   | _description_                                                                              |
 | ---------------------| ---------------------------------------------------------------------------------------------------------------- |
