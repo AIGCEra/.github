@@ -78,6 +78,11 @@
 <div align=center id="AppPage2"><img src="https://user-images.githubusercontent.com/26355688/179521598-c58b6b53-40ba-4e1d-8701-a5005dd13a09.jpg" width="80%" /><br>
   
   **(Application oriented web pages mean that there is <br>a software content ecosystem based on Web technology for desktop applications}**</div>
+
+<div align=left>
+  
+**When the developer can define the Browser process by himself, he is fully capable of mixing his Own Defined Window Object Queue with the Browser Window Queue, and then scheduling these window objects with the Web-based driving ability. In the vision of WebRuntime, The independent window objects (such as WinForm, MFC Frame, etc.) are parallel to the Browser Window, and each type of window can support the display of Web pages, which means that the privileged status of the Browser Window will disappear, The dynamic description technique will be fully embodied in the more general window object.**
+</div>
 <hr/>
  
  
