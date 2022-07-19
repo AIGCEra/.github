@@ -61,10 +61,7 @@
 <div align=right>
   
 ## [more information](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
-</div> 
-
-<hr/>
- 
+</div>  
  
 <div align=center id="CoreConcept">
 
