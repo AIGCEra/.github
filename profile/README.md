@@ -22,7 +22,7 @@
 # [Web Runtime Desktop Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
 <div align=left>
 
-**Web Runtime allows developers to develop Windows Desktop Applications based on Chromium Project, and extends the Description Driven Technology of the WEB to the Peripheral Space of the Window Nucleus, making developers take Web Technology as the leading role and construct their own Web Application Ecosystem around the key concept of the Window Nucleus. How to convert existing or newly created desktop software projects to projects that match the Browser Process of Chromium Project is the first key problem faced by WebRuntime Development.**
+**Web Runtime allows developers to develop Windows Desktop Applications based on Chromium Project, and extends the Description Driven Technology of the Web to the Peripheral Space of the Window Nucleus, making developers take Web Technology as the leading role and construct their own Web Application Ecosystem around the key concept of the Window Nucleus. How to convert existing or newly created desktop software projects to projects that match the _Browser Process_ of Chromium Project is the first key problem faced by Web Runtime Development.**
 </div>
 </div>
 
