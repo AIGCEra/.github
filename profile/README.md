@@ -71,7 +71,7 @@
 
 <div align=center id="CoreConcept">
   
-# The Core Features of Web Runtime
+# [The Core Features of Web Runtime](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
 </div>
 
 |_Web Runtime Core Features_|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
@@ -85,7 +85,7 @@
 ## [more core features...](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
 </div>
 
-# Application Development
+# [Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
 
 | _Application Type_   | _description_                                                                              |
 | ---------------------| ---------------------------------------------------------------------------------------------------------------- |
