@@ -28,14 +28,9 @@
 </div>
 
 **Because of Hubble telescope, we can see those hundreds of billions of stars around the galactic nucleus, due to we lack infrastructure like "Hubble" in the desktop software field, therefore the space around the window nucleus has not entered the developer's sight, and it is time to change this status quo.**
-
-<div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179625971-8e16596d-8a07-4880-9653-1c46c33ec869.jpg" width="90%" /><br>
-
-**(Around the window nucleus is a programmable world that developers have not touched so far.<br> It should be said that this peripheral world is a "blind spot")**</div>
-
 <div align=right>
   
-## [more information](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
+## [more information......](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
 </div>
 
 <div align=center id="CoreConcept">
@@ -52,15 +47,11 @@
 **Developers can develop the _Browser Process_ of the Chromium Project according to their own wishes, which means that completely different from Standard Web Browsers, the First Visible Window can be a Developer-Defined Window (such as WinForms or MFC windows, etc.):**</div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="45%" /><br>
   
-  **(First Visible Window is a WinForm)**</div>
+**(First Visible Window is a WinForm)**</div>
 
-<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="45%" /></div><br>
-  
-  **(First Visible Window is a MFC MDI Frame Window)**</div>
-  
 <div align=right>
   
-## [more information](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
+## [more information......](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 </div>  
  
 <div align=center id="CoreConcept">
