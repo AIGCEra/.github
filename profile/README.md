@@ -14,11 +14,16 @@
 **With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble deep space to Webb deep space, unimaginable details in the past appear in our sight. Similarly, when we have webruntime in the field of desktop software, a scene worthy of expectation will also appear. With the help of Web Runtime, the desktop is enlarged, and the infinite hierarchy of desktop window can be displayed, If the surrounding space of many child windows enters our horizon, a magnified universe will surface. Indeed, from the perspective of webruntime, a desktop software itself is a universe, and different desktop software can be regarded as different "parallel universes".**
 </div> 
 </div> 
+<hr />
+<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="100%" /></div> 
+<hr />
 <div align=center>
 
 # [Web Runtime Desktop Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
-  
-**How to convert existing or newly created desktop software projects to projects that match the Browser Process of Chromium Project is the first key problem faced by WebRuntime Development.**
+<div align=left>
+
+**Web runtime allows developers to develop Windows Desktop Applications based on Chromium Project, and extends the Description Driven Technology of the WEB to the Peripheral Space of the Window Nucleus, making developers take Web Technology as the leading role and construct their own Web Application Ecosystem around the key concept of the Window Nucleus. How to convert existing or newly created desktop software projects to projects that match the Browser Process of Chromium Project is the first key problem faced by WebRuntime Development.**
+</div>
 </div>
 
 | _Application Type_ | _description_                                                                              |
@@ -36,7 +41,6 @@
   
 # [Get to know the _Window Nucleus_ <br>New Web, New Desktop Application World](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
 </div>
-<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="80%" /></div> 
 
 **Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" are both typical representative of the window nuclei, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus ...**
 
