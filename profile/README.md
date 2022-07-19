@@ -14,7 +14,7 @@
 </div> 
 <div align=center>
   
-# Get to know the _Window Nucleus_ <br>New Web, New Desktop Application World
+# [Get to know the _Window Nucleus_ <br>New Web, New Desktop Application World](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
 </div>
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="80%" /></div> 
 
@@ -31,7 +31,7 @@
 
 <div align=center id="CoreConcept">
   
-# The Technical Strategy of Web Runtime will _Eliminate_ <br>the Boundary between _Desktop Software_ and _Web Browser_
+# [The Technical Strategy of Web Runtime will _Eliminate_ <br>the Boundary between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 
 <div align=center>
 
