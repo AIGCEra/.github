@@ -22,7 +22,7 @@
 # Get to know the Window Nucleus
 </div>
 
-**Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" is a typical representative of the window nucleus, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus...**
+**Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" are both typical representative of the window nuclei, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus...**
 
 <div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="80%" />
 </div>
@@ -43,7 +43,7 @@
 <div align=center id="eclipseNucleus"><img src="https://user-images.githubusercontent.com/26355688/179629275-fdf1f991-77d7-4a0d-b479-78adff25b4b5.jpg" width="80%" />
 <div align=left>
   
-**We believe that the decisive factor that makes the structure of desktop software change greatly is the "window nucleus", rather than the special design of a certain type of window object. That is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
+**When we envision the world around the window nucleus in terms of galactic nuclei or accretion disks around stars, we seem to be indicating that the world around the window nucleus is a huge world. We believe that the decisive factor that makes the structure of desktop software change greatly is the "window nucleus", rather than the special design of a certain type of window object. That is to say, desktop windows have inherent dynamic design properties in most cases, which do not depend on the original design of the application, and are an inherent property.**
 </div>
   
 <div align=center id="excel"><img src="https://user-images.githubusercontent.com/26355688/177030478-b4953bb3-b301-4ab4-9203-18a660307732.gif" width="80%"/></div>
