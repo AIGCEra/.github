@@ -21,8 +21,14 @@
   
 # Get to know the Window Nucleus
 </div>
+
+**Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" is a typical representative of the window nucleus, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus...**
+
 <div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="80%" />
 </div>
+
+**Because of Hubble telescope, we can see those hundreds of billions of stars around the galactic nucleus, due to we lack infrastructure like "Hubble" in the desktop software field, therefore the space around the window nucleus has not entered the developer's sight, and it is time to change this status quo.**
+
 <div align=center id="WebViewNucleus"><img src="https://user-images.githubusercontent.com/26355688/179625971-8e16596d-8a07-4880-9653-1c46c33ec869.jpg" width="90%" /><br>
 
 **(Around the window nucleus is a programmable world that developers have not touched so far.<br> It should be said that this peripheral world is a "blind spot")**</div>
