@@ -19,7 +19,7 @@
 
 <div align=center>
   
-# Get to know the Window Nucleus
+# Get to know the _Window Nucleus_
 </div>
 
 **Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" are both typical representative of the window nuclei, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus...**
