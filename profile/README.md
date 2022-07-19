@@ -35,10 +35,8 @@
 
 <div align=right>
   
-### [more information](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
-
+## [more information](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
 </div>
-<hr />
 
 <div align=center id="CoreConcept">
   
