@@ -17,7 +17,7 @@
 </div>
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="80%" /></div> 
 
-**Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" are both typical representative of the window nuclei, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus...**
+**Just as every extragalactic galaxy we see through a telescope has a galactic nucleus,  in most cases, those independent desktop windows we see (windows without a parent window) will have at least one window nucleus (except for those that completely owner-draw).  Before the advent of large astronomical telescopes, the galaxy we saw was basically a point of light or we thought it was a luminous object, completely unaware that these objects were comparable to our Milky Way. The window nucleus must be surrounded by something, otherwise the concept of "nucleus" will lose its original meaning. The well-known MFC CView object and the .NET Usercontrol object whose Dock property value is "DockFill" or "DockNone" are both typical representative of the window nuclei, the WebView that hosts the Web page is also a well-known window nucleus, the center position  of those content windows based on the document concept basically contains a window nucleus ...**
 
 <div align=center id="ChildWndGene"><img src="https://user-images.githubusercontent.com/26355688/179455288-7b62f43d-a5e4-4403-bf14-de6c9beb4a25.jpg" width="80%" />
 </div>
@@ -25,7 +25,7 @@
 **Because of Hubble telescope, we can see those hundreds of billions of stars around the galactic nucleus, due to we lack infrastructure like "Hubble" in the desktop software field, therefore the space around the window nucleus has not entered the developer's sight, and it is time to change this status quo.**
 <div align=right>
   
-## [more information......](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
+## [more information...](https://github.com/TangramDev/.github/blob/main/document/aboutwndnucleus.md)
 </div>
 
 <div align=center id="CoreConcept">
@@ -46,7 +46,7 @@
 
 <div align=right>
   
-## [more information......](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
+## [more information...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 </div>  
  
 <div align=center id="CoreConcept">
@@ -81,7 +81,7 @@
 </div>
 <div align=right>
   
-## [more core features......](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
+## [more core features...](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
 </div>
 
 # Application Development
@@ -94,6 +94,6 @@
 
 <div align=right>
   
-## [More Information for Application Development......](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
+## [More Information for Application Development...](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
 </div>
  
