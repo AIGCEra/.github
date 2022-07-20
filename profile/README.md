@@ -24,7 +24,7 @@
 # Activate Innate Genes of Child Window
 </div>
 
-## **if your Desktop Application Project can be used as the Browser Process of Chromium Project, and a Child Window is a Window Nucleus:**
+## **if your Desktop Application Project can be used as the Browser Process of Chromium Project, and a Child Window is a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md):**
 <div align=center id="WndNucleusDef"><img src="https://user-images.githubusercontent.com/26355688/179977020-58d5bbd7-51cb-471b-9800-ba297776c7bb.jpg" width="80%" /></div> 
 
 **Then the innate gene of this Child Window can be activated by web technology. and the Desktop Software will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**
