@@ -4,28 +4,15 @@
 </div>
 <div align=left>
 
-**Every Child Window in the Desktop Software has an innate gene, this gene enables it to have a powerful, flexible and Web-based object organization capability, which in turn makes other types of child windows (such as MFC windows, WinForm/Usercontrol, ActiveX Control, etc.) can surround it according to Web layout.**
+## Every Child Window in the Desktop Software has an innate gene, this gene enables it to have a powerful, flexible and Web-based object organization capability, which in turn makes other types of child windows (such as MFC windows, WinForm/Usercontrol, ActiveX Control, etc.) can surround it according to Web layout.<div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/179959927-6de6244f-cd48-416e-a85b-0750c2ec54b1.jpg" width="67%" /></div>In a sense, each Child Window has the potential to become something like "_the Galactic Nuclei of those Huge Galaxies in the Universe_". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, Web Runtime acts like a Hubble Telescope, allowing us to see under certain conditions each Child Window surrounded by a Huge, Web Description-Driven Object Structure.<br><br><div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" /></div><br><div align=left>With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble deep space to Webb deep space, unimaginable details in the past appear in our sight. Similarly, when we have _Web Runtime_ in the field of Desktop Software, a scene worthy of expectation will also appear. With the help of Web Runtime, the Desktop Software is enlarged, and the infinite hierarchy of Desktop Window can be displayed, If the surrounding space of many child windows enters our horizon, a magnified universe will surface. Indeed, from the perspective of _Web Runtime_, a desktop software itself is a _Universe_, and Different Desktop Software can be regarded as Different "_Parallel Universes_".</div></div> 
 
-<div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/179959927-6de6244f-cd48-416e-a85b-0750c2ec54b1.jpg" width="67%" /></div>
-
-**In a sense, each Child Window has the potential to become something like "_the Galactic Nuclei of those Huge Galaxies in the Universe_". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, Web Runtime acts like a Hubble Telescope, allowing us to see under certain conditions each Child Window surrounded by a Huge, Web Description-Driven Object Structure.**
-</div>
-
-<div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" />
-
-<div align=left>
-
-**With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble deep space to Webb deep space, unimaginable details in the past appear in our sight. Similarly, when we have _Web Runtime_ in the field of Desktop Software, a scene worthy of expectation will also appear. With the help of Web Runtime, the Desktop Software is enlarged, and the infinite hierarchy of Desktop Window can be displayed, If the surrounding space of many child windows enters our horizon, a magnified universe will surface. Indeed, from the perspective of _Web Runtime_, a desktop software itself is a _Universe_, and Different Desktop Software can be regarded as Different "_Parallel Universes_".**
-</div> 
-</div> 
-<hr />
 <div align=center>
 
 # Activate Innate Genes of Child Window
 </div>
 
 
-## **if your Desktop Application Project can be used as the _Browser Process_ of _Chromium Project_, and a Child Window is a Window Nucleus:**<br><br><div align=center id="WndNucleusDef"><img src="https://user-images.githubusercontent.com/26355688/179977020-58d5bbd7-51cb-471b-9800-ba297776c7bb.jpg" width="100%" /><div align=center>__([More Information About Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md))__</div><br><div align=left>**Then the innate gene of this Child Window can be activated by web technology. and the Desktop Software will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**</div>
+## **if your Desktop Application Project can be used as the _Browser Process_ of _Chromium Project_, and a Child Window is a Window Nucleus:**<br><br><div align=center id="WndNucleusDef"><img src="https://user-images.githubusercontent.com/26355688/179977020-58d5bbd7-51cb-471b-9800-ba297776c7bb.jpg" width="100%" /><div align=center>__([More Information About Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md))__</div><br><div align=left>**Then the innate gene of this Child Window can be activated by _Web Technology_. and the Desktop Software will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**</div>
 </div> 
 
 <div align=center>
