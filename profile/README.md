@@ -14,7 +14,7 @@
 **With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble deep space to Webb deep space, unimaginable details in the past appear in our sight. Similarly, when we have _Web Runtime_ in the field of Desktop Software, a scene worthy of expectation will also appear. With the help of Web Runtime, the Desktop Software is enlarged, and the infinite hierarchy of Desktop Window can be displayed, If the surrounding space of many child windows enters our horizon, a magnified universe will surface. Indeed, from the perspective of _Web Runtime_, a desktop software itself is a _Universe_, and Different Desktop Software can be regarded as Different "_Parallel Universes_".**
 </div> 
 </div> 
-<hr />
+
 <div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="67%" /></div> 
 <hr />
 <div align=center>
