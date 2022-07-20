@@ -4,14 +4,14 @@
 </div>
 <div align=left>
 
-**The innate Desktop Software Genes enable each Desktop Child Window to have powerful and flexible component organization capabilities, and various window objects can be aggregated around it. Although this gene is innate, how and under what conditions it can be activated are two key questions facing the desktop software. In a sense, each Desktop Child Window could become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way like galaxy is surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.**
+**Every Child Window in the Desktop Software has an innate gene, this gene enables it to have a powerful, flexible and Web-based object organization capability, which in turn makes other types of child windows (such as MFC windows, WinForm/ .NET Usercontrol etc.) can surround it according to the principle of Web layout, how to activate this gene in a desktop software and under what conditions can activate this gene are the core issues of Web Runtime. In a sense, each Child Window has the potential to become something like "the galactic nuclei of those huge galaxies in the universe". We know that every Milky Way like galaxy is surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble telescope, allowing us to see under certain conditions each Window Object surrounded by a huge, Web Description-Driven Object Structure.**
 </div>
 
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" />
 
 <div align=left>
 
-**With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble deep space to Webb deep space, unimaginable details in the past appear in our sight. Similarly, when we have webruntime in the field of desktop software, a scene worthy of expectation will also appear. With the help of Web Runtime, the desktop is enlarged, and the infinite hierarchy of desktop window can be displayed, If the surrounding space of many child windows enters our horizon, a magnified universe will surface. Indeed, from the perspective of webruntime, a desktop software itself is a universe, and different desktop software can be regarded as different "parallel universes".**
+**With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble deep space to Webb deep space, unimaginable details in the past appear in our sight. Similarly, when we have Web Runtime in the field of Desktop Software, a scene worthy of expectation will also appear. With the help of Web Runtime, the Desktop Software is enlarged, and the infinite hierarchy of Desktop Window can be displayed, If the surrounding space of many child windows enters our horizon, a magnified universe will surface. Indeed, from the perspective of webruntime, a desktop software itself is a universe, and different desktop software can be regarded as different "parallel universes".**
 </div> 
 </div> 
 <hr />
