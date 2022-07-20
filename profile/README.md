@@ -6,7 +6,7 @@
 
 **Every Child Window in the Desktop Software has an innate gene, this gene enables it to have a powerful, flexible and Web-based object organization capability, which in turn makes other types of child windows (such as MFC windows, WinForm/Usercontrol, ActiveX Control, etc.) can surround it according to Web layout.**
 
-<div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/179938949-e05f1154-c0c5-47f4-9673-5e72c4b79196.jpg" width="67%" /></div>
+<div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/179959927-6de6244f-cd48-416e-a85b-0750c2ec54b1.jpg" width="67%" /></div>
 
 **In a sense, each Child Window has the potential to become something like "_the Galactic Nuclei of those Huge Galaxies in the Universe_". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, Web Runtime acts like a Hubble Telescope, allowing us to see under certain conditions each Child Window surrounded by a Huge, Web Description-Driven Object Structure.**
 </div>
