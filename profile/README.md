@@ -11,18 +11,12 @@
 # How to Activate the Innate Genes of Child Window
 </div>
 
-## **if your Desktop Application Project can be used as the _Browser Process_ of _Chromium Project_, and a Child Window is a Window Nucleus:**<br><br><div align=center id="WndNucleusDef"><img src="https://user-images.githubusercontent.com/26355688/179977020-58d5bbd7-51cb-471b-9800-ba297776c7bb.jpg" width="100%" /><div align=center>__([More Information About Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md))__</div><br><div align=left>**Then the innate gene of this Child Window can be activated by _Web Technology_. and the Desktop Software will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**</div>
-</div> 
+## **if your Desktop Application Project can be used as the _Browser Process_ of _Chromium Project_, and a Child Window is a Window Nucleus:**<br><br><div align=center id="WndNucleusDef"><img src="https://user-images.githubusercontent.com/26355688/179977020-58d5bbd7-51cb-471b-9800-ba297776c7bb.jpg" width="100%" /><div align=center>__([More Information About Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md))__</div><br><div align=left>**Then the innate gene of this Child Window can be activated by _Web Technology_. and the Desktop Software will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**</div></div><div align=center><div align=center id="WindowNucleus"><img src="https://user-images.githubusercontent.com/26355688/179928057-6d329386-6aa6-4d5b-a41a-6f6e253de23e.jpg" width="80%" /><br>***(When we pay attention to the window nucleus, the appearance around the <br>Window Nucleus opens a new horizon for us, and we see unprecedented changes. <br>Like the Hubble deep space field, the curtain of the new world has opened)***</div>
 
-<div align=center>
+<div align=center>  
 
-<div align=center id="WindowNucleus"><img src="https://user-images.githubusercontent.com/26355688/179928057-6d329386-6aa6-4d5b-a41a-6f6e253de23e.jpg" width="80%" /> 
-  
-  ***(When we pay attention to the window nucleus, the appearance around the window nucleus <br>opens a new horizon for us, and we see unprecedented changes. <br>Like the Hubble deep space field, the curtain of the new world has opened)***
-</div>
-<hr />
-  
 # [Web Runtime Desktop Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
+</div>
 <div align=left>
 
 ## Web Runtime allows developers to develop Windows Desktop Applications based on Chromium Project, and extends the Description Driven Technology of the Web to the Peripheral Space of the Window Nucleus, making developers take Web Technology as the leading role and construct their own Web Application Ecosystem around the key concept of the Window Nucleus. How to convert existing or newly created desktop software projects to projects that match the _Browser Process_ of Chromium Project is the first key problem faced by Web Runtime Development.
