@@ -4,7 +4,7 @@
 </div>
 <div align=left>
 
-**Every Child Window in the Desktop Software has an innate gene, this gene enables it to have a powerful, flexible and Web-based object organization capability, which in turn makes other types of child windows (such as MFC windows, WinForm/ .NET Usercontrol etc.) can surround it according to the principle of Web layout, how to activate this gene in a Desktop Software and under what conditions can activate this gene are the core issues of Web Runtime. In a sense, each Child Window has the potential to become something like "_the Galactic Nuclei of those Huge Galaxies in the Universe_". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, WebRuntime acts like a Hubble Telescope, allowing us to see under certain conditions each Window Object surrounded by a Huge, Web Description-Driven Object Structure.**
+**Every Child Window in the Desktop Software has an innate gene, this gene enables it to have a powerful, flexible and Web-based object organization capability, which in turn makes other types of child windows (such as MFC windows, WinForm/ .NET Usercontrol etc.) can surround it according to the principle of Web layout, how to activate this gene in a Desktop Software and under what _conditions_ can activate this gene are the _core issues of Web Runtime_. In a sense, each Child Window has the potential to become something like "_the Galactic Nuclei of those Huge Galaxies in the Universe_". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, Web Runtime acts like a Hubble Telescope, allowing us to see under certain conditions each Child Window surrounded by a Huge, Web Description-Driven Object Structure.**
 </div>
 
 <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" />
@@ -27,7 +27,7 @@
 </div>
 
 | _Application Type_ | _description_                                                                              |
-| -------------------| ---------------------------------------------------------------------------------------------------------------- |
+| ----------------------| ---------------------------------------------------------------------------------------------------------------- |
 | <div align=center>__[WinForm Application](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)__</div>|<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="100%" /></div>|  
 |  <div align=center> __[MFC Application](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)__</div> |<div align=center></div> <div align=center><img src="https://user-images.githubusercontent.com/26355688/179771205-2fdffe75-1ca8-48a8-b5b4-0e5c4489521b.jpg" width="100%"/></div>|
 
