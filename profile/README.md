@@ -19,10 +19,15 @@
 </div> 
 </div> 
 <hr />
-<div align=center id="CoreConcept"><img src="https://user-images.githubusercontent.com/26355688/177946608-74c5ab41-95fc-42e8-b3db-6c69459396a6.jpg" width="67%" /></div> 
+<div align=center>
 
+# Activate Innate Genes of Child Window
+</div>
 
-**When a Child Window becomes a Window Nucleus, the inherent genes of the Child Window itself will be activated, and the Desktop Software World will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**
+## **if your Desktop Application Project can be used as the Browser Process of Chromium Project, and a Child Window is a Window Nucleus:**
+<div align=center id="WndNucleusDef"><img src="https://user-images.githubusercontent.com/26355688/179977020-58d5bbd7-51cb-471b-9800-ba297776c7bb.jpg" width="80%" /></div> 
+
+**Then the innate gene of this Child Window can be activated by web technology. and the Desktop Software will have unprecedented dynamic changes, which urges us to focus on the "Window Nucleus". Because the conditions required by window nucleus are very weak, the impact of window nucleus is extensive.**
 
 <div align=center>
 
