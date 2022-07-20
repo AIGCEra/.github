@@ -16,15 +16,8 @@
 
 <div align=left>
 
-**Developers can develop the _Browser Process_ of the Chromium Project according to their own wishes, which means that completely different from Standard Web Browsers, the First Visible Window can be a Developer-Defined Window (such as WinForms or MFC windows, etc.):**</div>
-<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="45%" /><br>
-  
-**(First Visible Window is a WinForm)**</div>
+## How to convert existing or newly created desktop software projects to projects that match the Browser Process of Chromium Project is the first key problem faced by Web Runtime Development.<div align=center><div align=center>__[WinForm Application](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)__</div><div align=center> __[MFC Application](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)__</div><div></div><div align=left>Developers can develop the _Browser Process_ of the Chromium Project according to their own wishes, which means that completely different from Standard Web Browsers, the First Visible Window can be a Developer-Defined Window (such as WinForms or MFC windows, etc.):</div><br><div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="45%" /><br>(First Visible Window is a WinForm)</div><div align=right>[more information...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)</div>
 
-<div align=right>
-  
-## [more information...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
-</div>
 <div align=center>  
 
 # [Web Runtime Desktop Application Development](https://github.com/TangramDev/.github/blob/main/document/ApplicationDevelopment.md)
