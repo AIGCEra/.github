@@ -15,7 +15,7 @@
 
 <div align=center>
 
-**Thanks to Web Runtime's implementation of _the Dynamic Link Library Version of the Chromium Project_, <br>developers can use their _most familiar development languages_(such as C#, MFC, etc.) and _the most familiar <br>application structure_ (such as the application structure from the _Visual Studio Wizard_) to  develop the "_Browser Process_" <br>of Chromium Project. This strategy will eliminate the Boundary between Desktop Software and Web Browser, <br>and make Web Technology become a part of _Desktop Software Basic Technical Architecture_.**
+**Benefit from Web Runtime's implementation of _the Dynamic Link Library Version of the Chromium Project_, <br>developers can use their _most familiar development languages_(such as C#, MFC, etc.) and _the most familiar <br>application structure_ (such as the application structure from the _Visual Studio Wizard_) to  develop the "_Browser Process_" <br>of Chromium Project. This strategy will eliminate the Boundary between Desktop Software and Web Browser, <br>and make Web Technology become a part of _Desktop Software Basic Technical Architecture_.**
 </div>
 
 <div align=left>
