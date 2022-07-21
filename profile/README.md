@@ -3,7 +3,7 @@
 # [Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
 </div>
 
-### <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" /></div><div align=center>(In many scenarios, desktop software is like a universe, with many huge worlds hidden <br>around numerous child windows, and the Web Runtime is a space telescope, <br>revealing the depths of the universe that have been hidden from the developer's sight...)</div>
+### <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" /></div><div align=center>(In most scenarios, desktop software is like a universe, with many huge worlds hidden <br>around numerous child windows, and the Web Runtime is a space telescope, <br>revealing the depths of the universe that have been hidden from the developer's sight...)</div>
 <div align=left>
 <hr />
 
@@ -15,7 +15,7 @@
 
 <div align=center>
 
-**Benefit from Web Runtime's implementation of _the Dynamic Link Library Version of the Chromium Project_, <br>developers can use their _most familiar development languages_(such as C#, MFC, etc.) and _the most familiar <br>application structure_ (such as the application structure from the _Visual Studio Wizard_) to  develop the "_Browser Process_" <br>of Chromium Project. This strategy will eliminate the Boundary between Desktop Software and Web Browser, <br>and make Web Technology become a part of _Desktop Software Basic Technical Architecture_.**
+**Benefit from Web Runtime's implementation of _the Dynamic Link Library Version of the Chromium Project_, <br>developers can use their _most familiar development languages_(such as C#, MFC, etc.) and _the most familiar <br>application structure_ (such as the application structure from the _Visual Studio Wizard_) to  develop the "_Browser Process_" <br>of Chromium Project. This strategy will eliminate the Boundary between Desktop Software and Web Browser, <br>and make Web Technology become a part of _Desktop Software Basic Architecture_.**
 </div>
 
 <div align=left>
