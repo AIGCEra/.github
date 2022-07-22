@@ -13,10 +13,16 @@
 </div>
 
 ### If the _Runtime Position_ of a ***Child Window*** only depends on <div align=center><br>the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message of its Parent Window,</div><br> then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br>
+<hr />
 
-***Innate Web Gene of Window Nucleus***|
-| ------ | 
-|  <div align=center>***a _Powerful_, _Flexible_ and _Web-Based Object Organization Ability_, any number of other types of child windows (such as _MFC Windows_, _WinForms, .Net Usercontrols_, _ActiveX Controls_, ..., etc.) can surround it according to a Web Layout.***</div><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180394163-f9a5dc7c-bbdd-472a-a422-6e66c3a4c3a9.gif" width="90%"><br>&emsp;&emsp;__(The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description-Driven Capabilities comparable to WebView)__&emsp;&emsp;</div>|
+<div align=center>
+
+# __Innate Web Gene of Window Nucleus__
+</div>
+
+<div align=center>
+
+***Every Window Nucleus has an Innate Web Gene: a _Powerful_, _Flexible_ and _Web-Based Object Organization Ability_, any number of other types of child windows (such as _MFC Windows_, _WinForms, .Net Usercontrols_, _ActiveX Controls_, ..., etc.) can surround it according to a Web Layout.***</div><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180394163-f9a5dc7c-bbdd-472a-a422-6e66c3a4c3a9.gif" width="90%"><br>&emsp;&emsp;__(The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description-Driven Capabilities comparable to WebView)__&emsp;&emsp;</div>
 
 ### In fact, the _Periphery_ of Window Nucleus is _an Infinite Hierarchy Object Structure_ driven by  _Web Descriptions_. In a sense, every ***Window Nucleus*** has the ***Potential*** to become something like "***the Galactic Nuclei of those Huge Galaxies in the Universe***". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, Web Runtime acts like a Hubble Telescope, allowing us to see under certain conditions each Window Nucleus surrounded by a Huge, Web Description-Driven Object Structure.<br><br><div align=left>With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble Deep Space to Webb Deep Space, unimaginable details of the Universe in the past appear in our sight. Similarly, when we have _Web Runtime_ in the field of Desktop Software, a scene worthy of expectation will also appear. With the help of Web Runtime, the Desktop Software is enlarged, and _the infinite hierarchy of Desktop Window_ can be displayed, If the surrounding space of many Window Nuclei enters our horizon, a magnified universe will surface. Indeed, from the perspective of _Web Runtime_, a desktop software itself is a _Universe_, and Different Desktop Software can be regarded as Different "_Parallel Universes_".</div></div></div>
 <hr /> 
