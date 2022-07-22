@@ -12,9 +12,9 @@
 # The Core Obect of Web Runtime: ***[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)***
 </div>
 
-### If the _Runtime Position_ of a ***Child Window*** only depends on <div align=center><br>the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message of its Parent Window,</div><br> then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br><br><div align=left>***Every Window Nucleus*** in the ***Desktop Software*** has an “***Innate Web Gene***”
+### If the _Runtime Position_ of a ***Child Window*** only depends on <div align=center><br>the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message of its Parent Window,</div><br> then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br>
 
-|__Web Gene of Window Nucleus:__|
+***Innate Web Gene of Window Nucleus***|
 | ------ | 
 |  <div align=center>***a _Powerful_, _Flexible_ and _Web-Based Object Organization Ability_, any number of other types of child windows (such as _MFC Windows_, _WinForms, .Net Usercontrols_, _ActiveX Controls_, ..., etc.) can surround it according to a Web Layout.***</div> |
 
