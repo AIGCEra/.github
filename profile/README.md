@@ -16,7 +16,7 @@
 
 
 
-### If the _Runtime Position_ of a ***Child Window*** only depends on <div align=center><br>the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message of its Parent Window,</div><br> then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br><br><div align=left>***Every Window Nucleus*** in the ***Desktop Software*** has an “***Innate Web Gene***”:
+### If the _Runtime Position_ of a ***Child Window*** only depends on <div align=center><br>the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message of its Parent Window,</div><br> then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br><br><div align=left>***Every Window Nucleus*** in the ***Desktop Software*** has an “***Innate Web Gene***”,
 
 |__Web Gene of Window Nucleus:__|
 | ------ | 
