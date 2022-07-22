@@ -12,7 +12,7 @@
 # The Core Obect of Web Runtime: ***[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)***
 </div>
 
-### If the _Runtime Position_ of a ***Child Window*** only depends on <div align=center><br>the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message of its Parent Window,</div><br> then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br>
+### If the _Runtime Position_ of a ***Child Window*** only depends on the <div align=center><br>[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)</div><br>Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br>
 <hr />
 
 <div align=center>
