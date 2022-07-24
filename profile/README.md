@@ -25,7 +25,7 @@
 <hr /> 
 <div align=center id="CoreConcept"> 
 
-# [The Technical Strategy of Web Runtime will _Eliminate_ <br>the Boundary between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
+# [Web Runtime will _Eliminate_ <br>the Boundary between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 
 <div align=center>
 
