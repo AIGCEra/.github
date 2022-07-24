@@ -8,7 +8,7 @@
 
 <div align=center id="CoreConcept"> 
 
-# [Remove the _Gap_ Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
+# [Eliminate the _Gap_ Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 
 <div align=left>
 
