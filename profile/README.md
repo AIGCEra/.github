@@ -8,10 +8,8 @@
 
 <div align=center id="CoreConcept"> 
 
-# [Eliminate the _Gap_ Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
-
+# [Eliminate the _Gap_ <br>Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 <div align=left>
-![periphery6](https://)
 
 ## The Web Runtime provides developers with a "_Simplest Technical Strategy_" to convert "existing" or "newly created" _Desktop Software Projects_ into "_Browser Processes_" of "Chromium Project", it will completely eliminate the gap between _the Desktop Software_ and _Web Browser_ and makes Web Technology an inherent part of _Desktop Software Architecture_: <br><br><div align=center><div align=center>__[WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)__&emsp;&emsp;__[MFC](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)__</div><div><br></div><div align=center id="convertBrowserProcess"><img src="https://user-images.githubusercontent.com/26355688/180666909-4484744c-e96a-47a2-8f6f-424eb72e40b0.jpg" width="80%"/><br>(Convert _[.NET](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)_ and _[MFC](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)_ **Desktop Software Project** to _Browser Process_)</div><br><div align=right>[More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)</div>
 
