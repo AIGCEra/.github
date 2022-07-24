@@ -8,7 +8,7 @@
 <hr />
 <div align=center id="CoreConcept"> 
 
-# [Completely Remove the _Boundaries_ <br>Between _Desktop Software_ and _Web Browsers_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
+# [Remove the _Gap_ Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 
 <div align=center>
 
