@@ -6,6 +6,13 @@
 ### <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="90%" /></div><div align=center>(In most scenarios, desktop software is like a _Universe_, with many huge worlds hidden <br>around numerous child windows, and the Web Runtime is a space telescope, <br>revealing the depths of the universe that have been hidden from the developer's sight...)</div>
 <div align=left>
 <hr />
+<div align=center>
+
+# The Core Object of Web Runtime: ***[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)***
+</div>
+
+### If the _Runtime Position_ of a ***Child Window*** only depends on the <div align=center><br>[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)</div><br>Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.<br><br>***Every Window Nucleus has an Innate Web Gene***: <br><br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180608359-54e4d696-5abf-446e-925a-b28f1f078f33.jpg" width="67%"/></div><br><div align=left><div align=left>***For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.***</div><br><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="67%" /></div><div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=center>[More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></div>  
+<hr />
 <div align=center id="CoreConcept"> 
 
 # [Remove the _Gap_ Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
@@ -17,18 +24,7 @@ __Due to Web Runtime's implementation of _the Dynamic Link Library Version of th
 
 <div align=left>
 
-### Web Runtime provides a way with ***very very very limited code adjustments*** for developers to convert existing or newly created _Desktop Software Projects_ to _Browser Processes_ of Chromium Project: <br><br><div align=center><div align=center>__[WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)__&emsp;&emsp;__[MFC](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)__</div><div><br></div><div align=left>**When the developer's Application Project is converted into the Browser Process of the Chromium Project, how to control the Peripheral Space of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg.**</div>
-
-<hr />  
-
-<div align=center>
-
-# The Core Object of Web Runtime: ***[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)***
-</div>
-
-### If the _Runtime Position_ of a ***Child Window*** only depends on the <div align=center><br>[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)</div><br>Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window. <br>
-
-### ***Every Window Nucleus has an Innate Web Gene***: <br><br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180608359-54e4d696-5abf-446e-925a-b28f1f078f33.jpg" width="67%"/></div><br><div align=left><div align=left>***For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.***</div><br><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="67%" /></div><div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=center>[More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></div>  
+### Web Runtime provides a way with ***very very very limited code adjustments*** for developers to convert "_Existing_" or "_Newly Created Desktop Software Projects_" to _Browser Processes_ of Chromium Project: <br><br><div align=center><div align=center>__[WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)__&emsp;&emsp;__[MFC](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)__</div><div><br></div><div align=left>**When the developer's Application Project is converted into the Browser Process of the Chromium Project, how to control the Peripheral Space of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg.**</div>
 
 <hr /> 
 
