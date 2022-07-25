@@ -33,8 +33,9 @@
 <hr />
 <div align=center>
   
-## (3)Open "program.cs" file, Modify main function
+## (3)Open "program.cs" file.
 </div>
-<div align=center id="WinFormDev_main"><img src="https://user-images.githubusercontent.com/26355688/178502334-f3e819d3-6898-4d21-b0a4-9efbf805f4aa.gif" width="100%" height="100%"/></div>
-<hr />
+
+## _Modify main function_:<br><br><div align=center>Replace</div><br><div align=center>Application.Run</div><br><div align=center>with</div><br><div align=center>Universe.WebRT.Run</div>
+
 </div>
