@@ -17,7 +17,7 @@
 ### _If your Application is Tabbed MDI Application_:<br><br><div align=center>Replace</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=center>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
 
   
-### _More information after Replace CWinApp(Ex) with CWebRTApp(Ex)_:
+### _After Replace CWinApp(Ex) with CWebRTApp(Ex)_:
   
 | _MFC Application Type_       | _description_                                                                                                    |
 | -- | ---------------------------------------------------------------------------------------------------------------- |
