@@ -1,12 +1,13 @@
 <div align=center>
 
-# Developing MFC Desktop Application <br>Main Process with Web Runtime
+# Convertng MFC Desktop Application <br>into Chromium Project Browser Process
 
 <div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="75%" height="100%"/></div>
 <div align=center>
   
 ## (1)Preparation: This step is required <br>_for all types of MFC Desktop Applications_
 
+### <div align=left>You need to create a new MFC project using the MFC development wizard, or prepare an existing MFC Project:</div>
 <div align=center id="MFCAppDev_Prepare"><img src="https://user-images.githubusercontent.com/26355688/178929103-5ef5b22a-4618-4e41-ae73-5bc1ff4ebc02.gif" width="100%" height="100%"/></div>
 <hr />
 
