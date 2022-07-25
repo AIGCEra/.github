@@ -16,12 +16,8 @@
 
 ### _If your Application is Tabbed MDI Application_:<br><br><div align=center>Replace</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=center>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
 
-  
-### _After Replace CWinApp(Ex) with CWebRTApp(Ex)_:
-  
-| _MFC Application Type_       | _description_                                                                                                    |
-| -- | ---------------------------------------------------------------------------------------------------------------- |
-|  <div align=center>**If your app is an MFC Dialog Type Application**</div> |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <div align=center id="MFCAppDev_dlg"><img src="https://user-images.githubusercontent.com/26355688/178935032-29f4b4f5-7b91-41b7-a0de-2943368bb3ce.gif" width="100%"/></div>                           |
+### For _MFC Dialog Type Application_, you need modify the return value of "BOOL CMFCDlgApp::InitInstance()" to true.  
+<hr />
 </div>   
   
 ## (3)CFormView: <br>Delete the Call to ResizeParentToFit()
