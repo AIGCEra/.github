@@ -21,18 +21,6 @@
 ## If the _Runtime Position_ of a ***Child Window*** only depends on the <div align=center><br>[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)</div><br>Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.<br><br>***Every Window Nucleus has an Innate Web Gene***: <br><br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div><br><div align=left><div align=left>The Standard Web Browser forms today's Web by creating Web Content inside the WebView. Web Runtime allows us to extend the Web's Driving Capabilities to the Periphery of every Window Nucleus, thereby giving a new integration strategy of Desktop Technology and Web Technology. <br><br><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div><div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div><br><div align=left>When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...</div><br><div align=right>[More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></div></div>  
 
 <div align=center id="CoreConcept">
-
-# Every Desktop Software is an Vibrant Universe
-
-<div align=left id="universe">
-
-## The Web Runtime supports a large enough DOM model. In addition to the standard Web DOM elements, .NET, COM, MFC, etc. that we are currently familiar with are all embodied in this DOM in a suitable way. Developers can instantiate WinForm objects  in Web pages, handle events of .NET objects, and more. Each window object that contains a window nucleus must contain any number of window nuclei, which makes a nucleated window look very similar to the galaxy group in the universe. The well-known browser window, WinForm, etc. are regarded as the common resource of all desktop software. If the window nucleus is equivalent to the galaxy nucleus, then the desktop software itself is a descriptive universe based on Web technology.
-
-</div>
-</div>
-
-
-<div align=center id="CoreConcept">
   
 # [The Core Features of Web Runtime](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
 </div>
@@ -40,10 +28,19 @@
 |_Web Runtime Core Features_|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | ------ | ---------------------------------------------------------------------------------------------------------------- |
 |  <div align=center>**Between any Window Nucleus <br>and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it;**</div> |<div align=center></div><div align=center id = "ChildWndGene2"><br><img id="WebGeneChildWnd" src="https://user-images.githubusercontent.com/26355688/179456149-1a007bee-ed02-4c52-bf8a-ddc55c715b21.jpg" width="100%"/></div>|
-|<div align=center id="BasicLayout"><img src="https://user-images.githubusercontent.com/26355688/179394341-176ee7c1-0a9b-44c1-a435-1aa7123fc2dc.png" width="100%"/></div>| <div align=center>**_The Web Runtime_ enables developers to load a Layout Layer Structure <br>between _the Window Nucleus_ and _its Parent Window_ <br>using Web or XML DOM Technology at any stage of the Software Runtime**</div><div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|
-  
+|<div align=center id="BasicLayout"><img src="https://user-images.githubusercontent.com/26355688/179394341-176ee7c1-0a9b-44c1-a435-1aa7123fc2dc.png" width="100%"/></div>| <div align=center>**_The Web Runtime_ enables developers to load a Layout Layer Structure <br>between _the Window Nucleus_ and _its Parent Window_ <br>using Web or XML DOM Technology at any stage of the Software Runtime**</div><div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></div>|  
 </div>
 <div align=right>
-  
-### [more core features...](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
+
+## [more core features...](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)</div>
+
+<div align=center id="CoreConcept">
+
+# Every Desktop Software is an Vibrant Universe
+<div align=left id="universe">
+
+## The Web Runtime supports a large enough DOM model. In addition to the standard Web DOM elements, .NET, COM, MFC, etc. that we are currently familiar with are all embodied in this DOM in a suitable way. Developers can instantiate WinForm objects  in Web pages, handle events of .NET objects, and more. Each window object that contains a window nucleus must contain any number of window nuclei, which makes a nucleated window look very similar to the galaxy group in the universe. The well-known browser window, WinForm, etc. are regarded as the common resource of all desktop software. If the window nucleus is equivalent to the galaxy nucleus, then the desktop software itself is a descriptive universe based on Web technology.
+
 </div>
+</div>
+
