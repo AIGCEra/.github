@@ -16,7 +16,7 @@
 
 ### _If your Application is Tabbed MDI Application_:<br><br><div align=center>Replace</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=center>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
 
-### For _MFC Dialog Type Application_, you need modify the return value of "BOOL CMFCDlgApp::InitInstance()" to true.  
+### For _MFC Dialog Application_, you need modify the return value of "BOOL CMFCDlgApp::InitInstance()" to true.  
 <hr />
 </div>   
   
