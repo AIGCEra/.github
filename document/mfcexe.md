@@ -7,8 +7,8 @@
   
 ## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project)
 <div align=center>
-  
-### <div align=center id="MFCAppDev_Prepare"><img src="https://user-images.githubusercontent.com/26355688/178929103-5ef5b22a-4618-4e41-ae73-5bc1ff4ebc02.gif" width="100%" height="100%"/></div>
+
+### <div align=center id="MFCAppDev_Prepare"><img src="https://user-images.githubusercontent.com/26355688/180906833-78883f52-cf7e-4df4-8cdd-fb3b1a35b57f.gif" width="100%" height="100%"/></div>
 <hr />
 
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame<br>
