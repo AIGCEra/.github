@@ -16,13 +16,13 @@
 
 ### _If your Application is Tabbed MDI Application_:<br><br><div align=center>Replace</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=center>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
 
-### For _MFC Dialog Application_, you need modify the return value of <br><br><div align=center>BOOL CMFCDlgApp::InitInstance()</div> <br>to <div align=center>TRUE. </div> 
+### For _MFC Dialog Application_, you need to modify the return value of <br><br><div align=center>BOOL CMFCDlgApp::InitInstance()</div> <br>to <div align=center>TRUE. </div> 
 <hr />
 </div>   
   
 ## (3)CFormView: <br>Delete the Call to ResizeParentToFit()
 
-<div align=center id ="MFCAppDev_FormView"><img src="https://user-images.githubusercontent.com/26355688/178399844-1678d591-160b-46ec-b2b8-c17711c88c4a.gif" width="100%" height="100%"/></div>
+### <div align=left>For "CFormView Derived Class", you need to remove the Call:<br><br><div align=center>ResizeParentToFit();</div> <br>from<br><br><div align=center>OnInitialUpdate(); </div> </div>
 <hr />
 
 ## (4)Serialization
