@@ -5,7 +5,7 @@
 <div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="67%" height="100%"/></div>
 <div align=center>
   
-## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project).
+## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project)
 <div align=center>
   
 ### <div align=center id="MFCAppDev_Prepare"><img src="https://user-images.githubusercontent.com/26355688/178929103-5ef5b22a-4618-4e41-ae73-5bc1ff4ebc02.gif" width="100%" height="100%"/></div>
