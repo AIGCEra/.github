@@ -32,7 +32,7 @@
 <hr />
 <div align=center>
 
-# The Core Work of Web Runtime: <br>Using Web Technology to Drive Window Nucleus and its Peripheral Space
+# Using Web Technology <br>to Drive Window Nucleus and its Peripheral Space
 </div>
 
 ## <div align=left>When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...</div><br><div align=right>[More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></div>  
