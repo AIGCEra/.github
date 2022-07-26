@@ -8,31 +8,31 @@
 
 <hr />
 <div align=center>
-  
+
 # Prepare a C# WinForm Project <br>(create a new Project, or open an existing Project).
 </div>
 <div>
   
-  **Here we preset the name of the project as "Tangram". All WinForm projects need the following three steps to support Web Runtime.**
+**Here we preset the name of the project as "Tangram". All WinForm projects need the following three steps to support Web Runtime.**
   
 </div>
 <div align=center>
 
 ## (1)Reference “cosmos.dll”, adjust manifest configuration
 </div>
-<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/180914430-4293ce50-3896-408d-b45e-ce91471c766f.gif" width="100%" height="100%"/></div>
+<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/180940809-4fbef7d2-4d6f-472c-a073-70a9f12c352c.gif" width="100%" height="100%"/></div>
 <hr />
 <div align=center>
 
 ## (2)Adjust compilation configuration
 </div>
-<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/180916696-ca4aadde-7857-4092-8fd3-5e13c0aff3d2.gif" width="100%" height="100%"/></div>
+<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/180941030-dfb5c762-1e4b-4bfc-a049-8794d4bd15ac.gif" width="100%" height="100%"/></div>
 <hr />
 <div align=center>
   
 ## (3)Open "program.cs" file.
 </div>
 
-## _Modify main function_:<br><br><div align=center>Replace</div><br><div align=center>Application.Run</div><br><div align=center>with</div><br><div align=center>Universe.WebRT.Run</div>
+## _Modify main function_, Replace:<br><br><div align=center>Application.Run</div><br><div align=left>with</div><br><div align=center>Universe.WebRT.Run</div><br><div align=center id ="program_main"><img src="https://user-images.githubusercontent.com/26355688/180941619-45fde4d7-2830-4e72-944f-2ad41e047fb0.jpg" width="100%"/></div>
 
 </div>
