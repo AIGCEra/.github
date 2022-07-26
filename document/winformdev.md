@@ -13,7 +13,7 @@
 </div>
 <div>
   
-  **Here we preset the name of the project as "FirstApp". All WinForm projects need the following three steps to support Web Runtime.**
+  **Here we preset the name of the project as "Tangram". All WinForm projects need the following three steps to support Web Runtime.**
   
 </div>
 <div align=center>
@@ -23,10 +23,10 @@
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/180914430-4293ce50-3896-408d-b45e-ce91471c766f.gif" width="100%" height="100%"/></div>
 <hr />
 <div align=center>
-  
+
 ## (2)Adjust compilation configuration
 </div>
-<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/178502697-56718182-8cf0-43f6-944e-fad62db908aa.gif" width="100%" height="100%"/></div>
+<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/180916696-ca4aadde-7857-4092-8fd3-5e13c0aff3d2.gif" width="100%" height="100%"/></div>
 <hr />
 <div align=center>
   
