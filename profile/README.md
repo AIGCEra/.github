@@ -5,6 +5,9 @@
 
 ## <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div><div align=center>(In most scenarios, Desktop Software is like a _Universe_, with many local huge worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)</div>
 
+<h1 align=center style='text-align:center'><strong style="font-size:28px; color:black">Pay Homage to Classics</strong></h1>            
+<h2>At different stages of scientific and technological development, there will be classics corresponding to the era to embellish the splendor of that era. The classic is called a "classic" not only because of its own value, but also because it has a profound impact on a specific historical period. How should we pay tribute to the classics? Letting the classics conform to the rhythm of the times to continue may be a way to pay homage to the classics. We are lucky because we have benefited from a large number of classics, those who made classics, those achievements let us see further and inspire us to continue to create...</h2> 
+            
 <div align=left>
 
 <div align=center id="CoreConcept"> 
