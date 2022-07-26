@@ -12,6 +12,7 @@
 <div align=left>
 
 ## The Web Runtime provides developers with a "_Simplest Technical Strategy_" to convert "existing" or "newly created" _Desktop Software Projects_ into "_Browser Processes_" of "Chromium Project", it will completely eliminate the gap between _the Desktop Software_ and _Web Browser_ and makes Web Technology an inherent part of _Desktop Software Architecture_: <br><br><div align=center><div align=center>__[WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)__&emsp;&emsp;__[MFC](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)__</div><div align=right>[More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)</div>
+<hr />
 
 <div align=center>
 
@@ -19,20 +20,24 @@
 </div>
 
 ## If the _Runtime Position_ of a ***Child Window*** only depends on the <div align=center><br>[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)</div><br>Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.<br><br>***Every Window Nucleus has an Innate Web Gene***: <br><br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
+<hr />
 
 <div align=center>
 
 # Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
 </div>
 
-## <div align=left>In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while the Web Runtime further extends the scope of the Web to the periphery of various Window nuclei. <br><br><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div><div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div><br>
+## <div align=left>In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while the Web Runtime further extends the scope of the Web to the periphery of various Window nuclei. <br><br><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div><div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div>
 
+<hr />
 <div align=center>
 
 # The Core Work of Web Runtime: <br>Using Web Technology to Drive Window Nucleus and its Peripheral Space
 </div>
 
 ## <div align=left>When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...</div><br><div align=right>[More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></div>  
+
+<hr />
 
 <div align=center id="CoreConcept">
   
