@@ -17,10 +17,10 @@
   
 </div>
 <div align=center>
-  
+
 ## (1)Reference “cosmos.dll”, adjust manifest configuration
 </div>
-<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/178502519-b3f3344c-634e-437a-8d5b-e4851f5d24db.gif" width="100%" height="100%"/></div>
+<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/180914430-4293ce50-3896-408d-b45e-ce91471c766f.gif" width="100%" height="100%"/></div>
 <hr />
 <div align=center>
   
