@@ -98,12 +98,12 @@ When the developer's "_Application Project_" is converted into "_the Browser Pro
 
 <hr />
 
-<div align=center id="CoreConcept">
+<h1 align=center id="CoreConcept">
   
-# [The Core Features of Web Runtime](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
-</div>
+[The Core Features of Web Runtime](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
+</h1>
 <center>
-        <table class="sunnysolution" border="3" cellpadding="10">
+        <table border="3" cellpadding="3">
             <thead>
                 <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
                     <th> Web Runtime Core Features
