@@ -45,20 +45,35 @@ We hope that the new _Browser Process_ can bring the Web Page Mechanism based on
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 </div></p>
 </h2>
-<div align=left>
 
+<h1  align=center>
+
+The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)
+</h1>
+<div align=left>
+<h2>
+If the Runtime Position of a  Child Window only depends on the
+<p>
 <div align=center>
 
-# The Core Object <br>of Web Runtime: ***[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)***
+[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)
 </div>
+</p>
+<p>
 
-## If the _Runtime Position_ of a ***Child Window*** only depends on the <div align=center><br>[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)</div><br>Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.<br><br>***Every Window Nucleus has an Innate Web Gene***: <br><br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
+Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.
+</p>
+<p>
+
+Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
+</p>
+</h2>
 <hr />
 
-<div align=center>
+<h1  align=center>
 
-# Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
-</div>
+Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
+</h1>
 
 ## <div align=left>In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while the Web Runtime further extends the scope of the Web to _the Periphery_ of _Various Window nuclei_. <br><br><div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div><div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div>
 
