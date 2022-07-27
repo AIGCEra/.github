@@ -104,7 +104,7 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
             <thead>
                 <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
                     <th> Web Runtime Core Features
-                    <th> _Description_
+                    <th> <i>Description</i>
                 </tr>
             <tbody>
                 <tr>
@@ -131,10 +131,6 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
         </table>
     </center>
 
-
-
-
-</div>
 <div align=right>
 
 ## [more core features...](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)</div>
@@ -142,9 +138,12 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
 <h1 align=center id="CoreConcept">
 
 Every Desktop Software is an Vibrant Universe
+
+<h2>
 <p><div align=left id="universe">
 
 The Web Runtime supports a large enough DOM model. In addition to the standard Web DOM elements, .NET, COM, MFC, etc. that we are currently familiar with are all embodied in this DOM in a suitable way. Developers can instantiate WinForm objects  in Web pages, handle events of .NET objects, and more. Each window object that contains a window nucleus must contain any number of window nuclei, which makes a nucleated window look very similar to the galaxy group in the universe. The well-known browser window, WinForm, etc. are regarded as the common resource of all desktop software. If the window nucleus is equivalent to the galaxy nucleus, then the desktop software itself is a descriptive universe based on Web technology.
 <div>
 </p>
+</h2>
 </h1>
