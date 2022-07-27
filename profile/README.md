@@ -99,6 +99,39 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
   
 # [The Core Features of Web Runtime](https://github.com/TangramDev/.github/blob/main/document/CoreFeatures.md)
 </div>
+ <center>
+                <table class="sunnysolution" border="1" cellpadding="10">
+                    <thead>
+                        <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
+                            <th> Web Runtime Core Features
+                            <th> _Description_
+                        </tr>
+                    <tbody>
+                        <tr>
+                            <td class="sunnysolution" width="30%">
+                                <h3 align=center>Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Object Layer Space Structure” around it.</h3>                                
+                            </td>
+                            <td class="sunnysolution" width="70%" rowspan=5>
+                                <p style="font-size: 16px; font-weight:bold; color:blueviolet">
+                                    <div align=center></div><div align=center id = "ChildWndGene2"><br><img id="WebGeneChildWnd" src="https://user-images.githubusercontent.com/26355688/179456149-1a007bee-ed02-4c52-bf8a-ddc55c715b21.jpg" width="100%"/></div>
+                                </p>                                
+                            </td>
+                    </tbody>
+<tbody>
+                        <tr>
+                            <td class="sunnysolution" width="30%">
+                                <div align=center id="BasicLayout"><img src="https://user-images.githubusercontent.com/26355688/179394341-176ee7c1-0a9b-44c1-a435-1aa7123fc2dc.png" width="100%"/></div>                                
+                            </td>
+                            <td class="sunnysolution" width="70%" rowspan=5>
+                                <p style="font-size: 16px; font-weight:bold; color:blueviolet">
+                                    <h3 align=center>The Web Runtime_ enables developers to load a Layout Layer Structure <br>between the Window Nucleus and its Parent Window using Web or XML DOM Technology at any stage of the Software Runtime</div><div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></h3>
+                                </p>                                
+                            </td>
+                    </tbody>
+                    </table>
+            </center>
+
+
 
 |_Web Runtime Core Features_|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Description_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | ------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -112,9 +145,9 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
 <h1 align=center id="CoreConcept">
 
 Every Desktop Software is an Vibrant Universe
-<p align=left id="universe">
+<p><div align=left id="universe">
 
 The Web Runtime supports a large enough DOM model. In addition to the standard Web DOM elements, .NET, COM, MFC, etc. that we are currently familiar with are all embodied in this DOM in a suitable way. Developers can instantiate WinForm objects  in Web pages, handle events of .NET objects, and more. Each window object that contains a window nucleus must contain any number of window nuclei, which makes a nucleated window look very similar to the galaxy group in the universe. The well-known browser window, WinForm, etc. are regarded as the common resource of all desktop software. If the window nucleus is equivalent to the galaxy nucleus, then the desktop software itself is a descriptive universe based on Web technology.
-
+<div>
 </p>
 </h1>
