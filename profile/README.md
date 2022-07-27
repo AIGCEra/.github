@@ -1,9 +1,9 @@
-<div align=center>
+<h1 align=center>
 
-# [Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
-</div>
-
-## <div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div><div align=center>(In most scenarios, Desktop Software is like a _Universe_, with many local huge worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)</div>
+[Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
+</h1>
+<h3 align=center><div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div>(In most scenarios, Desktop Software is like a _Universe_, with many local huge worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
+</h3>
 
 <h1 align=center><strong>Tribute to Classic</strong>           
 <h2>
