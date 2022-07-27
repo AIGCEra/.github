@@ -92,7 +92,17 @@ Using Web Technology <br>to Drive Window Nucleus and its Peripheral Space
 
 <h2 align=left>
 
-When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...<p><div align=right>
+When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...
+
+<p>
+
+In fact, the _Periphery_ of Window Nucleus is _an Infinite Hierarchy Object Structure_ driven by  _Web Descriptions_, we see that the Standard Web Technology _builds the Web Content inside the WebView_, and the Web Gene of the Window Nucleus enables Web Runtime further _extends the Web content to the Periphery of the Window Nuclei_ that widely exist in Desktop Applications. <br><div align=center id="periphery7"><img src="https://user-images.githubusercontent.com/26355688/180611630-810edca9-c1a4-4100-8df9-046f8e4fc24e.jpg" width="100%"/></div>
+</p>
+<p>
+
+<div align=left>In a sense, every <i>Window Nucleus</i> has the <i>Potential</i> to become something like "<i>the Galactic Nuclei of those Huge Galaxies in the Universe</i>". We know that every Milky Way like Galaxy is surrounded by hundreds of billions of stars, Web Runtime acts like a Hubble Telescope, allowing us to see under certain conditions each Window Nucleus surrounded by a Huge, Web Description-Driven Object Structure.<br><br><div align=center id="periphery5"><img src="https://user-images.githubusercontent.com/26355688/180599198-2c6f7227-fdc3-43e1-ba9d-db97af06a98e.jpg" width="90%"/></div><div align=center>**(When we suddenly find that more and more Desktop Windows can be described by Web Technology, the Desktop Software World in our minds may have to be re-understood ...)**</div><br><div align=left>With the help of Webb and Hubble, people can see an extremely enlarged universe. From Hubble Deep Space to Webb Deep Space, unimaginable details of the Universe in the past appear in our sight. Similarly, when we have _Web Runtime_ in the field of Desktop Software, a scene worthy of expectation will also appear. With the help of Web Runtime, the Desktop Software is enlarged, and <i>the infinite hierarchy of Desktop Window</i> can be displayed, If the surrounding space of many Window Nuclei enters our horizon, a magnified universe will surface. Indeed, from the perspective of <i>Web Runtime</i>, a desktop software itself is a <i>Universe</i>, and Different Desktop Software can be regarded as Different "<i>Parallel Universes</i>".</div></p>
+
+<p><div align=right>
 
 [More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></p></h2>  
 
