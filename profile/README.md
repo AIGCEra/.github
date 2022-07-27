@@ -78,7 +78,7 @@ Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
   
 <p align=left>
 
-In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while the Web Runtime further extends the scope of the Web to _the Periphery_ of _Various Window nuclei_. <p>
+In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while <strong><ins>the Web Runtime further extends the scope of the Web to <i>the Periphery</i> of <i>Various Window nuclei</i></ins></strong>. <p>
   
 <div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div>
   
