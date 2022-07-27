@@ -2,7 +2,7 @@
 
 [Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
 </h1>
-<h3 align=center><div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div>(In most scenarios, Desktop Software is like a _Universe_, with many local huge worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
+<h3 align=center><div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div>(In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
 </h3>
 
 <h1 align=center><strong>Tribute to Classic</strong>           
@@ -37,7 +37,7 @@ We hope that the new _Browser Process_ can bring the Web Page Mechanism based on
 
 <p>In fact, we can do more, for example, once the developer's Desktop Application fully assumes the role of Browser Process, then the whole .Net WinForms architecture will become a part of the new Web DOM, which means that developers can instantiate WinForm objects in the web pages supported by the new application system, and WinForms and UserControls can participate in writing new web pages,  of course, it is perfectly possible to handle events of .NET objects in a Web page.</p>
 
-<p align=center id="WinFormsforApplication"><img src="https://user-images.githubusercontent.com/26355688/180966988-ed42d50d-410b-41cd-acaa-ccf007c8d1e7.png" width="80%"><br>(.NET WinForms for Application fully comparable to _Visual Basic for Application_)</img></p>
+<p align=center id="WinFormsforApplication"><img src="https://user-images.githubusercontent.com/26355688/180966988-ed42d50d-410b-41cd-acaa-ccf007c8d1e7.png" width="80%"><br>(.NET WinForms for Application fully comparable to <i>Visual Basic for Application</i>)</img></p>
 
 <p>Desktop Application has ushered in the stage of "Web Page is Application", in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 <div align=right>
@@ -82,7 +82,7 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
   
 <div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div>
   
-<div align=center>(Web Runtime makes the peripheral space of the _Window Nucleus_ <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between _Web_ and _Desktop_ Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div>
+<div align=center>(Web Runtime makes the peripheral space of the <i>Window Nucleus</i> <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between <i>Web</i> and <i>Desktop</i> Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div>
 </h2>
 <hr />
 
