@@ -30,7 +30,10 @@
 </div>
 <p><i>When the Desktop Software Project created by the developer with Visual Studio Wizard can fully assume the role of the Browser Process of Chromium Project, then the Desktop Application first gets all the Web browsing functions that a Modern Web Browser should have, and it already has a complete Browser Window UI system, you can use it to browse the Web. Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages, as shown in the following figure</i>:</p>
 <p align=center id="WebRuntime2"><img src="https://user-images.githubusercontent.com/26355688/180951488-6044fa9f-e816-4526-acd1-a28cb3aa71dd.jpg" width="80%"><br>(Application-Oriented Web Pages)</img></p>
-<p>We hope that the new Browser Process can bring the Web Page Mechanism based on the Host Application Object Model to the Application, if this vision can be realized, then Web pages will become more important to specific desktop applications, and a Web Application Ecological Mechanism will naturally be formed.</p>
+
+<p>
+
+We hope that the new _Browser Process_ can bring the Web Page Mechanism based on the Host Application Object Model to the Application, if this vision can be realized, then Web pages will become more important to specific desktop applications, and a Web Application Ecological Mechanism will naturally be formed.</p>
 
 <p>In fact, we can do more, for example, once the developer's Desktop Application fully assumes the role of Browser Process, then the whole .Net WinForms architecture will become a part of the new Web DOM, which means that developers can instantiate WinForm objects in the web pages supported by the new application system, and WinForms and UserControls can participate in writing new web pages,  of course, it is perfectly possible to handle events of .NET objects in a Web page.</p>
 
