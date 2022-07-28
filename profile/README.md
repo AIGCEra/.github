@@ -40,6 +40,9 @@ We hope that the new <i>Browser Process</i> can bring the Web Page Mechanism bas
 <p align=center id="WinFormsforApplication"><img src="https://user-images.githubusercontent.com/26355688/180966988-ed42d50d-410b-41cd-acaa-ccf007c8d1e7.png" width="80%"><br>(.NET WinForms for Application fully comparable to <i>Visual Basic for Application</i>)</img></p>
 
 <p>Desktop Application has ushered in the stage of "Web Page is Application", in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
+
+<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181436250-ae3558e0-c951-46a9-b23d-2b1acc1fb0ff.gif" width="80%" /></div>
+
 <div align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
