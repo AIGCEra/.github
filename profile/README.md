@@ -70,6 +70,8 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 
 Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
 </p>
+
+<div align=center id="FormNucleus"><img src="https://user-images.githubusercontent.com/26355688/181654297-f2bafff1-5fe6-45a3-a1f5-5360f92f083c.gif" width="80%"/></div>
 </h2>
 <hr />
 
