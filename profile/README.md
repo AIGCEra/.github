@@ -28,7 +28,7 @@
 
 [WinForm](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[MFC](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
-<p><i>When the Desktop Software Project created by the developer with Visual Studio Wizard can fully assume the role of the Browser Process of Chromium Project, then the Desktop Application first gets all the Web browsing functions that a Modern Web Browser should have, and it already has a complete Browser Window UI system, you can use it to browse the Web. Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages, as shown in the following figure</i>:</p>
+<p><i>When the Desktop Software Project created by the developer with Visual Studio Wizard can fully assume the role of the Browser Process of Chromium Project, then <ins>the Desktop Application first gets all the Web browsing functions that a Modern Web Browser should have, and it already has a complete Browser Window UI system, you can use it to browse the Web. Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages</ins>, as shown in the following figure</i>:</p>
 <p align=center id="WebRuntime2"><img src="https://user-images.githubusercontent.com/26355688/180951488-6044fa9f-e816-4526-acd1-a28cb3aa71dd.jpg" width="80%"><br>(Application-Oriented Web Pages)</img></p>
 
 <p>
