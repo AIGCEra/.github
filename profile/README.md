@@ -41,7 +41,7 @@ We hope that the new <i>Browser Process</i> can bring the Web Page Mechanism bas
 
 <p>Desktop Application has ushered in the stage of "Web Page is Application", in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 
-<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181436250-ae3558e0-c951-46a9-b23d-2b1acc1fb0ff.gif" width="80%" /></div>
+<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181437826-efb09933-d95e-4dbd-a5bf-52b3ad2ac2f4.gif" width="80%" /><br>(The stage of "Web Page as Application")</div>
 
 <div align=right>
 
