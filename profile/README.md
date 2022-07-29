@@ -73,7 +73,6 @@ Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any
 
 <div align=center id="FormNucleus"><img src="https://user-images.githubusercontent.com/26355688/181654297-f2bafff1-5fe6-45a3-a1f5-5360f92f083c.gif" width="80%"/></div>
 </h2>
-<hr />
 
 <h1  align=center>
 
@@ -89,7 +88,6 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
   
 <div align=center>(Web Runtime makes the peripheral space of the <i>Window Nucleus</i> <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between <i>Web</i> and <i>Desktop</i> Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div>
 </h2>
-<hr />
 
 <h1 align=center>
 Using Web Technology <br>to Drive Window Nucleus and its Peripheral Space
@@ -110,8 +108,6 @@ In fact, the _Periphery_ of Window Nucleus is _an Infinite Hierarchy Object Stru
 <p><div align=right>
 
 [More Information About Web Gene of Window Nucleus ...](https://github.com/TangramDev/.github/blob/main/document/WebGene.md)</div></p></h2>  
-
-<hr />
 
 <h1 align=center id="CoreConcept">
   
