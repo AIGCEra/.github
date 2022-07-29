@@ -44,7 +44,7 @@
                     </td>
                     <td width="70%" rowspan=5>
                         <p>The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project. <i><ins>Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages</ins>, as shown in the following figure</i>:</p>
-                        <p align=center id="WebRuntime2"><img src="https://user-images.githubusercontent.com/26355688/180951488-6044fa9f-e816-4526-acd1-a28cb3aa71dd.jpg" width="80%"><br>(Application-Oriented Web Pages)</img></p>
+                        <p align=center id="WebRuntime2"><img src="https://user-images.githubusercontent.com/26355688/179390066-6163f407-8424-4c68-9217-fffe300e062c.gif" width="100%"><br>(Application-Oriented Web Pages)</img></p>
                         <p>
                             We hope that the new <i>Browser Process</i> can bring the Web Page Mechanism based on the Host Application Object Model to the Application, if this vision can be realized, then Web pages will become more important to specific desktop applications, and a Web Application Ecological Mechanism will naturally be formed.
                         </p>
