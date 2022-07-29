@@ -16,18 +16,19 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 </h3>
 <hr />
 
-## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame<br>
+## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)
   
 <center>
         <table border="3" cellpadding="3">
             <thead>
                 <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
-                    <th> <h3>MFC Tabbed MDI Application</h3>
-                    <th> <h3>MFC Dialog Application</h3>
+                    <th> <h3>Tabbed MDI Application</h3>
+                    <th> <h3>Dialog Application</h3>
                 </tr>
             <tbody>
                 <tr>
                     <td class="sunnysolution" width="50%">
+			<p>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame,</p>
                         <p>Replace</p><p align=center><strong>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</strong></p><p align=left>with</p><p align=center><strong align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</strong></p>
                     </td>
                     <td class="sunnysolution" width="50%" rowspan=5>
@@ -37,8 +38,8 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             </tbody>
             <thead>
                 <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
-                    <th> <h3>MFC CFormView</h3>
-                    <th> <h3>MFC Document Serialization</h3>
+                    <th> <h3>CFormView</h3>
+                    <th> <h3>Document Serialization</h3>
                 </tr>
             <tbody>
             <tbody>
