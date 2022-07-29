@@ -21,7 +21,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <center>
         <table border="3" cellpadding="3">
             <thead>
-                <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
+                <tr>
                     <th> <h3>Tabbed MDI Application</h3>
                     <th> <h3>Dialog Application</h3>
                 </tr>
