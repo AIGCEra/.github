@@ -22,8 +22,8 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <h3>Tabbed MDI Application</h3>
-                    <th> <h3>Dialog Application</h3>
+                    <th> <strong>Tabbed MDI Application</strong>
+                    <th> <strong>Dialog Application</strong>
                 </tr>
             <tbody>
                 <tr>
@@ -38,8 +38,8 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             </tbody>
             <thead>
                 <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
-                    <th> <h3>CFormView</h3>
-                    <th> <h3>Document Serialization</h3>
+                    <th> <strong>CFormView</strong>
+                    <th> <strong>Document Serialization</strong>
                 </tr>
             <tbody>
             <tbody>
