@@ -35,6 +35,44 @@
 
 We hope that the new <i>Browser Process</i> can bring the Web Page Mechanism based on the Host Application Object Model to the Application, if this vision can be realized, then Web pages will become more important to specific desktop applications, and a Web Application Ecological Mechanism will naturally be formed.</p>
 
+<div align=center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>Web Browser Subsystem</strong>
+                    <th> <strong>.NET Subsystem</strong>
+                </tr>
+            <tbody>
+                <tr>
+                    <td width="50%">
+			<h2><strong>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame,</strong></h2>
+                        <p>Replace</p><p align=center><strong>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</strong></p><p align=left>with</p><p align=center><strong align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</strong></p>
+                    </td>
+                    <td width="50%" rowspan=5>
+                        <p>Modify the return value of </p><p><div align=center><strong>BOOL CMFCDlgApp::InitInstance()</strong></p><p align=left>to</p> <p align=center><strong>TRUE</strong>.</p>
+                        </p>
+                    </td>
+            </tbody>
+            <thead>
+                <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
+                    <th> <strong>COM Subsystem</strong>
+                    <th> <strong>MFC Subsystem</strong>
+                </tr>
+            <tbody>
+            <tbody>
+                <tr>
+                    <td class="sunnysolution" width="50%">
+                        <p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center><strong>ResizeParentToFit();</strong></p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
+                    </td>
+                    <td class="sunnysolution" width="50%">
+                      </p>
+                        <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
+                        </p>                      
+                    </td>
+            </tbody>
+        </table>
+</div>   
+  
 <p>In fact, we can do more, for example, once the developer's Desktop Application fully assumes the role of Browser Process, then the whole .Net WinForms architecture will become a part of the new Web DOM, which means that developers can instantiate WinForm objects in the web pages supported by the new application system, and WinForms and UserControls can participate in writing new web pages,  of course, it is perfectly possible to handle events of .NET objects in a Web page.</p>
 
 <p align=center id="WinFormsforApplication"><img src="https://user-images.githubusercontent.com/26355688/180966988-ed42d50d-410b-41cd-acaa-ccf007c8d1e7.png" width="80%"><br>(.NET WinForms for Application fully comparable to <i>Visual Basic for Application</i>)</img></p>
@@ -136,7 +174,7 @@ In fact, the _Periphery_ of Window Nucleus is _an Infinite Hierarchy Object Stru
                     <td class="sunnysolution" width="30%">
                         <div align=center id="BasicLayout"><img src="https://user-images.githubusercontent.com/26355688/179394341-176ee7c1-0a9b-44c1-a435-1aa7123fc2dc.png" width="100%" /></div>
                     </td>
-                    <td class="sunnysolution" width="70%" rowspan=5>
+                    <td rowspan=5>
                         <p style="font-size: 16px; font-weight:bold; color:blueviolet">
                             <h3 align=center>The Web Runtime_ enables developers to load a Layout Layer Structure between the Window Nucleus and its Parent Window using Web or XML DOM Technology at any stage of the Software Runtime</div><div align=center id="tabs1"><img src="https://user-images.githubusercontent.com/26355688/179235961-8a088dd4-27c9-42d9-8179-db5ffaf0d3f4.gif" width="100%" /></h3>
                         </p>
