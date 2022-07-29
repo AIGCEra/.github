@@ -38,7 +38,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             <thead>
                 <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
                     <th> <h3>MFC CFormView</h3>
-                    <th> <h3>Serialization</h3>
+                    <th> <h3>MFC Document Serialization</h3>
                 </tr>
             <tbody>
             <tbody>
