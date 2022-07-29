@@ -1,9 +1,6 @@
 <div align=center>
 
 # Converting MFC Application <br>into Chromium Project Browser Process
-
-<div align=center id="MfcApp"><img src="https://user-images.githubusercontent.com/26355688/178436304-730ede1e-23c1-4bc9-b94b-4b082dc3e7ab.jpg" width="67%" height="100%"/></div>
-<hr />  
   
 <div align=center>
 
