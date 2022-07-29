@@ -47,9 +47,24 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                         <p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center><strong>ResizeParentToFit();</strong></p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
                     </td>
                     <td class="sunnysolution" width="50%">
-                        <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:
-                            <div align=center id ="mfc_serialization"><img src="https://user-images.githubusercontent.com/26355688/181708729-873e05bb-8212-469b-aa5c-c9108a520434.jpg" width="80%"/></div>
+                      </p>
+                        <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
                         </p>
+                      <p>                   
+                      
+    void CMFCApplicationDoc::Serialize(CArchive& ar){
+	  if (ar.IsStoring())
+	  {
+		  ar << theApp.GetDocTemplateID(this);	
+		  // TODO: add storing code here
+	  }
+	  else
+	  {
+		  ar >> theApp.m_strCreatingDOCID;
+		  // TODO: add loading code here
+	  }
+    }
+</p>
                     </td>
             </tbody>
         </table>
