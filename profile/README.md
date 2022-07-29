@@ -22,7 +22,7 @@
 # [Eliminate the _Gap_ <br>Between _Desktop Software_ and _Web Browser_](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 
 <h2 align=left>
-<p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project", it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: </p>
+<p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: </p>
 <div align=center>
 <p > 
 
