@@ -20,20 +20,41 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <hr />
 
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame<br>
-<div align=left>
-
-### _If your Application is Tabbed MDI Application_, Replace<br><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=left>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
-
-### For _MFC Dialog Application_, you need to modify the return value of <br><br><div align=center>BOOL CMFCDlgApp::InitInstance()</div> <br>to <div align=center>TRUE. </div> 
-<hr />
-</div>   
   
-## (3)CFormView: <br>Delete the Call to ResizeParentToFit()
-
-### <div align=left>For "CFormView Derived Class", you need to remove the Call:<br><br><div align=center>ResizeParentToFit();</div> <br>from<br><br><div align=center>OnInitialUpdate(); </div> </div>
-<hr />
-
-## (4)Serialization
-![](https://)
-
-<div align=center id ="mfc_serialization"><img src="https://user-images.githubusercontent.com/26355688/181699626-f1f2ae6e-1c7b-499e-a86d-d09f07c07cdc.jpg" width="80%"/></div>
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
+                    <th> MFC Tabbed MDI Application
+                    <th> <i>MFC Dialog Application</i>
+                </tr>
+            <tbody>
+                <tr>
+                    <td class="sunnysolution" width="50%">
+                        <p>Replace</p><p align=center><strong>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</strong></p><p align=left>with</p><p align=center><strong align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</strong></p>
+                    </td>
+                    <td class="sunnysolution" width="50%" rowspan=5>
+                        <p>Modify the return value of </p><p><div align=center><strong>BOOL CMFCDlgApp::InitInstance()</strong></p><p align=left>to</p> <p align=center><strong>TRUE</strong>.</p>
+                        </p>
+                    </td>
+            </tbody>
+            <thead>
+                <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
+                    <th> MFC CFormView
+                    <th> <i>Serialization</i>
+                </tr>
+            <tbody>
+            <tbody>
+                <tr>
+                    <td class="sunnysolution" width="50%">
+                        <p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center><strong>ResizeParentToFit();</strong></p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
+                    </td>
+                    <td class="sunnysolution" width="50%">
+                        <p>
+                            <div align=center id ="mfc_serialization"><img src="https://user-images.githubusercontent.com/26355688/181699626-f1f2ae6e-1c7b-499e-a86d-d09f07c07cdc.jpg" width="80%"/></div>
+                        </p>
+                    </td>
+            </tbody>
+        </table>
+</center>  
+  
