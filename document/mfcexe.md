@@ -22,7 +22,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame<br>
 <div align=left>
 
-### _If your Application is Tabbed MDI Application_:<br><br><div align=center>Replace</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=center>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
+### _If your Application is Tabbed MDI Application_, Replace<br><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</div><br><div align=left>with</div><br><div align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</div>
 
 ### For _MFC Dialog Application_, you need to modify the return value of <br><br><div align=center>BOOL CMFCDlgApp::InitInstance()</div> <br>to <div align=center>TRUE. </div> 
 <hr />
