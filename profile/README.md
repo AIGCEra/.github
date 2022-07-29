@@ -93,7 +93,7 @@
 
 <p>Desktop Application has ushered in the stage of "Web Page is Application", in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 
-<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181525767-e30f3c9b-483c-4d97-8565-4b1eb0cfd873.gif" width="80%" /><br>(The stage of "Web Page as Application")</div>
+<div align=center id="dynwnd1"><img src="https://uuser-images.githubusercontent.com/26355688/181785018-05a433ea-bf54-496c-a499-55babf3532e7.gif" width="80%" /><br>(The stage of "Web Page as Application")</div>
 
 <div align=right>
 
