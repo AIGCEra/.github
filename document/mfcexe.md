@@ -10,7 +10,9 @@
 ## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project)
 <div align=center>
 
-### <div align=center id="MFCAppDev_Prepare"><img src="https://user-images.githubusercontent.com/26355688/180909150-2842a3bd-3ba0-418b-8205-f422c17e4551.gif" width="100%" height="100%"/></div>
+<h3 align=left><p>Copy all files included with MFCPlus into the prepared MFC desktop software project.</p>
+ <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/181698116-74b3824c-4e1b-457e-92c4-587d4c0b914b.jpg" width="80%"/></div>
+</h3>
 <hr />
 
 ## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex), <br>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame<br>
@@ -28,5 +30,6 @@
 <hr />
 
 ## (4)Serialization
+![](https://)
 
-<div align=center id ="MFCAppDev_Serialization"><img src="https://user-images.githubusercontent.com/26355688/178399660-91de2238-936b-4ac6-bb44-c4f41f641cb6.gif" width="100%" height="100%"/></div>
+<div align=center id ="mfc_serialization"><img src="https://user-images.githubusercontent.com/26355688/181699626-f1f2ae6e-1c7b-499e-a86d-d09f07c07cdc.jpg" width="80%"/></div>
