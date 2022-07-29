@@ -69,7 +69,7 @@
                     </td>
                     <td width="70%" rowspan=5>
                         <p>
-                            The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project.
+                            COM/ActiveX objects are used as elements of the new Web DOM, so that these two types of objects can participate in the production of application-oriented web pages, and the web pages can process the events of COM objects.
                         </p>
                     </td>
                 </tr>
@@ -81,7 +81,7 @@
                     </td>
                     <td width="70%" rowspan=5>
                         <p>
-                            The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project.
+                            The MFC CWnd/CView class is used as an element of the new Web DOM, so that these two types of objects can participate in the production of application-oriented web pages. The web page can process the Win32 messages of the CWnd object.
                         </p>
                     </td>
                 </tr>
