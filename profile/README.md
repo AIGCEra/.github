@@ -28,54 +28,65 @@
 
 [<ins>WinForm</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
-<p><i>When the Desktop Software Project created by the developer with Visual Studio Wizard can fully assume the role of the Browser Process of Chromium Project, then <ins>the Desktop Application first gets all the Web browsing functions that a Modern Web Browser should have, and it already has a complete Browser Window UI system, you can use it to browse the Web. Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages</ins>, as shown in the following figure</i>:</p>
-<p align=center id="WebRuntime2"><img src="https://user-images.githubusercontent.com/26355688/180951488-6044fa9f-e816-4526-acd1-a28cb3aa71dd.jpg" width="80%"><br>(Application-Oriented Web Pages)</img></p>
-
-<p>
-
-We hope that the new <i>Browser Process</i> can bring the Web Page Mechanism based on the Host Application Object Model to the Application, if this vision can be realized, then Web pages will become more important to specific desktop applications, and a Web Application Ecological Mechanism will naturally be formed.</p>
-
-<div align=center>
+<p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, it will support the four Subsystems listed in the following table:</p>
+<dov>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Web Browser Subsystem</strong>
-                    <th> <strong>.NET Subsystem</strong>
+                    <th> <strong>Object Subsystem</strong>
+                    <th> <strong>Description</strong>
                 </tr>
             <tbody>
                 <tr>
-                    <td width="50%">
-			<h2><strong>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame,</strong></h2>
-                        <p>Replace</p><p align=center><strong>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</strong></p><p align=left>with</p><p align=center><strong align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</strong></p>
+                    <td width="30%">
+			<p align=center><strong>WebBrowser Subsystem.</strong></p>
                     </td>
-                    <td width="50%" rowspan=5>
-                        <p>Modify the return value of </p><p><div align=center><strong>BOOL CMFCDlgApp::InitInstance()</strong></p><p align=left>to</p> <p align=center><strong>TRUE</strong>.</p>
+                    <td width="70%" rowspan=5>
+                        <p>The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project. <i><ins>Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages</ins>, as shown in the following figure</i>:</p>
+<p align=center id="WebRuntime2"><img src="https://user-images.githubusercontent.com/26355688/180951488-6044fa9f-e816-4526-acd1-a28cb3aa71dd.jpg" width="80%"><br>(Application-Oriented Web Pages)</img></p>
+		<p>
+
+We hope that the new <i>Browser Process</i> can bring the Web Page Mechanism based on the Host Application Object Model to the Application, if this vision can be realized, then Web pages will become more important to specific desktop applications, and a Web Application Ecological Mechanism will naturally be formed.</p>
+                    </td>
+		</tr>
+	     </tbody>
+	     <tbody>
+                <tr>
+                    <td width="30%">
+			<p align=center><strong>.NET Subsystem.</strong></p>
+                    </td>
+                    <td width="70%" rowspan=5>
+                        <p>The whole .Net WinForms Architecture will become a part of the new Web DOM, which means that developers can instantiate WinForm objects in the web pages supported by the new application system, and WinForms and UserControls can participate in writing new web pages,  of course, it is perfectly possible to handle events of .NET objects in a Web page.</p>
+			    <p align=center id="WinFormsforApplication"><img src="https://user-images.githubusercontent.com/26355688/180966988-ed42d50d-410b-41cd-acaa-ccf007c8d1e7.png" width="80%"><br>(.NET WinForms for Application fully comparable to <i>Visual Basic for Application</i>)</img></p>
+                    </td>
+		</tr>		    
+            </tbody>
+	     <tbody>
+                <tr>
+                    <td width="30%">
+			<p align=center><strong>COM Subsystem.</strong></p>
+                    </td>
+                    <td width="70%" rowspan=5>
+                        <p>The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project.
                         </p>
                     </td>
-            </tbody>
-            <thead>
-                <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
-                    <th> <strong>COM Subsystem</strong>
-                    <th> <strong>MFC Subsystem</strong>
-                </tr>
-            <tbody>
-            <tbody>
+		</tr>		    
+            </tbody>	     
+	    <tbody>
                 <tr>
-                    <td class="sunnysolution" width="50%">
-                        <p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center><strong>ResizeParentToFit();</strong></p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
+                    <td width="30%">
+			<p align=center><strong>MFC Subsystem.</strong></p>
                     </td>
-                    <td class="sunnysolution" width="50%">
-                      </p>
-                        <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
-                        </p>                      
+                    <td width="70%" rowspan=5>
+                        <p>The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project.
+                        </p>
                     </td>
-            </tbody>
-        </table>
+		</tr>		    
+            </tbody>        
+	</table>
 </div>   
   
-<p>In fact, we can do more, for example, once the developer's Desktop Application fully assumes the role of Browser Process, then the whole .Net WinForms architecture will become a part of the new Web DOM, which means that developers can instantiate WinForm objects in the web pages supported by the new application system, and WinForms and UserControls can participate in writing new web pages,  of course, it is perfectly possible to handle events of .NET objects in a Web page.</p>
 
-<p align=center id="WinFormsforApplication"><img src="https://user-images.githubusercontent.com/26355688/180966988-ed42d50d-410b-41cd-acaa-ccf007c8d1e7.png" width="80%"><br>(.NET WinForms for Application fully comparable to <i>Visual Basic for Application</i>)</img></p>
 
 <p>Desktop Application has ushered in the stage of "Web Page is Application", in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 
