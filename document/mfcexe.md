@@ -27,8 +27,8 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                 </tr>
             <tbody>
                 <tr>
-                    <td class="sunnysolution" width="50%">
-			<p>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame,</p>
+                    <td width="50%">
+			<p><strong>Replace CMDIFrameWndEx with CWebRTMDIFrame,</strong></p>
                         <p>Replace</p><p align=center><strong>BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)</strong></p><p align=left>with</p><p align=center><strong align=center>BEGIN_MESSAGE_MAP(CMainFrame, CWebRTMDIFrame)</strong></p>
                     </td>
                     <td class="sunnysolution" width="50%" rowspan=5>
