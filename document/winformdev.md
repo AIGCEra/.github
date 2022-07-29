@@ -33,6 +33,4 @@
 ## (3)Open "program.cs" file.
 </div>
 
-## _Modify main function_, Replace:<br><br><div align=center>Application.Run</div><br><div align=left>with</div><br><div align=center>Universe.WebRT.Run</div><br><div align=center id ="program_main"><img src="https://user-images.githubusercontent.com/26355688/180941619-45fde4d7-2830-4e72-944f-2ad41e047fb0.jpg" width="100%"/></div>
-
-</div>
+## _Modify main function_, Replace:<br><br><div align=center>Application.Run</div><br><div align=left>with</div><br><div align=center>Universe.WebRT.Run</div>
