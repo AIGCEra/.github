@@ -15,6 +15,31 @@
 </h2> 
 </h1> 
 
+<h1  align=center>
+
+The Basic Concepts for Web Runtime
+<h2>
+1.Public Component Space
+<h3>We call the set of all <ins><i>Dynamic Link Libraries</i></ins> that can provide <ins>Component Services</ins> (object services or UI services, such as providing Controls, Windows. Forms, etc.) for other <i>Desktop Applications</i> as the "Common Component" Space.<h3>
+</h2>
+<h2>
+2.Window Nucleus
+<h3>
+If the Runtime Position of a  Child Window only depends on the
+<p>
+<div align=center>
+
+[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)
+</div>
+</p>
+<p>
+<h3>
+
+Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.
+</p>
+</h2>
+</h1>
+
 <div align=left>
 
 <div align=center id="CoreConcept"> 
