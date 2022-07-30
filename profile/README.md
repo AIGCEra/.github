@@ -28,7 +28,9 @@
 
 [<ins>WinForm</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
-<p>Desktop applications are about to usher in the "Web Page Define Desktop Application" stage, in this sense, Desktop Web Browser should be the "Smallest Desktop Application". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
+<p>Web Runtime believes that the most expressive, comprehensive and powerful desktop windows are "synthesized" based on conventional Web DOM descriptions, rather than created through complex code techniques, this is the key reason to the conversion of the main process of desktop software into a browsing process. Describing as many objects as possible with the Web DOM is the basic principle of WebRuntime.</p> 
+
+<p>Desktop applications are about to usher in the "Web Page Define Desktop Application" stage, in this sense, Desktop Web Browser should be the "Smallest Desktop Application". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
 
 <div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181904338-865e7b65-16c9-40a2-9e63-dc49db632acb.gif" width="90%" /><br>(The stage of "Web Page Define Desktop Application")</div>
 <p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, It will support <i><ins>the four UI subsystems</ins></i> listed in the following table in the sense of the Web DOM (elements of these subsystems are used as new DOM elements in a Web page to compose a composite user interface):</p>
