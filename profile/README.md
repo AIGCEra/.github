@@ -31,18 +31,18 @@
 <p>Desktop applications are about to usher in the "Web Page Define Desktop Application" stage, in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 
 <div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181785018-05a433ea-bf54-496c-a499-55babf3532e7.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div>
-<p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, it will support the four Subsystems listed in the following table:</p>
+<p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, it will support the four UI Subsystems listed in the following table:</p>
 <center>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Object Subsystem</strong>
+                    <th> <strong>UI Subsystem</strong>
                     <th> <strong>Description</strong>
                 </tr>
             <tbody>
                 <tr>
                     <td width="30%">
-                        <p align=center><strong>WebBrowser Subsystem.</strong></p>
+                        <p align=center><strong>WebBrowser UI Subsystem.</strong></p>
                     </td>
                     <td width="70%" rowspan=5>
                         <p>The developer's project will inherit the functional system of the complete Chromium Project, and the Web Browser will be completely retained as a subsystem of the new desktop software project. <i><ins>Since the Desktop Software itself also has its own functional system and UI Mechanism, this new Browser Process should be able to support application-oriented Web pages</ins>, as shown in the following figure</i>:</p>
@@ -56,7 +56,7 @@
             <tbody>
                 <tr>
                     <td width="30%">
-                        <p align=center><strong>.NET Subsystem.</strong></p>
+                        <p align=center><strong>.NET UI Subsystem.</strong></p>
                     </td>
                     <td width="70%" rowspan=5>
                         <p>The whole .Net WinForms Architecture will become a part of the new Web DOM, which means that developers can instantiate WinForm objects in the web pages supported by the new application system, and WinForms and UserControls can participate in writing new web pages,  of course, it is perfectly possible to handle events of .NET objects in a Web page.</p>
@@ -67,7 +67,7 @@
             <tbody>
                 <tr>
                     <td width="30%">
-                        <p align=center><strong>COM Subsystem.</strong></p>
+                        <p align=center><strong>COM UI Subsystem.</strong></p>
                     </td>
                     <td width="70%" rowspan=5>
                         <p>
@@ -79,7 +79,7 @@
             <tbody>
                 <tr>
                     <td width="30%">
-                        <p align=center><strong>MFC Subsystem.</strong></p>
+                        <p align=center><strong>MFC UI Subsystem.</strong></p>
                     </td>
                     <td width="70%" rowspan=5>
                         <p>
