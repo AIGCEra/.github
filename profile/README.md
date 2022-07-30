@@ -90,7 +90,11 @@
             </tbody>
         </table>
     </center>
-  
+ 
+<p>When a Process supports the above four UI subsystems, it means that a new "four-dimensional space" is supported at runtime, and the four dimensions here are used as the "base" of the UI space (similar to the vector space of linear algebra), Web pages are used to describe the "combination of base elements", and we can generate any number of Desktop Windows based on this. The following figure shows a Dynamic Desktop Window formed by BrowserUI, .NET UI and MFC UI:</p>
+<div align=center id="mfcUI"><img src="https://user-images.githubusercontent.com/26355688/181903819-ae6a054b-67a0-4b3c-ab0b-33910d897930.jpg" width="75%" /></div>
+
+
 <div align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
