@@ -30,7 +30,7 @@
 </div>
 <p>Desktop applications are about to usher in the "Web Page Define Desktop Application" stage, in this sense, Desktop Web Browser should be the "Smallest Desktop Application". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 
-<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181785018-05a433ea-bf54-496c-a499-55babf3532e7.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div>
+<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181902831-295631ec-b986-4ea1-aa5f-abc14f0a9438.gif" width="90%" /><br>(The stage of "Web Page Define Desktop Application")</div>
 <p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, it will support the four UI Subsystems listed in the following table:</p>
 <center>
         <table border="3" cellpadding="3">
