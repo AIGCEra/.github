@@ -28,9 +28,9 @@
 
 [<ins>WinForm</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
-<p>Desktop applications are about to usher in the "web page is an application" stage, in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
+<p>Desktop applications are about to usher in the "Web Page Define Desktop Application" stage, in this sense, Desktop Web Browser should be the smallest Desktop Application. When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.
 
-<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181785018-05a433ea-bf54-496c-a499-55babf3532e7.gif" width="80%" /><br>(The stage of "Web Page as Application")</div>
+<div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181785018-05a433ea-bf54-496c-a499-55babf3532e7.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div>
 <p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, it will support the four Subsystems listed in the following table:</p>
 <center>
         <table border="3" cellpadding="3">
