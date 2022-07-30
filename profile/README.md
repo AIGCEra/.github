@@ -28,7 +28,7 @@
 
 [<ins>WinForm</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
-<p>Web Runtime believes that the most <i>Expressive</i>, <i>Comprehensive</i> and <i>Powerful</i> Desktop Windows are "<i>Synthesized</i>" based on <ins>conventional Web DOM descriptions</ins>, rather than <ins>created through complex code techniques</ins>, this is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of WebRuntime.</p> 
+<p>Web Runtime believes that the most <i>Expressive</i>, <i>Comprehensive</i> and <i>Powerful</i> Desktop Windows are "<i>Synthesized</i>" based on <ins>conventional Web DOM descriptions</ins>, rather than <ins>created through complex code techniques</ins>, this is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.</p> 
 
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181904338-865e7b65-16c9-40a2-9e63-dc49db632acb.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div></p>
 
