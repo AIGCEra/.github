@@ -30,7 +30,7 @@
 </div>
 <p>Web Runtime believes that the most <i>Expressive</i>, <i>Comprehensive</i> and <i>Powerful</i> Desktop Windows are "<i>Synthesized</i>" based on <ins>conventional Web DOM descriptions</ins>, rather than <ins>created through complex code techniques</ins>, this is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.</p> 
 
-<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908621-2ab33635-7dd6-468b-ba46-76cc751731ec.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div></p>
+<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div></p>
 
 <p>Desktop applications are about to usher in the "Web Page Define Desktop Application" stage, in this sense, Desktop Web Browser should be the "Smallest Desktop Application". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
 
