@@ -54,7 +54,9 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
                         <h3 align=center><strong>Browser Process</strong></j3>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h3>The Main Process of the Chromium Project is called the Chromium Project Browser Process, which provides the UI system for Web Browsers.</h3>
+                        <h3>The Main Process of the Chromium Project is called the Chromium Project Browser Process, 
+                        which provides the UI system for Web Browsers.
+                        </h3>
                     </td>
                 </tr>
             </tbody>
