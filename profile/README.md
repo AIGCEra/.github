@@ -119,7 +119,8 @@ Two Core Jobs of Web Runtime
                     <td width="75%" rowspan=5>
                         <h4 align=left>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                 </td>
                 </tr>
-            </tbody>            </table>
+            </tbody>            
+         </table>
     </center>
 </h2>
 <div align=left>
@@ -210,7 +211,7 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
 
 <p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Application</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
 
-<p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, It will support <i><ins>the four UI subsystems</ins></i> listed in the following table in the sense of the Web DOM (elements of these subsystems are used as new DOM elements in a Web page to compose a composite user interface):</p>
+<p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, It will support <i><ins>the four UI subsystems</ins></i> come from the "<ins><i>Component Space of Desktop Software</i></ins>" listed in the following table in the sense of the Web DOM (elements of these subsystems are used as new DOM elements in a Web page to compose a composite user interface):</p>
 <center>
         <table border="3" cellpadding="3">
             <thead>
