@@ -114,7 +114,7 @@ Two Core Jobs of Web Runtime
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Local Web Description Space</strong></p>
+                        <p align=center><strong>Local Web Description Space around every Window nucleus</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
                         <h4 align=left><p>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</p>
