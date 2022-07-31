@@ -134,7 +134,7 @@ Two Core Jobs of Web Runtime
 <div align=center>
 <p > 
 
-[<ins>WinFormProject2BeowserProcess</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFCProject2BeowserProcess</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
+[<ins>WinForm Project</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC Project</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
         
 <h1  align=center>
