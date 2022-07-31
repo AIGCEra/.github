@@ -156,7 +156,7 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
                         <p align=center><strong>Web Gene of Window Nucleus</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=left><p>Every Window Nucleus has an Innate Web Gene:</p><p align=center>Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Layout Layer Space Structure” around it.</p></h4>
+                        <h4 align=left><p>Every Window Nucleus has an Innate Web Gene:</p><p align=center>Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Layout Layer Space” around it.</p></h4>
                     </td>
                 </tr>
             </tbody>            
@@ -167,7 +167,7 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
                     </td>
                     <td width="75%" rowspan=5>
                         <h4 align=left>
-                        <p>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window come frome the "<ins><i>Component Space of Desktop Software</i></ins>"(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.
+                        <p>For each "Layout" in the "Window Layout Layer Space", any type of child window comes from the "<ins><i>Component Space of Desktop Software</i></ins>"(such as <i>MFC Windows</i>, <i>WinForms</i>, <i>.Net Usercontrols</i>, <i>ActiveX Controls</i>, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.
                         </p>
                         <div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="100%"/></div></h4>
                      </td>
