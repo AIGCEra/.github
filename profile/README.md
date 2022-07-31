@@ -166,7 +166,10 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
                         <p align=center><strong>Web Gene of Window Nucleus</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=left><p>Every Window Nucleus has an Innate Web Gene:</p><p align=center>Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Layout Layer Space” around it.</p></h4>
+                        <h4 align=left>
+                                <p>Every Window Nucleus has an Innate Web Gene:</p><p align=center>Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Layout Layer Space” around it.</p>
+                                <p align=center id="LayoutSpace"><img src="https://user-images.githubusercontent.com/26355688/182048931-17a7d63e-8c4d-4194-b032-9da79a74c29d.jpg" width="100%"/></p>
+                        </h4>
                     </td>
                 </tr>
             </tbody>            
