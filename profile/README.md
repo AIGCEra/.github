@@ -35,7 +35,7 @@ If the Runtime Position of a  Child Window only depends on the
 <p>
 <h3>
 
-Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.
+Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
 </p>
 </h2>
 <h2 align=center>
