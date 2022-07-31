@@ -108,7 +108,7 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Convert Process</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=left>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</h4>                                      </td>
+                        <h4 align=left>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</h4>                                                     </td>
                 </tr>
             </tbody>            
             <tbody>
@@ -117,7 +117,7 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Local Web Description Space</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=left>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                      </td>
+                        <h4 align=left>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                 </td>
                 </tr>
             </tbody>            </table>
     </center>
@@ -166,7 +166,11 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
                         <p align=center><strong>Local Web Description Space</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=left><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="100%"/></div></h4>                                      </td>
+                        <h4 align=left>
+                        <p>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window come frome the "<ins><i>Component Space of Desktop Software</i></ins>"(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.
+                        </p>
+                        <div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="100%"/></div></h4>
+                     </td>
                 </tr>
             </tbody>            
             <tbody>
