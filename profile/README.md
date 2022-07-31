@@ -110,12 +110,15 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: </p>
+                        <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
+                            </p>
 <div align=center>
 <p > 
 
 [<ins>WinForm Project</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC Project</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
+                            <p>When a Desktop Software Process is converted into a Chromium Browser Process, the Desktop Software Process naturally integrates all the Chromium Browser UI Mechanism from the Chromium technology system, which means that the original UI mechanism is broken. Web Runtime tells us that the breakthrough of the boundary is just the beginning, once the Desktop Process itself has the ability to drive the web, more UI Mechanism parallel to the Browser Window(for example: WinForms UI mechanism) will follow. Every Desktop Application-Oriented Browser Process will contain a structure similar to the Universe, Converting the Desktop Process into the Browser Process is the beginning of this prologue...
+                            </p>
                     </td>
                 </tr>
             </tbody>            
