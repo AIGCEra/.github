@@ -29,7 +29,7 @@ The Basic Concepts for Web Runtime
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Common Component Space</strong></p>
+                        <h3 align=center><strong>Common Component Space</strong></h3>
                     </td>
                     <td width="75%" rowspan=5>
                         <h3>We call the set of all <ins><i>Dynamic Link Libraries</i></ins> that can provide <ins>Component Services</ins> (object services or UI services, such as providing Controls, Windows. Forms, etc.) for other <i>Desktop Applications</i> as the "Common Component" Space.<h3>             
@@ -39,7 +39,7 @@ The Basic Concepts for Web Runtime
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Private Component Space of Desktop Software</strong></p>
+                        <h3 align=center><strong>Private Component Space of Desktop Software</strong></h3>
                     </td>
                     <td width="75%" rowspan=5>
                         <h3>The components from the main process and those components from all the dynamic link library which directly depend on the main process form a set,  which is called the "private component space of desktop software".<h3>
@@ -49,7 +49,7 @@ The Basic Concepts for Web Runtime
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Component Space of Desktop Software</strong></p>
+                        <h3 align=center><strong>Component Space of Desktop Software</strong></h3>
                     </td>
                     <td width="75%" rowspan=5>
                         <h3>The union set of "<ins>Common Component Space</ins>" and "<ins>Private Component Space of Desktop software</ins>" is called "<ins>Component Space of Desktop software</ins>".<h3>
@@ -59,7 +59,7 @@ The Basic Concepts for Web Runtime
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Window Nucleus</strong></p>
+                        <h3 align=center><strong>Window Nucleus</strong></h3>
                     </td>
                     <td width="75%" rowspan=5>
                         <h3>
@@ -81,7 +81,7 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Browser Process</strong></p>
+                        <h3 align=center><strong>Browser Process</strong></j3>
                     </td>
                     <td width="75%" rowspan=5>
                         <h3>The Main Process of the Chromium Project is called the Chromium Project Browser Process, which provides the UI system for Web Browsers.</h3>
