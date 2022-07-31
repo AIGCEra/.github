@@ -202,16 +202,13 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
   
 <div align=center>(Web Runtime makes the peripheral space of the <i>Window Nucleus</i> <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between <i>Web</i> and <i>Desktop</i> Software Technology was formed...)<p>
 
-<p align=left>
-For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</p>
-      
 <p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
 </p> 
 
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div>
 </p>
 
-<p>Desktop applications are about to usher in the "<i>Web Page Define Desktop Application</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
+<p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Application</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
 
 <p align=center><div align=left>Once the developer's Desktop Application Project is converted into a Chromium Project Browser Process, It will support <i><ins>the four UI subsystems</ins></i> listed in the following table in the sense of the Web DOM (elements of these subsystems are used as new DOM elements in a Web page to compose a composite user interface):</p>
 <center>
