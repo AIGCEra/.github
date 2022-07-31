@@ -23,7 +23,15 @@ The Basic Concepts for Web Runtime
 <h3>We call the set of all <ins><i>Dynamic Link Libraries</i></ins> that can provide <ins>Component Services</ins> (object services or UI services, such as providing Controls, Windows. Forms, etc.) for other <i>Desktop Applications</i> as the "Common Component" Space.<h3>
 </h2>
 <h2 align=center>
-2.Window Nucleus
+2.Private Component Space of Desktop Software
+<h3>The components from the main process and those components from all the dynamic link library which directly depend on the main process form a set,  which is called the "private component space of desktop software".<h3>
+</h2>
+<h2 align=center>
+3.Component Space of Desktop Software
+<h3>The union set of "<ins>Common Component Space</ins>" and "<ins>Private Component Space of Desktop software</ins>" is called "<ins>Component Space of Desktop software</ins>".<h3>
+</h2>
+<h2 align=center>
+4.Window Nucleus
 <h3>
 If the Runtime Position of a  Child Window only depends on the
 <p>
@@ -39,14 +47,14 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 </p>
 </h2>
 <h2 align=center>
-3.Browser Process
+5.Browser Process
 <h3>The Main Process of the Chromium Project is called the Chromium Project Browser Process, which provides the UI system for Web Browsers.</h3>
 <h2>
 </h1>
 <h1 align=center>
 Two Core Jobs of Web Runtime
 <h2 align=center>1.Convert Windows Desktop Software <br>Projects into Chromium Project Browser Processes</h2>
-<h2 align=center>2.Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, <br>based on the <ins><i>Common Component Space</i></ins> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h2>
+<h2 align=center>2.Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, <br>based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h2>
 </h1>
 
 <div align=left>
