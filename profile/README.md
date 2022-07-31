@@ -43,6 +43,11 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 <h3>The Main Process of the Chromium Project is called the Chromium Project Browser Process, which provides the UI system for Web Browsers.</h3>
 <h2>
 </h1>
+<h1 align=center>
+Two Core Jobs of Web Runtime
+<h2 align=center>1.Convert Windows Desktop Software <br>Projects into Chromium Project Browser Processes</h2>
+<h2 align=center>2.Taking the Window Nucleus object as the local center, <br>based on the Common Component Space and Web Driving Technology, establish a "Local Web Description Space" to realize the Dynamic Description, Creation and Control of Desktop Windows based on Web Technology</h2>
+</h1>
 
 <div align=left>
 
