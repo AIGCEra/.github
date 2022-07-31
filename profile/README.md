@@ -19,7 +19,7 @@
 
 The Basic Concepts for Web Runtime
 <h2 align=center>
-1.Public Component Space
+1.Common Component Space
 <h3>We call the set of all <ins><i>Dynamic Link Libraries</i></ins> that can provide <ins>Component Services</ins> (object services or UI services, such as providing Controls, Windows. Forms, etc.) for other <i>Desktop Applications</i> as the "Common Component" Space.<h3>
 </h2>
 <h2 align=center>
@@ -46,7 +46,7 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 <h1 align=center>
 Two Core Jobs of Web Runtime
 <h2 align=center>1.Convert Windows Desktop Software <br>Projects into Chromium Project Browser Processes</h2>
-<h2 align=center>2.Taking the Window Nucleus object as the local center, <br>based on the Common Component Space and Web Driving Technology, establish a "Local Web Description Space" to realize the Dynamic Description, Creation and Control of Desktop Windows based on Web Technology</h2>
+<h2 align=center>2.Taking the Window Nucleus object as the local center, <br>based on the <ins>Common Component Space</i></ins> and Web Driving Technology, establish a "Local Web Description Space" to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h2>
 </h1>
 
 <div align=left>
