@@ -143,12 +143,44 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
 <div align=left>
 <h2>
 
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>Window Nucleus</strong>
+                    <th> <strong>Description</strong>
+                </tr>
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Web Gene of Window Nucleus</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <h4 align=left><p>Every Window Nucleus has an Innate Web Gene:</p><p align=center>Between any Window Nucleus and its Immediate Parent Window there exists a Web/XML DOM controllable “Window Layout Layer Space Structure” around it.</p></h4>
+                    </td>
+                </tr>
+            </tbody>            
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Local Web Description Space</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <h4 align=left><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="100%"/></div></h4>                                      </td>
+                </tr>
+            </tbody>            
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Various types of Window Nuclei</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <h4 align=left><div align=center id="FormNucleus"><img src="https://user-images.githubusercontent.com/26355688/181654297-f2bafff1-5fe6-45a3-a1f5-5360f92f083c.gif" width="100%"/></div></h4>                                      </td>
+                </tr>
+            </tbody>
+         </table>
+    </center>
 <p>
-
-Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
-</p>
-
-<div align=center id="FormNucleus"><img src="https://user-images.githubusercontent.com/26355688/181654297-f2bafff1-5fe6-45a3-a1f5-5360f92f083c.gif" width="80%"/></div>
 </h2>
         
 
@@ -156,11 +188,24 @@ Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any
 
 Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
 </h1>   
-        
-<h2>       
-<p>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.</p> 
 
-<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div></p>
+<h2>
+<p align=left>
+
+In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while <strong><ins>the Web Runtime further extends the scope of the Web to <i>the Periphery</i> of <i>Various Window nuclei</i></ins></strong>. 
+  
+<div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div>
+  
+<div align=center>(Web Runtime makes the peripheral space of the <i>Window Nucleus</i> <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between <i>Web</i> and <i>Desktop</i> Software Technology was formed...)<p>
+
+<p align=left>
+For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</p>
+      
+<p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
+</p> 
+
+<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div>
+</p>
 
 <p>Desktop applications are about to usher in the "<i>Web Page Define Desktop Application</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
 
@@ -232,17 +277,6 @@ Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
 </div></p>
-</h2>
-
-<h2>
-  
-<p align=left>
-
-In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while <strong><ins>the Web Runtime further extends the scope of the Web to <i>the Periphery</i> of <i>Various Window nuclei</i></ins></strong>. <p>
-  
-<div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div>
-  
-<div align=center>(Web Runtime makes the peripheral space of the <i>Window Nucleus</i> <br>show its original face. For a long time, because we ignored the existence of peripheral space, a gap between <i>Web</i> and <i>Desktop</i> Software Technology was formed...)<br><div align=left><br>For each "Layout" in the "Window Layout Layer Space Structure", any type of child window(such as MFC Windows, WinForms, .Net Usercontrols, ActiveX Controls, ..., etc.) can be used to fill each specific position in the layout. The Web Gene of Window Nucleus enables most Desktop Windows to have Web Description Driven Capabilities comparable to WebView.</div>
 </h2>
 
 <h1 align=center>
