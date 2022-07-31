@@ -32,7 +32,7 @@ The Basic Concepts for Web Runtime
                         <p align=center><strong>Common Component Space</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h3>We call the set of all <ins><i>Dynamic Link Libraries</i></ins> that can provide <ins>Component Services</ins> (object services or UI services, such as providing Controls, Windows. Forms, etc.) for other <i>Desktop Applications</i> as the "Common Component" Space.<h3>                       
+                        <h3>We call the set of all <ins><i>Dynamic Link Libraries</i></ins> that can provide <ins>Component Services</ins> (object services or UI services, such as providing Controls, Windows. Forms, etc.) for other <i>Desktop Applications</i> as the "Common Component" Space.<h3>             
                     </td>
                 </tr>
             </tbody>
@@ -93,10 +93,35 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 
 <h1 align=center>
 Two Core Jobs of Web Runtime
-<h2 align=center>1.Convert Windows Desktop Software <br>Projects into Chromium Project Browser Processes</h2>
-<h2 align=center>2.Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, <br>based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h2>
 </h1>
-
+<h2>
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>Core Job</strong>
+                    <th> <strong>Description</strong>
+                </tr>
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Convert Process</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <h4 align=center>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</h4>                                      </td>
+                </tr>
+            </tbody>            
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Local Web Description Space</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <h4 align=center>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                      </td>
+                </tr>
+            </tbody>            </table>
+    </center>
+</h2>
 <div align=left>
 
 <div align=center id="CoreConcept"> 
