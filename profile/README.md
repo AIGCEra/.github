@@ -144,17 +144,7 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
 </h1>
 <div align=left>
 <h2>
-If the Runtime Position of a  Child Window only depends on the
-<p>
-<div align=center>
 
-[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)
-</div>
-</p>
-<p>
-
-Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window.
-</p>
 <p>
 
 Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
