@@ -108,7 +108,7 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Convert Process</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=center>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</h4>                                      </td>
+                        <h4 align=left>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</h4>                                      </td>
                 </tr>
             </tbody>            
             <tbody>
@@ -117,7 +117,7 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Local Web Description Space</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=center>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                      </td>
+                        <h4 align=left>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                      </td>
                 </tr>
             </tbody>            </table>
     </center>
