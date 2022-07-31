@@ -117,7 +117,15 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Local Web Description Space</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
-                        <h4 align=left>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</h4>                                 </td>
+                        <h4 align=left><p>Taking the Window Nucleus object as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the window nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology</p>
+                        <p>
+                        For all Desktop Software Developers, the window nucleus is a brand new concept, since it is a "nucleus", it must be surrounded by other objects. One of the core tasks of Web Runtime is to reveal that the window nucleus is surrounded by a huge, content world driven by Web description, this content world is a new world that software developers have not touched so far ...
+                        </p>
+                        <p>
+                        Similar to the theory of relativity, massive matter causes the space around it producing "space-time bending", which in turn causes other small-mass matter to revolve around it, the window nucleus has a similar effect on its surrounding geometric space: the window nucleus can deform the surrounding space  based on the geometric layout structure controlled by the Web, the UI elements in the "component space" of the desktop software process will find their "position" in the specific layout. This geometric effect is similar to the theory of relativity, and it is the theoretical basis for WebRuntime to form a new Web technology entrance.
+                        </p>
+                        </h4>
+                     </td>
                 </tr>
             </tbody>            
          </table>
