@@ -135,6 +135,29 @@ Two Core Jobs of Web Runtime
 
 [<ins>WinForm</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
+        
+<h1  align=center>
+
+The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)
+</h1>
+<div align=left>
+<h2>
+
+<p>
+
+Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
+</p>
+
+<div align=center id="FormNucleus"><img src="https://user-images.githubusercontent.com/26355688/181654297-f2bafff1-5fe6-45a3-a1f5-5360f92f083c.gif" width="80%"/></div>
+</h2>
+        
+
+<h1  align=center>
+
+Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
+</h1>   
+        
+<h2>       
 <p>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.</p> 
 
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div></p>
@@ -211,25 +234,6 @@ Two Core Jobs of Web Runtime
 </div></p>
 </h2>
 
-<h1  align=center>
-
-The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)
-</h1>
-<div align=left>
-<h2>
-
-<p>
-
-Every Window Nucleus has an Innate Web Gene: <br><div align=center>__Between any Window Nucleus <br>and its Immediate Parent Window <br>there exists a Web/XML DOM controllable <br>“Window Layout Layer Space Structure” around it.__</div><br><div align=center id="periphery6"><img src="https://user-images.githubusercontent.com/26355688/180633438-d7025ce1-ba3f-438f-8bbe-7509b430de93.jpg" width="80%"/></div>
-</p>
-
-<div align=center id="FormNucleus"><img src="https://user-images.githubusercontent.com/26355688/181654297-f2bafff1-5fe6-45a3-a1f5-5360f92f083c.gif" width="80%"/></div>
-</h2>
-
-<h1  align=center>
-
-Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
-</h1>
 <h2>
   
 <p align=left>
