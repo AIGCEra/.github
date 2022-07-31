@@ -164,7 +164,7 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Local Web Description Space</strong></p>
+                        <p align=center><strong>Local Web Description Space of Window Nucleus</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
                         <h4 align=left>
@@ -191,13 +191,13 @@ The Core Object <br>of Web Runtime: [Window Nucleus](https://github.com/TangramD
 
 <h1  align=center>
 
-Extending the Scope of the Web <br>to _the Periphery of Various Window Nuclei_
+Extending the Scope of the Web to <br>_the Periphery of Various Window Nuclei_: the Local Web Description Space of Window Nucleus
 </h1>   
 
 <h2>
 <p align=left>
 
-In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while <strong><ins>the Web Runtime further extends the scope of the Web to <i>the Periphery</i> of <i>Various Window nuclei</i></ins></strong>. 
+In the Standard Web browser, the scope of the Web is completely limited inside the WebView, while <strong><ins>the Web Runtime further extends the scope of the Web to <i>the Periphery</i> of <i>Various Window nuclei</i></ins>(the Local Web Description Space of Window Nucleus)</strong>. 
   
 <div align=center id="ActivateGene"><img src="https://user-images.githubusercontent.com/26355688/180607456-856f9d69-389d-4c2b-bd98-c315d10b553e.jpg" width="80%" /></div>
   
@@ -282,12 +282,12 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
 </h2>
 
 <h1 align=center>
-Using Web Technology <br>to Drive Window Nucleus and its Peripheral Space
+Using Web Technology <br>to Drive Window Nucleus and its Local Web Description Space
 </h1>
 
 <h2 align=left>
 
-When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...
+When the developer's "_Application Project_" is converted into "_the Browser Process_" of the Chromium Project, how to control the _Peripheral Space_ of the Window Nucleus(the Local Web Description Space of Window Nucleus) based on Web technology is a brand-new Web topic, and a Desktop Software-Related "Web Application Ecological Chain" has revealed the tip of the iceberg...
 
 <p>
 
