@@ -142,7 +142,8 @@ Two Core Jobs of Web Runtime
                 </tr>
             </tbody>            
          </table>
-    </center>
+    </center>    
+    <p>WebRuntime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.</p>
 </h2>
 
         
