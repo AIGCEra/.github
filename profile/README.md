@@ -97,7 +97,7 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 Two Core Jobs of Web Runtime
 </h1>
 <h2>    
-<p>WebRuntime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
+<p>Web Runtime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
 </p>
 <center>
         <table border="3" cellpadding="3">
@@ -132,7 +132,7 @@ Two Core Jobs of Web Runtime
                     <td width="75%" rowspan=5>
                         <h4 align=left>
                         <p>
-                        The theory of relativity tells us, that massive matter causes the space around it producing "space-time bending", which in turn enables other small-mass matter to revolve around it, the Window Nucleus has a similar effect on the geometric space around it: the window nucleus can deform the surrounding space according to the geometric layout structure controlled by the Web, and then form a surrounding geometric layout, the UI elements in the "Component Space of Desktop Software" will find their "position" in the specific layout. This geometric effect is similar to the theory of relativity, and it is the theoretical basis for WebRuntime to form a new Web technology entrance.
+                        The theory of relativity tells us, that massive matter causes the space around it producing "space-time bending", which in turn enables other small-mass matter to revolve around it, the Window Nucleus has a similar effect on the geometric space around it: the window nucleus can deform the surrounding space according to the geometric layout structure controlled by the Web, and then form a surrounding geometric layout, the UI elements in the "Component Space of Desktop Software" will find their "position" in the specific layout. This geometric effect is similar to the theory of relativity, and it is the theoretical basis for Web Runtime to form a new Web technology entrance.
                         </p>
                         <p>
                         For all Desktop Software Developers, the Window Nucleus is a brand new concept, since it is a "Nucleus", it must be surrounded by other objects. One of the core tasks of Web Runtime is to reveal that the Window Nucleus is surrounded by a huge content world driven by Web Description, this content world is a New World that software developers have not touched so far ...
