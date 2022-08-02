@@ -144,7 +144,8 @@ In the Standard Web browser, the scope of the Web is completely limited inside t
 <div align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/TechnicalStrategy.md)
-</div></p>
+</div>
+</p>
 </h2>
 
 <h1 align=center>
