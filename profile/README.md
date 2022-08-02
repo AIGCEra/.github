@@ -48,7 +48,7 @@ Two Core Jobs of Web Runtime
             <tbody>
                 <tr>
                     <td width="25%">
-                        <p align=center><strong>Web Page Define Desktop Application</strong></p>
+                        <p align=center><strong>Web Page Define Desktop Window</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
                         <h4 align=left>
