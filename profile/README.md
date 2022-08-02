@@ -146,9 +146,9 @@ Two Core Jobs of Web Runtime
                 </tr>
             </tbody>            
          </table>
-    </center>    
-</h2>
-<p align=right>
+</center>    
+<div align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
-</p>
+</div>
+</h2>
