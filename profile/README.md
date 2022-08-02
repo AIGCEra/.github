@@ -13,6 +13,58 @@
 <p>The mission of Web Runtime is to allow more desktop software developers to inherit the advantages of the Chromium Project to the greatest extent, and at the same time, it can also best continue the technical accumulation of the developers themselves. Further, considering the basic characteristics of Web technology, we hope to reasonably expand the boundaries of the Web, and then the technical resources from the .NET Framework, COM, C++ and many other infrastructures will be incorporated into the scope of the Web.</p>
 
 </h2> 
+
+<h1 align=center>
+Two Core Jobs of Web Runtime
+</h1>
+<h2>    
+<p>Web Runtime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
+</p>
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>Core Job</strong>
+                    <th> <strong>Description</strong>
+                </tr>
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
+                            </p>
+<div align=center>
+<p > 
+
+[<ins>WinForm Project</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC Project</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
+</div>
+                            <p>When a Desktop Software Process is converted into a Chromium Browser Process, the Desktop Software Process naturally integrates all the Chromium Browser UI Mechanism from the Chromium technology system, which means that the original UI mechanism is broken. Web Runtime tells us that the breakthrough of the boundary is just the beginning, once the Desktop Process itself has the ability to drive the web, more UI Mechanism parallel to the Browser Window(for example: WinForms UI mechanism) will follow. Every Desktop Application-Oriented Browser Process will contain a structure similar to the Universe, Converting the Desktop Process into the Browser Process is the beginning of this prologue...
+                            </p>
+                    </td>
+                </tr>
+            </tbody>            
+            <tbody>
+                <tr>
+                    <td width="25%">
+                        <p align=center><strong>Web Page Define Desktop Application</strong></p>
+                    </td>
+                    <td width="75%" rowspan=5>
+                        <h4 align=left>
+                        <p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
+</p> 
+
+<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Application")</div>
+</p>
+
+<p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Application</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
+                        </h4>
+                     </td>
+                </tr>
+            </tbody>            
+         </table>
+</center>        
 </h1> 
 
 <h1 align=center>
@@ -92,63 +144,9 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
             </tbody>
         </table>
     </center>
-
-<h1 align=center>
-Two Core Jobs of Web Runtime
-</h1>
-<h2>    
-<p>Web Runtime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
-</p>
-<center>
-        <table border="3" cellpadding="3">
-            <thead>
-                <tr>
-                    <th> <strong>Core Job</strong>
-                    <th> <strong>Description</strong>
-                </tr>
-            <tbody>
-                <tr>
-                    <td width="25%">
-                        <p align=center><strong>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</strong></p>
-                    </td>
-                    <td width="75%" rowspan=5>
-                        <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
-                            </p>
-<div align=center>
-<p > 
-
-[<ins>WinForm Project</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC Project</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
-</div>
-                            <p>When a Desktop Software Process is converted into a Chromium Browser Process, the Desktop Software Process naturally integrates all the Chromium Browser UI Mechanism from the Chromium technology system, which means that the original UI mechanism is broken. Web Runtime tells us that the breakthrough of the boundary is just the beginning, once the Desktop Process itself has the ability to drive the web, more UI Mechanism parallel to the Browser Window(for example: WinForms UI mechanism) will follow. Every Desktop Application-Oriented Browser Process will contain a structure similar to the Universe, Converting the Desktop Process into the Browser Process is the beginning of this prologue...
-                            </p>
-                    </td>
-                </tr>
-            </tbody>            
-            <tbody>
-                <tr>
-                    <td width="25%">
-                        <p align=center><strong>Build a "Local Web Description Space" around every Window nucleus</strong></p>
-                    </td>
-                    <td width="75%" rowspan=5>
-                        <h4 align=left>
-                        <p>
-                        The theory of relativity tells us, that massive matter causes the space around it producing "space-time bending", which in turn enables other small-mass matter to revolve around it, <ins>the Window Nucleus has a similar effect on the geometric space around it: the window nucleus can deform the surrounding space according to the geometric layout structure controlled by the Web, and then form a surrounding geometric layout, the UI elements in the "Component Space of Desktop Software" will find their "position" in the specific layout. This geometric effect is similar to the theory of relativity, and it is the theoretical basis for Web Runtime to form a new Web technology entrance.</ins>
-                        </p>
-                        <p align=center id="LayoutLayer"><img src="https://user-images.githubusercontent.com/26355688/182055784-6b9fd7c0-2328-428a-9b64-e8b65ba8f316.jpg" width="100%"/>
-                        </p>
-                        <p>
-                        For all Desktop Software Developers, the Window Nucleus is a brand new concept, since it is a "Nucleus", it must be surrounded by other objects. One of the core tasks of Web Runtime is to reveal that the Window Nucleus is surrounded by a huge content world driven by Web Description, this content world is a New World that software developers have not touched so far ...
-                        </p>
-                        <p>Taking the Window Nucleus as the <ins><i>Local Center</ins></i>, based on the <ins><i>Component Space of Desktop Software</ins></i> and <ins><i>Web Driving Technology</ins></i>, establish a "<ins><i>Local Web Description Space</ins></i>" around the Window Nucleus to realize the <i>Dynamic Description</i>, <i>Creation</i> and <i>Control</i> of <ins>Desktop Windows</ins> based on Web Technology.
-                        </p>
-                        </h4>
-                     </td>
-                </tr>
-            </tbody>            
-         </table>
-</center>    
-<div align=right>
+    
+<h3 align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
-</div>
+</h3>
 </h2>
