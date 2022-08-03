@@ -28,16 +28,15 @@ The Core Job of Web Runtime <br>Convert Windows Desktop Software Projects into C
 
 [<ins>WinForm Project</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC Project</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
-                            <p>When a Desktop Software Process is converted into a Chromium Browser Process, the Desktop Software Process naturally integrates all the Chromium Browser UI Mechanism from the Chromium technology system, which means that the original UI mechanism is broken. Web Runtime tells us that the breakthrough of the boundary is just the beginning, once the Desktop Process itself has the ability to drive the web, more UI Mechanism parallel to the Browser Window(for example: WinForms UI mechanism) will follow. Every Desktop Application-Oriented Browser Process will contain a structure similar to the Universe, Converting the Desktop Process into the Browser Process is the beginning of this prologue...
-                            </p><p align=left>
-                        <p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
+
+<p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
 </p> 
 
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="100%" /><br>(The stage of "Web Page Define Desktop Window")</div>
 </p>
 
 <p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
-                        </p>        
+       
 <div align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
