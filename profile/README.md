@@ -21,8 +21,9 @@ The Core Job of Web Runtime <br>Convert Windows Desktop Software Projects into C
 <p>Web Runtime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
 </p>
 <p>Web Runtime converts the Developer's Desktop Software Application Project into the Browser Process of the Chromium Project, so as to realize Web pageization of "Desktop Application Functions".</p>
-                        <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
-                            </p>
+
+<p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
+</p>
 <div align=center>
 <p > 
 
@@ -32,7 +33,7 @@ The Core Job of Web Runtime <br>Convert Windows Desktop Software Projects into C
 <p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
 </p> 
 
-<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="100%" /><br>(The stage of "Web Page Define Desktop Window")</div>
+<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The stage of "Web Page Define Desktop Window")</div>
 </p>
 
 <p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
@@ -42,7 +43,3 @@ The Core Job of Web Runtime <br>Convert Windows Desktop Software Projects into C
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
 </div>
 </h1> 
-
-   
-
-
