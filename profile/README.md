@@ -15,25 +15,12 @@
 </h2> 
 
 <h1 align=center>
-The Core Job of Web Runtime
+The Core Job of Web Runtime <br>Convert Windows Desktop Software Projects into Chromium Project Browser Processes
 </h1>
 <h2>    
 <p>Web Runtime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
 </p>
-<center>
-        <table border="3" cellpadding="3">
-            <thead>
-                <tr>
-                    <th> <strong>Core Job</strong>
-                    <th> <strong>Description</strong>
-                </tr>
-            <tbody>
-                <tr>
-                    <td width="25%">
-                        <p align=center><strong>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</strong></p>
-                    </td>
-                    <td width="75%" rowspan=5>
-                        <p>Web Runtime converts the Developer's Desktop Software Application Project into the Browser Process of the Chromium Project, so as to realize Web pageization of "Desktop Application Functions".</p>
+<p>Web Runtime converts the Developer's Desktop Software Application Project into the Browser Process of the Chromium Project, so as to realize Web pageization of "Desktop Application Functions".</p>
                         <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
                             </p>
 <div align=center>
@@ -42,7 +29,7 @@ The Core Job of Web Runtime
 [<ins>WinForm Project</ins>](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)&emsp;&emsp;[<ins>MFC Project</ins>](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)</p>
 </div>
                             <p>When a Desktop Software Process is converted into a Chromium Browser Process, the Desktop Software Process naturally integrates all the Chromium Browser UI Mechanism from the Chromium technology system, which means that the original UI mechanism is broken. Web Runtime tells us that the breakthrough of the boundary is just the beginning, once the Desktop Process itself has the ability to drive the web, more UI Mechanism parallel to the Browser Window(for example: WinForms UI mechanism) will follow. Every Desktop Application-Oriented Browser Process will contain a structure similar to the Universe, Converting the Desktop Process into the Browser Process is the beginning of this prologue...
-                            </p><h4 align=left>
+                            </p><p align=left>
                         <p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
 </p> 
 
@@ -50,12 +37,7 @@ The Core Job of Web Runtime
 </p>
 
 <p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" stage, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
-                        </h4>
-                    </td>
-                </tr>
-            </tbody>                       
-         </table>
-</center>        
+                        </p>        
 <div align=right>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
