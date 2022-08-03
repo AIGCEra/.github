@@ -15,7 +15,7 @@
 </h2> 
 
 <h1 align=center>
-The Core Job of Web Runtime <br>Convert Windows Desktop Software Projects into Chromium Project Browser Processes
+The Core Job of Web Runtime: <br>Convert Desktop Software Projects into Chromium Project Browser Processes
 </h1>
 <h2>    
 <p>Web Runtime will make Desktop Applications the Organizer and Scheduler of Various Application Components (such as COM, .NET, C++ components, etc.) based on Web-driven technology.
