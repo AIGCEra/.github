@@ -33,6 +33,7 @@ Two Core Jobs of Web Runtime
                         <p align=center><strong>Convert Windows Desktop Software Projects into Chromium Project Browser Processes</strong></p>
                     </td>
                     <td width="75%" rowspan=5>
+                        <p>Web Runtime converts the Developer's Desktop Software Application Project into the Browser Process of the Chromium Project, so as to realize Web pageization of "Desktop Application Functions".</p>
                         <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
                             </p>
 <div align=center>
