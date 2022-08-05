@@ -16,7 +16,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 </h3>
 <hr />
 
-## (2)AppBase: Replace CWinApp(Ex) with CWebRTApp(Ex)
+## (2)AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"
   
 <center>
         <table border="3" cellpadding="3">
@@ -28,7 +28,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             <tbody>
                 <tr>
                     <td width="50%">
-			<h3><strong>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame</strong></h3>                        
+			<h3><strong>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"</strong></h3>                        
                     </td>
                     <td class="sunnysolution" width="50%" rowspan=5>
                         <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
