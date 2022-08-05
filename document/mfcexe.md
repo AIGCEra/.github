@@ -31,8 +31,8 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 			<h3><strong>MDIFrameBase: Replace CMDIFrameWndEx with CWebRTMDIFrame</strong></h3>                        
                     </td>
                     <td class="sunnysolution" width="50%" rowspan=5>
-                        <p>Modify the return value of </p><p><div align=center><strong>BOOL CMFCDlgApp::InitInstance()</strong></p><p align=left>to</p> <p align=center><strong>TRUE</strong>.</p>
-                        </p>
+                        <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
+                        </p></strong>
                     </td>
             </tbody>
             <thead>
@@ -44,9 +44,10 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             <tbody>
                 <tr>
                     <td class="sunnysolution" width="50%">
-                        <p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center><strong>ResizeParentToFit();</strong></p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
+                        <strong><p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center>ResizeParentToFit();</p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
                     </td>
                     <td class="sunnysolution" width="50%">
+		      <strong>
                       </p>
                         <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
                         </p>
@@ -65,6 +66,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 	  }
     }
 </p>
+</strong>
                     </td>
             </tbody>
         </table>
