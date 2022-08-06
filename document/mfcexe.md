@@ -24,7 +24,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <h3 align=left>
 <p>Open the "stdafx.h(stdafx.cpp)" or "pch.h(pch.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position(please refer to our provided examples):</p>
 <p align=center>#include "WebRuntimeApp.h" //for stdafx.h or pch.h</p>
-<p>or</p>	
+<p>and</p>	
 <p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p>	
 </h3>
 
