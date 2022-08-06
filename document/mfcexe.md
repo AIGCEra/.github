@@ -29,25 +29,14 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                 </tr>                     
             <tbody>
                 <tr>
-                    <td class="sunnysolution" width="30%">
+                    <td width="30%">
                         <strong><p align=center>Dialog Application</strong> </p>
                     </td>
-                    <td class="sunnysolution" width="70%">
+                    <td width="70%">
 		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
                         </p></strong>
                     </td>
-            </tbody>
-	    <tbody>
-                <tr>
-                    <td class="sunnysolution" width="30%">
-                        <strong><p align=center>For "CFormView Derived Class"</strong> </p>
-                    </td>
-                    <td class="sunnysolution" width="50%">
-		     <strong><p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center>ResizeParentToFit();</p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
-</p>
-</strong>
-                    </td>
-            </tbody>
+            </tbody>	    
 	    <tbody>
                 <tr>
                     <td class="sunnysolution" width="30%">
