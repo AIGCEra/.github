@@ -14,7 +14,7 @@
 </h2> 
 
 <h1 align=center>
-The Core Job of Web Runtime:<br><i>Eliminate</i> the Boundary between <i>Desktop Software</i> and <i>Web Browser</i>
+The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
 </h1>
 <h2>
 <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert "existing" or "newly created" <i>Desktop Software Projects</i> into "<i>Browser Processes</i>" of "Chromium Project"</ins>, so as to realize Web pageization of "Desktop Application Functions", it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and makes Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
