@@ -16,35 +16,40 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 </h3>
 <hr />
 
-## (2)AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"
+## (2)AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"<br>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"
   
 <center>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Tabbed MDI Application</strong>
-                    <th> <strong>Dialog Application</strong>
-                </tr>
+                    <th> <strong>Needing Attention</strong>
+                    <th> <strong>Description</strong>
+                </tr>                     
             <tbody>
                 <tr>
-                    <td width="50%">
-			<h3><strong>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"</strong></h3>                        
+                    <td class="sunnysolution" width="30%">
+                        <strong><p align=center>Dialog Application</strong> </p>
                     </td>
-                    <td class="sunnysolution" width="50%" rowspan=5>
-                        <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
+                    <td class="sunnysolution" width="70%">
+		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
                         </p></strong>
                     </td>
             </tbody>
-            <thead>
-                <tr style="font-size: 16px; font-weight:bold; color:midnightblue">
-                    <th> <strong>CFormView</strong>
-                    <th> <strong>Document Serialization</strong>
-                </tr>
-            <tbody>
-            <tbody>
+	    <tbody>
                 <tr>
+                    <td class="sunnysolution" width="30%">
+                        <strong><p align=center>For "CFormView Derived Class"</strong> </p>
+                    </td>
                     <td class="sunnysolution" width="50%">
-                        <strong><p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center>ResizeParentToFit();</p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
+		     <strong><p align=left>For "CFormView Derived Class", you need to remove the Call:</p><p align=center>ResizeParentToFit();</p> <p>from</p><p align=center><strong>OnInitialUpdate();</strong> </p>
+</p>
+</strong>
+                    </td>
+            </tbody>
+	    <tbody>
+                <tr>
+                    <td class="sunnysolution" width="30%">
+                        <strong><p align=center>Document Serialization</p></strong>
                     </td>
                     <td class="sunnysolution" width="50%">
 		      <strong>
@@ -70,5 +75,4 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                     </td>
             </tbody>
         </table>
-</center>  
- 
+</center>
