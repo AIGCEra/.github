@@ -11,8 +11,14 @@
 <p>
   
 Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC desktop software project.</p>
-
+<p>
 <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/181698116-74b3824c-4e1b-457e-92c4-587d4c0b914b.jpg" width="80%"/></div>
+</p>
+
+<p>Open the "stdafx.h(stdafx.cpp)" or "pch.h(pch.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
+<p align=center>#include "WebRuntimeApp.h"</p>
+<p>or</p>	
+<p align=center>#include "WebRuntimeApp.cpp"</p>	
 </h3>
 <hr />
 
