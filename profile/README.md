@@ -86,7 +86,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p><br>	
 	
 <p>
-<div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183295042-d9f37362-9761-41a2-9f11-c93663bae44f.jpg" width="80%"/></div>
+<div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183295042-d9f37362-9761-41a2-9f11-c93663bae44f.jpg" width="100%"/></div>
 </p>	
 </h3>
 <hr />
