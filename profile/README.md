@@ -57,7 +57,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 ## (1)Reference “cosmos.dll”, adjust manifest and compilation configurations
 </div>
 
-<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183293383-536b9eb5-595d-4ea9-9ab7-ebc3af3a342c.jpg" width="100%"/></div>
+<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
 <hr />
 
 <div align=center>
