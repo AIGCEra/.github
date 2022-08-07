@@ -26,7 +26,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <p align=center>#include "WebRuntimeApp.h" //for stdafx.h or pch.h</p>
 <p>and</p>	
 <p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p>
-<p align=center id="PrecompiledHeaderFiles"><img src="https://user-images.githubusercontent.com/26355688/183267877-aa023d27-15d2-4994-bae4-a9c65d3bab90.jpg" width="75%"/></p>	
+<p align=center id="PrecompiledHeaderFiles"><img src="https://user-images.githubusercontent.com/26355688/183286630-ef552edb-d4be-49f2-b448-84311e897a6c.jpg" width="75%"/></p>	
 
 </h3>
 
