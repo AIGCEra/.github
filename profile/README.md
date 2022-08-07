@@ -66,12 +66,12 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 ## (2)Modify Base Class
 <h2 align=center><p>AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"</p><p>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"</p></h2>
 
-## (3)Matters Needing Attention
+## (3)Notes
 <center>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Needing Attention</strong>
+                    <th> <strong>Note</strong>
                     <th> <strong>Description</strong>
                 </tr>                     
             <tbody>
