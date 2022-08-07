@@ -35,7 +35,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                         <strong><p align=center>Modify Base Class</strong> </p>
                     </td>
                     <td width="70%">
-		     <strong><p>AppBase: Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>MDIFrameBase: Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
+		     <strong><p>AppBase, Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>MDIFrameBase, Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
                     </td>
             </tbody>
 	    <tbody>
