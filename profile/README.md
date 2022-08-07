@@ -29,15 +29,6 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 # [Converting WinForm Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
   
-</div>
-
-<div>
-  
-<h2></h2>
-  
-</div>
-<div align=center>
-
 ## (1)Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)
 </div>
 <h3>Reference “cosmos.dll”, adjust manifest and compilation configurations</h3>
