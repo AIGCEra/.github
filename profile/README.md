@@ -71,7 +71,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Note</strong>
+                    <th> <strong>Notes</strong>
                     <th> <strong>Description</strong>
                 </tr>                     
             <tbody>
