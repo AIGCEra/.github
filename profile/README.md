@@ -41,7 +41,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 <div align=center>
 
-# Converting WinForm Application <br>into Chromium Project Browser Process
+# [Converting WinForm Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
   
 </div>
 
@@ -72,7 +72,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 <div align=center>
 
-# Converting MFC Application <br>into Chromium Project Browser Process
+# [Converting MFC Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)
   
 <div align=center>
 
