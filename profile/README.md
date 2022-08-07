@@ -19,6 +19,8 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <h2>
 <p>The Web Runtime provides developers with a "<i>Simplest Technical Strategy</i>" <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, thus realizing Web pageization of "Desktop Application Functions", it will completely eliminate the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>: 
 </p>
+
+
 <div align=center>
 <p > 
 
@@ -54,7 +56,8 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 ## (1)Reference “cosmos.dll”, adjust manifest configuration
 </div>
-<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/181695908-5c796645-f37c-44f7-bcba-6270cf20b748.jpg" width="67%"/></div>
+
+<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183279374-c7684046-c242-4f36-b246-0f4dec7361db.jpg" width="67%"/></div>
 <hr />
 <div align=center>
 
