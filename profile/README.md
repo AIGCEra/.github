@@ -41,13 +41,15 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 <div>
   
-<h2>Prepare a C# WinForm Project(create a new Project, or open an existing Project).
+<h2></h2>
   
 </div>
 <div align=center>
 
-## (1)Reference “cosmos.dll”, adjust manifest and compilation configurations
+## (1)Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)
 </div>
+<h3>Reference “cosmos.dll”, adjust manifest and compilation configurations</h3>
+
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
 <hr />
@@ -58,7 +60,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 </div>
 
 ## _Modify main function_, Replace:<p align=center>Application.Run</p><p align=left>with:</p><p align=center>Universe.WebRT.Run</p>
-</h2>
+
 <hr />
 <div align=center>
 
