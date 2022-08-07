@@ -57,7 +57,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 ## (2)Open "program.cs" file.
 </div>
 
-## _Modify main function_, Replace:<br><br><div align=center>Application.Run</div><br><div align=left>with</div><br><div align=center>Universe.WebRT.Run</div>
+## _Modify main function_, Replace:<br><div align=center>Application.Run</div><div align=left>with</div><div align=center>Universe.WebRT.Run</div>
 </h2>
 <hr />
 <div align=center>
