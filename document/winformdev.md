@@ -3,17 +3,10 @@
 # Converting WinForm Application <br>into Chromium Project Browser Process
   
 </div>
-  
-<div align=center id="GridNode"><img src="https://user-images.githubusercontent.com/26355688/178513189-7108ee88-9bf4-4cca-bea4-ca2ee9a9a3a7.gif" width="80%" /></div>
 
-<hr />
-<div align=center>
-
-# Prepare a C# WinForm Project <br>(create a new Project, or open an existing Project).
-</div>
 <div>
   
-**Here we preset the name of the project as "Tangram". All WinForm projects need the following three steps to support Web Runtime.**
+<h2>Prepare a C# WinForm Project(create a new Project, or open an existing Project), All WinForm projects need the following three steps to support Web Runtime.
   
 </div>
 <div align=center>
@@ -34,3 +27,4 @@
 </div>
 
 ## _Modify main function_, Replace:<br><br><div align=center>Application.Run</div><br><div align=left>with</div><br><div align=center>Universe.WebRT.Run</div>
+</h2>
