@@ -13,13 +13,13 @@
 
 ## (1)Reference “cosmos.dll”, adjust manifest configuration
 </div>
-<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/181695908-5c796645-f37c-44f7-bcba-6270cf20b748.jpg" width="80%"/></div>
+<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183279374-c7684046-c242-4f36-b246-0f4dec7361db.jpg" width="80%"/></div>
 <hr />
 <div align=center>
 
 ## (2)Adjust compilation configuration
 </div>
-<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/181693960-f4857d56-3cb4-427f-896e-1574c391f409.jpg" width="80%"/></div>
+<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/183279105-219cf910-3b5a-48d1-be85-d8a4e23a6c88.jpg" width="80%"/></div>
 <hr />
 <div align=center>
   
