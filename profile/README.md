@@ -35,16 +35,11 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
+
+<h2 align=center>(2)Open "program.cs" file. <h3 align=left><i>Modify main function</i>, Replace:<p align=center>Application.Run</p><p align=left>with:</p><p align=center>Universe.WebRT.Run</p></h3>
+</h2>
 <hr />
 
-<div align=center>
-  
-## (2)Open "program.cs" file.
-</div>
-
-## _Modify main function_, Replace:<p align=center>Application.Run</p><p align=left>with:</p><p align=center>Universe.WebRT.Run</p>
-
-<hr />
 <div align=center>
 
 # [Converting MFC Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)
