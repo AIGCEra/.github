@@ -80,32 +80,21 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <h3 align=left>
 <p>
   
-Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project.</p>
+Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project. Open the "stdafx.h(stdafx.cpp)" or "pch.h(pch.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
+<p align=center>#include "WebRuntimeApp.h" //for stdafx.h or pch.h</p>
+<p>and</p>	
+<p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p><br>	
+	
 <p>
-<div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/181698116-74b3824c-4e1b-457e-92c4-587d4c0b914b.jpg" width="80%"/></div>
+<div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183295042-d9f37362-9761-41a2-9f11-c93663bae44f.jpg" width="80%"/></div>
 </p>	
 </h3>
 <hr />
 
-<div align=center>
-
-## (2)Modify Precompiled Header Files
-</div>
-<h3 align=left>
-<p>Open the "stdafx.h(stdafx.cpp)" or "pch.h(pch.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
-<p align=center>#include "WebRuntimeApp.h" //for stdafx.h or pch.h</p>
-<p>and</p>	
-<p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p>
-<p align=center id="PrecompiledHeaderFiles"><img src="https://user-images.githubusercontent.com/26355688/183286630-ef552edb-d4be-49f2-b448-84311e897a6c.jpg" width="75%"/></p>	
-
-</h3>
-
-<hr />
-
-## (3)Modify Base Class
+## (2)Modify Base Class
 <h2 align=left><p>AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"</p><p>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"</p></h2>
 
-## (4)Matters Needing Attention
+## (3)Matters Needing Attention
 <center>
         <table border="3" cellpadding="3">
             <thead>
