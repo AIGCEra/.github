@@ -38,3 +38,121 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
 </div>
 </h1> 
+
+<div align=center>
+
+# Converting WinForm Application <br>into Chromium Project Browser Process
+  
+</div>
+
+<div>
+  
+<h2>Prepare a C# WinForm Project(create a new Project, or open an existing Project), All WinForm projects need the following three steps to support Web Runtime.
+  
+</div>
+<div align=center>
+
+## (1)Reference “cosmos.dll”, adjust manifest configuration
+</div>
+<div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/181695908-5c796645-f37c-44f7-bcba-6270cf20b748.jpg" width="80%"/></div>
+<hr />
+<div align=center>
+
+## (2)Adjust compilation configuration
+</div>
+<div align=center id ="WinFormDev_compilecfg"><img src="https://user-images.githubusercontent.com/26355688/181693960-f4857d56-3cb4-427f-896e-1574c391f409.jpg" width="80%"/></div>
+<hr />
+<div align=center>
+  
+## (3)Open "program.cs" file.
+</div>
+
+## _Modify main function_, Replace:<br><br><div align=center>Application.Run</div><br><div align=left>with</div><br><div align=center>Universe.WebRT.Run</div>
+</h2>
+
+<div align=center>
+
+# Converting MFC Application <br>into Chromium Project Browser Process
+  
+<div align=center>
+
+## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project)
+<div align=center>
+
+<h3 align=left>
+<p>
+  
+Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project.</p>
+<p>
+<div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/181698116-74b3824c-4e1b-457e-92c4-587d4c0b914b.jpg" width="80%"/></div>
+</p>	
+</h3>
+<hr />
+
+<div align=center>
+
+## (2)Modify Precompiled Header Files
+</div>
+<h3 align=left>
+<p>Open the "stdafx.h(stdafx.cpp)" or "pch.h(pch.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position(please refer to our provided examples):</p>
+<p align=center>#include "WebRuntimeApp.h" //for stdafx.h or pch.h</p>
+<p>and</p>	
+<p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p>
+<p align=center id="PrecompiledHeaderFiles"><img src="https://user-images.githubusercontent.com/26355688/183267877-aa023d27-15d2-4994-bae4-a9c65d3bab90.jpg" width="75%"/></p>	
+
+</h3>
+
+<hr />
+
+## (3)Base Class Replacement
+<h2 align=left><p>AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"</p><p>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"</p></h2>
+
+## (4)Matters Needing Attention
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>Needing Attention</strong>
+                    <th> <strong>Description</strong>
+                </tr>                     
+            <tbody>
+                <tr>
+                    <td width="30%">
+                        <strong><p align=center>Dialog Application</strong> </p>
+                    </td>
+                    <td width="70%">
+		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
+                        </p></strong>
+                    </td>
+            </tbody>	    
+	    <tbody>
+                <tr>
+                    <td class="sunnysolution" width="30%">
+                        <strong><p align=center>Document Serialization</p></strong>
+                    </td>
+                    <td class="sunnysolution" width="50%">
+		      <strong>
+                      </p>
+                        <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
+                        </p>
+                      <p>                   
+                      
+    void CMFCApplicationDoc::Serialize(CArchive& ar){
+	  if (ar.IsStoring())
+	  {
+		  ar << theApp.GetDocTemplateID(this);	
+		  // TODO: add storing code here
+	  }
+	  else
+	  {
+		  ar >> theApp.m_strCreatingDOCID;
+		  // TODO: add loading code here
+	  }
+    }
+</p>
+</strong>
+                    </td>
+            </tbody>
+        </table>
+</center>
+
