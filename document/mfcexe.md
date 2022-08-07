@@ -21,18 +21,24 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 </h3>
 <hr />
 
-## (2)Modify Base Class
-<h2 align=left><p>AppBase: Replace "public CWinApp(Ex)" with "public CWebRTApp(Ex)"</p><p>MDIFrameBase: Replace "public CMDIFrameWndEx" with "public CWebRTMDIFrame"</p></h2>
-
-## (3)Matters Needing Attention
+## (2)Code Modifications
 <center>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Needing Attention</strong>
+                    <th> <strong>Code modification</strong>
                     <th> <strong>Description</strong>
                 </tr>                     
             <tbody>
+                <tr>
+                    <td width="30%">
+                        <strong><p align=center>Modify Base Class</strong> </p>
+                    </td>
+                    <td width="70%">
+		     <strong><p>AppBase: Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>MDIFrameBase: Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
+                    </td>
+            </tbody>
+	    <tbody>
                 <tr>
                     <td width="30%">
                         <strong><p align=center>Dialog Application</strong> </p>
@@ -57,13 +63,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
     void CMFCApplicationDoc::Serialize(CArchive& ar){
 	  if (ar.IsStoring())
 	  {
-		  ar << theApp.GetDocTemplateID(this);	
-		  // TODO: add storing code here
+		  ar << theApp.GetDocTemplateID(this);
 	  }
 	  else
 	  {
 		  ar >> theApp.m_strCreatingDOCID;
-		  // TODO: add loading code here
 	  }
     }
 </p>
