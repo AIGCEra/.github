@@ -66,7 +66,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <h3 align=left>
 <p>
   
-Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project. Open the "stdafx.h(stdafx.cpp)" or "pch.h(pch.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
+Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project. Open the "pch.h(pch.cpp)" or "stdafx.h(stdafx.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
 <p align=center>#include "WebRuntimeApp.h" //for stdafx.h or pch.h</p>
 <p>and</p>	
 <p align=center>#include "WebRuntimeApp.cpp" //for stdafx.cpp or pch.cpp</p><br>	
