@@ -16,15 +16,29 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <div align=center>
 
 # [Converting WinForm Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
-  
-## (1)Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)
-</div>
+
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>First Step</strong>
+                    <th> <strong>Second Step</strong>
+                </tr>                     
+            <tbody>
+                <tr>
+                    <td width="70%">
+                        <h2 align=center> Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)</h2>
 <h3>Reference “cosmos.dll”, adjust manifest and compilation configurations</h3>
 
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
-
-<h2 align=center><p>(2)Open "program.cs" file.</p> <p align=left><i>Modify main function</i>, Replace: "Application.Run" with:<p align=center>Universe.WebRT.Run</p></p>
+                    </td>
+                    <td width="30%">
+		     <h3 align=center><p>Open "program.cs" file.</p> <p align=left>Replace: "Application.Run" with:<p align=center>Universe.WebRT.Run</p></h3>
+                    </td>
+            </tbody>
+        </table>
+</center>
 </h2>
 
 <div align=center>
