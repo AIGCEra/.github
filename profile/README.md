@@ -24,9 +24,8 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
 
-<h2 align=center>(2)Open "program.cs" file. <h3 align=left><i>Modify main function</i>, Replace:<p align=center>Application.Run</p><p align=left>with:</p><p align=center>Universe.WebRT.Run</p></h3>
+<h2 align=center><p>(2)Open "program.cs" file.</p> <p align=left><i>Modify main function</i>, Replace: "Application.Run" with:<p align=center>Universe.WebRT.Run</p></p>
 </h2>
-<hr />
 
 <div align=center>
 
@@ -41,9 +40,8 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <p>
   
 Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project. Open the "pch.h(pch.cpp)" or "stdafx.h(stdafx.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
-<p align=center>#include "WebRuntimeApp.h" //for pch.h or stdafx.h</p>
-<p>and</p>	
-<p align=center>#include "WebRuntimeApp.cpp" //for pch.cpp or stdafx.cpp</p><br>	
+<p align=center>#include "WebRuntimeApp.h" // for pch.h or stdafx.h</p>
+<p align=center>#include "WebRuntimeApp.cpp" // for pch.cpp or stdafx.cpp</p><br>	
 	
 <p>
 <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183295042-d9f37362-9761-41a2-9f11-c93663bae44f.jpg" width="100%"/></div>
@@ -65,7 +63,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                         <strong><p align=center>Modify Base Class</strong> </p>
                     </td>
                     <td width="70%">
-		     <strong><p>AppBase, Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>MDIFrameBase, Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
+		     <strong><p>For AppBase, Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>For MDIFrameBase, Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
                     </td>
             </tbody>
 	    <tbody>
