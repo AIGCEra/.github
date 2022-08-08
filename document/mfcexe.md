@@ -11,9 +11,9 @@
 <p>
   
 Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Desktop Software Project. Open the "pch.h(pch.cpp)" or "stdafx.h(stdafx.cpp)" file of the developer's desktop software project, add the following code at the end of the opened file at a suitable position:</p>
-<p align=center>#include "WebRuntimeApp.h" //for pch.h or stdafx.h</p>
-<p>and</p>	
-<p align=center>#include "WebRuntimeApp.cpp" //for pch.cpp or stdafx.cpp</p><br>	
+<p align=center>#include "WebRuntimeApp.h" // for pch.h or stdafx.h</p>
+<p align=center>#include "WebRuntimeApp.cpp" // for pch.cpp or stdafx.cpp</p>
+<br>	
 	
 <p>
 <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183295042-d9f37362-9761-41a2-9f11-c93663bae44f.jpg" width="100%"/></div>
@@ -35,7 +35,10 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                         <strong><p align=center>Modify Base Class</strong> </p>
                     </td>
                     <td width="70%">
-		     <strong><p>AppBase, Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>MDIFrameBase, Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
+		     <strong>
+		     Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p>
+		     Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p>
+		     </strong>
                     </td>
             </tbody>
 	    <tbody>
@@ -76,4 +79,3 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             </tbody>
         </table>
 </center>
-
