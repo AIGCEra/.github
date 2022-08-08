@@ -51,7 +51,12 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 <center>
         <table border="3" cellpadding="3">
-            <tbody>
+            <thead>
+                <tr>
+                    <th> <strong>Precompiled Header Files</strong>
+                    <th> <strong>Mainfest Files and DPI</strong>
+               </tr>            
+	<tbody>
                 <tr>
                     <td width="25%">
                         <h3 align=left><p>
