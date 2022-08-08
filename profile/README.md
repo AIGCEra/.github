@@ -54,7 +54,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
             <thead>
                 <tr>
                     <th> <strong>Precompiled Header File</strong>
-                    <th> <strong>Precompiled Header File, Mainfest Files and DPI</strong>
+                    <th> <strong>Precompiled Header File, Manifest Files and DPI</strong>
                </tr>            
 	<tbody>
                 <tr>
