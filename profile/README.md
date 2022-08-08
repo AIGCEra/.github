@@ -63,19 +63,19 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 			
 Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Project.</p>
 			<hr/>
-			<strong><p align=center>Modify Base Class</p>
+			<strong><p align=center><ins>Modify Base Class</ins></p>
 		     Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p>
 		     Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p>
 		     </strong>
 		     <hr />
-		     <p align=center>For Dialog Application:</p>
+		     <p align=center><ins>For Dialog Application</ins></p>
 		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
                         </p></strong>
 		     <hr/>		     
 		     </h4>
                     </td>
                     <td width="67%">
-		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183423613-a9258a4c-a0bc-4553-88b6-4b347ea56ab2.jpg" width="100%"/></div>
+		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183423613-a9258a4c-a0bc-4553-88b6-4b347ea56ab2.jpg" width="80%"/></div>
                     </td>
             </tbody>
 	    <tbody>
