@@ -49,7 +49,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 ## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project)
 
-<center>
+nter>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
@@ -69,7 +69,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <p align=left>#include "WebRTApp.cpp"</p><h5></h3>
                     </td>
                     <td width="70%">
-		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183360754-d52885ae-bee6-4cd9-8126-4e7ff7ab0d8b.jpg" width="100%"/></div>
+		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183366016-6337524d-c195-4d0c-a2d5-8cd74f0baf17.jpg" width="100%"/></div>
                     </td>
             </tbody>
         </table>
