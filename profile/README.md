@@ -58,7 +58,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
                </tr>            
 	<tbody>
                 <tr>
-                    <td width="25%">
+                    <td width="30%">
                         <h3 align=left><p>
 			
 Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Project. Open files "pch.h(stdafx.h)", "pch.cpp(stdafx.cpp)", add the following code at the end of the opened file at a suitable position:</p>
@@ -68,7 +68,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 <p>// for pch.cpp or stdafx.cpp</p>
 <p align=left>#include "WebRTApp.cpp"</p><h5></h3>
                     </td>
-                    <td width="75%">
+                    <td width="70%">
 		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183360754-d52885ae-bee6-4cd9-8126-4e7ff7ab0d8b.jpg" width="100%"/></div>
                     </td>
             </tbody>
