@@ -63,7 +63,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                         <strong><p align=center>Modify Base Class</strong> </p>
                     </td>
                     <td width="70%">
-		     <strong><p>For AppBase, Replace "public CWinApp(Ex)" with: <p align=center>"public CWebRTApp(Ex)"</p></p><p>For MDIFrameBase, Replace "public CMDIFrameWndEx" with: <p align=center>"public CWebRTMDIFrame"</p></p></strong>
+		     <strong><p>For AppBase, Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p></p><p>For MDIFrameBase, Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p></p></strong>
                     </td>
             </tbody>
 	    <tbody>
@@ -72,7 +72,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                         <strong><p align=center>Dialog Application</strong> </p>
                     </td>
                     <td width="70%">
-		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>"TRUE"</strong>.</p>
+		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
                         </p></strong>
                     </td>
             </tbody>	    
