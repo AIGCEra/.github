@@ -74,7 +74,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 		     </h4>
                     </td>
                     <td width="67%">
-		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183423613-a9258a4c-a0bc-4553-88b6-4b347ea56ab2.jpg" width="80%"/></div>
+		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183423613-a9258a4c-a0bc-4553-88b6-4b347ea56ab2.jpg" width="100%"/></div>
                     </td>
             </tbody>
 	    <tbody>
