@@ -84,10 +84,10 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                 </tr>                     
             <tbody>
                 <tr>
-                    <td width="30%">
+                    <td width="20%">
                         <strong><p align=center>Modify Base Class</strong> </p>
                     </td>
-                    <td width="70%">
+                    <td width="80%">
 		     <strong>
 		     Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p>
 		     Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p>
@@ -96,20 +96,20 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
             </tbody>
 	    <tbody>
                 <tr>
-                    <td width="30%">
+                    <td width="20%">
                         <strong><p align=center>Dialog Application</strong> </p>
                     </td>
-                    <td width="70%">
+                    <td width="80%">
 		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
                         </p></strong>
                     </td>
             </tbody>	    
 	    <tbody>
                 <tr>
-                    <td class="sunnysolution" width="30%">
+                    <td class="sunnysolution" width="20%">
                         <strong><p align=center>Document Serialization</p></strong>
                     </td>
-                    <td class="sunnysolution" width="50%">
+                    <td class="sunnysolution" width="80%">
 		      <strong>
                       </p>
                         <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
