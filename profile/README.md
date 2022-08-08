@@ -34,7 +34,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
                     </td>
                     <td width="25%">
-		     <h3 align=center><p>Open "program.cs" file.</p> <p align=center>Replace</p> <p align=center>"Application.Run"</p> <p align=center>with:</p><p align=center>Universe.WebRT.Run</p></h3>
+		     <h3 align=center><p>Open "program.cs" file.</p> <p align=center>Replace </p> <p align=center>"Application.Run"</p> <p align=center>with </p><p align=center>Universe.WebRT.Run</p></h3>
                     </td>
             </tbody>
         </table>
