@@ -47,78 +47,43 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
   
 <div align=center>
 
-## (1)Prepare a MFC Project <br>(create a new Project, or open an existing Project)
+## Prepare a MFC Project <br>(create a new Project, or open an existing Project)
 
 <center>
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Precompiled Header File</strong>
+                    <th> <strong>Code Modifications</strong>
                     <th> <strong>Precompiled Header File, Manifest Files and DPI</strong>
                </tr>            
 	<tbody>
                 <tr>
                     <td width="33%">
-                        <h3 align=left><p>
+                        <h4 align=left><p>
 			
 Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenWebRunTime/tree/master/src/sdk/MFCPlus) into the prepared MFC Project.</p>
 			<hr/>
-			<strong>
+			<strong><p align=center>Modify Base Class</p>
 		     Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p>
 		     Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p>
 		     </strong>
-		     <hr /><strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
+		     <hr />
+		     <p align=center>For Dialog Application:</p>
+		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
                         </p></strong>
-		     <hr/>
-		     </h3>
+		     <hr/>		     
+		     </h4>
                     </td>
                     <td width="67%">
 		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183423613-a9258a4c-a0bc-4553-88b6-4b347ea56ab2.jpg" width="100%"/></div>
                     </td>
             </tbody>
-        </table>
-</center>
-
-
-<div align=center>
-
-
-## (2)Code Modifications
-<center>
-        <table border="3" cellpadding="3">
-            <thead>
-                <tr>
-                    <th> <strong>Code modification</strong>
-                    <th> <strong>Description</strong>
-                </tr>                     
-            <tbody>
-                <tr>
-                    <td width="20%">
-                        <strong><p align=center>Modify Base Class</strong> </p>
-                    </td>
-                    <td width="80%">
-		     <strong>
-		     Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p>
-		     Replace "public CMDIFrameWndEx" with: <p align=center>public CWebRTMDIFrame</p>
-		     </strong>
-                    </td>
-            </tbody>
 	    <tbody>
                 <tr>
-                    <td width="20%">
-                        <strong><p align=center>Dialog Application</strong> </p>
-                    </td>
-                    <td width="80%">
-		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
-                        </p></strong>
-                    </td>
-            </tbody>	    
-	    <tbody>
-                <tr>
-                    <td class="sunnysolution" width="20%">
+                    <td class="sunnysolution" width="33%">
                         <strong><p align=center>Document Serialization</p></strong>
                     </td>
-                    <td class="sunnysolution" width="80%">
+                    <td class="sunnysolution" width="67%">
 		      <strong>
                       </p>
                         <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
