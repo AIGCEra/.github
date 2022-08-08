@@ -124,11 +124,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
     void CMFCApplicationDoc::Serialize(CArchive& ar){
 	  if (ar.IsStoring())
 	  {
-		  ar << theApp.GetDocTemplateID(this);
+		ar << theApp.GetDocTemplateID(this);
 	  }
 	  else
 	  {
-		  ar >> theApp.m_strCreatingDOCID;
+		ar >> theApp.m_strCreatingDOCID;
 	  }
     }
 </p>
