@@ -78,33 +78,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
                     <td width="67%">
 		     <div align=center id="mfcdevmanifest"><img src="https://user-images.githubusercontent.com/26355688/183423613-a9258a4c-a0bc-4553-88b6-4b347ea56ab2.jpg" width="90%"/></div>
                     </td>
-            </tbody>
-	    <tbody>
-                <tr>
-                    <td class="sunnysolution" width="33%">
-                        <strong><p align=center>Document Serialization</p></strong>
-                    </td>
-                    <td class="sunnysolution" width="67%">
-		      <strong>
-                      </p>
-                        <p>Add the following serialization code in the body of the Serialize (CArchive & ar) function:                            
-                        </p>
-                      <p>                   
-                      
-    void CMFCApplicationDoc::Serialize(CArchive& ar){
-	  if (ar.IsStoring())
-	  {
-		ar << theApp.GetDocTemplateID(this);
-	  }
-	  else
-	  {
-		ar >> theApp.m_strCreatingDOCID;
-	  }
-    }
-</p>
-</strong>
-                    </td>
-            </tbody>
+            </tbody>	  
         </table>
 </center>
 
