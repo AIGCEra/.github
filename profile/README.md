@@ -70,7 +70,9 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 		     <hr />
 		     <p align=center><ins>For Dialog Application</ins></p>
 		     <strong><p>Modify the return value of</p><p><div align=center>BOOL CMFCDlgApp::InitInstance()</p><p align=left>to</p> <p align=center>TRUE</strong>.</p>
-                        </p></strong>	     
+                        </p></strong>
+		     <hr />
+		     <p align=center><ins>[About Document Serialization](https://github.com/TangramDev/.github/blob/main/document/DocSerialization.md)</ins></p>
 		     </h4>
                     </td>
                     <td width="67%">
