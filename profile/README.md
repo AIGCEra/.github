@@ -1,11 +1,4 @@
 <h1 align=center>
-
-[Open Web Runtime Source Code](https://github.com/TangramDev/OpenWebRuntime)
-</h1>
-<h3 align=center><div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div>(In most scenarios, Desktop Software is like a Universe, with many huge local worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
-</h3>
-
-<h1 align=center>
 The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
 </h1>
 <h2>
