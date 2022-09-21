@@ -108,14 +108,14 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="25%">
                         <h4 align=center>M100</h4>
                     </td>
-                    <td width="25%">
+                    <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_100.0.4896.241.7z(80.5 MB)**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_100.0.4896.241.7z)</p>			
+ [**webrt_100.0.4896.241.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_100.0.4896.241.7z)</p>			
 		     </h3>
                     </td>
-                    <td width="50%">
-		        2022-09-20 Build
+                    <td width="45%">
+		        2022-09-20 Build, size: 80.5 MB
                     </td>
 	</tbody>	  
         </table>
