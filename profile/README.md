@@ -195,6 +195,32 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="45%">
 		        2022-09-20 Build, size: 88.6 MB
                     </td>
+                <tr>
+                    <td width="25%">
+                        <h4 align=center>M105</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_107.0.5304.6.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_107.0.5304.6.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 89.8 MB
+                    </td>
+                <tr>
+                    <td width="25%">
+                        <h4 align=center>M106</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_108.0.5313.0.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_108.0.5313.0.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 90.0 MB
+                    </td>
 		</tbody>	  
         </table>
 </center>
