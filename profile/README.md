@@ -193,7 +193,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-21 09：16 Build, size: 88.68 MB
+		        2022-09-21 09:16 Build, size: 88.68 MB
                     </td>
                 <tr>
                     <td width="25%">
