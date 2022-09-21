@@ -113,7 +113,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_108.0.5313.0.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_108.0.5313.0.7z)</p>			
+ [**108.0.5313.0**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_108.0.5313.0.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -126,7 +126,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_107.0.5304.6.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_107.0.5304.6.7z)</p>			
+ [**107.0.5304.6**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_107.0.5304.6.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -139,7 +139,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_106.0.5249.56.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_106.0.5249.56.7z)</p>			
+ [**106.0.5249.56**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_106.0.5249.56.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -152,7 +152,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_105.0.5195.147.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_105.0.5195.147.7z)</p>			
+ [**105.0.5195.147**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_105.0.5195.147.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -165,7 +165,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_104.0.5112.130.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_104.0.5112.130.7z)</p>			
+ [**104.0.5112.130**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_104.0.5112.130.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -191,7 +191,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_102.0.5005.180.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_102.0.5005.180.7z)</p>			
+ [**102.0.5005.180**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_102.0.5005.180.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -204,7 +204,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_101.0.4951.82.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_101.0.4951.82.7z)</p>			
+ [**101.0.4951.82**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_101.0.4951.82.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -217,7 +217,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_100.0.4896.241.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_100.0.4896.241.7z)</p>			
+ [**100.0.4896.241**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_100.0.4896.241.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
