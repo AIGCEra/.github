@@ -75,23 +75,6 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
         </table>
 </center>
 
-<h1 align=center>
-Ushering in the Era of the <i>Web-Defining Desktop Window</i>
-</h1>
-<h2>
-<p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
-</p> 
-
-<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The Era of "Web Page Define Desktop Window")</div>
-</p>
-
-<p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" era, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
-       
-<div align=right>
-
-[More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
-</div>
-</h1>
 
 # [Web Runtime SDK](https://github.com/TangramDev/WebRTSDK/archive/refs/tags/webrt_1.0.0.2.zip) and Binary Package<p align=center><ins>
 
@@ -226,3 +209,21 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 		</tbody>	  
         </table>
 </center>
+
+<h1 align=center>
+Ushering in the Era of the <i>Web-Defining Desktop Window</i>
+</h1>
+<h2>
+<p  align=left>The Web Runtime believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
+</p> 
+
+<p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The Era of "Web Page Define Desktop Window")</div>
+</p>
+
+<p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" era, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
+       
+<div align=right>
+
+[More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
+</div>
+</h1>
