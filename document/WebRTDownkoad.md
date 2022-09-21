@@ -26,7 +26,7 @@
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-21 15:18 Build, size: 90.1 MB
+		        2022-09-21 15:18 Build size: 90.1 MB<br>CommitID:8bfa6e1663aa02ceb9f016c2119f8a4b7ce6f17e
                     </td>
                 <tr>
                     <td width="25%">
