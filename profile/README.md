@@ -108,94 +108,16 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 	<tbody>
                 <tr>
                     <td width="25%">
-                        <h4 align=center>M100</h4>
+                        <h4 align=center>M108</h4>
                     </td>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_100.0.4896.241.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_100.0.4896.241.7z)</p>			
+ [**webrt_108.0.5313.0.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_108.0.5313.0.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-20 Build, size: 80.5 MB
-                    </td>
-                <tr>
-                    <td width="25%">
-                        <h4 align=center>M101</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=left><p>
-			
- [**webrt_101.0.4951.82.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_101.0.4951.82.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-20 Build, size: 81.7 MB
-                    </td>
-                <tr>
-                    <td width="25%">
-                        <h4 align=center>M102</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=left><p>
-			
- [**webrt_102.0.5005.180.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_102.0.5005.180.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-20 Build, size: 81.4 MB
-                    </td>
-                <tr>
-                    <td width="25%">
-                        <h4 align=center>M103</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=left><p>
-			
- [**webrt_103.0.5060.142.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_103.0.5060.142.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-20 Build, size: 82.1 MB
-                    </td>
-                <tr>
-                    <td width="25%">
-                        <h4 align=center>M104</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=left><p>
-			
- [**webrt_104.0.5112.129.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_104.0.5112.129.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-20 Build, size: 87.3 MB
-                    </td>
-                <tr>
-                    <td width="25%">
-                        <h4 align=center>M105</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=left><p>
-			
- [**webrt_105.0.5195.147.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_105.0.5195.147.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-20 Build, size: 88 MB
-                    </td>
-                <tr>
-                    <td width="25%">
-                        <h4 align=center>M106</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=left><p>
-			
- [**webrt_106.0.5249.56.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_106.0.5249.56.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-21 09:16 Build, size: 88.68 MB
+		        2022-09-20 Build, size: 90.0 MB
                     </td>
                 <tr>
                     <td width="25%">
@@ -212,16 +134,94 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     </td>
                 <tr>
                     <td width="25%">
-                        <h4 align=center>M108</h4>
+                        <h4 align=center>M106</h4>
                     </td>
                     <td width="30%">
                         <h3 align=left><p>
 			
- [**webrt_108.0.5313.0.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_108.0.5313.0.7z)</p>			
+ [**webrt_106.0.5249.56.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_106.0.5249.56.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-20 Build, size: 90.0 MB
+		        2022-09-21 09:16 Build, size: 88.68 MB
+                    </td>
+                 <tr>
+                    <td width="25%">
+                        <h4 align=center>M105</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_105.0.5195.147.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_105.0.5195.147.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 88 MB
+                    </td>
+                <tr>
+                    <td width="25%">
+                        <h4 align=center>M104</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_104.0.5112.129.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_104.0.5112.129.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 87.3 MB
+                    </td>
+                <tr>
+                    <td width="25%">
+                        <h4 align=center>M103</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_103.0.5060.142.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_103.0.5060.142.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 82.1 MB
+                    </td>
+                <tr>
+                    <td width="25%">
+                        <h4 align=center>M102</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_102.0.5005.180.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_102.0.5005.180.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 81.4 MB
+                    </td>
+                 <tr>
+                    <td width="25%">
+                        <h4 align=center>M101</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_101.0.4951.82.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_101.0.4951.82.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 81.7 MB
+                    </td>
+              <tr>
+                    <td width="25%">
+                        <h4 align=center>M100</h4>
+                    </td>
+                    <td width="30%">
+                        <h3 align=left><p>
+			
+ [**webrt_100.0.4896.241.7z**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_100.0.4896.241.7z)</p>			
+		     </h3>
+                    </td>
+                    <td width="45%">
+		        2022-09-20 Build, size: 80.5 MB
                     </td>
 		</tbody>	  
         </table>
