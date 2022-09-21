@@ -212,7 +212,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 
 <div align=right>
 
-[More Information ...](https://github.com/TangramDev/.github/blob/main/document/webrtdownload.md)
+[More Download ...](https://github.com/TangramDev/.github/blob/main/document/WebRTDownkoad.md)
 </div>
 
 <h1 align=center>
