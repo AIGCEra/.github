@@ -10,8 +10,8 @@
         <table border="3" cellpadding="3"  align=center>
             <thead>
                 <tr>
-                    <th> <strong>Milestone Version Number</strong>
-                    <th> <strong>Chromium Version Number</strong>
+                    <th> <strong>Milestone Version</strong>
+                    <th> <strong>Chromium Version</strong>
                     <th> <strong>Notes</strong>
                </tr>            
 	<tbody>
