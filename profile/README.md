@@ -126,7 +126,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**107.0.5304.7**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_107.0.5304.6.7z)</p>			
+ [**107.0.5304.7**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_107.0.5304.7.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
