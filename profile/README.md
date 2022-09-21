@@ -184,7 +184,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     </td>
                 <tr>
                     <td width="25%">
-                        <h4 align=center>M107</h4>
+                        <h4 align=center>M106</h4>
                     </td>
                     <td width="30%">
                         <h3 align=left><p>
@@ -197,7 +197,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
                     </td>
                 <tr>
                     <td width="25%">
-                        <h4 align=center>M105</h4>
+                        <h4 align=center>M107</h4>
                     </td>
                     <td width="30%">
                         <h3 align=left><p>
