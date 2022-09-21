@@ -138,19 +138,6 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/WebRT
                     <td width="45%">
 		        2022-09-21 09:16 Build, size: 88.68 MB
                     </td>
-                 <tr>
-                    <td width="25%">
-                        <h4 align=center>M105</h4>
-                    </td>
-                    <td width="30%">
-                        <h3 align=center><p>
-			
- [**105.0.5195.147**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_105.0.5195.147.7z)</p>			
-		     </h3>
-                    </td>
-                    <td width="45%">
-		        2022-09-20 Build, size: 88 MB
-                    </td>
 		</tbody>	  
         </table>
 </center>
