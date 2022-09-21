@@ -99,7 +99,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/OpenW
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-21 15:18 Build, size: 90.0 MB
+		        2022-09-21 15:18 Build, size: 90.1 MB
                     </td>
                 <tr>
                     <td width="25%">
