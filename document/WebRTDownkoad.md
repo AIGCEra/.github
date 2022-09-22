@@ -41,7 +41,7 @@
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**107.0.5304.7**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_107.0.5304.7.7z)</p>			
+ [**107.0.5304.10**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.10.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
@@ -57,7 +57,7 @@
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**106.0.5249.56**](https://github.com/TangramDev/WebRTSDK/releases/download/webrt_1.0.0.2/webrt_106.0.5249.56.7z)</p>			
+ [**106.0.5249.58**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.58.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
