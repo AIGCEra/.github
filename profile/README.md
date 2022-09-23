@@ -132,11 +132,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/WebRT
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**106.0.5249.59**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.59.7z)</p>			
+ [**106.0.5249.60**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.60.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-23 11:10 Build, size: 88.6 MB
+		        2022-09-23 16:08 Build, size: 88.6 MB
                     </td>
 		</tbody>	  
         </table>
