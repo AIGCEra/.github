@@ -61,7 +61,7 @@
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-23 11:15 Build, size: 88.6 MB
+		        2022-09-23 11:10 Build, size: 88.6 MB
                     </td>
                  <tr>
                     <td width="25%">
