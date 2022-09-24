@@ -8,7 +8,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 
 <div align=center>
 
-# [Converting WinForm Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
+# WinFormPlus: [Converting WinForm Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/winformdev.md)
 	
 <p>
         <table border="3" cellpadding="3">
@@ -38,7 +38,7 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 
 <div align=center>
 
-# [Converting MFC Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)
+# MFCPlus: [Converting MFC Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)
   
 <div align=center>
 
