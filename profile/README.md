@@ -56,7 +56,7 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
                     <td width="33%">
                         <h4 align=left><p>
 			
-Copy all files included with [***MFCPlus***](https://github.com/TangramDev/WebRTSDK/tree/main/MFCPlus) into the prepared MFC Project.</p><p> Pay attention to the processing of "WebRTApp.h" and "WebRTApp.cpp" in the picture on the right.</p>
+Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPlus/archive/refs/tags/v1.0.0.0.zip) into the prepared MFC Project.</p><p> Pay attention to the processing of "WebRTApp.h" and "WebRTApp.cpp" in the picture on the right.</p>
 			<hr/>
 			<strong><p align=center><ins>Modify Base Class</ins></p>
 		     Replace "public CWinApp(Ex)" with: <p align=center>public CWebRTApp(Ex)</p>
