@@ -41,11 +41,11 @@
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**107.0.5304.11**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.11.7z)</p>			
+ [**107.0.5304.12**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.12.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-23 12:00 Build, size: 89.8 MB
+		        2022-09-24 12:00 Build, size: 89.8 MB
                     </td>
                 <tr>
                     <td width="25%">
@@ -57,11 +57,11 @@
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**106.0.5249.60**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.60.7z)</p>			
+ [**106.0.5249.66**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.66.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-23 16:08 Build, size: 88.6 MB
+		        2022-09-24 11:08 Build, size: 88.8 MB
                     </td>
                  <tr>
                     <td width="25%">
