@@ -25,11 +25,11 @@
                     <td width="30%">
                         <h3 align=center><p>
 			
-[**108.0.5321.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5321.1.7z)</p>			
+[**108.0.5322.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5322.1.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-25 14:07 Build, size: 90.51 MB
+		        2022-09-26 02:08 Build, size: 90.50 MB
                     </td>
                 <tr>
                     <td width="25%">
