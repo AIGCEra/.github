@@ -132,11 +132,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="30%">
                         <h3 align=center><p>
 			
- [**106.0.5249.66**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.66.7z)</p>			
+[**106.0.5249.67**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.67.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-24 11:08 Build, size: 88.8 MB
+		        2022-09-25 09:06 Build, size: 88.8 MB
                     </td>
 		</tbody>	  
         </table>
