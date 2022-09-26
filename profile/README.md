@@ -23,7 +23,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
                         <h2 align=center> Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)</h2>
 <h3><p>
 
-Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/WinFormPlus/archive/refs/tags/v1.0.0.0.zip) into the prepared WinForm Project,</p> Reference “cosmos.dll”, adjust manifest and compilation configurations</h3>
+Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/WinFormPlus/archive/refs/tags/v1.0.0.1.zip) into the prepared WinForm Project,</p> Reference “cosmos.dll”, adjust manifest and compilation configurations</h3>
 
 
 <div align=center id ="WinFormDev_manifest"><img src="https://user-images.githubusercontent.com/26355688/183294437-cf6a3f96-69ed-4274-936c-ba963e21537d.jpg" width="100%"/></div>
