@@ -77,9 +77,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
         </table>
 </center>
 	
-# Web Runtime Binary Package<p align=center><ins>
-
-[**Download Web Runtime SDK**](https://github.com/TangramDev/WebRTSDK/archive/refs/tags/webrt_1.0.0.2.zip)</ins></p>
+# Web Runtime Binary Package
 
 <center>
         <table border="3" cellpadding="3">
