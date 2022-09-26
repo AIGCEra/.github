@@ -1,9 +1,7 @@
 
 <h1 align=center>
 	
- [Web Runtime SDK](https://github.com/TangramDev/WebRTSDK/archive/refs/tags/webrt_1.0.0.2.zip) and Binary Package<p align=center><ins>
-
-[**Download Web Runtime SDK**](https://github.com/TangramDev/WebRTSDK/archive/refs/tags/webrt_1.0.0.2.zip)</ins></p>
+ Web Runtime Binary Package
 </h1>
 
 <center>
