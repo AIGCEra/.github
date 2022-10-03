@@ -98,11 +98,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="30%">
                         <h3 align=center><p>
 			
-[**108.0.5323.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5323.1.7z)</p>			
+[**108.0.5338.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5338.1.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-26 14:22 Build, size: 90.50 MB
+		        2022-10-04 07:29 Build, size: 89.91 MB
                     </td>
                 <tr>
                     <td width="25%">
@@ -114,11 +114,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="30%">
                         <h3 align=center><p>
 			
-[**107.0.5304.14**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.14.7z)</p>			
+[**107.0.5304.23**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.23.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-26 10:57 Build, size: 89.8 MB
+		        2022-10-04 07:04 Build, size: 89.9 MB
                     </td>
                 <tr>
                     <td width="25%">
@@ -130,11 +130,11 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="30%">
                         <h3 align=center><p>
 			
-[**106.0.5249.68**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.68.7z)</p>			
+[**106.0.5249.98**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.98.7z)</p>			
 		     </h3>
                     </td>
                     <td width="45%">
-		        2022-09-26 10:20 Build, size: 88.78 MB
+		        2022-10-04 05:33 Build, size: 88.7 MB
                     </td>
 		</tbody>	  
         </table>
