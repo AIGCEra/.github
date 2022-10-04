@@ -83,10 +83,10 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th> <strong>Milestone Version</strong>
-                    <th> <strong>Binary Package</strong>
-                    <th> <strong>Chromium Src Patch</strong>
-                   <th> <strong>Notes</strong>
+                    <th width="25%"> <strong>Milestone Version</strong>
+                    <th width="25%"> <strong>Binary Package</strong>
+                    <th width="25%"> <strong>Chromium Src Patch</strong>
+                    <th> <strong>Notes</strong>
                </tr>            
 	<tbody>
                 <tr>
