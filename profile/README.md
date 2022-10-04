@@ -77,7 +77,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
         </table>
 </center>
 	
-# Web Runtime Binary Package
+# Web Runtime Binary Package and Chromium Src Patch
 
 <center>
         <table border="3" cellpadding="3">
