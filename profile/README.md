@@ -99,17 +99,17 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5341.0**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5341.0-20221005160222.7z)</p>			
+[**108.0.5343.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5343.1-20221006150515.7z)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5340.2**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5340.2.7z)</p>			
+[**108.0.5343.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5343.1.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-05 05:51 Build, size: 89.91 MB
+		        2022-10-06 16:10 Build, size: 89.3 MB
                     </td>
                 <tr>
                     <td width="20%">
@@ -121,17 +121,17 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.26**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/ChromiumSrcPatch-107.0.5304.26-20221005090141.7z)</p>			
+[**107.0.5304.29**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/ChromiumSrcPatch-107.0.5304.29-20221006120600.7z)</p>			
 		     </h3>
                     </td>
 		    <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.26**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.26.7z)</p>			
+[**107.0.5304.29**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.29.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-05 10:02 Build, size: 89.9 MB
+		        2022-10-06 13:15 Build, size: 90.0 MB
                     </td>
                 <tr>
                     <td width="20%">
@@ -143,17 +143,17 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**106.0.5249.110**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/ChromiumSrcPatch-106.0.5249.110-20221005082004.7z)</p>			
+[**106.0.5249.113**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/ChromiumSrcPatch-106.0.5249.113-20221006104338.7z)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**106.0.5249.110**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.110.7z)</p>			
+[**106.0.5249.113**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.113.7z)</p>			
 		     </h3>
                     </td>
                     <td>
-		        2022-10-05 08:57 Build, size: 88.77 MB
+		        2022-10-06 10:30 Build, size: 88.77 MB
                     </td>
 		</tbody>	  
         </table>
