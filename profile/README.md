@@ -99,17 +99,17 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5347.1-20221008142800.7z)</p>			
+[**108.0.5348.1**](https://github.com/TangramDev/WebRT_M108/archive/refs/tags/v108.0.5348.1.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5347.1.7z)</p>			
+[**108.0.5348.1**](https://github.com/TangramDev/WebRT_M108/releases/download/v108.0.5348.1/webrt_108.0.5348.1.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-08 Canary Build
+		        Canary Build
                     </td>
                 <tr>
                     <td width="20%">
