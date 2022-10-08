@@ -34,7 +34,7 @@
 		     </h3>
                     </td>
                     <td >
-		        2022-10-08 16:10 Canary Build
+		        Canary Build
                     </td>
                 <tr>
                     <td width="20%">
