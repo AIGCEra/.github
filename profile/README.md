@@ -99,17 +99,17 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5343.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5343.1-20221006150515.7z)</p>			
+[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5347.1-20221008142800.7z)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5343.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5343.1.7z)</p>			
+[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5347.1.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-06 16:10 Build, size: 89.3 MB
+		        2022-10-08 Canary Build
                     </td>
                 <tr>
                     <td width="20%">
@@ -121,17 +121,17 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.29**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/ChromiumSrcPatch-107.0.5304.29-20221006120600.7z)</p>			
+[**107.0.5304.31**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/ChromiumSrcPatch-107.0.5304.31-20221008111057.7z)</p>			
 		     </h3>
                     </td>
 		    <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.29**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.29.7z)</p>			
+[**107.0.5304.31**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.31.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-06 13:15 Build, size: 90.0 MB
+		        2022-10-08 Beta Build
                     </td>
                 <tr>
                     <td width="20%">
