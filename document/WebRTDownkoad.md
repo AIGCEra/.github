@@ -24,17 +24,17 @@
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5343.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5343.1-20221006150515.7z)</p>			
+[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5347.1-20221008142800.7z)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5343.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5343.1.7z)</p>			
+[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5347.1.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-06 16:10 Build, size: 89.3 MB
+		        2022-10-08 16:10 Canary Build
                     </td>
                 <tr>
                     <td width="20%">
