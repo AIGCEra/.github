@@ -24,13 +24,13 @@
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5347.1-20221008142800.7z)</p>			
+[**108.0.5348.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/ChromiumSrcPatch-108.0.5347.1-20221008142800.7z)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5347.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5347.1.7z)</p>			
+[**108.0.5348.1**](https://github.com/TangramDev/WebRT_M108/releases/download/m108/webrt_108.0.5347.1.7z)</p>			
 		     </h3>
                     </td>
                     <td >
