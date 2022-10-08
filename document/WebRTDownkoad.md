@@ -46,17 +46,17 @@
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.29**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/ChromiumSrcPatch-107.0.5304.29-20221006120600.7z)</p>			
+[**107.0.5304.31**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/ChromiumSrcPatch-107.0.5304.31-20221008111057.7z)</p>			
 		     </h3>
                     </td>
 		    <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.29**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.29.7z)</p>			
+[**107.0.5304.31**](https://github.com/TangramDev/WebRT_M107/releases/download/M107/webrt_107.0.5304.31.7z)</p>			
 		     </h3>
                     </td>
                     <td >
-		        2022-10-06 13:15 Build, size: 90.0 MB
+		        2022-10-08 Beta Build
                     </td>
                 <tr>
                     <td width="20%">
