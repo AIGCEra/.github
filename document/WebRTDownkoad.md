@@ -5,7 +5,7 @@
 </h1>
 
 <center>
-        <table border="3" cellpadding="3"  align=center>
+        <table border="3" cellpadding="3" align=center>
             <thead>
                 <tr>
                     <th width="25%"> <strong>Milestone Version</strong>
@@ -24,7 +24,7 @@
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5348.1**](https://github.com/TangramDev/WebRT_M108/archive/refs/tags/v108.0.5348.1.zip)</p>			
+[**M108 Latest Patch**](https://github.com/TangramDev/WebRT_M108/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
@@ -46,7 +46,7 @@
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.32**](https://github.com/TangramDev/WebRT_M107/archive/refs/tags/v107.0.5304.32.zip)</p>			
+[**M107 Latest Patch**](https://github.com/TangramDev/WebRT_M107/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
 		    <td width="25%">
@@ -68,7 +68,7 @@
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**106.0.5249.116**](https://github.com/TangramDev/WebRT_M106/archive/refs/tags/106.0.5249.116.zip)</p>			
+[**M106 Latest Patch**](https://github.com/TangramDev/WebRT_M106/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
