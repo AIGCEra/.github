@@ -5,7 +5,7 @@
 </h1>
 
 <center>
-        <table border="3" cellpadding="3">
+        <table border="3" cellpadding="3"  align=center>
             <thead>
                 <tr>
                     <th width="25%"> <strong>Milestone Version</strong>
