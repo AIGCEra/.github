@@ -137,7 +137,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="20%">
                         <h4 align=center>
 				
-[M106](https://github.com/TangramDev/WebRT_M106/releases/tag/M106)
+[M106](https://github.com/TangramDev/WebRT_M106/releases)
 			</h4>
                     </td>
                     <td width="25%">
