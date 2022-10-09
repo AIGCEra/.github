@@ -56,29 +56,29 @@
 		     </h3>
                     </td>
                     <td >
-		        2022-10-08 Beta Build
+		        Beta Build
                     </td>
                 <tr>
                     <td width="20%">
                         <h4 align=center>
 				
-[M106](https://github.com/TangramDev/WebRT_M106/releases/tag/M106)
+[M106](https://github.com/TangramDev/WebRT_M106/releases)
 			</h4>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**106.0.5249.115**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/ChromiumSrcPatch-106.0.5249.115-20221008165515.7z)</p>			
+[**106.0.5249.116**](https://github.com/TangramDev/WebRT_M106/archive/refs/tags/106.0.5249.116.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**106.0.5249.115**](https://github.com/TangramDev/WebRT_M106/releases/download/M106/webrt_106.0.5249.115.7z)</p>			
+[**106.0.5249.116**](https://github.com/TangramDev/WebRT_M106/releases/download/106.0.5249.116/webrt_106.0.5249.116.7z)</p>			
 		     </h3>
                     </td>
                     <td>
-		        2022-10-08 Stable Build
+		        Stable Build
                     </td>
 		</tbody>	  
         </table>
