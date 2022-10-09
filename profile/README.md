@@ -99,7 +99,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**M108 Latest Patch**](https://github.com/TangramDev/WebRT_M108/archive/refs/heads/main.zip)</p>			
+[**Latest Patch**](https://github.com/TangramDev/WebRT_M108/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
@@ -108,7 +108,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 [**108.0.5348.1**](https://github.com/TangramDev/WebRT_M108/releases/download/v108.0.5348.1/webrt_108.0.5348.1.7z)</p>			
 		     </h3>
                     </td>
-                    <td >
+                    <td  align=center>
 		        Canary Build
                     </td>
                 <tr>
@@ -121,7 +121,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**M107 Latest Patch**](https://github.com/TangramDev/WebRT_M107/archive/refs/heads/main.zip)</p>			
+[**Latest Patch**](https://github.com/TangramDev/WebRT_M107/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
 		    <td width="25%">
@@ -130,7 +130,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 [**107.0.5304.32**](https://github.com/TangramDev/WebRT_M107/releases/download/v107.0.5304.32/webrt_107.0.5304.32.7z)</p>			
 		     </h3>
                     </td>
-                    <td >
+                    <td  align=center>
 		        Beta Build
                     </td>
                 <tr>
@@ -143,7 +143,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**M106 Latest Patch**](https://github.com/TangramDev/WebRT_M106/archive/refs/heads/main.zip)</p>			
+[**Latest Patch**](https://github.com/TangramDev/WebRT_M106/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
@@ -152,7 +152,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 [**106.0.5249.116**](https://github.com/TangramDev/WebRT_M106/releases/download/106.0.5249.116/webrt_106.0.5249.116.7z)</p>			
 		     </h3>
                     </td>
-                    <td>
+                    <td  align=center>
 		        Stable Build
                     </td>
 		</tbody>	  
