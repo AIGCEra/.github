@@ -93,7 +93,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="20%">
                         <h4 align=center>
 				
-[M108](https://github.com/TangramDev/WebRT_M108/releases)
+[Canary(M108)](https://github.com/TangramDev/WebRT_M108/releases)
 			</h4>
                     </td>
                     <td width="25%">
