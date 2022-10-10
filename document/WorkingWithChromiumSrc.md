@@ -12,7 +12,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 <h1 align=center>
 Preparation: <i>Download Chromium Source Code Patch</i>
 </h1>
-<h2  align=left><p>You'll need to download the latest Canary Patch, Beta Patch, and Stable Patch zips separately, or some of them, depending on your needs. 
+<h2  align=left><p>You'll need to download the latest Canary Patch, Dev Patch, Beta Patch, and Stable Patch zips separately, or some of them, depending on your needs. 
   
 <center>
         <table border="3" cellpadding="3" align=center>
