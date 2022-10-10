@@ -15,7 +15,7 @@ Preparation: <i>Download Chromium Source Code Patch</i>
 <h2  align=left><p>You'll need to download the latest Canary Patch, Beta Patch, and Stable Patch zips separately, or some of them, depending on your needs. 
 <div align=center>
 
-[**<ins><i>Canary Patch</i></ins>**](https://github.com/TangramDev/WebRT_M108/archive/refs/heads/main.zip) [**<ins><i>Beta Patch</i></ins>**](https://github.com/TangramDev/WebRT_M107/archive/refs/heads/main.zip) [**<i><ins>Stable Patch</ins></i>**](https://github.com/TangramDev/WebRT_M106/archive/refs/heads/main.zip)
+[**<ins><i>Canary Patch</i></ins>**](https://github.com/TangramDev/WebRT_Chromium_Canary/archive/refs/heads/main.zip) [**<ins><i>Beta Patch</i></ins>**](https://github.com/TangramDev/WebRT_Chromium_Beta/archive/refs/heads/main.zip) [**<i><ins>Stable Patch</ins></i>**](https://github.com/TangramDev/WebRT__Chromium_Stable/archive/refs/heads/main.zip)
 </div>
   
 Unzip the Patch zip you downloaded separately, you will get three folders.</p>
