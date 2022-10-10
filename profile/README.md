@@ -162,7 +162,10 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 <h1 align=center>
 Working with <i>Latest Chromium Project Source Code</i>
 </h1>
-<h2  align=left><p>We designed OpenWebRuntime to work in sync with the latest Chromium Project source code for each version (Canary, Dev, Beta, and Stable Version). To do this, you need to refer to the 
+<h2  align=left>
+<p>
+
+We designed [OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) to work in sync with the latest Chromium Project source code for each version (Canary, Dev, Beta, and Stable Version). To do this, you need to refer to the 
 <div align=center>
 
 [**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
