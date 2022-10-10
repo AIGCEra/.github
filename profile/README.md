@@ -83,7 +83,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
         <table border="3" cellpadding="3">
             <thead>
                 <tr>
-                    <th width="25%"> <strong>Milestone Version</strong>
+                    <th width="25%"> <strong>Chromium Build</strong>
                     <th width="25%"> <strong>Chromium Src Patch</strong>
                     <th width="25%"> <strong>Binary Package</strong>
                     <th> <strong>Notes</strong>
@@ -93,7 +93,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="20%">
                         <h4 align=center>
 				
-[Canary(M108)](https://github.com/TangramDev/WebRT_M108/releases)
+[Canary](https://github.com/TangramDev/WebRT_M108/releases)
 			</h4>
                     </td>
                     <td width="25%">
