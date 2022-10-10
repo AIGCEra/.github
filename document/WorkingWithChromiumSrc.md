@@ -39,6 +39,6 @@ Preparation: <i>Download Chromium Source Code Patch</i>
         </table>
 </center> 
   
-Unzip the Patch zip you downloaded separately, you will get three folders.</p>
+Unzip the Patch zip you downloaded separately, you will get four folders.</p>
 </p> 
 </h2>
