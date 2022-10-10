@@ -93,13 +93,13 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="20%">
                         <h4 align=center>
 				
-[Canary](https://github.com/TangramDev/WebRT_M108/releases)
+[Canary](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
 			</h4>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**Latest Patch**](https://github.com/TangramDev/WebRT_M108/archive/refs/heads/main.zip)</p>			
+[**Latest Patch**](https://github.com/TangramDev/WebRT_Chromium_Canary/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
                     <td width="25%">
@@ -109,7 +109,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 		     </h3>
                     </td>
                     <td  align=center>
-		        Canary Build
+		        M108: 108.0.53xx.y
                     </td>
                 <tr>
                     <td width="20%">
