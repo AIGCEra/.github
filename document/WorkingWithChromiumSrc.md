@@ -31,7 +31,7 @@ Preparation: <i>Download Chromium Source Code Patch</i>
                       
 [**<ins><i>Beta Patch</i></ins>**](https://github.com/TangramDev/WebRT_Chromium_Beta/archive/refs/heads/main.zip)
                     </td>
-                    <td width="200">
+                    <td width="200" align=center>
                       
 [**<i><ins>Stable Patch</ins></i>**](https://github.com/TangramDev/WebRT_Chromium_Stable/archive/refs/heads/main.zip)
                     </td>
