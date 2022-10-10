@@ -115,29 +115,29 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
                     <td width="20%">
                         <h4 align=center>
 				
-[M107](https://github.com/TangramDev/WebRT_M107/releases)
+[Beta](https://github.com/TangramDev/WebRT_Chromium_Beta/releases)
 			</h4>
                     </td>
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**Latest Patch**](https://github.com/TangramDev/WebRT_M107/archive/refs/heads/main.zip)</p>			
+[**Latest Patch**](https://github.com/TangramDev/WebRT_Chromium_Beta/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
 		    <td width="25%">
                         <h3 align=center><p>
 			
-[**107.0.5304.32**](https://github.com/TangramDev/WebRT_M107/releases/download/v107.0.5304.32/webrt_107.0.5304.32.7z)</p>			
+[**107.0.5304.32**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v107.0.5304.32/webrt_107.0.5304.32.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
-		        Beta Build
+		        M107.0.5304.xx
                     </td>
                 <tr>
                     <td width="20%">
                         <h4 align=center>
 				
-[M106](https://github.com/TangramDev/WebRT_M106/releases)
+[Stable](https://github.com/TangramDev/WebRT_M106/releases)
 			</h4>
                     </td>
                     <td width="25%">
