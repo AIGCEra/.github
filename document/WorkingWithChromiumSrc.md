@@ -48,4 +48,5 @@ Unzip the Patch zip you downloaded separately, you will get four folders.</p>
 <h1 align=center>
 How to Use <i>ChromiumVer.txt</i>
 </h1>
-<p>Each Chromium WebRT Patch contains a file "ChromiumVer.txt" to specify the Tag of the Chromium Project version corresponding to the Patch, for example: 106.0.5249.99.</p>
+<h2><p>Each Chromium WebRT Patch contains a file "ChromiumVer.txt" to specify the Tag of the Chromium Project version corresponding to the Patch, for example: 106.0.5249.99.</p>
+</h2>
