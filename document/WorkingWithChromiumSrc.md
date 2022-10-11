@@ -62,5 +62,9 @@ How to use <i>Batch Files</i> in Chromium WebRT Patch</i>
 
 How to Use <i>[GetBranch.Bat](https://github.com/TangramDev/WebRT_Chromium_Canary/blob/main/ChromiumSRC/getbranch.bat)</i>
 
-<p align=left>The role of GetBranch is to create a new source code branch based on the Tag value of the given Chromium Project version. GetBranch.Bat requires two parameters. The first parameter is the Tag value provided by [ChromiumVer.txt](https://github.com/TangramDev/WebRT_Chromium_Canary/blob/main/ChromiumVer.txt), and the second parameter is the name of the new branch you wish to create.</p>
+<p align=left>
+
+<div align=left>
+
+The role of GetBranch is to create a new source code branch based on the Tag value of the given Chromium Project version. GetBranch.Bat requires two parameters. The first parameter is the Tag value provided by [<i>ChromiumVer.txt</i>](https://github.com/TangramDev/WebRT_Chromium_Canary/blob/main/ChromiumVer.txt), and the second parameter is the name of the new branch you wish to create.</div></p>
 <h2>
