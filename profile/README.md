@@ -76,10 +76,6 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
             </tbody>	  
         </table>
 </center>
-	
-# Chromium Src Patch and Web Runtime Binary Package 
-
-
 
 <h1 align=center>
 Working with <i>Latest Chromium Project Source Code</i>
@@ -94,6 +90,7 @@ We designed [OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) to wo
 
 to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5, which requires C++/CLI support.</p>
 <div align=right>
+</h2>
 
 <center>
         <table border="3" cellpadding="3" align=center>
@@ -197,10 +194,11 @@ to obtain the source code of the latest full version of the Chromium Project, an
         </table>
 </center>
 <div align=center>(Chromium Src Patch and Web Runtime Binary Package)</div>
-
+<h3  align=right>
+	
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/WorkingWithChromiumSrc.md)
 </div></p> 
-</h2>
+</h3>
 
 <h1 align=center>
 Ushering in the Era of the <i>Web-Defining Desktop Window</i>
