@@ -44,3 +44,7 @@ Preparation: <i>Download Chromium Source Code Patch</i>
 Unzip the Patch zip you downloaded separately, you will get four folders.</p>
 </p> 
 </h2>
+
+<h1 align=center>
+How to Use <i>ChromiumVer.txt</i>
+</h1>
