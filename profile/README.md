@@ -193,7 +193,9 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		</tbody>	  
         </table>
 </center>
-<div align=center>(Chromium Src Patch and Web Runtime Binary Package)</div>
+<div align=center>
+
+**(Chromium Src Patch and Web Runtime Binary Package)**</div>
 <h3  align=right>
 	
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/WorkingWithChromiumSrc.md)
