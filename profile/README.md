@@ -79,8 +79,24 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 	
 # Chromium Src Patch and Web Runtime Binary Package 
 
+
+
+<h1 align=center>
+Working with <i>Latest Chromium Project Source Code</i>
+</h1>
+<h2  align=left>
+<p>
+
+We designed [OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) to work in sync with the latest Chromium Project source code for each version (Canary, Dev, Beta, and Stable Version). To do this, you need to refer to the 
+<div align=center>
+
+[**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
+
+to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5, which requires C++/CLI support.</p>
+<div align=right>
+
 <center>
-        <table border="3" cellpadding="3">
+        <table border="3" cellpadding="3" align=center>
             <thead>
                 <tr>
                     <th width="25%"> <strong>Chromium Build</strong>
@@ -180,20 +196,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 		</tbody>	  
         </table>
 </center>
-
-<h1 align=center>
-Working with <i>Latest Chromium Project Source Code</i>
-</h1>
-<h2  align=left>
-<p>
-
-We designed [OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) to work in sync with the latest Chromium Project source code for each version (Canary, Dev, Beta, and Stable Version). To do this, you need to refer to the 
-<div align=center>
-
-[**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
-
-to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5, which requires C++/CLI support.</p>
-<div align=right>
+<div align=center>(Chromium Src Patch and Web Runtime Binary Package)</div>
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/WorkingWithChromiumSrc.md)
 </div></p> 
