@@ -118,7 +118,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**108.0.5352.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v108.0.5352.1/webrt_108.0.5352.1.7z)</p>			
+[**108.0.5354.2**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v108.0.5354.2/webrt_108.0.5354.2.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
