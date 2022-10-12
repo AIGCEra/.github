@@ -88,16 +88,18 @@ Merge the [Chromium WebRT Patch](https://github.com/TangramDev/WebRT_Chromium_Ca
 <div align=left>If you have successfully fetched the source code of the Chromium Project, assuming that the path of the folder where your source code is located is "d:\webrt\m108", we first need to create a "WebRT base branch", you need to Give this branch an appropriate name, eg "WebRTBase".</div></p>
 
 <div align=left>
-<p>You need to open "cmd.exe" as administrator, and execute the following command:</p>
+	
+Unzip the [Chromium WebRT Patch Archive](https://github.com/TangramDev/WebRT_Chromium_Canary/archive/refs/heads/main.zip), and then copy all the batch files in it to the chromium source code folder, as shown in the following figure:	
+</div>
 
-	$ cd/d e:\webrt\m108
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/195234682-9a78ef26-6e19-47b9-85ed-5019241e4327.png" width="75%"/></div>
+<div align=left>
+<p>After copying all batch files,You need to open "cmd.exe" as administrator, and execute the following command:</p>
+
+	$ cd/d e:\webrt\m108\src
 
 <div align=center>
 
-![image](https://user-images.githubusercontent.com/26355688/195232309-5f0c4a38-e96f-478f-b36a-51e916f0a239.png)</div>
+![image](https://user-images.githubusercontent.com/26355688/195236900-369331ae-a914-4537-9340-5292fb1c86f2.png)</div>
 	
-<p>After entering the Chromium source code folder, unzip the Chromium WebRT Patch archive, and then copy all the batch files in it to the chromium source code folder, as shown in the following figure:</p>	
-</div>
-
-<div align=center><img src="https://user-images.githubusercontent.com/26355688/195234682-9a78ef26-6e19-47b9-85ed-5019241e4327.png" width="75%"/>
 </h2>
