@@ -111,4 +111,10 @@ as shown in the following figure:</p>
 <p>
 	
 Here, chromium_tag is the Tag value contained in <i>[ChromiumVer.txt](https://github.com/TangramDev/WebRT_Chromium_Canary/blob/main/ChromiumVer.txt)</i>, and WebRTBase is the branch name of "WebRT Base Branch"</p>
+
+<p>Copy the folder "ChromiumSRC\src" (this folder is included in the unzipped folder of Chromium WebRT Patch) to "d:\WebRT\M108\src", execute the following command:
+	
+	$ git add . && git commit -am "WebRuntime Support"
+</p>
+<p>we have completed the merging of the patch package into the Chromium source code.</p>
 </h2>
