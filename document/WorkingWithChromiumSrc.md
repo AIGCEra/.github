@@ -123,5 +123,9 @@ Here, chromium_tag is the Tag value contained in <i>[ChromiumVer.txt](https://gi
 WebRuntime based on a <i>Specific Chromium Project Version</i>
 </h1>
 <h2>
+<p>If you want to compile WebRuntime based on a specific Chromium Project version, you need to select a version patch that is closest to your desired Tag from Canary, Dev, Beta and Stable versions according to the specified Chromium version Tag, Usually, by specifying the version's Milestone number and Build Number, the specified version is closest to one of the Canary, Dev, Beta and Stable versions, and select the most suitable one. Through its ChromiumVer.txt file, according to the above Steps Create a code branch that supports WebRuntime, we need to remember the name of this branch, for example: WebRTBase.<p>
+<p>Execute the following command:
 	
+	$ ..\getWebRTbranch chromium_specific_ver_tag closest_chromium_specific_ver_tag WebRTBase
+</p>
 </h2>
