@@ -79,7 +79,7 @@ How to Use <i>[GetWebRTbranch.Bat](https://github.com/TangramDev/WebRT_Chromium_
 </h2>
 
 
-<h2 align=center>
+<h1 align=center>
 
 Merge the [Chromium WebRT Patch](https://github.com/TangramDev/WebRT_Chromium_Canary/archive/refs/heads/main.zip) into your <i>Chromium Project Source Code</i>
 
@@ -108,4 +108,4 @@ as shown in the following figure:</p>
 	$ ..\getbranch chromium_tag WebRTBase
 </p>
 <p>Here, chromium_tag is the Tag value contained in ChromiumVer.txt, and WebRTBase is the branch name of "WebRT Base Branch"</p>
-</h2>
+</h1>
