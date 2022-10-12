@@ -94,10 +94,11 @@ Unzip the [Chromium WebRT Patch Archive](https://github.com/TangramDev/WebRT_Chr
 
 <div align=center><img src="https://user-images.githubusercontent.com/26355688/195234682-9a78ef26-6e19-47b9-85ed-5019241e4327.png" width="75%"/></div>
 <div align=left>
-<p>After copying all batch files,You need to open "cmd.exe" as administrator, and execute the following command:</p>
+<p>After copying all batch files,You need to open "cmd.exe" as administrator, and execute the following command:
 
-	$ cd/d e:\webrt\m108\src
+	$ cd/d d:\webrt\m108\src
 
+as shown in the following figure:</p>
 <div align=center>
 
 ![image](https://user-images.githubusercontent.com/26355688/195236900-369331ae-a914-4537-9340-5292fb1c86f2.png)</div>
