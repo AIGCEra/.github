@@ -102,5 +102,10 @@ as shown in the following figure:</p>
 <div align=center>
 
 ![image](https://user-images.githubusercontent.com/26355688/195236900-369331ae-a914-4537-9340-5292fb1c86f2.png)</div>
-	
+
+<p>execute the following command:
+
+	$ ..\getbranch chromium_tag WebRTBase
+</p>
+<p>Here, chromium_tag is the Tag value contained in ChromiumVer.txt, and WebRTBase is the branch name of "WebRT Base Branch"</p>
 </h2>
