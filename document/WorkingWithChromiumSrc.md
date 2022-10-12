@@ -92,7 +92,6 @@ Merge the [Chromium WebRT Patch](https://github.com/TangramDev/WebRT_Chromium_Ca
 
 	$ cd/d e:\webrt\m108
 
-
 <div align=center>
 
 ![image](https://user-images.githubusercontent.com/26355688/195232309-5f0c4a38-e96f-478f-b36a-51e916f0a239.png)</div>
@@ -100,7 +99,5 @@ Merge the [Chromium WebRT Patch](https://github.com/TangramDev/WebRT_Chromium_Ca
 <p>After entering the Chromium source code folder, unzip the Chromium WebRT Patch archive, and then copy all the batch files in it to the chromium source code folder, as shown in the following figure:</p>	
 </div>
 
-<div align=center>
-
-![image](https://user-images.githubusercontent.com/26355688/195234682-9a78ef26-6e19-47b9-85ed-5019241e4327.png)</div>
+<div align=center><img src="https://user-images.githubusercontent.com/26355688/195234682-9a78ef26-6e19-47b9-85ed-5019241e4327.png" width="75%"/>
 </h2>
