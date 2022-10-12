@@ -196,11 +196,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 <div align=center>
 
 **(Chromium Src Patch and Web Runtime Binary Package)**</div>
-<h3  align=right>
-	
-[More Information ...](https://github.com/TangramDev/.github/blob/main/document/WorkingWithChromiumSrc.md)
-</div></p> 
-</h3>
+
 
 <h1 align=center>
 Ushering in the Era of the <i>Web-Defining Desktop Window</i>
