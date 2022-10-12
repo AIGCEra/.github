@@ -77,3 +77,13 @@ How to Use <i>[GetWebRTbranch.Bat](https://github.com/TangramDev/WebRT_Chromium_
 
 <div align=left>What GetWebRTbranch does is to create a new <i>WebRuntime-Enabled</i> source code Branch based on the Tag value for a given Chromium Project version. GetWebRTbranch.Bat requires three parameters. The first parameter is the Tag value of the Chromium version expected by the new branch you want to create, the second parameter is the name of the new branch you want to create, and the third parameter is the name of a code branch that already supports WebRuntime</div></p>
 </h2>
+
+
+<h2 align=center>
+
+Merge the [Chromium WebRT Patch](https://github.com/TangramDev/WebRT_Chromium_Canary/archive/refs/heads/main.zip) into your <i>Chromium Project Source Code</i>
+
+<p align=left>
+
+<div align=left>If you have successfully fetched the source code of the Chromium Project, assuming that the path of the folder where your source code is located is "x:\somepath\chromium", we first need to create a "WebRT base branch", you need to Give this branch an appropriate name, eg "WebRTBase".</div></p>
+</h2>
