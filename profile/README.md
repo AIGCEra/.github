@@ -184,7 +184,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
                     <td width="25%">
                         <h3 align=center><p>
 			
-[**106.0.5249.133**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/106.0.5249.133/webrt_106.0.5249.133.7z)</p>			
+[**106.0.5249.134**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/106.0.5249.134/webrt_106.0.5249.134.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
