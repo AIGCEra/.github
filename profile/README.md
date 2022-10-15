@@ -103,7 +103,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
                </tr>            
 	<tbody>
                 <tr>
-                    <td width="20%">
+                    <td width="100">
                         <h4 align=center>
 				
 [Canary](https://github.com/TangramDev/WebRT_Chromium_Canary)
@@ -115,7 +115,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 [**Latest Patch**](https://github.com/TangramDev/WebRT_Chromium_Canary/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
-                    <td width="25%">
+                    <td width="200">
                         <h3 align=center><p>
 			
 [**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v109.0.5360.0/webrt_109.0.5360.0.7z)</p>			
@@ -125,7 +125,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		        Version: 109.0.5360.0, [**More>>**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
                     </td>
                 <tr>
-                    <td width="20%">
+                    <td width="100">
                         <h4 align=center>
 				
 [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev)
@@ -137,7 +137,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 [**Latest Patch**](https://github.com/TangramDev/WebRT_Chromium_Dev/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
-                    <td width="25%">
+                    <td width="200">
                         <h3 align=center><p>
 			
 [**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v108.0.5359.1/webrt_108.0.5359.1.7z)</p>			
@@ -147,7 +147,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		        Version: 108.0.5359.1, [**More>>**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases)
                     </td>
 		<tr>
-                    <td width="20%">
+                    <td width="100">
                         <h4 align=center>
 				
 [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta)
@@ -159,7 +159,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 [**Latest Patch**](https://github.com/TangramDev/WebRT_Chromium_Beta/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
-		    <td width="25%">
+		    <td width="200">
                         <h3 align=center><p>
 			
 [**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v107.0.5304.42/webrt_107.0.5304.42.7z)</p>			
@@ -169,7 +169,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		        Version: 107.0.5304.42, [**More>>**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases)
                     </td>
                 <tr>
-                    <td width="20%">
+                    <td width="100">
                         <h4 align=center>
 				
 [Stable](https://github.com/TangramDev/WebRT_Chromium_Stable)
@@ -181,7 +181,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 [**Latest Patch**](https://github.com/TangramDev/WebRT_Chromium_Stable/archive/refs/heads/main.zip)</p>			
 		     </h3>
                     </td>
-                    <td width="25%">
+                    <td width="200">
                         <h3 align=center><p>
 			
 [**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/106.0.5249.134/webrt_106.0.5249.134.7z)</p>			
