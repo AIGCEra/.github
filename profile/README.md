@@ -2,7 +2,13 @@
 The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
 </h1>
 <h2>
-<p>The Web Runtime provides developers with a <p align=center>"<i>Simplest Technical Strategy</i>"</p> <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, thus realizing Web pageization of "Desktop Application Functions", it completely bridges the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>. </p>
+<p>The Web Runtime provides developers with a <p align=center>"<i>Simplest Technical Strategy</i>"</p> <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, thus realizing Web pageization of "Desktop Application Functions", it completely bridges the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>. 
+</p>
+</h2>
+<h1 align=center>
+How Will WebRuntime Change <i>Desktop Applications</i>?
+</h1>
+<h2>
 <p>WebRuntime enables a <i>Desktop Application</i> to support <i>Three Types of Runtime States</i>: 
 
 <div align=left>
@@ -21,7 +27,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 </div>
 Each type of application state has any number of runtime personalized instances to adapt to different application scenarios.
 </p>
-</h1> 
+</h2> 
 
 <div align=center>
 
