@@ -7,7 +7,9 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <div align=left>
 
 - Desktop Application State with Web ecology.
-	<div align=center id="ChildWndGene2"><img src="https://user-images.githubusercontent.com/26355688/179511606-32ec35a9-9835-4698-a243-e87476a5e165.jpg" width="67%"/></div>
+<br/><div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="45%" /><br>(First Visible Window is a WinForm)</div>
+<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="45%" /><br/>(First Visible Window is a MFC MDI Frame Window)</div>
+ 
 - Personalized Modern Web Browser State.
 - Win32 Desktop Application State(no Built-in Browser Support).
 </div>
