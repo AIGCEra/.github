@@ -16,7 +16,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 </p>
 
 - Win32 Desktop Application Runtime State(no Built-in Browser Support).
-<p><div align=center id="Application"><img src="https://user-images.githubusercontent.com/26355688/196024961-d8e6561e-4d13-4c74-a0c8-35be4326cab4.png" width="75%" /><br>(Desktop Application Web Browser Runtime State)</div>
+<p><div align=center id="Application"><img src="https://user-images.githubusercontent.com/26355688/196025011-4d77d697-698c-44f3-b15b-9565446eac21.jpg" width="75%" /><br>(Desktop Application Web Browser Runtime State)</div>
 </p>
 </div>
 Each type of application state has any number of runtime personalized instances to adapt to different application scenarios.
