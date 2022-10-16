@@ -44,7 +44,7 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 # [MFCPlus](https://github.com/TangramDev/MFCPlus): Converting MFC Application <br>into Chromium Project Browser Process
 <div align=left>
 
-**From the code point of view, for MFC Applications, developers can convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime by replacing up to two base classes, the remaining work is basically the <i>Compilation and Configuration Adjustment</i> of the MFC project and a very small amount of code modification.**</div>	
+**From the code point of view, for MFC Applications, developers can convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime by replacing up to two base classes, the remaining work is basically the <i>Compilation and Configuration Adjustment</i> of the MFC project and <i>a Very Small Amount of Code Modification</i>.**</div>	
   
 <div align=center>
 
