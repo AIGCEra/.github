@@ -81,7 +81,7 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 How Will WebRuntime Change <i>Desktop Applications</i>?
 </h1>
 <h2>
-<p>WebRuntime enables a <i>Desktop Application</i> to support <i>Three Types of Runtime States</i>: 
+<p>WebRuntime enables a <i>Desktop Application</i> to support <i>Three Types of <ins>Runtime States</ins></i>: 
 
 <div align=left>
 
