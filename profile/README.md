@@ -12,6 +12,9 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="75%" /><br/>( MFC MDI Application with Web Ecology)</div></p>
  
 - Personalized Modern Web Browser Runtime State.
+<p><div align=center id="ApplicationAsBrowser"><img src="https://user-images.githubusercontent.com/26355688/196023584-4ec77d1a-a754-4a64-9161-2bf4fd9c8447.jpg" width="75%" /><br>(Desktop Application Web Browser Runtime State)</div>
+</p>
+
 - Win32 Desktop Application Runtime State(no Built-in Browser Support).
 </div>
 Each type of application state has any number of runtime personalized instances to adapt to different application scenarios.
