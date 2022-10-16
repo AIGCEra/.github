@@ -9,7 +9,9 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <div align=center>
 
 # [WinFormPlus](https://github.com/TangramDev/WinFormPlus): Converting WinForm Application <br>into Chromium Project Browser Process
-	
+<div align=left>
+
+**For WinForm Applications, from the code perspective, developers only need to modify a line of code to convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime. The rest of the work is basically the <i>Compilation Configuration Adjustment</i> of WinForm Projects and necessary <i>Component References</i>.**</div>	
 <p>
         <table border="3" cellpadding="3">
             <thead>
@@ -21,7 +23,8 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
                 <tr>
                     <td width="75%">
                         <h2 align=center> Prepare a C# WinForm Project<br>(create a new Project, or open an existing Project)</h2>
-<h3><p>
+<h3>
+<p>
 
 Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/WinFormPlus/archive/refs/heads/main.zip) into the prepared WinForm Project,</p> Reference “cosmos.dll”, adjust manifest and compilation configurations</h3>
 
@@ -39,6 +42,9 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 <div align=center>
 
 # [MFCPlus](https://github.com/TangramDev/MFCPlus): Converting MFC Application <br>into Chromium Project Browser Process
+<div align=left>
+
+**For MFC Applications, from the code point of view, developers can convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime by replacing up to two base classes. The remaining work is basically the <i>Compilation and Configuration Adjustment</i> of the MFC project and a very small amount of code adjustment.**</div>	
   
 <div align=center>
 
