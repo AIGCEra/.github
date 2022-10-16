@@ -5,29 +5,6 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <p>The Web Runtime provides developers with a <p align=center>"<i>Simplest Technical Strategy</i>"</p> <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, thus realizing Web pageization of "Desktop Application Functions", it completely bridges the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>. 
 </p>
 </h2>
-<h1 align=center>
-How Will WebRuntime Change <i>Desktop Applications</i>?
-</h1>
-<h2>
-<p>WebRuntime enables a <i>Desktop Application</i> to support <i>Three Types of Runtime States</i>: 
-
-<div align=left>
-
-- Desktop Application Runtime State with Web Ecology.
-<p><div align=center id="ApplicationwithWebEcology"><img src="https://user-images.githubusercontent.com/26355688/196022828-1af528ef-f135-4236-8d2e-b2fa719d2018.jpg" width="75%" /><br>(Desktop Application with Web Ecology)</div>
-<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="75%" /><br/>( MFC MDI Application with Web Ecology)</div></p>
- 
-- Personalized Modern Web Browser Runtime State.
-<p><div align=center id="ApplicationAsBrowser"><img src="https://user-images.githubusercontent.com/26355688/196023584-4ec77d1a-a754-4a64-9161-2bf4fd9c8447.jpg" width="75%" /><br>(Run Desktop Application As a Web Browser with Extended Web DOM Support)</div>
-</p>
-
-- Win32 Desktop Application Runtime State(no Built-in Browser Support).
-<p><div align=center id="Application"><img src="https://user-images.githubusercontent.com/26355688/196025011-4d77d697-698c-44f3-b15b-9565446eac21.jpg" width="75%" /><br>(Win32 Desktop Application Runtime State)</div>
-</p>
-</div>
-Each type of application state has any number of runtime personalized instances to adapt to different application scenarios.
-</p>
-</h2> 
 
 <div align=center>
 
@@ -99,6 +76,34 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
             </tbody>	  
         </table>
 </center>
+
+<h1 align=center>
+How Will WebRuntime Change <i>Desktop Applications</i>?
+</h1>
+<h2>
+<p>WebRuntime enables a <i>Desktop Application</i> to support <i>Three Types of Runtime States</i>: 
+
+<div align=left>
+
+- Desktop Application Runtime State with Web Ecology.
+<p><div align=center id="ApplicationwithWebEcology"><img src="https://user-images.githubusercontent.com/26355688/196022828-1af528ef-f135-4236-8d2e-b2fa719d2018.jpg" width="75%" /><br>(Desktop Application with Web Ecology)</div>
+<div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="75%" /><br/>( MFC MDI Application with Web Ecology)</div></p>
+ 
+- Personalized Modern Web Browser Runtime State.
+<p><div align=center id="ApplicationAsBrowser"><img src="https://user-images.githubusercontent.com/26355688/196023584-4ec77d1a-a754-4a64-9161-2bf4fd9c8447.jpg" width="75%" /><br>(Run Desktop Application As a Web Browser with Extended Web DOM Support)</div>
+</p>
+
+- Win32 Desktop Application Runtime State(no Built-in Browser Support).
+<p><div align=center id="Application"><img src="https://user-images.githubusercontent.com/26355688/196025011-4d77d697-698c-44f3-b15b-9565446eac21.jpg" width="75%" /><br>(Win32 Desktop Application Runtime State)</div>
+</p>
+</div>
+
+<div align=left>
+Each type of application state has any number of runtime personalized instances to adapt to different application scenarios.
+</div>
+
+</p>
+</h2> 
 
 <h1 align=center>
 Working with <i>Latest Chromium Project Source Code</i>
