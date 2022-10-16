@@ -89,11 +89,11 @@ How Will WebRuntime Change <i>Desktop Applications</i>?
 <p><div align=center id="ApplicationwithWebEcology"><img src="https://user-images.githubusercontent.com/26355688/196022828-1af528ef-f135-4236-8d2e-b2fa719d2018.jpg" width="75%" /><br>(Desktop Application with Web Ecology)</div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="75%" /><br/>( MFC MDI Application with Web Ecology)</div></p>
  
-- Personalized Modern Web Browser Runtime State.
+- [Personalized Modern Web Browser Runtime State](https://github.com/TangramDev/.github/blob/main/document/WebBrowserRuntimeState.md).
 <p><div align=center id="ApplicationAsBrowser"><img src="https://user-images.githubusercontent.com/26355688/196023584-4ec77d1a-a754-4a64-9161-2bf4fd9c8447.jpg" width="75%" /><br>(Run Desktop Application As a Web Browser with Extended Web DOM Support)</div>
 </p>
 
-- Win32 Desktop Application Runtime State(no Built-in Browser Support).
+- [Win32 Desktop Application Runtime State](https://github.com/TangramDev/.github/blob/main/document/Win32AppRuntimeState.md)(no Built-in Browser Support).
 <p><div align=center id="Application"><img src="https://user-images.githubusercontent.com/26355688/196025011-4d77d697-698c-44f3-b15b-9565446eac21.jpg" width="75%" /><br>(Win32 Desktop Application Runtime State)</div>
 </p>
 </div>
