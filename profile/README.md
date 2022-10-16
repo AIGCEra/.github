@@ -6,9 +6,9 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <p>WebRuntime enables a desktop application to support three types of runtime states: 
 <div align=left>
 
-- Desktop application state with Web ecology.
-- Personalized modern Internet browser state.
-- Win32 desktop application state(no built-in browser support).
+- Desktop Application State with Web ecology.
+- Personalized Modern Web Browser State.
+- Win32 Desktop Application State(no Built-in Browser Support).
 </div>
 Each type of application state has any number of runtime personalized instances to adapt to different application scenarios.
 </p>
