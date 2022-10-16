@@ -3,7 +3,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 </h1>
 <h2>
 <p>The Web Runtime provides developers with a <p align=center>"<i>Simplest Technical Strategy</i>"</p> <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, thus realizing Web pageization of "Desktop Application Functions", it completely bridges the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>. </p>
-<p>WebRuntime enables a desktop application to support three types of runtime states: 
+<p>WebRuntime enables a desktop application to support three types of <i>Runtime States</i>: 
 <div align=left>
 
 - Desktop Application State with Web ecology.
