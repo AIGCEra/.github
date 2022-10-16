@@ -6,7 +6,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 <p>WebRuntime enables a desktop application to support three types of <i>Runtime States</i>: 
 <div align=left>
 
-- Desktop Application State with Web ecology.
+- Desktop Application State with Web Ecology.
 <p><div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896509-92769481-8558-4add-948a-8b0e3e6d2269.jpg" width="75%" /><br>(WinForm Application with Web Ecology)</div>
 <div align=center id="WinFormBrowser"><img src="https://user-images.githubusercontent.com/26355688/176896016-13973932-53ef-4749-9ea6-ccb5c95f9fa8.jpg" width="75%" /><br/>( MFC MDI Application with Web Ecology)</div></p>
  
