@@ -11,7 +11,7 @@ The Core Job of Web Runtime:<br><i>Eliminate</i> the <i>Gap</i> between <i>Deskt
 # [WinFormPlus](https://github.com/TangramDev/WinFormPlus): Converting WinForm Application <br>into Chromium Project Browser Process
 <div align=left>
 
-**From the code perspective, for WinForm Applications, developers only need to modify <i>a line of code</i> to convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime. The rest of the work is basically the <i>Compilation Configuration Adjustment</i> of WinForm Projects and necessary <i>Component References</i>.**</div>	
+**From the code perspective, for WinForm Applications, developers only need to modify <i><ins>a line of code</ins></i> to convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime. The rest of the work is basically the <i>Compilation Configuration Adjustment</i> of WinForm Projects and necessary <i>Component References</i>.**</div>	
 <p>
         <table border="3" cellpadding="3">
             <thead>
@@ -44,7 +44,7 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 # [MFCPlus](https://github.com/TangramDev/MFCPlus): Converting MFC Application <br>into Chromium Project Browser Process
 <div align=left>
 
-**From the code point of view, for MFC Applications, developers can convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime by replacing <i>up to Two Base Classes</i>, the remaining work is basically the <i>Compilation and Configuration Adjustment</i> of the MFC project and <i>a Very Small Amount of Code Modification</i>.**</div>	
+**From the code point of view, for MFC Applications, developers can convert their application system into a <i>Chromium Browser Process</i> supported by WebRuntime by replacing <i>up to <ins>Two Base Classes</ins></i>, the remaining work is basically the <i>Compilation and Configuration Adjustment</i> of the MFC project and <i>a Very Small Amount of Code Modification</i>.**</div>	
   
 <div align=center>
 
