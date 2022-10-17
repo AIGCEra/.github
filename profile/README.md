@@ -87,9 +87,9 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 How Will WebRuntime Change <i>Desktop Applications</i>?
 </h1>
 <h2 align=left>
-<p>As shown in the figure below, we see a WinForm program at design time:</p>
+<p>As shown in the figure below, we see a WinForm Application at <i>Design Time</i>:</p>
  <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196173217-dfe1d7d1-5ae3-4da4-a455-1462d86ef20b.jpg" width="67%"/></div>
-<p>Generally, we will see the following runtime results:</p>
+<p>Generally, we will see the following <i>Runtime Results</i>:</p>
 <div align=center id="Form1Runtime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="33%"/></div>
 <p>When we convert this project into a project that supports WebRuntime, we will see completely different runtime scenarios, as shown in the following figure, which is one of them:</p>
 <div align=center id="dynForm"><img src="https://user-images.githubusercontent.com/26355688/196175684-e6f36ad4-d7df-4a9e-9f62-b4ce3b78ab6f.jpg" width="67%"/></div>
