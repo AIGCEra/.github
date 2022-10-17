@@ -86,7 +86,12 @@ Copy all files included with [***MFCPlus***](https://github.com/TangramDev/MFCPl
 <h1 align=center>
 How Will WebRuntime Change <i>Desktop Applications</i>?
 </h1>
-<h2>
+<h2 align=left>
+<p>As shown in the figure below, we see a WinForm program at design time:</p>
+ <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196173217-dfe1d7d1-5ae3-4da4-a455-1462d86ef20b.jpg" width="67%"/></div>
+<p>Generally, we will see the following runtime results:</p>
+<div align=center id="Form1Runtime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="33%"/></div>
+
 <p>WebRuntime enables a <i>Desktop Application</i> to support <i>Three Types of <ins>Runtime States</ins></i>: 
 
 <div align=left>
