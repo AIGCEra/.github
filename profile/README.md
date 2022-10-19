@@ -98,10 +98,10 @@ How Will WebRuntime Change <i>Desktop Applications</i>?
                </tr>            
 	<tbody>
                 <tr>
-                    <td width="55%">
+                    <td width="50%">
                      <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196173217-dfe1d7d1-5ae3-4da4-a455-1462d86ef20b.jpg" width="100%"/></div>   
                     </td>
-                    <td width="45%">
+                    <td width="50%">
 		      <div align=center id="Form1Runtime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="100%"/></div>
                     </td>
             </tbody>	  
