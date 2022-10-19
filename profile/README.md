@@ -88,7 +88,32 @@ How Will WebRuntime Change <i>Desktop Applications</i>?
 </h1>
 <h2 align=left>
 <p>As shown in the figure below, we see a WinForm Application at <i>Design Time</i>:</p>
- <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196173217-dfe1d7d1-5ae3-4da4-a455-1462d86ef20b.jpg" width="67%"/></div>
+	
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th> <strong>WinForm Application at <i>Design Time</strong>
+                    <th> <strong>WinForm Application at <i>Runtime Time</strong>
+               </tr>            
+	<tbody>
+                <tr>
+                    <td width="55%">
+                     <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196173217-dfe1d7d1-5ae3-4da4-a455-1462d86ef20b.jpg" width="100%"/></div>   
+                    </td>
+                    <td width="45%">
+		      <div align=center id="Form1Runtime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="100%"/></div>
+                    </td>
+            </tbody>	  
+        </table>
+</center>	
+	
+	
+	
+	
+	
+	
+
 <p>Generally, we will see the following <i>Runtime Results</i>:</p>
 <div align=center id="Form1Runtime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="33%"/></div>
 <p>When we convert this project into a project that supports WebRuntime, we will see any number of <i>Completely Different Runtime Scenarios</i>, as shown in the following figure, which is <ins><i>one of them</i></ins>:</p>
