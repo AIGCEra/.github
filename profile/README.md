@@ -97,7 +97,7 @@ How Will WebRuntime Change <i>Desktop Applications</i>?
 
 <div align=right>
 
-[More Information ...](https://github.com/TangramDev/.github/blob/main/document/HowWebRTChangeYourApp.md.md)
+[More Information ...](https://github.com/TangramDev/.github/blob/main/document/HowWebRTChangeYourApp.md)
 </div>
 
 
