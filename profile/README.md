@@ -48,7 +48,7 @@ When we convert this project into a project that supports [Web Runtime](https://
 
 <h1 align=center>
 
-[Working with <i>Latest Chromium Project Source Code</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
+[Working with <i>Latest Chromium Project <br/>Source Code</i> and <i>Binary Package</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
 </h1>
 <h2  align=left>
 <p>
