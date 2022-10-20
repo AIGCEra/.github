@@ -36,7 +36,7 @@ The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>
 
 <h1 align=center>
 
-How Will [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) Change <i>Desktop Applications</i>?
+[How Will Web Runtime Change <i>Desktop Applications</i>](https://github.com/TangramDev/.github/blob/main/document/HowWebRTChangeYourApp.md)?
 </h1>
 <h2 align=left>
 <p>As shown in the figure below, we see a WinForm Application at <i>Design Time</i>:</p>
