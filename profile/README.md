@@ -69,6 +69,9 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 <p>
 	
 [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use Chromium tabs to organize application functions, each tab corresponds to an application page, and each application page can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most desktop software developers, WebRuntime will re-establish their basic understanding of Windows desktop development.</p>
+
+<div align=center id="TabsPage"><img src="https://user-images.githubusercontent.com/26355688/196895095-bb325e20-d1b4-4905-b547-66436806f40a.jpg" width="80%" /><br>(Use Chromium Tabs to Organize Application Contents")</div>
+	
 <p align=left>
 	
 The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
