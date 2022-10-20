@@ -37,7 +37,7 @@ How Will [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) Change <i>D
 	
 <p>
 	
-When we convert this project into a project that supports [Web Runtime](https://github.com/TangramDev/OpenWebRunTime), we will see any number of <i>Completely Different Runtime Scenarios</i>, as shown in the following figure, which is <ins><i>one of them</i></ins>:</p>
+When we convert this project into a project that supports [Web Runtime](https://github.com/TangramDev/OpenWebRunTime), we will see <i>any number</i> of <i>Completely Different Runtime Scenarios</i>, as shown in the following figure, which is <ins><i>one of them</i></ins>:</p>
 <div align=center id="dynForm"><img src="https://user-images.githubusercontent.com/26355688/196175684-e6f36ad4-d7df-4a9e-9f62-b4ce3b78ab6f.jpg" width="67%"/></div>
 
 
