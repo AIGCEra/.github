@@ -246,8 +246,8 @@ to obtain the source code of the latest full version of the Chromium Project, an
 <h1 align=center>
 Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 </h1>
-<h2>
-<p align=left>
+<h2 align=left>
+<p>
 	
 [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use Chromium tabs to organize application functions, each tab corresponds to an application page, and each application page can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most desktop software developers, WebRuntime will re-establish their basic understanding of Windows desktop development.</p>
 <p align=left>
