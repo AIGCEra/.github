@@ -1,6 +1,6 @@
 
 <h1 align=center>
-Working with <i>Latest Chromium Project Source Code</i>
+Working with <i>Latest Chromium Project <br/>Source Code</i> and <i>Binary Package</i>
 </h1>
 <h2  align=left>
 <p>
