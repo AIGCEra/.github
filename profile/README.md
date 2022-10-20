@@ -47,22 +47,6 @@ When we convert this project into a project that supports [Web Runtime](https://
 </div>
 
 <h1 align=center>
-
-[Working with <i>Latest Chromium Project <br/>Source Code</i> and <i>Binary Package</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
-</h1>
-<h2  align=left>
-<p>
-
-[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) can work synchronously with the <i>Latest Version Chromium Project Source Code</i>([Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)), to do this, you need to refer to the 
-<div align=center>
-
-[**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
-
-to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5(requires C++/CLI support).</p>
-<div align=right>
-</h2>
-
-<h1 align=center>
 Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 </h1>
 <h2 align=left>
@@ -86,3 +70,18 @@ The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
 </div>
 </h1>
+<h1 align=center>
+
+[Working with <i>Latest Chromium Project <br/>Source Code</i> and <i>Binary Package</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
+</h1>
+<h2  align=left>
+<p>
+
+[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) can work synchronously with the <i>Latest Version Chromium Project Source Code</i>([Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)), to do this, you need to refer to the 
+<div align=center>
+
+[**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
+
+to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5(requires C++/CLI support).</p>
+<div align=right>
+</h2>
