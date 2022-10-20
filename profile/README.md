@@ -52,7 +52,7 @@ When we convert this project into a project that supports [Web Runtime](https://
 <h2  align=left>
 <p>
 
-[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) can work synchronously with the <i>Latest Version Chromium Project</i>([Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev, Beta, and Stable Version](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)) Source Code, to do this, you need to refer to the 
+[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) can work synchronously with the <i>Latest Version Chromium Project</i>([Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)) Source Code, to do this, you need to refer to the 
 <div align=center>
 
 [**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
