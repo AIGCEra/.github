@@ -15,7 +15,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 <h2 align=left>
 <p>
 	
-[Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use Chromium tabs to organize application functions, each tab corresponds to an <i>application page</i> and each <i>application page</i> can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most desktop software developers, WebRuntime will re-establish their basic understanding of <i>Windows Desktop Development</i>.</p>
+[Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use Chromium tabs to organize application functions, each tab corresponds to an <i>application page</i> and each <i>application page</i> can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most Desktop/Web Software Developers, WebRuntime will re-establish their Basic Understanding of <i>Windows Desktop Development</i>.</p>
 
 <div align=center id="TabsPage"><img src="https://user-images.githubusercontent.com/26355688/196898272-858b5d56-6cc9-425a-acb3-bce1f0ee5182.jpg" width="100%" /><br>(Use Chromium Tabs to Organize Application Contents)</div>
 	
