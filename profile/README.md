@@ -15,7 +15,7 @@ Ushering in the Era of the <i>Web-Defining Desktop Window</i>
 <h2 align=left>
 <p>
 	
-[Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use Chromium tabs to organize application functions, each tab corresponds to an <i>application page</i> and each <i>application page</i> can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most desktop software developers, WebRuntime will re-establish their basic understanding of Windows desktop development.</p>
+[Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use Chromium tabs to organize application functions, each tab corresponds to an <i>application page</i> and each <i>application page</i> can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most desktop software developers, WebRuntime will re-establish their basic understanding of <i>Windows Desktop Development</i>.</p>
 
 <div align=center id="TabsPage"><img src="https://user-images.githubusercontent.com/26355688/196898272-858b5d56-6cc9-425a-acb3-bce1f0ee5182.jpg" width="100%" /><br>(Use Chromium Tabs to Organize Application Contents)</div>
 	
@@ -26,7 +26,7 @@ The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="80%" /><br>(The Era of "Web Page Define Desktop Window")</div>
 </p>
 
-<p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" era, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between browsers and desktop applications completely disappear.</p>
+<p align=left>Desktop applications are about to usher in the "<i>Web Page Define Desktop Window</i>" era, in this sense, Desktop Web Browser should be the "<i>Smallest Desktop Application</i>". When developers can reinterpret the specific UI presentation of Web pages, the boundaries between <i>Browsers</i> and <i>Desktop Applications</i> completely disappear.</p>
        
 <div align=right>
 
