@@ -86,7 +86,7 @@ When we convert this project into a project that supports [Web Runtime](https://
 
 to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5(requires C++/CLI support).</p>
 
-
+</h2>
 <center>
         <table border="3" cellpadding="3" align=center>
             <thead>
@@ -191,5 +191,4 @@ to obtain the source code of the latest full version of the Chromium Project, an
 <div align=center>
 
 **(Chromium Src Patch and Web Runtime Binary Package)**</div>
-		
-</h2>
+
