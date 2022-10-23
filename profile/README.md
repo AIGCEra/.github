@@ -1,6 +1,6 @@
 <h1 align=center>
 
-The Core Job of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
+The Core Mission of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
 </h1>
 <h2>
 <p>
