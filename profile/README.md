@@ -63,7 +63,25 @@ The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>
 <p>
 	
 When we convert this project into a project that supports [Web Runtime](https://github.com/TangramDev/OpenWebRunTime), we will see <i>any number</i> of <i>Completely Different Runtime Scenarios</i>, as shown in the following figure, which is <ins><i>one of them</i></ins>:</p>
-<div align=center id="dynForm"><img src="https://user-images.githubusercontent.com/26355688/196175684-e6f36ad4-d7df-4a9e-9f62-b4ce3b78ab6f.jpg" width="67%"/></div>
+
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th align=center> <strong>WinForm Application at <i>Design Time</strong>
+                    <th align=center> <strong>WinForm Application at <i>Runtime Time</strong>
+               </tr>            
+	<tbody>
+                <tr>
+                    <td width="50%">
+                     <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196173217-dfe1d7d1-5ae3-4da4-a455-1462d86ef20b.jpg" width="100%"/></div>   
+                    </td>
+                    <td width="50%">
+		      <div align=center id="dynForm1Runtime"><img src="https://user-images.githubusercontent.com/26355688/197387216-c4e163bb-0385-4973-86ba-df9073522e5a.jpg" width="80%"/></div>
+                    </td>
+            </tbody>	  
+        </table>
+</center>
 
 
 <div align=right>
