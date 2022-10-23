@@ -46,7 +46,7 @@ The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>
             <thead>
                 <tr>
                     <th align=center> <strong>WinForm Application at <i>Design Time</strong>
-                    <th align=center> <strong>WinForm Application at <i>Runtime Time</strong>
+                    <th align=center> <strong>WinForm Application at <i>Run Time</strong>
                </tr>            
 	<tbody>
                 <tr>
@@ -69,7 +69,7 @@ When we convert this project into a project that supports [Web Runtime](https://
             <thead>
                 <tr>
                     <th align=center> <strong>WinForm Application at <i>Design Time</strong>
-                    <th align=center> <strong>WinForm Application at <i>Runtime Time</strong>
+                    <th align=center> <strong>WinForm Application at <i>Run Time</strong>
                </tr>            
 	<tbody>
                 <tr>
@@ -83,6 +83,24 @@ When we convert this project into a project that supports [Web Runtime](https://
         </table>
 </center>
 
+<center>
+        <table border="3" cellpadding="3">
+            <thead>
+                <tr>
+                    <th align=center> <strong>Form1 at <i>Run Time</i>(No WebRT Support)</strong>
+                    <th align=center> <strong>Form1 at <i>Run time</i>(with WebRT Support)</strong>
+               </tr>            
+	<tbody>
+                <tr>
+                    <td width="50%">
+                     <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="80%"/></div>   
+                    </td>
+                    <td width="50%">
+		      <div align=center id="dynForm1Runtime"><img src="https://user-images.githubusercontent.com/26355688/197387216-c4e163bb-0385-4973-86ba-df9073522e5a.jpg" width="80%"/></div>
+                    </td>
+            </tbody>	  
+        </table>
+</center>
 
 <div align=right>
 
