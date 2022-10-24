@@ -5,6 +5,10 @@ The Core Mission of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):
 <h2>
 <p>
 
+The <i>Core Idea</i> of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is: every Desktop Window Object has both "<i>native properties</i>" and "<i>web properties</i>", which is very similar to the <i>Wave-particle duality</i> in the field of physics, which we call the "<i>Web-native duality</i>" in the field of desktop software.
+</p>
+<p>
+
 The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides developers with a <p align=center>"<i>[Simplest Technical Strategy](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)</i>"</p> <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, thus realizing Web pageization of "Desktop Application Functions", it completely bridges the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>. 
 </p>
 </h2>
