@@ -215,11 +215,11 @@ to obtain the source code of the latest full version of the Chromium Project, an
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v106.0.5249.159/webrt_106.0.5249.163.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v106.0.5249.159/webrt_106.0.5249.164.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: 106.0.5249.163, [**More>>**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases)
+		        Version: 106.0.5249.164, [**More>>**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases)
                     </td>
 		</tbody>	  
         </table>
