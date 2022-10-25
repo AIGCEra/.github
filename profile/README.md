@@ -5,7 +5,7 @@ The Core Mission of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):
 <h2>
 <p>
 
-The <i>Core Idea</i> of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is: every <i>Desktop Window Object</i> has both "<i>Native Characteristics</i>" and "<i>Web Characteristics</i>", which is very similar to the "<i>Wave-particle duality</i>" in the field of Physics, which we call the "<i>Web-native duality</i>" in the field of <i>Desktop Software</i>.
+The <i>Core Idea</i> of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is: every <i>Desktop Window Object</i> has both "<i>Native Characteristics</i>" and "<i>Web Characteristics</i>", which is very similar to the "<i>Wave-particle duality</i>" in the field of Physics, which we call the "<i>Web-native duality</i>" of <i>Desktop Window Object</i> in the field of <i>Desktop Software</i>.
 </p>
 <p>
 
