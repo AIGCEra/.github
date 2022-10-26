@@ -11,7 +11,7 @@ Every Desktop Window Object is surrounded by an infinite-dimensional, web-driven
             <thead>
                 <tr>
                     <th align=center> <strong>Form1 at <i>Run Time</i></strong>
-                    <th align=center> <strong>Content World Surrounded Form1</strong>
+                    <th align=center> <strong>Content World Arounded Form1</strong>
                </tr>            
 	<tbody>
                 <tr>
