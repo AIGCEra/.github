@@ -3,6 +3,7 @@
 The Core Mission of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
 </h1>
 <h2>
+<p>Every Desktop Window Object is surrounded by an infinite-dimensional, web-driven world of window objects, which looks very similar to the Galactic Nuclei of Giant Galaxies in the Universe., for a long time, we have ignored the existence of this surrounding world, so the desktop windows we can see are probably just the tip of the iceberg of the real window object world. WebRuntime's responsibility is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software.</p>
 <p>
 
 The <i>Core Idea</i> of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is: every <i>Desktop Window Object</i> has both "<i>Native Nature</i>" and "<i>Web Nature</i>", which is very similar to the "<i>Wave-particle duality</i>" in the field of Physics, which we call the "<i>Web-native duality</i>" of <i>Desktop Window Object</i>.
