@@ -15,6 +15,12 @@ If the Runtime Position of a  Child Window only depends on the
 Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
 </p>
 <p>Window Nucleus is a widely existing desktop window object. The key factor that determines whether a window object is a window nucleus is a geometric constraint, which makes every window object possible to become a window nucleus.</p>
+</h2>
+
+<h1 align=center>
+Web-Native Duality
+</h1>
+<h2>
 <p>
 
 The <i>Core Idea</i> of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is: every <i>Desktop Window Object</i> has both "<i>Native Nature</i>" and "<i>Web Nature</i>", which is very similar to the "<i>Wave-particle duality</i>" in the field of Physics, which we call the "<i>Web-native duality</i>" of <i>Desktop Window Object</i>.
