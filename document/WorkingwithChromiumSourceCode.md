@@ -84,7 +84,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		    <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v108.0.5395.13/webrt_108.0.5359.25.7z)</p>			
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v108.0.5359.24/webrt_108.0.5359.25.7z)</p>
 		     </h3>
                     </td>
                     <td  align=center>
