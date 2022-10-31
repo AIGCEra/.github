@@ -4,6 +4,9 @@ The Core Mission of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):
 </h1>
 <h2>
 <p>When we observe the <i>Universe</i> with naked eyes, our <i>intuition</i> will tell us that <i>the Earth</i> is <i>the center of the Universe</i>, and everything will revolve around <i>the Earth</i>. The limited Naked-Eye Horizon of human beings allowed our ancestors to form <i>Geocentric Theory</i> to describe the Universe. Our view of the Universe today is unmatched by the early Geocentric Theory. The advent of <i>Hubble</i> and <i>Webb</i> has allowed us to see the narrowness of the  <i>Geocentric Theory</i>, these survey telescopes allow us to clearly see that the universe is full of extragalactic galaxies, each galactic nucleus may be surrounded by hundreds of billions of stars, allowing us to see a scene that the naked eye cannot reach.</p>
+
+<div align=center id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/198916669-c7c4059f-d096-4020-ae9e-c1d38c86efeb.jpg" width="80%"/></div>
+
 <p>  
 Every Desktop Window Object maybe surrounded by an <i>Infinite-Dimensional, Web-Driven World of Window Objects</i>, this scene makes <i>the Desktop Window Object</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
 <center>
