@@ -16,6 +16,9 @@ If the Runtime Position of a  Child Window only depends on the
 Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
 </p>
 <p>Window Nucleus is a widely existing desktop window object. The key factor that determines whether a window object is a window nucleus is a geometric constraint, which makes every window object possible to become a window nucleus. As the name implies, the “window nucleus” means that something must surround it. </p>
+<div align=center id="WndNucleus"><img src="https://user-images.githubusercontent.com/26355688/198913804-8c7e198b-71de-4e33-a4d7-60ae0eec4ac2.jpg" width="80%"/></div> 
+
+
 </h2>
 
 <h1 align=center>
