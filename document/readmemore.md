@@ -2,14 +2,14 @@
 Universe in the Sleeve(袖里乾坤)
 </h1>
 <h2>
-	Every Desktop Software hides a <i>Cosmic-Scale Object Hierarchy Structure</i>, and we need a <i>Suitable</i> and <i>Universal</i> way to activate this <i>Object Structure</i>. What kind of activation method is this?
+You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中). Every Desktop Software hides a <i>Cosmic-Scale Object Hierarchy Structure</i>, and we need a <i>Suitable</i> and <i>Universal</i> way to activate this <i>Object Structure</i>. What kind of activation method is this?
 </h2>
 	
 <h1 align=center>
 Everything Starts from the <i>Window Nucleus</i>
 </h1>
 <h2>
-<p>You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中). In modern mathematics, the field of topology and geometry usually compares the human eye's horizon to the horizon of a little ant, therefore, "neighborhood" is the basic concept of topology and geometry. If there is a "cosmic structure" hidden in every desktop software, then it seems that we should build similar structures (like geometry, topology, and the universe).</p>
+<p>In modern mathematics, the field of topology and geometry usually compares the human eye's horizon to the horizon of a little ant, therefore, "neighborhood" is the basic concept of topology and geometry. If there is a "cosmic structure" hidden in every desktop software, then it seems that we should build similar structures (like geometry, topology, and the universe).</p>
 If the Runtime Position of a  Child Window only depends on the
 <p>
 <div align=center>
