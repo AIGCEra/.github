@@ -1,5 +1,5 @@
 <h1 align=center>
-Starting with the <i>Window Nucleus</i>
+Everything starts from the <i>Window Nucleus</i>
 </h1>
 <h2>
 <p>You don't know the true face of a mountain, just because you live in this mountain.</p>
