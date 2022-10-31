@@ -44,7 +44,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**109.0.5392.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/tag/v109.0.5392.1)
+		        Version: [**109.0.5393.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/tag/v109.0.5393.1)
                     </td>
                 <tr>
                     <td width="75">
