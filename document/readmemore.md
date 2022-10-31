@@ -2,7 +2,7 @@
 Universe in the Sleeve
 </h1>
 <h2>
-	Every Desktop Software hides <i>a cosmic-scale object hierarchy</i>. We need a proper way to activate this object structure. What kind of activation is this?
+Every Desktop Software hides a cosmic-scale object hierarchy, and we need a <i>Suitable</i> and <i>Universal</i> way to activate this <i>Object Structure</i>. What kind of activation method is this?
 </h2>
 	
 <h1 align=center>
