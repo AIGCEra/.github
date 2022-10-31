@@ -2,6 +2,7 @@
 Starting with the <i>Window Nucleus</i>
 </h1>
 <h2>
+<p>You don't know the true face of a mountain, just because you live in this mountain.</p>
 If the Runtime Position of a  Child Window only depends on the
 <p>
 <div align=center>
