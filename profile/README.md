@@ -2,7 +2,7 @@
 Everything Starts from the <i>Window Nucleus</i>
 </h1>
 <h2>
-If the Runtime Position of a Desktop Child Window only depends on
+If <i><ins>the Runtime Position</ins></i> of a Desktop Child Window only depends on
 <p>
 <div align=center>
 
