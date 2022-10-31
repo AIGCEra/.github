@@ -9,7 +9,6 @@ You don't know the true face of a mountain, just because you live in this mounta
 Everything Starts from the <i>Window Nucleus</i>
 </h1>
 <h2>
-<p>In modern mathematics, the field of topology and geometry usually compares the human eye's horizon to the horizon of a little ant, therefore, "neighborhood" is the basic concept of topology and geometry. If there is a "cosmic structure" hidden in every desktop software, then it seems that we should build similar structures (like geometry, topology, and the universe).</p>
 If the Runtime Position of a  Child Window only depends on the
 <p>
 <div align=center>
