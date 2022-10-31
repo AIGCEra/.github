@@ -1,4 +1,21 @@
 <h1 align=center>
+Everything Starts from the <i>Window Nucleus</i>
+</h1>
+<h2>
+If the Runtime Position of a  Child Window only depends on the
+<p>
+<div align=center>
+
+[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)
+</div>
+</p>
+<p>
+<p>
+
+Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
+</p>
+
+<h1 align=center>
 
 The Core Mission of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime):<br><i>Eliminate</i> the <i>Gap</i> between <i>Desktop Software</i> and <i>Web Browser</i>
 </h1>
