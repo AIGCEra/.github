@@ -2,7 +2,7 @@
 Universe in the Sleeve<br/>(袖里乾坤)
 </h1>
 <h2>
-You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中). Every Desktop Software hides a Cosmic-Scale Infinite Hierarchy Object Structure, WebRuntime provides a <i>Concise</i> and <i>Universal</i> Technical Solution to activate this Hierarchy Structure. In fact, this is a <i>blind spot</i> that has been neglected by developers for a long time, it's time to reveal what it really is...
+You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中). Every Desktop Software hides a Cosmic-Scale Infinite Hierarchy, WebRuntime provides a <i>Concise</i> and <i>Universal</i> Technical Solution to activate this Hierarchy Structure. In fact, this is a <i>blind spot</i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </h2>
 	
 <h1 align=center>
