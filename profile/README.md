@@ -2,17 +2,17 @@
 Everything Starts from the <i>Window Nucleus</i>
 </h1>
 <h2>
-If the Runtime Position of a  Child Window only depends on the
+If the Runtime Position of a  Child Window only depends on
 <p>
 <div align=center>
 
-[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)
+the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message
 </div>
 </p>
 <p>
 <p>
 
-Message of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
+of its Parent Window, then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
 </p>
 
 <h2>
