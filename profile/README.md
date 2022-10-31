@@ -21,7 +21,7 @@ then this Child Window is called a [Window Nucleus](https://github.com/TangramDe
 <div align=center id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/198916669-c7c4059f-d096-4020-ae9e-c1d38c86efeb.jpg" width="100%"/></div>
 
 <p>  
-Every Desktop Window Nucleus Object is surrounded by an <i>Infinite-Dimensional, Web-Driven World of Window Objects</i>, this scene makes <i>the Window Nucleus</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
+Every Desktop Window Nucleus Object is surrounded by an <i>Infinite-Dimensional, Web-driven World of Window Objects</i>, this scene makes <i>the Window Nucleus</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
 <center>
         <table border="3" cellpadding="3">
             <thead>
@@ -40,7 +40,7 @@ Every Desktop Window Nucleus Object is surrounded by an <i>Infinite-Dimensional,
             </tbody>	  
         </table>
 </center>  
-<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>Window nuclei</i> since Desktop Software came out, so the Desktop Windows we can see are probably just <i>the tip of the iceberg</i>(similar to the Universe under the naked eye) of <i>the Real Window Object World</i>. the responsibility of WebRuntime is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software. The Web-driven surround world around the Desktop Window Object is the innate gene of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
+<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>Window nuclei</i> since Desktop Software came out, so the desktop windows we can see are probably just <i>the tip of the iceberg</i>(similar to the Universe under the naked eye) of <i>the Real Window Object World</i>. the responsibility of WebRuntime is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software. The Web-driven surround world around the Desktop Window Object is the innate gene of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
 <p>
 <div align=right>
 
