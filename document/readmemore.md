@@ -1,8 +1,8 @@
 <h1 align=center>
-Universe in the Sleeve(袖里乾坤)
+Universe in the Sleeve<br/>(袖里乾坤)
 </h1>
 <h2>
-You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中). Every Desktop Software hides a <i>Cosmic-Scale Object Hierarchy Structure</i>, and we need a <i>Suitable</i> and <i>Universal</i> way to activate this <i>Object Structure</i>. What kind of activation method is this?
+You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中). Every Desktop Software hides a Cosmic-Scale Infinite Hierarchy Object Structure, WebRuntime provides a concise and universal technical solution to activate this hierarchy structure. In fact, this is a blind spot that has been neglected by developers for a long time. It's time to reveal what it really is...
 </h2>
 	
 <h1 align=center>
