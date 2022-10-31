@@ -6,7 +6,7 @@ If the Runtime Position of a Desktop Child Window only depends on
 <p>
 <div align=center>
 
-the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) Message <br/>of its Parent Window,
+the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) <br/>Message of its Parent Window,
 </div>
 </p>
 <p>
