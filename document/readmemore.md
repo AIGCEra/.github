@@ -17,7 +17,7 @@ Message of its Parent Window, then this Child Window is called a [Window Nucleus
 </p>
 <p>Window Nucleus is a widely existing desktop window object. The key factor that determines whether a window object is a window nucleus is a geometric constraint, which makes every window object possible to become a window nucleus. As the name implies, the “window nucleus” means that something must surround it. </p>
 <div align=center id="WndNucleus"><img src="https://user-images.githubusercontent.com/26355688/198913804-8c7e198b-71de-4e33-a4d7-60ae0eec4ac2.jpg" width="80%"/></div> 
-
+<p>Every window object has the potential to become a "window nucleus". The discovery of the peripheral world of the window nucleus allows us to see a new hierarchical structure of the desktop software system. From an astronomical point of view, there are only about 6,000 stars within the human eye's field of vision, which is insignificant compared to the real cosmic scale we see. Similarly, once we realize the existence of the window nucleus, The structure of desktop software will undergo subversive changes, and we will see a whole new world of desktop software comparable to the structure of the universe, ...</p>
 
 </h2>
 
