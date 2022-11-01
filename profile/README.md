@@ -61,7 +61,11 @@ Every Desktop Window Nucleus Object is surrounded by an <i>Infinite-Dimensional,
             </tbody>	  
         </table>
 </center>  
-<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>Window nuclei</i> since Desktop Software came out, so the desktop windows we can see are just <i>the tip of the iceberg</i>(similar to the Universe under the naked eye) of <i>the Real Window Object World</i>. the responsibility of WebRuntime is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software. <i><ins>The Web-driven Surround World</ins></i> around <i>the Desktop Window Object</i> is the <i>Innate Gene</i> of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
+<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>Window nuclei</i> since Desktop Software came out, so the desktop windows we can see are just <i>the tip of the iceberg</i>(similar to the Universe under the naked eye) of <i>the Real Window Object World</i>. the responsibility of WebRuntime is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software.</p>
+
+<div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
+
+<p><i><ins>The Web-driven Surround World</ins></i> around <i>the Desktop Window Object</i> is the <i>Innate Gene</i> of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
 <p>
 <div align=right>
 
