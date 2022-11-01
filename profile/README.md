@@ -66,6 +66,8 @@ Every Desktop Window Nucleus Object is surrounded by an <i>Infinite-Dimensional,
 <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
 
 <p><i><ins>The Web-driven Surround World</ins></i> around <i>the Desktop Window Object</i> is the <i>Innate Gene</i> of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
+
+<div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199193074-1849c4a9-c958-4a1f-8db8-1ba6880eb61a.jpg" width="67%"/></div>
 <p>
 <div align=right>
 
