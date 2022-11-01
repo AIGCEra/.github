@@ -7,7 +7,12 @@ Universe in the Sleeve<br/>(袖里乾坤)
 ...</p>
 <p>...， 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。... <div align=right>摘自《兰亭集序》</div>
 </p>
-<p>You don't know the true face of a mountain, just because you live in this mountain(不识庐山真面目，只缘身在此山中).</p>
+<p>It’s a range viewed in face and peaks viewed from the side,</p> <p>Assuming different shapes viewed from far and wide,</p><p>Of Mountain Lu we cannot make out the true face,</p><p> For we are lost in the heart of the very place.</p>
+<p>
+横看成岭侧成峰，远近高低各不同。
+不识庐山真面目，只缘身在此山中。
+<div align=right>摘自苏轼《题西林壁》</div>
+</p>
 <p>Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Structure</i>, WebRuntime provides a <i>Concise</i> and <i>Universal</i> Technical Solution to activate this structure. In fact, this is a <i>blind spot</i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 </h2>
