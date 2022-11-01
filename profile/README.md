@@ -15,7 +15,7 @@ Universe in the Sleeve<br/>(袖里乾坤)
 不识庐山真面目，只缘身在此山中。
 <div align=right>摘自苏轼《题西林壁》</div>
 </p>
-<p>Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, WebRuntime provides a <i>Concise</i> and <i>Universal</i> Solution to activate this structure. In fact, this is a <i>blind spot</i> that has been neglected by developers for a long time, it's time to reveal what it really is...
+<p>Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, WebRuntime provides a <i>Concise</i> and <i>Universal</i> Solution <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 </h2>
 
