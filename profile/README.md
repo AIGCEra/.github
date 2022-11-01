@@ -5,7 +5,7 @@ Universe in the Sleeve<br/>(袖里乾坤)
 <p>
 ..., Facing upwards to the blue sky, we behold the vast immensity of the universe; when bowing our heads towards the ground, we again satisfy ourselves with the diversity of species. Thereby we can refresh our views and let free our souls, with luxuriant satisfaction done to both ears and eyes. How infinite the cheer is! 
 ...</p>
-<p>...， 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。... <div align=right>摘自《兰亭集序》</div>
+<p>...， 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。... <div align=right>摘自王羲之《兰亭集序》</div>
 </p>
 <div align=center>
 <p>It’s a range viewed in face and peaks viewed from the side,</p> <p>Assuming different shapes viewed from far and wide,</p><p>Of Mountain Lu we cannot make out the true face,</p><p> For we are lost in the heart of the very place.</p>
