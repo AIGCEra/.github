@@ -7,8 +7,10 @@ Universe in the Sleeve<br/>(袖里乾坤)
 ...</p>
 <p>...， 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。... <div align=right>摘自《兰亭集序》</div>
 </p>
+<div align=center>
 <p>It’s a range viewed in face and peaks viewed from the side,</p> <p>Assuming different shapes viewed from far and wide,</p><p>Of Mountain Lu we cannot make out the true face,</p><p> For we are lost in the heart of the very place.</p>
-<p>
+</div>
+<p align=center>
 横看成岭侧成峰，远近高低各不同。
 不识庐山真面目，只缘身在此山中。
 <div align=right>摘自苏轼《题西林壁》</div>
