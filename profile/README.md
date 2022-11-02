@@ -63,7 +63,7 @@ Every Desktop <i><ins>Window Nucleus</ins></i> is surrounded by an <i>Infinite-D
             </tbody>	  
         </table>
 </center>  
-<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>every window nuclei</i> since Desktop Software came out, so the desktop windows we can see are just <i>the tip of the iceberg</i> of <i>the Real Window World</i>(similar to the Universe under the naked eye). the responsibility of WebRuntime is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software.</p>
+<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>every window nuclei</i> since Desktop Software came out, so the desktop windows we can see are just <i>the tip of the iceberg</i> of <i>the Real Window World</i> (similar to the Universe under the naked eye). the responsibility of WebRuntime is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software.</p>
 
 <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
 
