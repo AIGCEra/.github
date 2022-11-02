@@ -44,7 +44,7 @@ then this Child Window is called a [Window Nucleus](https://github.com/TangramDe
 <div align=center id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/198916669-c7c4059f-d096-4020-ae9e-c1d38c86efeb.jpg" width="100%"/></div>
 
 <p>  
-Every Desktop <i><ins>Window Nucleus</ins></i> is surrounded by an <i>Infinite-Dimensional, Web-Driven World of Windows</i>, this scene makes <i>the Window Nucleus</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
+Each Desktop <i><ins>Window Nucleus</ins></i> is surrounded by an <i>Infinite-Dimensional, Web-Driven World of Windows</i>, this scene makes <i>the Window Nucleus</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
 <center>
         <table border="3" cellpadding="3">
             <thead>
