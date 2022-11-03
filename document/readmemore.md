@@ -1,5 +1,5 @@
 <h1 align=center>
-Everything Starts from the <i>Window Nucleus</i>
+Window Nucleus: New Breakthrough Points of Desktop Software
 </h1>
 <h2>
 <p>Window Nucleus is a widely existing desktop window object. The key factor that determines whether a window object is a window nucleus is a geometric constraint, which makes every window object possible to become a window nucleus. As the name implies, the “window nucleus” means that something must surround it. </p>
