@@ -19,57 +19,6 @@ Universe in the Sleeve<br/>(袖里乾坤)
 </p>
 
 <div align=center id="webrt"><img src="https://user-images.githubusercontent.com/26355688/199374022-cec1c359-887a-4cca-96c2-079d0b668f63.gif" width="75%"/><br/>(In fact, each desktop software has the infrastructure comparable to the universe structure. The reason why we did not see the real appearance of this huge structure is because we are in it ...)</div>
-</h2>
-
-<h1 align=center>
-Everything Starts from the <i>Window Nucleus</i>
-</h1>
-<h2>
-If <i><ins>the Runtime Position</ins></i> of a Desktop Child Window only depends on
-<p>
-<div align=center>
-
-the [WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) <br/>Message of its Parent Window,
-</div>
-</p>
-<p>
-<p>
-
-then this Child Window is called a [Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md) of its Parent Window, any <ins><i>Parent Window</ins></i> of Window Nucleus is called a <ins><i>Nucleated Window</i></ins>.
-</p>
-
-<h2>
-<p>When we observe the <i>Universe</i> with naked eyes, our <i>intuition</i> will tell us that <i>the Earth</i> is <i>the center of the Universe</i>, and everything will revolve around <i>the Earth</i>. The limited Naked-Eye Horizon of human beings allowed our ancestors to form <i>Geocentric Theory</i> to describe the Universe. Our view of the Universe today is unmatched by the early Geocentric Theory. The advent of <i>Hubble</i> and <i>Webb</i> has allowed us to see the narrowness of the  <i>Geocentric Theory</i>, these survey telescopes allow us to clearly see that the universe is full of extragalactic galaxies, each galactic nucleus may be surrounded by <ins><i>hundreds of billions of stars</i></ins>, allowing us to see a scene that the naked eye cannot reach.</p>
-
-<div align=center id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/198916669-c7c4059f-d096-4020-ae9e-c1d38c86efeb.jpg" width="100%"/></div>
-
-<p>  
-Each Desktop <i><ins>Window Nucleus</ins></i> is surrounded by an <i>Infinite-Dimensional, Web-Driven World of Windows</i>, this scene makes <i>the Window Nucleus</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
-<center>
-        <table border="3" cellpadding="3">
-            <thead>
-                <tr>
-                    <th align=center> <strong>Form1 at <i>Run Time</i></strong>
-                    <th align=center> <strong>Content World Arounded Form1</strong>
-               </tr>            
-	<tbody>
-                <tr>
-                    <td width="50%">
-                     <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/196174538-97d01137-f58c-4a6e-a878-6246824ec7c7.jpg" width="80%"/></div>   
-                    </td>
-                    <td width="50%">
-		      <div align=center id="dynForm1Runtime"><img src="https://user-images.githubusercontent.com/26355688/197387216-c4e163bb-0385-4973-86ba-df9073522e5a.jpg" width="80%"/></div>
-                    </td>
-            </tbody>	  
-        </table>
-</center>  
-<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>every window nuclei</i> since Desktop Software came out, so the desktop windows we can see are just <i>the tip of the iceberg</i> of <i>the Real Window World</i> (similar to the Universe under the naked eye). the <i><ins>mission of WebRuntime</ins></i> is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software.</p>
-
-<div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
-
-<p><i><ins>The Web-driven Surround World</ins></i> around <i>the Desktop Window Object</i> is the <i>Innate Gene</i> of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
-
-<div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199193074-1849c4a9-c958-4a1f-8db8-1ba6880eb61a.jpg" width="67%"/></div>
 <p>
 <div align=right>
 
