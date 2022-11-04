@@ -18,7 +18,7 @@ Universe in the Sleeve<br/>(袖里乾坤)
 <p>Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>(Every Desktop Software has a Universe-like structure), WebRuntime provides a <i>Concise</i> and <i>Universal</i> Solution <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 
-<div align=center id="webrt"><img src="https://user-images.githubusercontent.com/26355688/199374022-cec1c359-887a-4cca-96c2-079d0b668f63.gif" width="75%"/><br/>(In fact, each <i>Desktop Software</i> has a Universe-like structure. The reason why we did not see the real appearance of this huge structure is because we are in it, ...)</div>
+<div align=center id="webrt"><img src="https://user-images.githubusercontent.com/26355688/199374022-cec1c359-887a-4cca-96c2-079d0b668f63.gif" width="75%"/><br/>(In fact, each <i>Desktop Software</i> has a Universe-like structure. The reason why we did not see this huge structure is because we are in it, ...)</div>
 <p>
 <div align=right>
 
