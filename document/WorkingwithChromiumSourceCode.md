@@ -88,7 +88,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**108.0.5359.35**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/tag/v108.0.5359.24)
+		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/tag/v108.0.5359.24)
                     </td>
                 <tr>
                     <td width="75">
@@ -110,7 +110,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**107.0.5304.103**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/tag/v107.0.5304.72)
+		        Version: [**107.0.5304.x**(x>=62)](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/tag/v107.0.5304.72)
                     </td>
 		</tbody>	  
         </table>
