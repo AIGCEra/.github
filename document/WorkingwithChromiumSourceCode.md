@@ -14,7 +14,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
 <div align=right>
 </h2>
 
-<center>
+<verinfo>
         <table border="3" cellpadding="3" align=center>
             <thead>
                 <tr>
@@ -114,7 +114,7 @@ to obtain the source code of the latest full version of the Chromium Project, an
                     </td>
 		</tbody>	  
         </table>
-</center>
+</verinfo>
 <div align=center>
 
 **(Chromium Src Patch and Web Runtime Binary Package)**</div>
