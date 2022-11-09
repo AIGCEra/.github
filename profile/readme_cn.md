@@ -26,7 +26,7 @@
 
 <p>
   
-毫无疑问，<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>是互联网时代“当之无愧”的经典之作，Visual Studio Wizard也是影响了一代又一代开发者的经典之作。当我们进入微软和谷歌基于“<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>”的互联网入口竞争时代时，我们不仅仅是巨人竞争领域的观众，当然，我们希望成为竞争领域的一员，否则寡头竞争阶段会变得有些索然无味。[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)试图构建一个更大的Web DOM，并将更多经典作品汇集在一起。如果我们只能遵守<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>制定的规范，那么我们注定是旁观者，与此同时可能还要为巨头之间的竞争鼓掌、喝彩，所以改变规则势在必行。</p>
+毫无疑问，<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>是互联网时代“当之无愧”的经典之作，Visual Studio Wizard也是影响了一代又一代开发者的经典之作。当我们进入微软和谷歌基于“<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>”的互联网入口竞争时代时，我们不仅仅是巨人竞争领域的观众，当然，我们希望成为竞争领域的一员，否则寡头竞争的舞台会变得有些单调、索然无味。[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)试图构建一个更大的Web DOM，并将更多经典作品汇集在一起。如果我们只能遵守<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>制定的规范，那么我们注定是旁观者，与此同时可能还要为巨头之间的竞争鼓掌、喝彩，所以改变规则势在必行。</p>
 
 <p>
   
