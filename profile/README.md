@@ -15,11 +15,15 @@ Universe in the Sleeve<br/>(袖里乾坤)
 不识庐山真面目，只缘身在此山中。
 <div align=right>摘自苏轼《题西林壁》</div>
 </p>
-<p>Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, Web Runtime provides a <i>Concise</i> and <i>Universal</i> Solution <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
+<p>
+  
+Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides a <i>Concise</i> and <i>Universal</i> Solution <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 </h2>
 
-<h3 align=center><div align=center id="StartTitle"><img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div>(In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the Web Runtime is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
+<h3 align=center><div align=center id="StartTitle">
+  
+<img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="100%" /></div>(In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
 </h3>
 
 <h1 align=center><strong>Tribute to Classic</strong>           
