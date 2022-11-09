@@ -11,7 +11,7 @@
 </div>
 <p>
   
-每一个桌面软件都隐藏着一个<i>宇宙尺度的无限层次的对象结构</i>，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)提供了一个[简明、通用的技术方案](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)以激活这个对象结构，事实上这是一个长期以来被开发者忽略的<i><ins>思维盲点</ins></i>，到了揭示其“<ins>本来面目</ins>”的阶段了……
+每一个桌面软件都隐藏着一个<i>宇宙尺度的无限层次对象结构</i>，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)提供了一个[简明、通用的技术方案](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)以激活这个对象结构，事实上这是一个长期以来被开发者忽略的<i><ins>思维盲点</ins></i>，到了揭示其“<ins>本来面目</ins>”的阶段了……
 </p>
 </h2>
 
