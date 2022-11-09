@@ -1,5 +1,6 @@
 <h1 align=center>
-Universe in the Sleeve<br/>(袖里乾坤)
+
+Universe in the Sleeve<br/>([袖里乾坤](https://github.com/TangramDev/.github/blob/main/profile/readme_cn.md))
 </h1>
 <h2>
 <p>
