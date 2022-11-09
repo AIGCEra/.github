@@ -28,6 +28,9 @@
   
 毫无疑问，<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>是互联网时代“当之无愧”的经典之作，Visual Studio Wizard也是影响了一代又一代开发者的经典之作。当我们进入微软和谷歌基于“<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>”的互联网入口竞争时代时，我们不仅仅是巨人竞争领域的观众，当然，我们希望成为竞争领域的一员，否则寡头竞争阶段会变得有些索然无味。[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)试图构建一个更大的Web DOM，并将更多经典作品汇集在一起。如果我们只能遵守<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>制定的规范，那么我们注定是旁观者，与此同时可能还要为巨头之间的竞争鼓掌、喝彩，所以改变规则势在必行。</p>
 
+<p>
+  
+[<i>Web Runtime</i>](https://github.com/TangramDev/OpenWebRunTime)的使命是让更多的桌面软件开发者最大限度地继承<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>的优势，同时，也能最好地延续开发者自身的技术积累。此外，考虑到Web技术的基本特征，我们希望合理地扩展Web的边界，进而将来自.NET Framework，COM，C++和许多其他基础架构的技术资源纳入Web的范围。...</p>
 <div align=right>
 
 [__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
