@@ -20,19 +20,17 @@
 <img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="80%" /></div>(绝大多数场景下，桌面软件就像一个宇宙，其中绝大多数子窗口的周围隐藏着属于其本身的巨大、局部无限维的<i><ins>环绕世界</ins></i>，而[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)相当于一个太空望远镜，揭示了一直隐藏在开发者视线之外的宇宙深处......)
 </h3>
 
-<h1 align=center><strong>Tribute to Classic</strong>           
+<h1 align=center><strong>向经典致敬</strong>           
 <h2>
-<p>At different stages of Scientific and Technological Development, there will be classics corresponding to the era to embellish the marvellous of that era. The classic is called a "classic" not only because of its own value, but also because it has a profound impact on a specific historical period. How should we pay tribute to the classics? Letting them conform to the rhythm of the times to continue may be a way to pay homage to the classics. We are lucky because we have benefited from a large number of classics, those who made classics, those achievements let us see further and inspire us to continue to create...<p>
+<p>在科技发展的不同阶段，都会有与时代相对应的经典来点缀那个时代的精彩。经典之所以被称为“经典”，不仅是因为它本身的价值，还因为它对特定历史时期有着深远的影响。我们应该如何致敬经典？让他们顺应时代节奏延续，或许是致敬经典的一种方式。我们很幸运，因为我们受益于大量的经典，那些成就经典的人，那些成就让我们看得更远，激励我们继续创造......</p>
 
 <p>
+  
+毫无疑问，<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>是互联网时代“当之无愧”的经典之作，Visual Studio Wizard也是影响了一代又一代开发者的经典之作。当我们进入微软和谷歌基于“<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>”的互联网入口竞争时代时，我们不仅仅是巨人竞争领域的观众，当然，我们希望成为竞争领域的一员，否则寡头竞争阶段会变得有些索然无味。[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)试图构建一个更大的Web DOM，并将更多经典作品汇集在一起。如果我们只能遵守<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>制定的规范，那么我们注定是旁观者，与此同时可能还要为巨头之间的竞争鼓掌、喝彩，所以改变规则势在必行。</p>
 
-There is no doubt that the <i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i> is a "fully deserve" classic in the Internet age, <i>Visual Studio Wizard</i> is also a classic that has influenced generations of developers. When we enter the era of Internet entrance competition between Microsoft and Google based on "<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>", we are not only the audience in the giant competition field, of course, we expect to become a member of the competition field, otherwise the Oligarchic Competition stage will become a little boring. [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) attempts to build a larger <i>Web DOM</i> and bring together more classic works. If we can only carry out according to the <i>Specifications Formulated</i> by <i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>, then we are doomed to be spectators, and we may have to applaud the competition between giants, so it is imperative to change the rules.</p>
-<p>
-
-The mission of [<i>Web Runtime</i>](https://github.com/TangramDev/OpenWebRunTime) is to allow more desktop software developers to inherit the advantages of the [<i>Chromium Project</i>](https://chromium.googlesource.com/chromium/src.git) to the greatest extent, and at the same time, it can also best continue the technical accumulation of the developers themselves. Further, considering the basic characteristics of Web technology, we hope to reasonably expand the boundaries of the Web, and then the technical resources from the .NET Framework, COM, C++ and many other infrastructures will be incorporated into the scope of the Web. ...</p>
 <div align=right>
 
-[__More Information ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
+[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
 </div>
 </h2> 
 </h1> 
