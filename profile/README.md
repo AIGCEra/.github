@@ -18,6 +18,9 @@
 </p>
 <p>
   
+每一个桌面软件都隐藏着一个<i>宇宙尺度的无限层次对象结构</i>，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)提供了一个[简明、通用的技术方案](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)以激活这个结构，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)是长期以来一直被开发者忽略的<i><ins>思维盲点</ins></i>，到了揭开其“<ins>面纱</ins>”的时刻了……
+<br/>
+  
 Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides a [<i>Concise</i> and <i>Universal</i> Solution](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md) <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 </h2>
