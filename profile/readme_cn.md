@@ -18,7 +18,7 @@
 
 <h3 align=center><div align=center id="StartTitle">
   
-<img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="80%" /></div>(绝大多数场景下，桌面软件就像一个宇宙，其中绝大多数子窗口的周围隐藏着属于其本身的巨大、局部无限维的<i><ins>环绕世界</ins></i>，而[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)相当于一个太空望远镜，揭示了一直隐藏在开发者视线之外的宇宙深处......)
+<img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="80%" /></div>(绝大多数场景下，桌面软件就像一个宇宙，其中绝大多数子窗口的周围隐藏着环绕其本身的巨大、局部无限维的<i><ins>窗口对象世界</ins></i>，而[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)相当于一个太空望远镜，揭示了一直隐藏在开发者视线之外的宇宙深处......)
 </h3>
 
 <h1 align=center><strong>向经典致敬</strong>           
