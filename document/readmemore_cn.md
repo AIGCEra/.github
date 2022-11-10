@@ -46,14 +46,13 @@
 也许我们忽略了一些重要的东西，自从桌面软件问世以来，我们一直不知道围绕每个窗口核的巨大内容世界的存在，所以我们可以看到的桌面窗口只是真实窗口世界的冰山一角（类似于裸眼视界下的宇宙）。[<i><ins>Web Runtime</ins></i>](https://github.com/TangramDev/OpenWebRunTime) 的使命是为开发人员揭示这些周围世界的真实面貌，促使我们重新思考桌面软件的世界。</p>
 
 <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
-
-<p><i><ins>The Web-driven Surround World</ins></i> around <i>the Desktop Window Object</i> is the <i>Innate Gene</i> of the Desktop Window Object, we call it the "Web nature" of the Window object.</p>
+<p>环绕在桌面窗口对象周围的、<i><ins>Web驱动的窗口对象世界</ins></i>是桌面窗口对象与生俱来的基因，我们称之为窗口对象的“Web本质属性”。</p>
 
 <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199193074-1849c4a9-c958-4a1f-8db8-1ba6880eb61a.jpg" width="67%"/></div>
 </h2>
 
 <h1 align=center>
-Window Nucleus: New Breakthrough Points of Desktop Software
+窗口核（Window Nucleus）：桌面软件的全新突破点
 </h1>
 <h2>
 <p>Window Nucleus is a widely existing desktop window object. The key factor that determines whether a window object is a window nucleus is a geometric constraint, which makes every window object possible to become a window nucleus. As the name implies, the “window nucleus” means that something must surround it. </p>
