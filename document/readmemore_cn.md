@@ -41,8 +41,9 @@
             </tbody>	  
         </table>
 </center>  
-	<p>也许我们忽略了一些重要的东西，自从桌面软件问世以来，我们一直不知道围绕每个窗口核的巨大内容世界的存在，所以我们可以看到的桌面窗口只是真实窗口世界的冰山一角（类似于
-裸眼视界下的宇宙）。WebRuntime 的使命是为开发人员揭示这些周围世界的真实面貌，促使我们重新思考桌面软件的世界。</p>
+	<p>
+		
+也许我们忽略了一些重要的东西，自从桌面软件问世以来，我们一直不知道围绕每个窗口核的巨大内容世界的存在，所以我们可以看到的桌面窗口只是真实窗口世界的冰山一角（类似于裸眼视界下的宇宙）。[<i><ins>Web Runtime</ins></i>](https://github.com/TangramDev/OpenWebRunTime) 的使命是为开发人员揭示这些周围世界的真实面貌，促使我们重新思考桌面软件的世界。</p>
 
 <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
 
