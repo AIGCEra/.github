@@ -41,7 +41,7 @@
             </tbody>	  
         </table>
 </center>  
-<p>Perhaps we've overlooked something important, we've been ignorant of the huge world of content that surrounds <i>every window nuclei</i> since Desktop Software came out, so the desktop windows we can see are just <i>the tip of the iceberg</i> of <i>the Real Window World</i> (similar to the Universe under the naked eye). the <i><ins>mission of WebRuntime</ins></i> is to reveal the true face of these surrounding worlds for developers, prompting us to rethink the world of desktop software.</p>
+	<p>也许我们忽略了一些重要的东西，自从桌面软件问世以来，我们一直不知道围绕每个窗口核心的巨大内容世界的存在，所以我们可以看到的桌面窗口只是真实窗口世界的冰山一角（类似于肉眼下的宇宙）。WebRuntime 的使命是为开发人员揭示这些周围世界的真实面貌，促使我们重新思考桌面软件的世界。</p>
 
 <div align=center id="Form1DesignTime"><img src="https://user-images.githubusercontent.com/26355688/199191407-76986b82-5195-4bf6-8c70-fff5f86f8d27.jpg" width="67%"/></div>
 
