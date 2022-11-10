@@ -8,7 +8,7 @@
 <div align=center>
 横看成岭侧成峰，远近高低各不同。
 不识庐山真面目，只缘身在此山中。
-<div align=right>摘自苏轼《题西林壁》</div>
+<div align=right>苏轼《题西林壁》</div>
 </div>
 <p>
   
