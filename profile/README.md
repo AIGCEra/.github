@@ -32,7 +32,7 @@ Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structu
 
 <div align=right>
 
-[__More Information ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
+[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
 </div>
 </h2> 
 </h1> 
