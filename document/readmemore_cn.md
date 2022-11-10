@@ -70,8 +70,8 @@ Web-Native Duality
 </h1>
 <h2>
 <p>
-
-The <i>Core Idea</i> of [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is: every <i>Desktop Window Object</i> has both "<i>Native Nature</i>" and "<i>Web Nature</i>", which is very similar to the "<i>Wave-particle duality</i>" in the field of Physics, which we call the "<i>Web-native duality</i>" of <i>Desktop Window Object</i>.
+	
+[<i><ins>Web Runtime</ins></i>](https://github.com/TangramDev/OpenWebRunTime)的核心思想是：每个桌面窗口对象同时具有“原生本质性质（<i>Native Nature</i>）”和“Web本质性质（<i>Web Nature</i>）”，这与物理领域的“波粒二象性”非常相似，我们称之为桌面窗口对象的“Web-原生二象性”（Web-Native Duality）。
 </p>
 <p>
 
