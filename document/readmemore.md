@@ -1,4 +1,14 @@
 
+<h1 align=center><strong>Tribute to Classic</strong>           
+<h2>
+<p>At different stages of Scientific and Technological Development, there will be classics corresponding to the era to embellish the marvellous of that era. The classic is called a "classic" not only because of its own value, but also because it has a profound impact on a specific historical period. How should we pay tribute to the classics? Letting them conform to the rhythm of the times to continue may be a way to pay homage to the classics. We are lucky because we have benefited from a large number of classics, those who made classics, those achievements let us see further and inspire us to continue to create...<p>
+
+<p>
+
+There is no doubt that the <i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i> is a "fully deserve" classic in the Internet age, <i>Visual Studio Wizard</i> is also a classic that has influenced generations of developers. When we enter the era of Internet entrance competition between Microsoft and Google based on "<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>", we are not only the audience in the giant competition field, of course, we expect to become a member of the competition field, otherwise the Oligarchic Competition stage will become a little boring. [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) attempts to build a larger <i>Web DOM</i> and bring together more classic works. If we can only carry out according to the <i>Specifications Formulated</i> by <i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>, then we are doomed to be spectators, and we may have to applaud the competition between giants, so it is imperative to change the rules.</p>
+<p>
+
+The mission of [<i>Web Runtime</i>](https://github.com/TangramDev/OpenWebRunTime) is to allow more desktop software developers to inherit the advantages of the [<i>Chromium Project</i>](https://chromium.googlesource.com/chromium/src.git) to the greatest extent, and at the same time, it can also best continue the technical accumulation of the developers themselves. Further, considering the basic characteristics of Web technology, we hope to reasonably expand the boundaries of the Web, and then the technical resources from the .NET Framework, COM, C++ and many other infrastructures will be incorporated into the scope of the Web. ...</p>
 <h1 align=center>
 Everything Starts from the <i>Window Nucleus</i>
 </h1>
