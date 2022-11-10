@@ -59,8 +59,10 @@
 
 <div align=center id="WndNucleus"><img src="https://user-images.githubusercontent.com/26355688/198913804-8c7e198b-71de-4e33-a4d7-60ae0eec4ac2.jpg" width="80%"/></div> 
 
-<p>Every Window Object has the potential to become a "Window nucleus". The discovery of the peripheral world of the Window nucleus allows us to see a new hierarchical structure of the desktop software system. From an astronomical point of view, there are only about 6,000 stars within the human eye's field of vision, which is insignificant compared to the real cosmic scale we see. Similar to the fact that our observable universe contains countless galactic nuclei, every desktop software contains countless window nuclei. If this statement is correct, then we need devices like Hubble and Webb, so that we can clearly understand and see these window nuclei and the surrounds surrounding them. WebRuntime is actually equivalent to a survey telescope like Hubble. When we look at desktop software from the perspective of the universe, WebRuntime allows us to see a cosmic-scale object structure and a brand new Web world. ...</p>
-
+<p>
+	
+每个窗口对象都有可能成为某个窗口的“窗口核”，窗口核心外围世界的发现使我们能够看到桌面软件系统的新层次结构。从天文学的角度来看，人眼视野内只有大约6000颗恒星，与我们看到的真实宇宙尺度相比，这是微不足道的。类似于我们的可观测宇宙包含无数的星系核，每个桌面软件都包含无数个窗口核，由于某种原因，这些窗口核都处于不可见的状态，如果这种说法是正确的，那么我们需要像哈勃和韦伯这样的设备，这样我们才能清楚地理解和看到这些窗口核及其周围的环绕世界。[<i><ins>Web Runtime</ins></i>](https://github.com/TangramDev/OpenWebRunTime)实际上相当于类似哈勃这样的巡天望远镜。当我们用宇宙的视角来看待桌面软件时，[<i><ins>Web Runtime</ins></i>](https://github.com/TangramDev/OpenWebRunTime)让我们看到了一个宇宙尺度的对象结构和一个全新的 Web 世界。......
+</p>
 </h2>
 
 <h1 align=center>
