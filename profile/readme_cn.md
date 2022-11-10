@@ -34,7 +34,7 @@
 [<i>Web Runtime</i>](https://github.com/TangramDev/OpenWebRunTime)的使命是让更多的桌面软件开发者最大限度地继承<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>的优势，同时，也能最好地延续开发者自身的技术积累。此外，考虑到Web技术的基本特征，我们希望合理地扩展Web的边界，进而将来自.NET Framework，COM，C++和许多其他基础架构的技术资源纳入Web的范围。...</p>
 <div align=right>
 
-[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
+[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore_cn.md)
 </div>
 </h2> 
 </h1> 
