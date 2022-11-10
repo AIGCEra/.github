@@ -1,21 +1,25 @@
 <h1 align=center>
 
-[袖里乾坤](https://github.com/TangramDev/.github/blob/main/profile/readme_cn.md)<br/>Universe in the Sleeve
+袖里乾坤<br/>Universe in the Sleeve
 </h1>
 <h2>
+<p>...， 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。... </p>
 <p>
 ..., Facing upwards to the blue sky, we behold the vast immensity of the universe; when bowing our heads towards the ground, we again satisfy ourselves with the diversity of species. Thereby we can refresh our views and let free our souls, with luxuriant satisfaction done to both ears and eyes. How infinite the cheer is! 
-...</p>
-<p>...， 仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。... <div align=right>摘自王羲之《兰亭集序》</div>
+...
 </p>
-<div align=center>
-<p>It’s a range viewed in face and peaks viewed from the side,</p> <p>Assuming different shapes viewed from far and wide,</p><p>Of Mountain Lu we cannot make out the true face,</p><p> For we are lost in the heart of the very place.</p>
-</div>
+<div align=right>摘自王羲之《兰亭集序》</div><br/>
 <p align=center>
 横看成岭侧成峰，远近高低各不同。
 不识庐山真面目，只缘身在此山中。
-<div align=right>苏轼《题西林壁》</div>
 </p>
+  
+</p>
+<div align=center>
+<p>It’s a range viewed in face and peaks viewed from the side,</p> <p>Assuming different shapes viewed from far and wide,</p><p>Of Mountain Lu we cannot make out the true face,</p><p> For we are lost in the heart of the very place.
+</p>
+</div>
+<div align=right>苏轼《题西林壁》</div>
 <p>
   
 每一个桌面软件都隐藏着一个<i>宇宙尺度的无限层次对象结构</i>，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)提供了一个[简明、通用的技术方案](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)以激活这个结构，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)是长期以来一直被开发者忽略的<i><ins>思维盲点</ins></i>，到了揭开其“<ins>面纱</ins>”的时刻了……
