@@ -3,11 +3,11 @@
 一切从<i>窗口核</i>开始
 </h1>
 <h2>
-如果一个桌面子窗口的<i><ins>运行时屏幕位置</ins></i>仅依赖于
+如果一个桌面子窗口的<i><ins>运行时屏幕位置</ins></i>仅依赖于其父窗口的
 <p>
 <div align=center>
 
-其父窗口的[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)消息处理,
+[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)消息处理,
 </div>
 </p>
 <p>
