@@ -7,13 +7,13 @@
 <p>
 <div align=center>
 
-[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)消息处理,
+[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)
 </div>
 </p>
 <p>
 <p>
 
-那么该子窗口称为其父窗口的一个“窗口核”（[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)）, 窗口核的任何一个父窗口称为“有核窗口”（<ins><i>Nucleated Window</i></ins>）。
+消息处理, 那么该子窗口称为其父窗口的一个“窗口核”（[Window Nucleus](https://github.com/TangramDev/.github/blob/main/WinNucleusDef.md)）, 窗口核的任何一个父窗口称为“有核窗口”（<ins><i>Nucleated Window</i></ins>）。
 </p>
 
 <h2>
