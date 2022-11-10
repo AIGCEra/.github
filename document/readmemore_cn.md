@@ -17,12 +17,12 @@
 </p>
 
 <h2>
-<p>When we observe the <i>Universe</i> with naked eyes, our <i>intuition</i> will tell us that <i>the Earth</i> is <i>the center of the Universe</i>, and everything will revolve around <i>the Earth</i>. The limited Naked-Eye Horizon of human beings allowed our ancestors to form <i>Geocentric Theory</i> to describe the Universe. Our view of the Universe today is unmatched by the early Geocentric Theory. The advent of <i>Hubble</i> and <i>Webb</i> has allowed us to see the narrowness of the  <i>Geocentric Theory</i>, these survey telescopes allow us to clearly see that the universe is full of extragalactic galaxies, each galactic nucleus may be surrounded by <ins><i>hundreds of billions of stars</i></ins>, allowing us to see a scene that the naked eye cannot reach.</p>
+<p>当我们用裸眼观察宇宙时，我们的直觉会告诉我们，地球是宇宙的中心，一切都会围绕地球旋转。人类有限的裸眼视野使我们的祖先形成了地心说来描述宇宙。我们今天对宇宙的认知是早期的地心说无法比拟的。哈勃和韦伯的出现，让我们看到了地心说的巨大局限、狭隘，这些巡天望远镜让我们清楚地看到宇宙中充满了河外星系，每个星系核都可能被数千亿颗恒星包围，让我们看到裸眼无法看到的场景。</p>
 
 <div align=center id="WndNucleus2"><img src="https://user-images.githubusercontent.com/26355688/198916669-c7c4059f-d096-4020-ae9e-c1d38c86efeb.jpg" width="100%"/></div>
 
 <p>  
-Each Desktop <i><ins>Window Nucleus</ins></i> is surrounded by an <i>Infinite-Dimensional, Web-Driven World of Windows</i>, this scene makes <i>the Window Nucleus</i> look very similar to <i>the galaxy nuclei of giant galaxies</i> in the Universe. Due to the lack of infrastructure like <i>Hubble</i> and <i>Webb</i>, this Infinite-Dimensional World has been <i>hidden</i> from developers' sight.</p>
+每一个“窗口核”（<i><ins>Window Nucleus</ins></i>）的周围都环绕着一个Web驱动、无限维的窗口对象世界, 这个场景使得窗口核可以媲美宇宙之中巨大星系的星系核, 由于桌面软件领域缺乏类似哈勃、Webb这类的“天文望远镜”，这个局部无限维环绕世界一直隐藏在开发者的视线之外，如同地心说时代人类所看到的宇宙一样，我们的的祖先在地心说阶段只能看到有限个数的星体，不知道河外星系的存在。</p>
 <center>
         <table border="3" cellpadding="3">
             <thead>
