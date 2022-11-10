@@ -55,7 +55,7 @@
 窗口核（Window Nucleus）：桌面软件的全新突破点
 </h1>
 <h2>
-<p>Window Nucleus is a widely existing desktop window object. The key factor that determines whether a window object is a window nucleus is a geometric constraint, which makes every window object possible to become a window nucleus. As the name implies, the “window nucleus” means that something must surround it. </p>
+<p>窗口核（Window Nuclei）是一类广泛存在的桌面窗口对象。决定窗口对象是否为窗口核的关键因素是一个“几何约束条件”，这个约束条件使每个窗口对象都可能成为窗口核，顾名思义，“窗口核”意味着必须有东西围绕它。</p>
 
 <div align=center id="WndNucleus"><img src="https://user-images.githubusercontent.com/26355688/198913804-8c7e198b-71de-4e33-a4d7-60ae0eec4ac2.jpg" width="80%"/></div> 
 
