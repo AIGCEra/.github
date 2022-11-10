@@ -7,7 +7,7 @@
 <p>
 <div align=center>
 
-其父窗口的[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging) <br/>消息,
+其父窗口的[WM_WINDOWPOSCHING](https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging)消息处理,
 </div>
 </p>
 <p>
