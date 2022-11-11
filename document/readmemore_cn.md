@@ -184,7 +184,7 @@ The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="100%" /><br>(The Era of "Web Page Define Desktop Window")</div>
 </p>
 <p>
-	桌面应用即将迎来“<i>网页定义桌面窗口</i>”时代，从这个意义上说，桌面Web浏览器应该是“<i>最小的桌面应用</i>”。当开发人员可以重新基于Web技术解释Web网页的特定UI表现层时，<ins>Web浏览器</ins>和<ins>桌面应用程序</ins>之间的界限将完全消失。
+	桌面应用即将迎来“<i>Web网页定义桌面窗口</i>”时代，从这个意义上说，桌面Web浏览器应该是“<i>最小的桌面应用</i>”。当开发人员可以重新基于Web技术解释Web网页的特定UI表现层时，<ins>Web浏览器</ins>和<ins>桌面应用程序</ins>之间的界限将完全消失。
 </p>
        
 <div align=right>
