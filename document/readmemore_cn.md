@@ -313,5 +313,5 @@ Web-Native Duality
 </verinfo>
 <div align=center>
 
-**(Chromium Src Patch and Web Runtime Binary Package)**</div>
+**(Chromium Project源代码补丁和 Web Runtime二进制编译包)**</div>
 
