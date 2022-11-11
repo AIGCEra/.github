@@ -192,7 +192,11 @@ When we convert this project into a project that supports [Web Runtime](https://
 
 [More Information ...](https://github.com/TangramDev/.github/blob/main/document/readmeex.md)
 </div>
+<h1 align=center>
 
+[使用最新版本的<i>Chromium Project源代码<br/></i> 以及Web Runtime<i>二进制编译包</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
+</h1>
+		
 <h1 align=center>
 
 [Working with <i>Latest Chromium Project <br/>Source Code</i> and <i>Binary Package</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
