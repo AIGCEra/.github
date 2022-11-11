@@ -96,7 +96,7 @@ Web-Native Duality
 [Web 运行时将如何改变<i>桌面应用程序</i>？](https://github.com/TangramDev/.github/blob/main/document/HowWebRTChangeYourApp.md)
 </h1>
 <h2 align=left>
-<p>As shown in the figure below, we see a WinForm Application at <i>Design Time</i>:</p>
+<p>如下图所示，我们看到一个处于设计时的WinForm应用程序：</p>
 	
 <center>
         <table border="3" cellpadding="3">
