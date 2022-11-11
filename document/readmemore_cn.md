@@ -93,7 +93,7 @@ Web-Native Duality
 
 <h1 align=center>
 
-[How Will Web Runtime Change <i>Desktop Applications</i>](https://github.com/TangramDev/.github/blob/main/document/HowWebRTChangeYourApp.md)?
+[Web 运行时将如何改变<i>桌面应用程序</i>？](https://github.com/TangramDev/.github/blob/main/document/HowWebRTChangeYourApp.md)
 </h1>
 <h2 align=left>
 <p>As shown in the figure below, we see a WinForm Application at <i>Design Time</i>:</p>
