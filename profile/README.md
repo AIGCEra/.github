@@ -30,9 +30,15 @@ Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structu
 </p>
 </h2>
 
-<h3 align=center><div align=center id="StartTitle">
-  
-<img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="80%" /></div>(绝大多数场景下，桌面软件就像一个宇宙，其中绝大多数子窗口的周围隐藏着环绕其本身的巨大、局部无限维的<i><ins>窗口对象世界</ins></i>，而[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)相当于一个太空望远镜，揭示了一直隐藏在开发者视线之外的宇宙深处......<br/>In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...)
+<h3 align=center>
+<div align=left>
+
+绝大多数场景下，桌面软件就像一个宇宙，其中绝大多数子窗口的周围隐藏着环绕其本身的巨大、局部无限维的<i><ins>窗口对象世界</ins></i>，而[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)相当于一个太空望远镜，揭示了一直隐藏在开发者视线之外的宇宙深处......  </div>
+<div align=center id="StartTitle">
+<img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="80%" /></div>
+<div align=left>
+
+In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...</div>
 </h3>
 
 <div align=right>
