@@ -167,7 +167,7 @@ When we convert this project into a project that supports [Web Runtime](https://
 </h1>
 
 <h1 align=center>
-Ushering in the Era of the <i>Web-Defining Desktop Window</i>
+	迎接Web定义<i>桌面窗口</i> 的时代
 </h1>
 <h2 align=left>
 <p>
