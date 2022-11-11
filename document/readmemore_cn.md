@@ -176,10 +176,9 @@ When we convert this project into a project that supports [Web Runtime](https://
 </p>
 
 <div align=center id="TabsPage"><img src="https://user-images.githubusercontent.com/26355688/196898272-858b5d56-6cc9-425a-acb3-bce1f0ee5182.jpg" width="100%" /><br>(Use Chromium Tabs to Organize Application Contents)</div>
-	
-<p align=left>
-	
-The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) believes the <i>Expressive</i>, <i>Comprehensive</i>, and <i>Powerful</i> Desktop Windows are composed by using the traditional Web DOM to describe various programmable objects (COM, .Net controls, Win32 windows, etc.), rather than created through complex code technology. This is the key reason to the conversion of the Main Process of Desktop Software into a Browser Process. Describing as many objects as possible with the Web DOM is the basic principle of Web Runtime.
+
+<p>[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)认为，富有表现力、功能全面、强大的桌面窗口是通过使用Web DOM来描述各种可编程对象（COM、.Net 控件、Win32 窗口等）而合成的，而不是通过复杂的代码技术创建的，这是将桌面软件的主进程转换为浏览器进程的关键原因。使用Web DOM描述尽可能多的对象是[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)的基本原则。
+</p>	
 
 <p><div align=center id="dynwnd1"><img src="https://user-images.githubusercontent.com/26355688/181908801-0910fdc6-23b6-457e-bf30-76cfc66097d3.gif" width="100%" /><br>(The Era of "Web Page Define Desktop Window")</div>
 </p>
