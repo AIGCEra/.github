@@ -87,8 +87,8 @@ Web-Native Duality
 </p>
 <p>
 
-The [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides developers with a <p align=center>"<i>[Simplest Technical Strategy](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)</i>"</p> <ins>to convert an "existing" or "newly created" <i>Desktop Software Project</i> into "<i>Browser Process</i>" of "Chromium Project"</ins>, and then activate the "Web Nature" of the Window Nucleus, thus realizing Web pageization of "Desktop Application Functions", it completely bridges the gap between <i>the Desktop Software</i> and <i>Web Browser</i> and make Web Technology an inherent part of <i>Desktop Software Architecture</i>. 
-</p>
+[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)为开发人员提供了<p align=center>"<i>[最简单的技术策略](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md)</i>"</p>将“现有的”或“新创建的”桌面软件项目转换为“Chromium项目”的“浏览器进程”，进而激活窗口核的“Web本质性质”，从而实现“桌面应用功能”的网页化，完全弥合了<i>桌面软件</i>与<i>Web浏览器</i>之间的鸿沟，使Web技术成为<i>桌面软件架构固有的一部分</i>。</p>
+
 </h2>
 
 <h1 align=center>
