@@ -196,18 +196,19 @@ When we convert this project into a project that supports [Web Runtime](https://
 
 [使用最新版本的<i>Chromium Project源代码<br/></i> 以及Web Runtime<i>二进制编译包</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
 </h1>
-
 <h2  align=left>
 <p>
+	
+[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime)可以与最新版本Chromium 项目源代码（[Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)）同步工作，要做到这一点，你需要参考
 
-[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime) can work synchronously with the <i>Latest Version Chromium Project Source Code</i>([Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)), to do this, you need to refer to the 
 <div align=center>
 
 [**Building Chromium for Windows**](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)</div>
 
-to obtain the source code of the latest full version of the Chromium Project, and to ensure that this version can be compiled correctly so that the compiled results can run properly. The IDE Environment we work here is Visual Studio 2022 17.3.5(or later).</p>
-
+获取 Chromium 项目最新完整版的源代码，并确保此版本能够正确编译，以便编译后的结果能够正常运行。我们在这里工作的 IDE 环境是 Visual Studio 2022 17.3.5（或更高版本）。
+</p>
 </h2>
+
 <verinfo>
         <table border="3" cellpadding="3" align=center>
             <thead>
