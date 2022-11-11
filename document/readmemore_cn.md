@@ -118,8 +118,9 @@ Web-Native Duality
 </center>	
 	
 <p>
-	
-When we convert this project into a project that supports [Web Runtime](https://github.com/TangramDev/OpenWebRunTime), we will see <i>any number</i> of <i>Completely Different Runtime Scenarios</i>, as shown in the following figure, which is <ins><i>one of them</i></ins>:</p>
+
+当我们把这个项目转换成一个支持[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)的项目时，我们会看到任意数量的完全不同的运行时场景，如下图所示，就是其中之一：
+</p>
 
 <center>
         <table border="3" cellpadding="3">
