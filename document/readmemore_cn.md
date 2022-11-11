@@ -172,7 +172,8 @@ When we convert this project into a project that supports [Web Runtime](https://
 <h2 align=left>
 <p>
 	
-[Web Runtime](https://github.com/TangramDev/OpenWebRunTime) allows developers to use <I>Chromium Tab Pages</I> to organize application contents, each tab page corresponds to an <i>application page</i> and each <i>application page</i> can contain standard web page elements as well as various programmable components (such as .NET Control, MFC CView, etc.). For most Desktop/Web Software Developers, WebRuntime will re-establish their Basic Understanding of <i>Windows Desktop Development</i>.</p>
+[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)允许开发人员使用Chromium标签页来组织应用程序内容，每个标签页对应于一个应用程序页面，每个应用程序页面可以包含标准网页元素以及各种可编程组件（如 .NET 控件、MFC CView 等）。对于大多数桌面/Web软件开发人员，WebRuntime将重新建立他们对<i>Windows桌面开发</i>的基本理解。
+</p>
 
 <div align=center id="TabsPage"><img src="https://user-images.githubusercontent.com/26355688/196898272-858b5d56-6cc9-425a-acb3-bce1f0ee5182.jpg" width="100%" /><br>(Use Chromium Tabs to Organize Application Contents)</div>
 	
