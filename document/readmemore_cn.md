@@ -195,7 +195,7 @@ Web-Native Duality
 </div>
 <h1 align=center>
 
-[使用最新版本的<i>Chromium Project源代码<br/></i> 以及Web Runtime<i>二进制编译包</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
+[使用最新版本的<i>Chromium Project源代码<br/></i> 以及Web Runtime<i>二进制编译包</i>](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode_cn.md)
 </h1>
 <h2  align=left>
 <p>
