@@ -1,7 +1,7 @@
 
 <h1 align=center>
   
-使用<i>最新 [Chromium Project](https://chromium.googlesource.com/chromium/src.git)<br/>源代码</i>和<i>二进制包</i>
+使用<i>最新 [Chromium Project](https://chromium.googlesource.com/chromium/src.git)<br/>源代码</i>和<i>[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)二进制编译包</i>
 </h1>
 <h2  align=left>
 <p>
