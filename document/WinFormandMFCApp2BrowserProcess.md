@@ -4,7 +4,7 @@
 # [WinFormPlus](https://github.com/TangramDev/WinFormPlus)：将WinForm应用程序<br/>转换为<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程
 <div align=left>
 
-**从代码的角度来看，对于WinForm应用程序，开发人员只需要修改一行代码即可将其应用程序系统转换为WebRuntime支持的<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程。其余的工作基本上是WinForm项目的<ins>编译配置调整</ins>和<ins>必要的组件引用</ins>**。
+**从代码的角度来看，对于WinForm应用程序，开发人员只需要修改一行代码即可将其应用程序系统转换为WebRuntime支持的<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程。其余的工作基本上是WinForm项目的<ins>编译配置、manifest配置调整</ins>和<ins>必要的组件引用</ins>**。
 </div>	
 <p>
         <table border="3" cellpadding="3">
@@ -38,7 +38,7 @@ Copy all files included with [***WinFormPlus***](https://github.com/TangramDev/W
 # [MFCPlus](https://github.com/TangramDev/MFCPlus)： 将MFC应用程序<br/>转换为<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程
 <div align=left>
 
-**From the code point of view, for MFC Applications, developers can convert their application system into a <i><ins>Chromium Browser Process</ins></i> supported by WebRuntime by replacing <i>up to <ins>Two Base Classes</ins></i>, the remaining work is basically the <i>Compilation and Configuration Adjustment</i> of the MFC project and <i>a Very Small Amount of Code Modification</i>.**</div>	
+**从代码的角度来看，对于 MFC 应用程序，开发人员可以通过替换最多两个基类将其应用程序系统转换为WebRuntime支持的<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程，剩下的工作基本上是 MFC 项目的<ins>编译配置、manifest配置调整</ins>以及<ins>非常少量的代码修改</ins>。**</div>	
   
 <div align=center>
 
