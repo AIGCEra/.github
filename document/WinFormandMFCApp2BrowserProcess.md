@@ -4,7 +4,8 @@
 # [WinFormPlus](https://github.com/TangramDev/WinFormPlus)：将WinForm应用程序<br/>转换为<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程
 <div align=left>
 
-**From the code perspective, for WinForm Applications, developers only need to modify <i><ins>a line of code</ins></i> to convert their application system into a <i><ins>Chromium Browser Process</ins></i> supported by WebRuntime. The rest of the work is basically the <i>Compilation Configuration Adjustment</i> of WinForm Projects and necessary <i>Component References</i>.**</div>	
+**从代码的角度来看，对于WinForm应用程序，开发人员只需要修改一行代码即可将其应用程序系统转换为WebRuntime支持的<i>[Chromium Project](https://chromium.googlesource.com/chromium/src.git)</i>浏览进程。其余的工作基本上是WinForm项目的<ins>编译配置调整</ins>和<ins>必要的组件引用</ins>**。
+</div>	
 <p>
         <table border="3" cellpadding="3">
             <thead>
