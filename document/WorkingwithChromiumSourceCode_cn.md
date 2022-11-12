@@ -6,7 +6,7 @@
 <h2  align=left>
 <p>
 	
-[OpenWebRuntime](https://github.com/TangramDev/OpenWebRunTime)可以与最新版本[Chromium Project](https://chromium.googlesource.com/chromium/src.git)源代码（[Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)）同步工作，要做到这一点，你需要参考
+[WebRuntime](https://github.com/TangramDev/OpenWebRunTime)可以与最新版本[Chromium Project](https://chromium.googlesource.com/chromium/src.git)源代码（[Canary](https://github.com/TangramDev/WebRT_Chromium_Canary), [Dev](https://github.com/TangramDev/WebRT_Chromium_Dev), [Beta](https://github.com/TangramDev/WebRT_Chromium_Beta), and [Stable Version](https://github.com/TangramDev/WebRT_Chromium_Stable)）同步工作，要做到这一点，你需要参考
 
 <div align=center>
 
@@ -120,5 +120,5 @@
 </verinfo>
 <div align=center>
 
-**(Chromium Project源代码补丁和 Web Runtime二进制编译包)**</div>
+**([Chromium Project](https://chromium.googlesource.com/chromium/src.git)源代码补丁和[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)二进制编译包)**</div>
 
