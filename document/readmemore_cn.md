@@ -313,5 +313,5 @@ Web-Native Duality
 </verinfo>
 <div align=center>
 
-**(Chromium Project源代码补丁和 Web Runtime二进制编译包)**</div>
+**([Chromium Project](https://chromium.googlesource.com/chromium/src.git)源代码补丁和[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)二进制编译包)**</div>
 
