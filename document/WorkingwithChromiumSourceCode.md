@@ -117,5 +117,5 @@ to obtain the source code of the latest full version of the Chromium Project, an
 </verinfo>
 <div align=center>
 
-**(Chromium Src Patch and Web Runtime Binary Package)**</div>
+**([Chromium Project](https://chromium.googlesource.com/chromium/src.git) Src Patch and [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) Binary Package)**</div>
 
