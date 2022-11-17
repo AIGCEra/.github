@@ -258,11 +258,11 @@ Web-Native Duality
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v109.0.5403.2/webrt_109.0.5403.2.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v109.0.5414.5/webrt_109.0.5414.9.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**109.0.5403.2**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/tag/v109.0.5403.2)
+		        Version: [**109.0.5414.9**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/tag/v109.0.5414.5)
                     </td>
 		<tr>
                     <td width="75">
@@ -280,11 +280,11 @@ Web-Native Duality
 		    <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v108.0.5359.24/webrt_108.0.5359.38.7z)</p>
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v108.0.5359.47/webrt_108.0.5359.53.7z)</p>
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/tag/v108.0.5359.24)
+		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/tag/v108.0.5359.47)
                     </td>
                 <tr>
                     <td width="75">
