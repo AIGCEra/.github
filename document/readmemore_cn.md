@@ -236,11 +236,11 @@ Web-Native Duality
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v109.0.5409.1/webrt_109.0.5409.1.7z)</p>			
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v110.0.5422.0%2B/webrt_110.0.5423.1.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**109.0.5409.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/tag/v109.0.5409.1)
+		        Version: [**109.0.5423.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/tag/v110.0.5422.0%2B)
                     </td>
                 <tr>
                     <td width="75">
