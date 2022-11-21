@@ -43,11 +43,11 @@
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v110.0.5422.0%2B/webrt_110.0.5423.1.7z)</p>			
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v110.0.5430.0/webrt_110.0.5439.1.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**109.0.5423.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/tag/v110.0.5422.0%2B)
+		        Version: [**110.0.5430.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/tag/v110.0.5430.0)
                     </td>
                 <tr>
                     <td width="75">
@@ -65,11 +65,11 @@
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v109.0.5414.5/webrt_109.0.5414.9.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v109.0.5414.12/webrt_109.0.5414.13.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**109.0.5414.9**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/tag/v109.0.5414.5)
+		        Version: [**109.0.5414.13**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/tag/v109.0.5414.12)
                     </td>
 		<tr>
                     <td width="75">
@@ -87,11 +87,11 @@
 		    <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v108.0.5359.47/webrt_108.0.5359.53.7z)</p>
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v108.0.5359.54/webrt_108.0.5359.57.7z)</p>
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/tag/v108.0.5359.47)
+		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/tag/v108.0.5359.54)
                     </td>
                 <tr>
                     <td width="75">
@@ -109,11 +109,11 @@
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v107.0.5304.72/webrt_107.0.5304.110.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v107.0.5304.114/webrt_107.0.5304.114.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**107.0.5304.x**(x>=62)](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/tag/v107.0.5304.72)
+		        Version: [**107.0.5304.x**(x>=62)](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/tag/v107.0.5304.114)
                     </td>
 		</tbody>	  
         </table>
