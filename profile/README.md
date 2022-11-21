@@ -22,7 +22,7 @@
 <div align=right>苏轼《题西林壁》</div>
 <p>
   
-每一个桌面软件都隐藏着一个<i>宇宙尺度的无限层次对象结构</i>，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)提供了一个[简明、通用的技术方案](https://github.com/TangramDev/.github/blob/main/document/WinFormandMFCApp2BrowserProcess.md)以激活这个结构，事实上，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)揭示了长期以来一直被开发者忽略的<i><ins>思维盲点</ins></i>，掀开了其不为人知的“<ins>面纱</ins>”……
+每一个桌面软件都隐藏着一个<i>宇宙尺度的无限层次对象结构</i>，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)提供了一个[简明、通用的技术方案](https://github.com/TangramDev/.github/blob/main/document/WinFormandMFCApp2BrowserProcess.md)以激活这个结构。事实上，[Web Runtime](https://github.com/TangramDev/OpenWebRunTime)揭示了长期以来一直被开发者忽略的<i><ins>思维盲点</ins></i>，掀开了其不为人知的“<ins>面纱</ins>”……
 </p>
 <p>
   
