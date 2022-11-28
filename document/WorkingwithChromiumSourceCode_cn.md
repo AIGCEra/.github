@@ -69,7 +69,7 @@
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**109.0.5414.19**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/)
+		        Version: [**109.0.5414.19**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases)
                     </td>
 		<tr>
                     <td width="75">
@@ -91,7 +91,7 @@
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/
+		        Version: [**108.0.5359.x**(x>=24)](https://github.com/TangramDev/WebRT_Chromium_Beta/releases)
                     </td>
                 <tr>
                     <td width="75">
@@ -113,7 +113,7 @@
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**108.0.5359.x**(x>=67)](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/)
+		        Version: [**108.0.5359.x**(x>=67)](https://github.com/TangramDev/WebRT_Chromium_Stable/releases)
                     </td>
 		</tbody>	  
         </table>
