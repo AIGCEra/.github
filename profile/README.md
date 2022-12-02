@@ -43,7 +43,7 @@ In most scenarios, Desktop Software is like a Universe, with many local huge wor
 
 <div align=right>
 
-[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore_cn.md) [__下载……__](https://github.com/TangramDev/.github/blob/main/document/readmemore_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md) [__Download ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md)
+[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore_cn.md) [__下载__](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md) [__Download__](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
 </div>
 </h2> 
 </h1> 
