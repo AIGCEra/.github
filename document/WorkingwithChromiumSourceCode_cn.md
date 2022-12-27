@@ -43,11 +43,11 @@
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v111.0.5500.0/webrt_111.0.5500.0.7z)</p>			
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v111.0.5500.0/webrt_111.0.5503.1.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**111.0.5500.0**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
+		        Version: [**111.0.5503.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
                     </td>
                 <tr>
                     <td width="75">
@@ -65,11 +65,11 @@
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v110.0.5481.13/webrt_110.0.5481.13.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v110.0.5481.13/webrt_110.0.5481.14.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**110.0.5481.13**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases)
+		        Version: [**110.0.5481.14**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases)
                     </td>
 		<tr>
                     <td width="75">
@@ -87,7 +87,7 @@
 		    <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v109.0.5414.58/webrt_109.0.5414.58.7z)</p>
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v109.0.5414.58/webrt_109.0.5414.59.7z)</p>
 		     </h3>
                     </td>
                     <td  align=center>
@@ -109,7 +109,7 @@
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v108.0.5359.163/webrt_108.0.5359.163.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v108.0.5359.163/webrt_108.0.5359.164.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
