@@ -236,11 +236,11 @@ Web-Native Duality
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v111.0.5500.0/webrt_111.0.5505.1.7z)</p>			
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases/download/v111.0.5513.1/webrt_111.0.5513.1.7z)</p>			
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**111.0.5505.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
+		        Version: [**111.0.5513.1**](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
                     </td>
                 <tr>
                     <td width="75">
@@ -258,11 +258,11 @@ Web-Native Duality
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v110.0.5481.13/webrt_110.0.5481.15.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases/download/v110.0.5481.19/webrt_110.0.5481.19.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
-		        Version: [**110.0.5481.15**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases)
+		        Version: [**110.0.5481.19**](https://github.com/TangramDev/WebRT_Chromium_Dev/releases)
                     </td>
 		<tr>
                     <td width="75">
@@ -280,7 +280,7 @@ Web-Native Duality
 		    <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v109.0.5414.58/webrt_109.0.5414.60.7z)</p>
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Beta/releases/download/v109.0.5414.65/webrt_109.0.5414.65.7z)</p>
 		     </h3>
                     </td>
                     <td  align=center>
@@ -302,7 +302,7 @@ Web-Native Duality
                     <td width="300">
                         <h3 align=center><p>
 			
-[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v108.0.5359.163/webrt_108.0.5359.165.7z)</p>		
+[**Latest Binary Package**](https://github.com/TangramDev/WebRT_Chromium_Stable/releases/download/v108.0.5359.169/webrt_108.0.5359.169.7z)</p>		
 		     </h3>
                     </td>
                     <td  align=center>
