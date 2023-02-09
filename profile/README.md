@@ -26,7 +26,8 @@
 </p>
 <p>
   
-Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides a [<i>Concise</i> and <i>Universal</i> Solution](https://github.com/TangramDev/.github/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md) <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
+Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides a [<i>Concise</i> and <i>Universal</i> Solution](https://github.com/TangramDev/OpenWebRunTime
+/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md) <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 </h2>
 
@@ -55,23 +56,23 @@ For the latest Chromium Project version information, please visit:
 </p> 
 <p>
 	
-The minimum version supported by Web Runtime is [M108](https://github.com/TangramDev/WebRT_Chromium/releases?q=v108&expanded=true). The latest compiled version of Web Runtime: [Latest Version WebRuntime](https://github.com/TangramDev/.github/releases/latest), Visit the following set of hyperlinks
+The minimum version supported by Web Runtime is [M108](https://github.com/TangramDev/OpenWebRunTime/releases?q=v108&expanded=true). The latest compiled version of Web Runtime: [Latest Version WebRuntime](https://github.com/TangramDev/OpenWebRunTime/releases/latest), Visit the following set of hyperlinks
 <div align=center>
 
-[M112](https://github.com/TangramDev/.github/releases?q=v112&expanded=true) [M111](https://github.com/TangramDev/.github/releases?q=v111&expanded=true) [M110](https://github.com/TangramDev/.github/releases?q=v110&expanded=true) [M109](https://github.com/TangramDev/.github/releases?q=v109&expanded=true) [M108](https://github.com/TangramDev/.github/releases?q=v108&expanded=true)
+[M112](https://github.com/TangramDev/OpenWebRunTime/releases?q=v112&expanded=true) [M111](https://github.com/TangramDev/OpenWebRunTime/releases?q=v111&expanded=true) [M110](https://github.com/TangramDev/OpenWebRunTime/releases?q=v110&expanded=true) [M109](https://github.com/TangramDev/OpenWebRunTime/releases?q=v109&expanded=true) [M108](https://github.com/TangramDev/OpenWebRunTime/releases?q=v108&expanded=true)
 </div>
  to obtain Chromium Project source code patches and corresponding binary compilation packages related to M108 and subsequent versions.
  </p>
  <p>If you wish to get the latest Chromium Project source code patches, you can visit:</p>
 <div align=center>
 
-[**<i><ins>Latest Chromium Project Source Code Patches</ins></i>**](https://github.com/TangramDev/WebRT_Chromium/archive/refs/heads/main.zip)
+[**<i><ins>Latest Chromium Project Source Code Patches</ins></i>**](https://github.com/TangramDev/OpenWebRunTime/archive/refs/heads/main.zip)
 </div>
 </h2>
 
 <div align=right>
 
-[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/profile/readmemore_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/.github/blob/main/profile/readmemore.md)
+[__更多的信息……__](https://github.com/TangramDev/OpenWebRunTime/blob/main/profile/readmemore_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/OpenWebRunTime/blob/main/profile/readmemore.md)
 </div>
 </h2> 
 </h1> 
