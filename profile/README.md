@@ -26,8 +26,7 @@
 </p>
 <p>
   
-Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides a [<i>Concise</i> and <i>Universal</i> Solution](https://github.com/TangramDev/OpenWebRunTime
-/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md) <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
+Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structure</i>, [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) provides a [<i>Concise</i> and <i>Universal</i> Solution](https://github.com/TangramDev/OpenWebRunTime/blob/main/document/ConvertWinFormandMFCProjecttoBrowserProcess.md) <ins>to activate this structure</ins>. In fact, this is a <i><ins>blind spot</ins></i> that has been neglected by developers for a long time, it's time to reveal what it really is...
 </p>
 </h2>
 
