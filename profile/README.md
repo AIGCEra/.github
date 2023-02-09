@@ -38,12 +38,40 @@ Every Desktop Software hides a <i>Cosmic-Scale Infinite Hierarchy Object Structu
 <img src="https://user-images.githubusercontent.com/26355688/179231601-e18d1e1d-c4a1-422c-bcf3-7111013959bb.gif" width="80%" /></div>
 <div align=left>
 
-In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is a space telescope, revealing the depths of the universe that have been hidden from the developer's sight...</div>
+In most scenarios, Desktop Software is like a Universe, with many local huge worlds hidden around numerous child windows, and the [Web Runtime](https://github.com/TangramDev/OpenWebRunTime) is a space telescope, revealing the deep of the universe that have been hidden from the developer's sight...</div>
 </h3>
+
+<h1 align=center>
+	
+[Web Runtime Binary and Chromium Project Patch Information](https://github.com/TangramDev/WebRT_Chromium_Canary/releases)
+</h1>
+
+<h2  align=left>
+<p>
+For the latest Chromium Project version information, please visit:
+<div align=center>	
+
+[Chromium Version](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/chrome/VERSION)</div>
+</p> 
+<p>
+	
+The minimum version supported by Web Runtime is [M108](https://github.com/TangramDev/WebRT_Chromium/releases?q=v108&expanded=true). The latest compiled version of Web Runtime: [Latest Version WebRuntime](https://github.com/TangramDev/.github/releases/latest), Visit the following set of hyperlinks
+<div align=center>
+
+[M112](https://github.com/TangramDev/.github/releases?q=v112&expanded=true) [M111](https://github.com/TangramDev/.github/releases?q=v111&expanded=true) [M110](https://github.com/TangramDev/.github/releases?q=v110&expanded=true) [M109](https://github.com/TangramDev/.github/releases?q=v109&expanded=true) [M108](https://github.com/TangramDev/.github/releases?q=v108&expanded=true)
+</div>
+ to obtain Chromium Project source code patches and corresponding binary compilation packages related to M108 and subsequent versions.
+ </p>
+ <p>If you wish to get the latest Chromium Project source code patches, you can visit:</p>
+<div align=center>
+
+[**<i><ins>Latest Chromium Project Source Code Patches</ins></i>**](https://github.com/TangramDev/WebRT_Chromium/archive/refs/heads/main.zip)
+</div>
+</h2>
 
 <div align=right>
 
-[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/document/readmemore_cn.md) [__下载__](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/.github/blob/main/document/readmemore.md) [__Download__](https://github.com/TangramDev/.github/blob/main/document/WorkingwithChromiumSourceCode.md)
+[__更多的信息……__](https://github.com/TangramDev/.github/blob/main/profile/readmemore_cn.md)<br/>[__More Information ...__](https://github.com/TangramDev/.github/blob/main/profile/readmemore.md)
 </div>
 </h2> 
 </h1> 
