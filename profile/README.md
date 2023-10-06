@@ -58,7 +58,7 @@ For the latest Chromium Project version information, please visit:
 The minimum version supported by Web Runtime is [M109](https://github.com/TangramDev/OpenWebRunTime/releases?q=v109&expanded=true). The latest compiled version of Web Runtime: [Latest Version WebRuntime](https://github.com/TangramDev/OpenWebRunTime/releases/latest), Visit the following set of hyperlinks
 <div align=center>
 
-[M114](https://github.com/TangramDev/OpenWebRunTime/releases?q=v114&expanded=true) [M113](https://github.com/TangramDev/OpenWebRunTime/releases?q=v113&expanded=true) [M112](https://github.com/TangramDev/OpenWebRunTime/releases?q=v112&expanded=true) [M109](https://github.com/TangramDev/OpenWebRunTime/releases?q=v109&expanded=true) 
+[M120](https://github.com/AIGCEra/AIGCSDK/releases/tag/v120&expanded=true) [M119](https://github.com/AIGCEra/AIGCSDK/releases/tag/v119&expanded=true) [M118](https://github.com/AIGCEra/AIGCSDK/releases/tag/v118&expanded=true) [M109](https://github.com/AIGCEra/AIGCSDK/releases/tag/v109&expanded=true) 
 </div>
  to obtain Chromium Project source code patches and corresponding binary compilation packages related to M109 and subsequent versions.
  </p>
